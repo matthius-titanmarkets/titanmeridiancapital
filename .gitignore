@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.DS_Store
+*.log
+nohup.out
+financial_analysis/report.html
+financial_analysis/my_trades_report.html
+financial_analysis/__pycache__/
