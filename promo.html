@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Titan Markets LLC — Promo Reel</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet"/>
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+    :root{
+      --w:#ffffff; --d:#000000;
+      --g:rgba(255,255,255,0.06);
+      --m:rgba(255,255,255,0.35);
+      --head:'Orbitron',sans-serif;
+      --body:'Inter',sans-serif;
+    }
+
+    html,body{
+      width:100%;height:100%;
+      background:#000;overflow:hidden;
+      font-family:var(--body);
+    }
+
+    /* ── STAGE ── */
+    #stage{
+      position:relative;
+      width:100%;height:100%;
+      display:flex;align-items:center;justify-content:center;
+      overflow:hidden;
+    }
+
+    /* Cinematic letterbox */
+    .letter-top,.letter-bot{
+      position:absolute;left:0;right:0;height:9%;
+      background:#000;z-index:100;
+      transition:transform 1.2s cubic-bezier(0.77,0,0.18,1);
+    }
+    .letter-top{top:0;transform:translateY(-100%);}
+    .letter-bot{bottom:0;transform:translateY(100%);}
+    #stage.letterbox .letter-top{transform:translateY(0);}
+    #stage.letterbox .letter-bot{transform:translateY(0);}
+
+    /* Film grain overlay */
+    #grain{
+      position:absolute;inset:0;z-index:99;pointer-events:none;
+      opacity:0.03;
+      background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+      background-size:256px 256px;
+    }
+
+    /* Vignette */
+    #vignette{
+      position:absolute;inset:0;z-index:98;pointer-events:none;
+      background:radial-gradient(ellipse 80% 80% at 50% 50%, transparent 40%, rgba(0,0,0,0.7) 100%);
+    }
+
+    /* Particles */
+    #particles{position:absolute;inset:0;z-index:1;}
+
+    /* ── SCENES ── */
+    .scene{
+      position:absolute;inset:0;
+      display:flex;flex-direction:column;
+      align-items:center;justify-content:center;
+      opacity:0;pointer-events:none;
+      z-index:10;
+      /* scene opacity set exclusively via JS — no CSS transition here */
+    }
+    .scene.active{pointer-events:auto;}
+
+    /* ── PROGRESS BAR ── */
+    #progress{
+      position:absolute;bottom:9%;left:0;right:0;
+      height:1px;background:rgba(255,255,255,0.08);
+      z-index:101;
+    }
+    #progress-fill{
+      height:100%;background:rgba(255,255,255,0.5);
+      width:0%;transition:width 0.1s linear;
+    }
+
+    /* ── CONTROLS ── */
+    #controls{
+      position:absolute;bottom:calc(9% + 16px);right:24px;
+      z-index:102;display:flex;gap:12px;align-items:center;
+    }
+    .ctrl-btn{
+      background:transparent;border:1px solid rgba(255,255,255,0.2);
+      color:rgba(255,255,255,0.5);font-size:0.65rem;
+      letter-spacing:0.2em;text-transform:uppercase;
+      padding:6px 14px;cursor:pointer;
+      font-family:var(--head);
+      transition:border-color 0.3s,color 0.3s;
+    }
+    .ctrl-btn:hover{border-color:#fff;color:#fff;}
+    #scene-counter{
+      font-family:var(--head);font-size:0.6rem;
+      letter-spacing:0.2em;color:rgba(255,255,255,0.25);
+    }
+
+    /* ══════════════════════════════════
+       SCENE CONTENT PRIMITIVES
+    ══════════════════════════════════ */
+
+    /* Logo */
+    .logo-mark{
+      background:url('assets/logo.png') center/contain no-repeat;
+      display:block;
+      filter:brightness(3) contrast(2);
+    }
+
+    /* Wordmark */
+    .wordmark{
+      font-family:var(--head);font-weight:900;
+      letter-spacing:0.2em;color:#fff;
+      text-transform:uppercase;
+    }
+
+    /* Tag line */
+    .tagline{
+      font-family:var(--head);font-weight:400;
+      letter-spacing:0.35em;color:rgba(255,255,255,0.45);
+      text-transform:uppercase;
+    }
+
+    /* Divider */
+    .div-line{
+      width:60px;height:1px;background:#fff;
+      margin:0 auto;
+    }
+
+    /* Lower third */
+    .lower-third{
+      position:absolute;bottom:14%;left:0;right:0;
+      padding:0 8%;
+      display:flex;flex-direction:column;gap:6px;
+    }
+    .lt-label{
+      font-size:clamp(0.5rem,1vw,0.65rem);letter-spacing:0.3em;
+      text-transform:uppercase;color:rgba(255,255,255,0.4);
+    }
+    .lt-title{
+      font-family:var(--head);font-size:clamp(0.9rem,2.5vw,1.4rem);
+      font-weight:700;letter-spacing:0.12em;color:#fff;
+    }
+    .lt-bar{
+      width:0;height:1px;background:#fff;
+      transition:width 0.8s cubic-bezier(0.77,0,0.18,1);
+      margin-top:4px;
+    }
+    .lt-bar.open{width:80px;}
+
+    /* Stat grid */
+    .stat-grid{
+      display:grid;grid-template-columns:repeat(4,1fr);
+      gap:1px;background:rgba(255,255,255,0.07);
+      border:1px solid rgba(255,255,255,0.07);
+      width:min(900px,90vw);
+    }
+    .stat-cell{
+      background:#000;padding:clamp(16px,3vh,32px) clamp(12px,2vw,24px);
+      display:flex;flex-direction:column;gap:8px;
+      text-align:center;
+    }
+    .stat-n{
+      font-family:var(--head);
+      font-size:clamp(1.4rem,4vw,3rem);font-weight:900;
+      color:#fff;line-height:1;
+    }
+    .stat-l{
+      font-size:clamp(0.55rem,1.2vw,0.7rem);letter-spacing:0.2em;
+      text-transform:uppercase;color:rgba(255,255,255,0.35);
+    }
+
+    /* Services list */
+    .svc-list{
+      display:flex;flex-direction:column;gap:1px;
+      width:min(700px,88vw);background:rgba(255,255,255,0.06);
+      border:1px solid rgba(255,255,255,0.06);
+    }
+    .svc-row{
+      background:#000;
+      display:flex;align-items:center;gap:28px;
+      padding:clamp(14px,2.5vh,22px) clamp(20px,3vw,36px);
+      opacity:0;transform:translateX(-20px);
+      transition:opacity 0.5s ease, transform 0.5s ease;
+    }
+    .svc-row.in{opacity:1;transform:translateX(0);}
+    .svc-num{
+      font-family:var(--head);font-size:0.65rem;font-weight:700;
+      color:rgba(255,255,255,0.25);letter-spacing:0.15em;
+      flex-shrink:0;
+    }
+    .svc-name{
+      font-family:var(--head);font-size:clamp(0.7rem,1.5vw,0.9rem);
+      font-weight:700;letter-spacing:0.12em;color:#fff;flex:1;
+    }
+    .svc-arrow{
+      font-size:0.7rem;color:rgba(255,255,255,0.2);flex-shrink:0;
+    }
+
+    /* Candle chart */
+    #candle-canvas{
+      border:1px solid rgba(255,255,255,0.07);
+      background:transparent;
+      display:block;
+    }
+
+    /* CTA scene */
+    .cta-box{
+      border:1px solid rgba(255,255,255,0.15);
+      padding:clamp(40px,6vh,72px) clamp(40px,6vw,80px);
+      text-align:center;
+      display:flex;flex-direction:column;align-items:center;gap:20px;
+      max-width:min(640px,88vw);
+      position:relative;
+    }
+    .cta-box::before{
+      content:'';position:absolute;top:0;left:0;right:0;
+      height:1px;background:linear-gradient(90deg,transparent,#fff,transparent);
+    }
+    .cta-headline{
+      font-family:var(--head);font-size:clamp(1.2rem,3.5vw,2.2rem);
+      font-weight:900;letter-spacing:0.06em;color:#fff;line-height:1.1;
+    }
+    .cta-sub{
+      font-size:clamp(0.75rem,1.5vw,0.9rem);
+      color:rgba(255,255,255,0.45);letter-spacing:0.08em;line-height:1.7;
+    }
+    .cta-btn{
+      padding:12px 36px;border:1px solid #fff;
+      background:#fff;color:#000;
+      font-family:var(--head);font-size:clamp(0.65rem,1.2vw,0.78rem);
+      font-weight:700;letter-spacing:0.18em;text-transform:uppercase;
+      cursor:default;margin-top:8px;
+    }
+
+    /* Outro */
+    .outro-wrap{
+      display:flex;flex-direction:column;
+      align-items:center;gap:24px;text-align:center;
+    }
+
+    /* ── GLITCH ── */
+    @keyframes glitch-h{
+      0%{clip-path:inset(0 0 95% 0)}
+      20%{clip-path:inset(40% 0 50% 0)}
+      40%{clip-path:inset(80% 0 5% 0)}
+      60%{clip-path:inset(20% 0 70% 0)}
+      80%{clip-path:inset(60% 0 30% 0)}
+      100%{clip-path:inset(0 0 95% 0)}
+    }
+    .glitch{position:relative;}
+    .glitch::before,.glitch::after{
+      content:attr(data-text);
+      position:absolute;inset:0;
+      color:#fff;
+    }
+    .glitch::before{
+      left:2px;animation:glitch-h 0.4s steps(1) infinite;
+      color:rgba(255,255,255,0.4);
+    }
+    .glitch::after{
+      left:-2px;animation:glitch-h 0.4s steps(1) 0.2s infinite;
+      color:rgba(255,255,255,0.2);
+    }
+
+    /* ── TEXT REVEAL ── */
+    .reveal-text{overflow:hidden;}
+    .reveal-text span{
+      display:inline-block;
+      transform:translateY(110%);
+      transition:transform 0.7s cubic-bezier(0.22,1,0.36,1);
+    }
+    .reveal-text.in span{transform:translateY(0);}
+
+    /* ── ZOOM BG ── */
+    .zoom-bg{
+      position:absolute;inset:-5%;
+      transition:transform 8s linear;
+    }
+    .zoom-bg.zooming{transform:scale(1.08);}
+
+    /* Scene-specific */
+    #s1{gap:20px;}
+    #s2{gap:16px;}
+    #s3{gap:32px;}
+    #s4{gap:36px;}
+    #s5{gap:28px;}
+    #s6{gap:24px;}
+    #s7{gap:0;}
+    #s8{gap:20px;}
+  </style>
+</head>
+<body>
+<div id="stage">
+
+  <!-- Cinematic bars -->
+  <div class="letter-top"></div>
+  <div class="letter-bot"></div>
+
+  <!-- Atmosphere -->
+  <canvas id="particles"></canvas>
+  <div id="grain"></div>
+  <div id="vignette"></div>
+
+  <!-- Progress -->
+  <div id="progress"><div id="progress-fill"></div></div>
+
+  <!-- Controls -->
+  <div id="controls">
+    <span id="scene-counter">01 / 08</span>
+    <button class="ctrl-btn" id="btn-pause">PAUSE</button>
+    <button class="ctrl-btn" id="btn-restart">RESTART</button>
+  </div>
+
+  <!-- ══ SCENE 1: Logo reveal ══ -->
+  <div class="scene" id="s1">
+    <div class="logo-mark" id="s1-logo" style="width:clamp(80px,14vw,160px);height:clamp(80px,14vw,160px);opacity:0;transform:scale(0.6);transition:opacity 1s ease,transform 1.2s cubic-bezier(0.22,1,0.36,1);"></div>
+    <div class="div-line" style="opacity:0;transition:opacity 0.6s 0.8s ease;" id="s1-line"></div>
+    <div class="wordmark reveal-text" style="font-size:clamp(0.7rem,2vw,1rem);" id="s1-word"><span>TITAN MARKETS LLC</span></div>
+  </div>
+
+  <!-- ══ SCENE 2: Tagline reveal ══ -->
+  <div class="scene" id="s2">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div class="logo-mark" style="width:clamp(48px,6vw,72px);height:clamp(48px,6vw,72px);opacity:0.7;"></div>
+      <div class="wordmark reveal-text" style="font-size:clamp(1rem,2.5vw,1.3rem);" id="s2-word"><span>TITAN MARKETS LLC</span></div>
+      <div class="tagline reveal-text" style="font-size:clamp(0.55rem,1.3vw,0.75rem);" id="s2-tag"><span>Precision &nbsp;&nbsp;·&nbsp;&nbsp; Strategy &nbsp;&nbsp;·&nbsp;&nbsp; Performance</span></div>
+      <div class="div-line" style="width:0;transition:width 1s 0.4s cubic-bezier(0.77,0,0.18,1);" id="s2-bar"></div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 3: Mission statement ══ -->
+  <div class="scene" id="s3">
+    <div style="max-width:min(700px,88vw);text-align:center;display:flex;flex-direction:column;gap:20px;">
+      <div style="font-size:clamp(0.6rem,1.2vw,0.72rem);letter-spacing:0.3em;text-transform:uppercase;color:rgba(255,255,255,0.3);">WHO WE ARE</div>
+      <div style="font-family:var(--head);font-size:clamp(1.3rem,3.5vw,2.8rem);font-weight:900;line-height:1.1;color:#fff;" class="reveal-text" id="s3-h"><span>An Elite Proprietary<br>Trading Firm.</span></div>
+      <div style="font-size:clamp(0.78rem,1.5vw,0.95rem);color:rgba(255,255,255,0.4);line-height:1.8;letter-spacing:0.03em;" class="reveal-text" id="s3-sub"><span>Institutional-grade analytics, advanced risk management,<br>and multi-asset market intelligence.</span></div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 4: Stats ══ -->
+  <div class="scene" id="s4">
+    <div style="text-align:center;margin-bottom:clamp(20px,4vh,40px);">
+      <div style="font-size:clamp(0.6rem,1.2vw,0.7rem);letter-spacing:0.3em;text-transform:uppercase;color:rgba(255,255,255,0.3);margin-bottom:12px;">BY THE NUMBERS</div>
+    </div>
+    <div class="stat-grid">
+      <div class="stat-cell">
+        <div class="stat-n" id="st1">24/5</div>
+        <div class="stat-l">Market Coverage</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-n" id="st2">0+</div>
+        <div class="stat-l">Clients Worldwide</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-n" id="st3">0+</div>
+        <div class="stat-l">Asset Classes</div>
+      </div>
+      <div class="stat-cell">
+        <div class="stat-n" id="st4">0%</div>
+        <div class="stat-l">Strategy Win Rate</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 5: Services ══ -->
+  <div class="scene" id="s5">
+    <div style="text-align:center;margin-bottom:clamp(16px,3vh,28px);">
+      <div style="font-size:clamp(0.6rem,1.2vw,0.7rem);letter-spacing:0.3em;text-transform:uppercase;color:rgba(255,255,255,0.3);margin-bottom:10px;">WHAT WE OFFER</div>
+      <div style="font-family:var(--head);font-size:clamp(1rem,2.5vw,1.5rem);font-weight:900;letter-spacing:0.1em;color:#fff;">Institutional-Grade Programs</div>
+    </div>
+    <div class="svc-list">
+      <div class="svc-row" id="sv1"><span class="svc-num">01</span><span class="svc-name">Trader Evaluation</span><span class="svc-arrow">—</span></div>
+      <div class="svc-row" id="sv2"><span class="svc-num">02</span><span class="svc-name">Risk Management</span><span class="svc-arrow">—</span></div>
+      <div class="svc-row" id="sv3"><span class="svc-num">03</span><span class="svc-name">Strategy Analytics</span><span class="svc-arrow">—</span></div>
+      <div class="svc-row" id="sv4"><span class="svc-num">04</span><span class="svc-name">Algo &amp; Bot Trading</span><span class="svc-arrow">—</span></div>
+      <div class="svc-row" id="sv5"><span class="svc-num">05</span><span class="svc-name">Multi-Asset Coverage</span><span class="svc-arrow">—</span></div>
+      <div class="svc-row" id="sv6"><span class="svc-num">06</span><span class="svc-name">Market Intelligence</span><span class="svc-arrow">—</span></div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 6: Live markets (animated candles) ══ -->
+  <div class="scene" id="s6">
+    <div style="text-align:center;margin-bottom:clamp(14px,2.5vh,24px);">
+      <div style="font-size:clamp(0.6rem,1.2vw,0.7rem);letter-spacing:0.3em;text-transform:uppercase;color:rgba(255,255,255,0.3);margin-bottom:8px;">LIVE MARKETS</div>
+      <div style="font-family:var(--head);font-size:clamp(1rem,2.5vw,1.5rem);font-weight:900;letter-spacing:0.1em;color:#fff;">Real-Time Market Data</div>
+    </div>
+    <div style="width:min(900px,90vw);">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;padding:0 0 10px;border-bottom:1px solid rgba(255,255,255,0.07);margin-bottom:10px;">
+        <span style="font-family:var(--head);font-size:clamp(0.7rem,1.4vw,0.85rem);font-weight:700;letter-spacing:0.14em;color:#fff;">XAU / USD &nbsp;·&nbsp; Gold</span>
+        <span style="font-size:clamp(0.55rem,1.1vw,0.65rem);letter-spacing:0.2em;color:rgba(255,255,255,0.3);text-transform:uppercase;">5 MIN &nbsp;·&nbsp; LIVE</span>
+      </div>
+      <canvas id="candle-canvas" style="width:100%;height:clamp(160px,30vh,260px);"></canvas>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:rgba(255,255,255,0.05);margin-top:10px;border:1px solid rgba(255,255,255,0.05);">
+        <div style="background:#000;padding:12px 16px;"><div style="font-family:var(--head);font-size:clamp(0.8rem,1.5vw,0.95rem);font-weight:700;color:#fff;" id="price-display">4,636.04</div><div style="font-size:0.6rem;letter-spacing:0.15em;color:rgba(255,255,255,0.3);text-transform:uppercase;margin-top:4px;">Last Price</div></div>
+        <div style="background:#000;padding:12px 16px;"><div style="font-family:var(--head);font-size:clamp(0.8rem,1.5vw,0.95rem);font-weight:700;" id="change-display" class="green">+12.40</div><div style="font-size:0.6rem;letter-spacing:0.15em;color:rgba(255,255,255,0.3);text-transform:uppercase;margin-top:4px;">Change</div></div>
+        <div style="background:#000;padding:12px 16px;"><div style="font-family:var(--head);font-size:clamp(0.8rem,1.5vw,0.95rem);font-weight:700;color:#fff;">5M</div><div style="font-size:0.6rem;letter-spacing:0.15em;color:rgba(255,255,255,0.3);text-transform:uppercase;margin-top:4px;">Timeframe</div></div>
+      </div>
+    </div>
+    <style>.green{color:#4ade80;}.red{color:#f87171;}</style>
+  </div>
+
+  <!-- ══ SCENE 7: CTA ══ -->
+  <div class="scene" id="s7">
+    <div class="cta-box">
+      <div class="logo-mark" style="width:clamp(44px,5vw,60px);height:clamp(44px,5vw,60px);opacity:0.8;"></div>
+      <div class="cta-headline">Ready to Trade<br>with Precision?</div>
+      <div class="cta-sub">Join over 1,000 traders worldwide relying on<br>Titan Markets for institutional-grade intelligence.</div>
+      <div class="cta-btn">Get Started Today</div>
+      <div style="font-size:0.65rem;letter-spacing:0.2em;color:rgba(255,255,255,0.2);text-transform:uppercase;margin-top:4px;">titanmarketsllc.com</div>
+    </div>
+  </div>
+
+  <!-- ══ SCENE 8: Outro ══ -->
+  <div class="scene" id="s8">
+    <div class="outro-wrap">
+      <div class="logo-mark" id="s8-logo" style="width:clamp(100px,16vw,180px);height:clamp(100px,16vw,180px);opacity:0;transition:opacity 1.2s ease,transform 1.2s cubic-bezier(0.22,1,0.36,1);transform:scale(0.8);"></div>
+      <div class="wordmark reveal-text" style="font-size:clamp(0.9rem,2vw,1.2rem);" id="s8-word"><span>TITAN MARKETS LLC</span></div>
+      <div class="tagline reveal-text" style="font-size:clamp(0.5rem,1.1vw,0.65rem);" id="s8-tag"><span>Precision &nbsp;·&nbsp; Strategy &nbsp;·&nbsp; Performance</span></div>
+      <div class="div-line" style="width:0;transition:width 1s 0.6s cubic-bezier(0.77,0,0.18,1);" id="s8-bar"></div>
+      <div class="reveal-text" style="font-size:clamp(0.5rem,1.1vw,0.65rem);color:rgba(255,255,255,0.3);letter-spacing:0.25em;" id="s8-url"><span>titanmarketsllc.com</span></div>
+    </div>
+  </div>
+
+</div><!-- /stage -->
+
+<script>
+// ── PARTICLES ──
+(function(){
+  const c=document.getElementById('particles');
+  const ctx=c.getContext('2d');
+  let W,H,pts=[];
+  function resize(){W=c.width=window.innerWidth;H=c.height=window.innerHeight;}
+  resize(); window.addEventListener('resize',resize);
+  for(let i=0;i<50;i++) pts.push({x:Math.random()*2000,y:Math.random()*1200,vx:(Math.random()-.5)*.2,vy:(Math.random()-.5)*.2,r:Math.random()*1+.3,a:Math.random()*.25+.05});
+  function draw(){
+    ctx.clearRect(0,0,W,H);
+    pts.forEach(p=>{
+      p.x+=p.vx;p.y+=p.vy;
+      if(p.x<0)p.x=W;if(p.x>W)p.x=0;
+      if(p.y<0)p.y=H;if(p.y>H)p.y=0;
+      ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+      ctx.fillStyle=`rgba(255,255,255,${p.a})`;ctx.fill();
+    });
+    for(let i=0;i<pts.length;i++)for(let j=i+1;j<pts.length;j++){
+      const dx=pts[i].x-pts[j].x,dy=pts[i].y-pts[j].y,d=Math.sqrt(dx*dx+dy*dy);
+      if(d<100){ctx.beginPath();ctx.moveTo(pts[i].x,pts[i].y);ctx.lineTo(pts[j].x,pts[j].y);ctx.strokeStyle=`rgba(255,255,255,${(1-d/100)*.05})`;ctx.lineWidth=.5;ctx.stroke();}
+    }
+    requestAnimationFrame(draw);
+  }
+  draw();
+})();
+
+// ── CANDLE CHART ──
+const candleCanvas=document.getElementById('candle-canvas');
+const cCtx=candleCanvas.getContext('2d');
+let candleData=[];
+let priceBase=4630;
+let animFrame=0;
+let liveInterval=null;
+
+function initCandles(){
+  const W=candleCanvas.offsetWidth||900;
+  const H=candleCanvas.offsetHeight||240;
+  candleCanvas.width=W;candleCanvas.height=H;
+  candleData=[];
+  let p=priceBase;
+  for(let i=0;i<60;i++){
+    const o=p;
+    const move=(Math.random()-.48)*8;
+    const c=o+move;
+    const high=Math.max(o,c)+(Math.random()*3);
+    const low=Math.min(o,c)-(Math.random()*3);
+    candleData.push({o,c,h:high,l:low});
+    p=c;
+  }
+}
+
+function drawCandles(revealCount){
+  const W=candleCanvas.width, H=candleCanvas.height;
+  cCtx.clearRect(0,0,W,H);
+  if(!candleData.length) return;
+  const n=Math.min(revealCount,candleData.length);
+  const visible=candleData.slice(-n);
+  const prices=visible.flatMap(c=>[c.h,c.l]);
+  const minP=Math.min(...prices)-2, maxP=Math.max(...prices)+2;
+  const range=maxP-minP||1;
+  const pad=8; const cw=Math.max(4,(W-pad*2)/n);
+  const gap=cw*0.15;
+  function mapY(p){return pad+(1-(p-minP)/range)*(H-pad*2);}
+  // Grid lines
+  for(let i=0;i<=4;i++){
+    const y=pad+i*(H-pad*2)/4;
+    cCtx.beginPath();cCtx.moveTo(0,y);cCtx.lineTo(W,y);
+    cCtx.strokeStyle='rgba(255,255,255,0.04)';cCtx.lineWidth=1;cCtx.stroke();
+    const price=(minP+range*(1-i/4)).toFixed(2);
+    cCtx.fillStyle='rgba(255,255,255,0.2)';cCtx.font='10px Inter';
+    cCtx.fillText(price,4,y-2);
+  }
+  visible.forEach((c,i)=>{
+    const bull=c.c>=c.o;
+    const x=pad+i*cw;
+    const bodyTop=mapY(Math.max(c.o,c.c));
+    const bodyBot=mapY(Math.min(c.o,c.c));
+    const bodyH=Math.max(1,bodyBot-bodyTop);
+    const cx=x+cw/2-gap/2;
+    // Wick
+    cCtx.beginPath();cCtx.moveTo(cx,mapY(c.h));cCtx.lineTo(cx,mapY(c.l));
+    cCtx.strokeStyle=bull?'rgba(74,222,128,0.6)':'rgba(248,113,113,0.6)';
+    cCtx.lineWidth=1;cCtx.stroke();
+    // Body
+    cCtx.fillStyle=bull?'rgba(74,222,128,0.85)':'rgba(248,113,113,0.85)';
+    cCtx.fillRect(x+gap/2,bodyTop,cw-gap,bodyH);
+  });
+  // Live price line
+  if(visible.length){
+    const lastC=visible[visible.length-1];
+    const py=mapY(lastC.c);
+    cCtx.beginPath();cCtx.moveTo(0,py);cCtx.lineTo(W,py);
+    cCtx.strokeStyle='rgba(255,255,255,0.3)';cCtx.lineWidth=1;
+    cCtx.setLineDash([4,6]);cCtx.stroke();cCtx.setLineDash([]);
+    // Price label
+    cCtx.fillStyle='rgba(255,255,255,0.9)';cCtx.font='bold 11px Orbitron,monospace';
+    cCtx.fillText(lastC.c.toFixed(3),W-70,py-4);
+  }
+}
+
+let candleReveal=0;
+function tickCandles(){
+  if(candleReveal<candleData.length) candleReveal+=3;
+  drawCandles(candleReveal);
+  // Push a new live candle periodically
+  if(candleReveal>=candleData.length){
+    const last=candleData[candleData.length-1];
+    const move=(Math.random()-.48)*2;
+    const nc={o:last.c,c:last.c+move,h:last.c+Math.abs(move)+Math.random()*1.5,l:last.c-Math.abs(move)-Math.random()*1.5};
+    candleData.push(nc);
+    if(candleData.length>80) candleData.shift();
+    // Update price display
+    const pEl=document.getElementById('price-display');
+    const chEl=document.getElementById('change-display');
+    if(pEl) pEl.textContent=nc.c.toFixed(3);
+    if(chEl){const ch=nc.c-priceBase;chEl.textContent=(ch>=0?'+':'')+ch.toFixed(2);chEl.className=ch>=0?'green':'red';}
+  }
+}
+
+// ── SCENE SYSTEM ──
+const SCENES=[
+  {id:'s1', dur:3200},
+  {id:'s2', dur:3500},
+  {id:'s3', dur:3800},
+  {id:'s4', dur:4200},
+  {id:'s5', dur:4500},
+  {id:'s6', dur:5000},
+  {id:'s7', dur:4000},
+  {id:'s8', dur:4000},
+];
+const TOTAL_DUR=SCENES.reduce((a,s)=>a+s.dur,0);
+let currentScene=-1;
+let elapsed=0;
+let lastTime=null;
+let paused=false;
+let rafId=null;
+let sceneStartTime=0;
+let sceneElapsed=0;
+const stage=document.getElementById('stage');
+const progressFill=document.getElementById('progress-fill');
+const sceneCounter=document.getElementById('scene-counter');
+
+function showScene(idx){
+  if(idx===currentScene) return;
+  // Hide previous
+  if(currentScene>=0){
+    document.getElementById(SCENES[currentScene].id).classList.remove('active');
+  }
+  currentScene=idx;
+  const s=SCENES[idx];
+  const el=document.getElementById(s.id);
+  el.classList.add('active');
+  sceneCounter.textContent=String(idx+1).padStart(2,'0')+' / '+String(SCENES.length).padStart(2,'0');
+
+  // Run scene-specific entry animations
+  if(s.id==='s1') animS1();
+  if(s.id==='s2') animS2();
+  if(s.id==='s3') animS3();
+  if(s.id==='s4') animS4();
+  if(s.id==='s5') animS5();
+  if(s.id==='s6') animS6();
+  if(s.id==='s8') animS8();
+
+  // Stop/start candle live tick
+  if(liveInterval) clearInterval(liveInterval);
+  if(s.id==='s6'){
+    initCandles();candleReveal=0;
+    liveInterval=setInterval(tickCandles,80);
+  }
+}
+
+function animS1(){
+  const logo=document.getElementById('s1-logo');
+  const line=document.getElementById('s1-line');
+  const word=document.getElementById('s1-word');
+  // Reset without triggering transition
+  logo.style.transition='none'; logo.style.opacity='0'; logo.style.transform='scale(0.7)';
+  line.style.transition='none'; line.style.opacity='0';
+  word.classList.remove('in');
+  // Re-enable transition next paint then animate
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    logo.style.transition='opacity 1s ease, transform 1.2s cubic-bezier(0.22,1,0.36,1)';
+    logo.style.opacity='1'; logo.style.transform='scale(1)';
+    setTimeout(()=>{line.style.transition='opacity 0.6s ease'; line.style.opacity='1';},500);
+    setTimeout(()=>{word.classList.add('in');},750);
+  }));
+}
+function animS2(){
+  const word=document.getElementById('s2-word');
+  const tag=document.getElementById('s2-tag');
+  const bar=document.getElementById('s2-bar');
+  word.classList.remove('in');tag.classList.remove('in');bar.style.width='0';
+  setTimeout(()=>{word.classList.add('in');},100);
+  setTimeout(()=>{tag.classList.add('in');},400);
+  setTimeout(()=>{bar.style.width='60px';},700);
+}
+function animS3(){
+  const h=document.getElementById('s3-h');
+  const sub=document.getElementById('s3-sub');
+  h.classList.remove('in');sub.classList.remove('in');
+  setTimeout(()=>{h.classList.add('in');},100);
+  setTimeout(()=>{sub.classList.add('in');},500);
+}
+function animS4(){
+  // Counter animation
+  document.getElementById('st2').textContent='0+';
+  document.getElementById('st3').textContent='0+';
+  document.getElementById('st4').textContent='0%';
+  function countUp(el,target,suffix,duration){
+    const start=performance.now();
+    function step(now){
+      const p=Math.min((now-start)/duration,1);
+      const eased=1-Math.pow(1-p,3);
+      el.textContent=Math.floor(target*eased)+suffix;
+      if(p<1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+  setTimeout(()=>{
+    countUp(document.getElementById('st2'),1000,'+',1800);
+    countUp(document.getElementById('st3'),7,'+',1200);
+    countUp(document.getElementById('st4'),68,'%',1500);
+  },300);
+}
+function animS5(){
+  ['sv1','sv2','sv3','sv4','sv5','sv6'].forEach((id,i)=>{
+    const el=document.getElementById(id);
+    el.classList.remove('in');
+    el.style.transitionDelay='0s';
+    setTimeout(()=>{el.style.transitionDelay=i*0.1+'s';el.classList.add('in');},100);
+  });
+}
+function animS6(){
+  const c=document.getElementById('candle-canvas');
+  c.style.opacity='0';c.style.transition='opacity 0.6s ease';
+  setTimeout(()=>{c.style.opacity='1';},200);
+}
+function animS8(){
+  const logo=document.getElementById('s8-logo');
+  const word=document.getElementById('s8-word');
+  const tag=document.getElementById('s8-tag');
+  const bar=document.getElementById('s8-bar');
+  const url=document.getElementById('s8-url');
+  logo.style.transition='none'; logo.style.opacity='0'; logo.style.transform='scale(0.8)';
+  [word,tag,url].forEach(e=>e.classList.remove('in'));
+  bar.style.transition='none'; bar.style.width='0';
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    logo.style.transition='opacity 1.2s ease, transform 1.2s cubic-bezier(0.22,1,0.36,1)';
+    logo.style.opacity='1'; logo.style.transform='scale(1)';
+    setTimeout(()=>{word.classList.add('in');},500);
+    setTimeout(()=>{tag.classList.add('in');},800);
+    setTimeout(()=>{bar.style.transition='width 1s cubic-bezier(0.77,0,0.18,1)'; bar.style.width='60px';},1000);
+    setTimeout(()=>{url.classList.add('in');},1300);
+  }));
+}
+
+// ── MAIN LOOP ──
+const FADE_IN  = 300;  // ms — scene fade-in duration
+const FADE_OUT = 350;  // ms — scene fade-out duration
+
+function loop(ts){
+  if(paused){rafId=requestAnimationFrame(loop);return;}
+  if(lastTime===null) lastTime=ts;
+  const dt=ts-lastTime; lastTime=ts;
+  elapsed+=dt;
+  if(elapsed>=TOTAL_DUR) elapsed=elapsed%TOTAL_DUR;
+
+  // Which scene are we in?
+  let acc=0;
+  for(let i=0;i<SCENES.length;i++){
+    if(elapsed<acc+SCENES[i].dur){
+      showScene(i);
+      sceneElapsed=elapsed-acc;
+
+      // ── JS-driven crossfade ──
+      const dur=SCENES[i].dur;
+      let op;
+      if(sceneElapsed<FADE_IN){
+        op=sceneElapsed/FADE_IN;                          // fade in
+      } else if(sceneElapsed>dur-FADE_OUT){
+        op=Math.max(0,(dur-sceneElapsed)/FADE_OUT);       // fade out
+      } else {
+        op=1;                                             // fully visible
+      }
+      const el=document.getElementById(SCENES[i].id);
+      if(el) el.style.opacity=op;
+
+      break;
+    }
+    acc+=SCENES[i].dur;
+  }
+
+  // Progress bar
+  progressFill.style.width=(elapsed/TOTAL_DUR*100)+'%';
+
+  rafId=requestAnimationFrame(loop);
+}
+
+// Letterbox on start
+window.addEventListener('load',()=>{
+  setTimeout(()=>stage.classList.add('letterbox'),100);
+  rafId=requestAnimationFrame(loop);
+});
+
+// Controls
+document.getElementById('btn-pause').addEventListener('click',function(){
+  paused=!paused;lastTime=null;
+  this.textContent=paused?'PLAY':'PAUSE';
+});
+document.getElementById('btn-restart').addEventListener('click',()=>{
+  elapsed=0;lastTime=null;currentScene=-1;
+  SCENES.forEach(s=>{
+    const el=document.getElementById(s.id);
+    if(el){el.classList.remove('active');el.style.opacity='0';}
+  });
+});
+
+// Resize canvas
+window.addEventListener('resize',()=>{if(currentScene>=0&&SCENES[currentScene].id==='s6'){initCandles();}});
+</script>
+</body>
+</html>
