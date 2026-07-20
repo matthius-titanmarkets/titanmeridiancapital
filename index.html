@@ -39,6 +39,7 @@
       --shadow:        0 18px 50px -18px rgba(2,6,12,.9);
       --r:             12px;
       --nav-h:         76px;
+      --strip-h:       36px;
       --ease:          cubic-bezier(.22,.8,.28,1);
     }
     html { scroll-behavior: smooth; overflow-x: hidden; }
@@ -92,6 +93,39 @@
       transition: transform .45s var(--ease);
     }
     #nav.hidden { transform: translateY(-100%); }
+
+    /* Live market strip — quiet, editorial, anchored to the real pipeline. */
+    #market-strip {
+      position: fixed; top: var(--nav-h); left: 0; right: 0; z-index: 99; height: var(--strip-h);
+      display: flex; align-items: center; gap: 10px;
+      padding: 0 clamp(18px, 4vw, 46px);
+      background: rgba(7,13,23,.82); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--line);
+      transition: transform .45s var(--ease);
+      overflow: hidden;
+    }
+    #market-strip.hidden { transform: translateY(calc(-1 * (var(--nav-h) + var(--strip-h)))); }
+    .strip-tag {
+      display: flex; align-items: center; gap: 7px; flex: 0 0 auto;
+      font-size: .56rem; letter-spacing: .28em; text-transform: uppercase; color: var(--muted-2);
+      padding-right: 12px; border-right: 1px solid var(--line);
+    }
+    .strip-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--muted-2); }
+    #market-strip.live .strip-dot { background: var(--pos); box-shadow: 0 0 6px rgba(111,191,151,.8); animation: stripPulse 2.4s ease-in-out infinite; }
+    @keyframes stripPulse { 0%,100% { opacity: 1; } 50% { opacity: .4; } }
+    .strip-quotes { overflow: hidden; flex: 1; min-width: 0; }
+    .strip-track { display: flex; align-items: center; gap: clamp(16px, 2.4vw, 34px); width: max-content; will-change: transform; }
+    .strip-q { display: inline-flex; align-items: baseline; gap: 8px; white-space: nowrap; }
+    .strip-sym { font-size: .62rem; letter-spacing: .16em; color: var(--muted); }
+    .strip-px { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-variant-numeric: tabular-nums; font-size: .72rem; color: var(--ivory-bright); }
+    .strip-chg { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: .62rem; }
+    .strip-chg.up { color: var(--pos); } .strip-chg.down { color: var(--neg); }
+    .strip-px.flash-up { animation: stripFlashUp .7s ease-out; }
+    .strip-px.flash-down { animation: stripFlashDown .7s ease-out; }
+    @keyframes stripFlashUp { 0% { color: var(--pos); } 100% { color: var(--ivory-bright); } }
+    @keyframes stripFlashDown { 0% { color: var(--neg); } 100% { color: var(--ivory-bright); } }
+    .strip-as-of { flex: 0 0 auto; font-size: .54rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted-2); padding-left: 12px; border-left: 1px solid var(--line); }
+
     .brand-lockup { display: flex; align-items: center; gap: 13px; }
     .brand-emblem { width: 40px; height: 40px; flex: 0 0 auto; }
     .brand-words { display: flex; flex-direction: column; line-height: 1.2; }
@@ -174,7 +208,7 @@
     /* ── Hero ───────────────────────────────────────────────────── */
     #home {
       min-height: 100svh; display: flex; flex-direction: column; justify-content: center;
-      padding-top: calc(var(--nav-h) + 40px);
+      padding-top: calc(var(--nav-h) + var(--strip-h) + 40px);
     }
     .hero-kicker {
       font-size: .68rem; letter-spacing: .5em; text-transform: uppercase; color: var(--muted);
@@ -344,6 +378,9 @@
       .brand-sub { font-size: .52rem; letter-spacing: .26em; }
       .hero-meta { grid-template-columns: 1fr 1fr; }
       .hero-scroll { display: none; }
+      .strip-as-of { display: none; }
+      .strip-tag span:not(.strip-dot) { display: none; }
+      .strip-tag { padding-right: 8px; }
     }
     @media (max-width: 520px) {
       .footer-grid { grid-template-columns: 1fr; gap: 30px; }
@@ -414,6 +451,13 @@
   <a href="#insights">Insights</a>
   <a href="clients/">Client Portal</a>
   <div class="menu-foot">Titan Meridian Capital</div>
+</div>
+
+<!-- Live market strip — real quotes from the estate pipeline -->
+<div id="market-strip" aria-label="Live market snapshot">
+  <span class="strip-tag"><span class="strip-dot"></span><span>The Desk</span></span>
+  <div class="strip-quotes" id="strip-quotes"></div>
+  <span class="strip-as-of" id="strip-as-of">connecting…</span>
 </div>
 
 <main>
@@ -885,13 +929,131 @@
 
   /* ── Nav hide-on-scroll ─────────────────────────────────────── */
   var nav = document.getElementById('nav');
+  var strip = document.getElementById('market-strip');
   var lastY = 0;
   window.addEventListener('scroll', function () {
     var y = window.scrollY || 0;
-    if (y > 140 && y > lastY) nav.classList.add('hidden');
-    else nav.classList.remove('hidden');
+    var hide = y > 140 && y > lastY;
+    nav.classList.toggle('hidden', hide);
+    strip.classList.toggle('hidden', hide);
     lastY = y;
   }, { passive: true });
+
+  /* ── Live market strip: real quotes from the estate pipeline ──── */
+  (function () {
+    var SYMS = [
+      { sym: 'XAUUSD', label: 'Gold', dp: 2 },
+      { sym: 'US500',  label: 'S&P 500', dp: 1 },
+      { sym: 'NAS100', label: 'Nasdaq', dp: 1 },
+      { sym: 'EURUSD', label: 'EUR/USD', dp: 4 },
+      { sym: 'BTCUSD', label: 'Bitcoin', dp: 0 },
+      { sym: 'WTIUSD', label: 'WTI', dp: 2 }
+    ];
+    var host = document.getElementById('strip-quotes');
+    var asOf = document.getElementById('strip-as-of');
+    var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var refs = {};   // sym → [{px, chg}, …] (one entry per rendered copy)
+    var last = {};   // sym → last price (for flash + change detection)
+    var stampMs = 0;
+    var track = null, marquee = false, halfW = 0, offset = 0;
+
+    function fmt(v, dp) { return v.toLocaleString('en-US', { minimumFractionDigits: dp, maximumFractionDigits: dp }); }
+    function ageLabel(ms) {
+      var s = Math.max(0, ms / 1000);
+      if (s < 90) return 'live · just now';
+      if (s < 3600) return 'live · ' + Math.round(s / 60) + 'm ago';
+      return 'delayed · ' + Math.round(s / 3600) + 'h ago';
+    }
+    function quoteHTML(s) {
+      return '<span class="strip-q" data-sym="' + s.sym + '">' +
+        '<span class="strip-sym">' + s.label + '</span>' +
+        '<span class="strip-px">—</span>' +
+        '<span class="strip-chg"></span></span>';
+    }
+    function collectRefs() {
+      refs = {};
+      SYMS.forEach(function (s) { refs[s.sym] = []; });
+      Array.prototype.forEach.call(track.querySelectorAll('.strip-q'), function (el) {
+        refs[el.getAttribute('data-sym')].push({ px: el.querySelector('.strip-px'), chg: el.querySelector('.strip-chg') });
+      });
+    }
+    function build(copies) {
+      var one = SYMS.map(quoteHTML).join('');
+      var html = '';
+      for (var i = 0; i < copies; i++) html += one;
+      host.innerHTML = '<div class="strip-track">' + html + '</div>';
+      track = host.querySelector('.strip-track');
+      collectRefs();
+    }
+    // Render one copy; if it overflows the rail, switch to a two-copy marquee.
+    // Driven by setInterval (not rAF) so it keeps moving in background/throttled tabs.
+    var marqueeTimer = null;
+    function layout() {
+      build(1);
+      paint();
+      marquee = !reduced && track.scrollWidth > host.clientWidth + 4;
+      if (marquee) {
+        build(2);
+        paint();
+        halfW = track.scrollWidth / 2;
+        offset = 0;
+        if (!marqueeTimer) marqueeTimer = setInterval(step, 33);
+      } else if (marqueeTimer) {
+        clearInterval(marqueeTimer); marqueeTimer = null;
+        track.style.transform = '';
+      }
+    }
+    function step() {
+      if (!marquee || !track) return;
+      offset -= 0.7;
+      if (-offset >= halfW) offset += halfW;
+      track.style.transform = 'translateX(' + offset + 'px)';
+    }
+    function paint() {
+      SYMS.forEach(function (s) {
+        var q = data && data.symbols ? data.symbols[s.sym] : null;
+        if (!q || q.last == null) return;
+        var chg = q.prevClose ? (q.last - q.prevClose) / q.prevClose * 100 : null;
+        (refs[s.sym] || []).forEach(function (r) {
+          r.px.textContent = fmt(q.last, s.dp);
+          if (chg != null) {
+            r.chg.textContent = (chg >= 0 ? '▲' : '▼') + Math.abs(chg).toFixed(2) + '%';
+            r.chg.className = 'strip-chg ' + (chg >= 0 ? 'up' : 'down');
+          }
+          if (last[s.sym] != null && q.last !== last[s.sym]) {
+            r.px.classList.remove('flash-up', 'flash-down');
+            void r.px.offsetWidth;
+            r.px.classList.add(q.last > last[s.sym] ? 'flash-up' : 'flash-down');
+          }
+        });
+        last[s.sym] = q.last;
+      });
+    }
+    var data = null, laidOut = false;
+    function apply(j) {
+      if (!j || !j.symbols) return;
+      data = j;
+      stampMs = Date.parse(j.generated_at) || Date.now();
+      // First real data: (re)lay out to decide static vs marquee; then just repaint.
+      if (!laidOut) { layout(); laidOut = true; } else paint();
+      strip.classList.add('live');
+      tickAsOf();
+    }
+    function tickAsOf() { if (stampMs) asOf.textContent = ageLabel(Date.now() - stampMs); }
+    function load() {
+      fetch('platform/data/quotes.json?v=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+        .then(apply)
+        .catch(function () { if (!stampMs) asOf.textContent = 'desk offline'; });
+    }
+    build(1);            // placeholder dashes until the first fetch resolves
+    load();
+    setInterval(load, 60 * 1000);
+    setInterval(tickAsOf, 15 * 1000);
+    var reflowT;
+    window.addEventListener('resize', function () { clearTimeout(reflowT); reflowT = setTimeout(function () { if (data) layout(); }, 200); });
+    document.addEventListener('visibilitychange', function () { if (!document.hidden) load(); });
+  })();
 
   /* ── Mobile menu ────────────────────────────────────────────── */
   var menuBtn = document.getElementById('menu-btn');

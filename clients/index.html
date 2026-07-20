@@ -138,10 +138,15 @@
     .side-link svg { width: 17px; height: 17px; flex: 0 0 auto; opacity: .8; }
     .side-foot { padding: 22px; font-size: .62rem; color: var(--muted-2); line-height: 1.7; }
     .marks-badge {
-      display: inline-block; margin-top: 8px; font-size: .54rem; letter-spacing: .18em; text-transform: uppercase;
+      display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; font-size: .54rem; letter-spacing: .18em; text-transform: uppercase;
       border: 1px solid var(--line-strong); border-radius: 999px; padding: 3px 10px; color: var(--muted);
     }
     .marks-badge.live { border-color: rgba(198,164,104,.5); color: var(--accent); }
+    .marks-badge .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--muted-2); flex: 0 0 auto; }
+    .marks-badge.live .live-dot { background: var(--pos); box-shadow: 0 0 6px rgba(111,191,151,.8); animation: livePulse 2.4s ease-in-out infinite; }
+    @keyframes livePulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    @keyframes markFlash { 0% { background: rgba(198,164,104,.16); } 100% { background: transparent; } }
+    td.mark-flashed { animation: markFlash .8s ease-out; }
 
     main#content { padding: clamp(20px, 3.4vw, 38px) clamp(16px, 3.4vw, 38px) 70px; min-width: 0; }
     section.view { display: none; }
@@ -367,7 +372,7 @@
       <nav class="side-nav" id="side-nav" aria-label="Portal sections"></nav>
       <div class="side-foot">
         Sample Account · TMC-001<br />The Titan Family Trust
-        <br /><span class="marks-badge" id="marks-badge">marks: sample</span>
+        <br /><span class="marks-badge" id="marks-badge"><span class="live-dot"></span>marks: sample</span>
       </div>
     </aside>
 
@@ -729,27 +734,49 @@
     return { sym: t.sym, name: t.name, unit: t.unit, qty: qty, entry: mark * 0.94, mark: mark, dp: MARKS[t.sym].dp };
   });
 
+  var changedSyms = {};      // symbols whose mark moved on the latest poll → row flash
+  var marksFetchedAt = 0;    // ms of last successful pipeline fetch
+
+  function agoLabel(ms) {
+    var s = Math.max(0, ms / 1000);
+    if (s < 45) return 'just now';
+    if (s < 3600) return Math.round(s / 60) + 'm ago';
+    return Math.round(s / 3600) + 'h ago';
+  }
+
+  function refreshMarksBadge() {
+    var b = document.getElementById('marks-badge');
+    if (marksSource !== 'pipeline') return;
+    b.innerHTML = '<span class="live-dot"></span>marks: live · ' + agoLabel(Date.now() - marksFetchedAt);
+    b.className = 'marks-badge live';
+    b.title = 'Trading-book marks from platform/data/quotes.json · generated ' + marksStamp +
+      ' · last checked ' + new Date(marksFetchedAt).toLocaleTimeString();
+  }
+
   function loadMarks() {
     fetch('../platform/data/quotes.json?v=' + Date.now(), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
       .then(function (j) {
         if (!j.symbols) return;
         var got = 0;
+        changedSyms = {};
         tradingBook.forEach(function (p) {
           var s = j.symbols[p.sym];
-          if (s && s.last != null) { p.mark = s.last; got++; }
+          if (s && s.last != null) {
+            if (marksSource === 'pipeline' && s.last !== p.mark) changedSyms[p.sym] = true;
+            p.mark = s.last; got++;
+          }
         });
         if (got) {
           marksSource = 'pipeline';
           marksStamp = j.generated_at || '';
-          var b = document.getElementById('marks-badge');
-          b.textContent = 'marks: live pipeline';
-          b.className = 'marks-badge live';
-          b.title = 'Trading-book marks from platform/data/quotes.json · generated ' + marksStamp;
+          marksFetchedAt = Date.now();
+          refreshMarksBadge();
           renderHoldings();
+          if (activeView === 'overview') drawDonut(); // allocation dollar values track NAV+marks
         }
       })
-      .catch(function () { /* sample marks stand */ });
+      .catch(function () { /* sample marks stand; badge unchanged */ });
   }
 
   /* ════════════════ Documents & activity data ════════════════ */
@@ -856,7 +883,14 @@
     renderSessionInfo();
     var initial = (location.hash || '#overview').slice(1);
     selectView(VIEWS.some(function (v) { return v.id === initial; }) ? initial : 'overview');
+    // Live marks: pull the pipeline now, poll it, and tick the freshness label
+    // between polls so the badge always reads true even when nothing changed.
     loadMarks();
+    setInterval(loadMarks, 45 * 1000);
+    setInterval(refreshMarksBadge, 15 * 1000);
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden) loadMarks(); // refresh the moment the family returns to the tab
+    });
   }
 
   function renderKpis() {
@@ -951,11 +985,12 @@
       var mv = p.qty * p.mark;
       var pl = p.qty * (p.mark - p.entry);
       tbMV += mv; tbPL += pl;
+      var flash = changedSyms[p.sym] ? ' mark-flashed' : '';
       tbRows += '<tr><td>' + p.sym + ' <span class="cell-note">' + p.name + '</span></td>' +
         '<td class="num">' + fmt(p.qty, p.qty < 10 ? 3 : 1) + '</td>' +
         '<td class="num">' + fmt(p.entry, p.dp) + '</td>' +
-        '<td class="num">' + fmt(p.mark, p.dp) + '</td>' +
-        '<td class="num">' + money0(mv) + '</td>' +
+        '<td class="num' + flash + '">' + fmt(p.mark, p.dp) + '</td>' +
+        '<td class="num' + flash + '">' + money0(mv) + '</td>' +
         '<td class="num ' + (pl >= 0 ? 'up' : 'down') + '">' + money0(pl) + '</td></tr>';
     });
     tbRows += '<tr class="subtotal"><td>Trading Book</td><td></td><td></td><td></td>' +

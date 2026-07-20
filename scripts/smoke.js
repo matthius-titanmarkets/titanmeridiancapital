@@ -36,6 +36,7 @@ if (fund) {
   check('fund site: links to titan-markets/', fund.includes('href="titan-markets/"'));
   check('fund site: links to family-office/', fund.includes('href="family-office/"'));
   check('fund site: not-an-offer disclaimer present', /not an offer/i.test(fund));
+  check('fund site: live market strip reads quotes.json', fund.includes('platform/data/quotes.json') && fund.includes('market-strip'));
 }
 
 /* ── Meridian Terminal ────────────────────────────────────────── */
@@ -87,6 +88,10 @@ if (portal) {
   check('portal: demo gate present', portal.includes('demonstration portal') || portal.includes('Demonstration portal'));
   check('portal: sample-data ribbon', /sample data/i.test(portal));
   check('portal: noindex meta', portal.includes('noindex'));
+  check('portal: multi-section dashboard views', ['view-performance', 'view-holdings', 'view-capital', 'view-documents', 'view-account'].every((v) => portal.includes(v)));
+  check('portal: holdings marked to live quote pipeline', portal.includes('platform/data/quotes.json') && portal.includes('loadMarks'));
+  check('portal: marks auto-refresh (poll + tick)', portal.includes('setInterval(loadMarks') && portal.includes('refreshMarksBadge'));
+  check('portal: capital CSV export', portal.includes('csv-capital') && /text\/csv/.test(portal));
 }
 
 /* ── Titan Markets division site ──────────────────────────────── */
