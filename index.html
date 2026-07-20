@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>Titan Meridian Capital — Client Portal</title>
+<meta name="description" content="Titan Meridian Capital client portal. Performance, analytics, market intelligence and reporting for limited partners." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230A1220'/%3E%3Ccircle cx='32' cy='32' r='22' fill='none' stroke='%23C6A468' stroke-width='1.5'/%3E%3Ctext x='32' y='39' text-anchor='middle' font-family='Georgia,serif' font-size='19' fill='%23EDE7DA'%3ETM%3C/text%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ══════════════════════════ LOGIN ══════════════════════════ -->
+<section id="login" aria-label="Client sign in">
+  <div class="login-hero">
+    <div class="login-hero-inner">
+      <div class="brand-lockup reveal-load">
+        <span class="brand-mark serif">TM</span>
+        <span class="brand-words">
+          <span class="brand-name">TITAN MERIDIAN CAPITAL</span>
+          <span class="brand-sub">A TITAN MARKETS LLC FUND</span>
+        </span>
+      </div>
+      <h1 class="serif login-headline reveal-load d1">DISCIPLINED<br/>CAPITAL.<br/><em>INSTITUTIONAL<br/>EDGE.</em></h1>
+      <p class="login-lede reveal-load d2">A systematic global-macro investment platform built on quantitative
+      discipline, regime-aware positioning, and institutional-grade risk management.</p>
+      <div class="login-hero-stats reveal-load d3">
+        <div><span class="hs-num serif">2026</span><span class="hs-lbl">Established</span></div>
+        <div class="hs-rule"></div>
+        <div><span class="hs-num serif">Global Macro</span><span class="hs-lbl">Systematic Strategy</span></div>
+        <div class="hs-rule"></div>
+        <div><span class="hs-num serif">Chicago</span><span class="hs-lbl">Headquarters</span></div>
+      </div>
+    </div>
+    <div class="login-hero-foot reveal-load d4">CONVICTION, APPLIED WITH DISCIPLINE.</div>
+  </div>
+
+  <div class="login-side">
+    <form id="login-form" class="login-card reveal-load d2" novalidate>
+      <div class="eyebrow">CLIENT PORTAL</div>
+      <h2 class="serif login-card-title">Secure Access</h2>
+      <p class="login-card-sub">Credentials are provisioned by your relationship manager. All activity is logged.</p>
+
+      <label class="field">
+        <span class="field-label">EMAIL ADDRESS</span>
+        <input id="login-email" type="email" autocomplete="username" placeholder="name@familyoffice.com" required />
+      </label>
+
+      <label class="field">
+        <span class="field-label">PASSWORD</span>
+        <span class="field-pass">
+          <input id="login-pass" type="password" autocomplete="current-password" placeholder="••••••••••" required />
+          <button type="button" id="pass-toggle" aria-label="Show password" tabindex="-1"></button>
+        </span>
+      </label>
+
+      <div class="login-row">
+        <label class="check">
+          <input id="login-remember" type="checkbox" />
+          <span class="check-box" aria-hidden="true"></span>
+          <span class="check-text">Remember me on this device</span>
+        </label>
+        <a class="login-link" href="mailto:ir@thetitanmarketsllc.com?subject=Portal%20access">Trouble signing in?</a>
+      </div>
+
+      <div id="login-error" class="login-error" role="alert" hidden></div>
+
+      <button type="submit" class="btn btn-solid btn-block" id="btn-signin">
+        <span class="btn-label">SIGN IN</span><span class="btn-spinner" aria-hidden="true"></span>
+      </button>
+
+      <div class="login-or"><span>OR</span></div>
+
+      <button type="button" class="btn btn-ghost btn-block" id="btn-demo">EXPLORE THE DEMO ACCOUNT</button>
+      <p class="login-demo-hint">Demo environment · simulated data · <span class="mono">demo@titanmeridian.com / meridian</span></p>
+    </form>
+
+    <div class="login-foot reveal-load d4">
+      <p>Authorized clients only. Access is monitored and recorded. Titan Meridian Capital, L.P. is a private fund
+      managed by Titan Markets LLC. This portal and its contents are confidential and are not an offer to sell or a
+      solicitation of an offer to buy any security.</p>
+      <p>© 2026 Titan Markets LLC · Chicago, Illinois</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════ APP SHELL ══════════════════════════ -->
+<div id="app" hidden>
+  <aside id="sidebar" aria-label="Primary navigation">
+    <div class="brand-lockup side-brand">
+      <span class="brand-mark serif">TM</span>
+      <span class="brand-words">
+        <span class="brand-name">TITAN MERIDIAN</span>
+        <span class="brand-sub">CLIENT PORTAL</span>
+      </span>
+    </div>
+    <nav id="side-nav"></nav>
+    <div class="sidebar-foot">
+      <div class="side-regime">
+        <span class="eyebrow">REGIME MONITOR</span>
+        <span class="side-regime-val" id="side-regime">Disinflation · Easing</span>
+      </div>
+      <button class="side-logout" id="btn-logout-side">SIGN OUT</button>
+    </div>
+  </aside>
+
+  <div id="main-col">
+    <header id="topbar">
+      <div class="topbar-left">
+        <div class="crumb">
+          <span class="crumb-view serif" id="crumb-view">Overview</span>
+          <span class="crumb-asof" id="crumb-asof"></span>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <button class="tbtn" id="btn-update" title="Update market data">
+          <span class="tbtn-ic" id="update-ic"></span><span class="tbtn-lb">UPDATE</span>
+        </button>
+        <button class="tbtn" id="btn-save" title="Save preferences &amp; notes (⌘S)">
+          <span class="tbtn-ic" id="save-ic"></span><span class="tbtn-lb">SAVE</span><span class="save-dot" id="save-dot" hidden></span>
+        </button>
+        <button class="tbtn tbtn-icon" id="btn-help" title="Restart guided tour"><span class="tbtn-ic" id="help-ic"></span></button>
+        <div class="user-wrap">
+          <button class="user-chip" id="user-chip" aria-haspopup="menu">
+            <span class="user-avatar" id="user-avatar">DF</span>
+            <span class="user-meta"><span class="user-name" id="user-name">—</span><span class="user-role" id="user-role">Limited Partner</span></span>
+            <span class="user-caret"></span>
+          </button>
+          <div class="user-menu" id="user-menu" role="menu" hidden>
+            <button data-menu="settings" role="menuitem">Profile &amp; Preferences</button>
+            <button data-menu="tour" role="menuitem">Restart Tutorial</button>
+            <button data-menu="logout" role="menuitem" class="danger">Sign Out</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main id="view" tabindex="-1"></main>
+
+    <footer id="app-foot">
+      <p><strong>Confidential.</strong> For the exclusive use of limited partners of Titan Meridian Capital, L.P. and their
+      authorized advisors. Performance figures are unaudited, net of fees, and may be based on estimates subject to revision.
+      Past performance is not indicative of future results. Market data is delayed and provided for information only.</p>
+      <p>Titan Meridian Capital, L.P. · Managed by Titan Markets LLC · Chicago, Illinois · <a href="mailto:ir@thetitanmarketsllc.com">ir@thetitanmarketsllc.com</a></p>
+    </footer>
+  </div>
+
+  <nav id="bottomnav" aria-label="Mobile navigation"></nav>
+</div>
+
+<div id="toast-root" aria-live="polite"></div>
+<div id="modal-root"></div>
+<div id="tutorial-root"></div>
+
+<script src="js/data.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
