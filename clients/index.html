@@ -4,18 +4,19 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Client Portal — Titan Meridian Capital</title>
-  <meta name="description" content="Titan Meridian Capital client portal — capital accounts, performance, allocations, statements, and documents. Demonstration portal with sample data." />
+  <meta name="description" content="Titan Meridian Capital client portal — overview, performance, holdings, capital account, statements, documents, and activity. Demonstration portal with sample data." />
   <meta name="robots" content="noindex" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230A1220'/%3E%3Ccircle cx='32' cy='32' r='21' fill='none' stroke='%23C6A468' stroke-width='1.5'/%3E%3Cpath d='M22 40 V26 M32 40 V20 M42 40 V30' stroke='%23EDE7DA' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     /* ════════════════════════════════════════════════════════════════
-       TITAN MERIDIAN CAPITAL — CLIENT PORTAL
+       TITAN MERIDIAN CAPITAL — CLIENT PORTAL (full dashboard)
        Demonstration portal: the gate and every figure inside are
-       sample data. Production credentials are issued personally by
-       the office; this preview shows the family what the portal is.
+       sample data from one seeded series, so all sections reconcile.
+       Trading-book marks upgrade to the estate's real quote pipeline
+       when reachable. Production access requires a real backend.
        ════════════════════════════════════════════════════════════════ */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
@@ -38,6 +39,7 @@
       --r:            12px;
       --mono:         ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
       --ease:         cubic-bezier(.22,.8,.28,1);
+      --side-w:       218px;
     }
     body {
       font-family: 'Inter', -apple-system, sans-serif;
@@ -85,10 +87,7 @@
     }
     .gate-btn:hover { background: #D4B57C; }
     .gate-error { color: var(--neg); font-size: .72rem; min-height: 18px; margin-top: 10px; letter-spacing: .04em; }
-    .gate-demo {
-      margin-top: 20px; border-top: 1px solid var(--line); padding-top: 16px;
-      font-size: .7rem; color: var(--muted-2); line-height: 1.7;
-    }
+    .gate-demo { margin-top: 20px; border-top: 1px solid var(--line); padding-top: 16px; font-size: .7rem; color: var(--muted-2); line-height: 1.7; }
     .gate-demo code { font-family: var(--mono); color: var(--accent); letter-spacing: .14em; }
     .gate-back { display: inline-block; margin-top: 14px; font-size: .62rem; letter-spacing: .22em; text-transform: uppercase; }
 
@@ -97,126 +96,211 @@
     #app.active { display: block; }
     header.bar {
       position: sticky; top: 0; z-index: 30; display: flex; align-items: center; gap: 16px;
-      padding: 14px clamp(16px, 4vw, 40px);
-      background: rgba(7,13,23,.9); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+      padding: 12px clamp(14px, 3vw, 30px);
+      background: rgba(7,13,23,.92); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
       border-bottom: 1px solid var(--line);
     }
-    .brand { display: flex; align-items: center; gap: 11px; }
-    .brand-emblem { width: 34px; height: 34px; }
-    .brand-words { line-height: 1.15; }
-    .brand-name { font-family: 'Playfair Display', serif; font-size: .86rem; letter-spacing: .16em; color: var(--ivory-bright); display: block; white-space: nowrap; }
-    .brand-sub { font-size: .55rem; letter-spacing: .3em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+    .brand { display: flex; align-items: center; gap: 11px; min-width: 0; }
+    .brand-emblem { width: 32px; height: 32px; flex: 0 0 auto; }
+    .brand-words { line-height: 1.15; min-width: 0; }
+    .brand-name { font-family: 'Playfair Display', serif; font-size: .84rem; letter-spacing: .15em; color: var(--ivory-bright); display: block; white-space: nowrap; }
+    .brand-sub { font-size: .54rem; letter-spacing: .3em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
     .bar-spacer { flex: 1; }
-    .bar-links { display: flex; gap: 16px; align-items: center; }
-    .bar-link { font-size: .62rem; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); }
+    .bar-links { display: flex; gap: 14px; align-items: center; }
+    .bar-link { font-size: .6rem; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); }
     .bar-link:hover { color: var(--ivory-bright); }
     .signout {
       background: none; border: 1px solid var(--line-strong); border-radius: 6px; color: var(--muted);
-      font-size: .58rem; letter-spacing: .2em; text-transform: uppercase; padding: 7px 14px;
+      font-size: .56rem; letter-spacing: .2em; text-transform: uppercase; padding: 7px 13px; white-space: nowrap;
     }
     .signout:hover { color: var(--neg); border-color: rgba(201,123,111,.5); }
-
     .demo-ribbon {
       background: var(--accent-soft); border-bottom: 1px solid rgba(198,164,104,.3);
-      color: var(--accent); text-align: center; font-size: .62rem; letter-spacing: .22em; text-transform: uppercase;
-      padding: 7px 14px;
+      color: var(--accent); text-align: center; font-size: .6rem; letter-spacing: .22em; text-transform: uppercase;
+      padding: 6px 14px;
     }
 
-    main { max-width: 1180px; margin: 0 auto; padding: clamp(24px, 4vw, 44px) clamp(16px, 4vw, 40px) 60px; }
-    .page-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 30px; }
-    .page-title { font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3.4vw, 2.1rem); color: var(--ivory-bright); }
+    /* ── Layout: sidebar + content ──────────────────────────────── */
+    #layout { display: grid; grid-template-columns: var(--side-w) minmax(0, 1fr); max-width: 1340px; margin: 0 auto; }
+    aside#side {
+      border-right: 1px solid var(--line); padding: 26px 0 40px;
+      position: sticky; top: 55px; align-self: start; height: calc(100svh - 55px); overflow-y: auto;
+    }
+    .side-title { font-size: .56rem; letter-spacing: .3em; text-transform: uppercase; color: var(--muted-2); padding: 0 22px; margin: 18px 0 8px; }
+    .side-nav { display: flex; flex-direction: column; }
+    .side-link {
+      display: flex; align-items: center; gap: 12px; padding: 11px 22px; border: 0; background: none;
+      color: var(--muted); font-size: .8rem; text-align: left; border-left: 2px solid transparent;
+      transition: color .2s, background .2s;
+    }
+    .side-link:hover { color: var(--ivory-bright); background: rgba(198,164,104,.05); }
+    .side-link.active { color: var(--ivory-bright); border-left-color: var(--accent); background: var(--accent-soft); }
+    .side-link svg { width: 17px; height: 17px; flex: 0 0 auto; opacity: .8; }
+    .side-foot { padding: 22px; font-size: .62rem; color: var(--muted-2); line-height: 1.7; }
+    .marks-badge {
+      display: inline-block; margin-top: 8px; font-size: .54rem; letter-spacing: .18em; text-transform: uppercase;
+      border: 1px solid var(--line-strong); border-radius: 999px; padding: 3px 10px; color: var(--muted);
+    }
+    .marks-badge.live { border-color: rgba(198,164,104,.5); color: var(--accent); }
+
+    main#content { padding: clamp(20px, 3.4vw, 38px) clamp(16px, 3.4vw, 38px) 70px; min-width: 0; }
+    section.view { display: none; }
+    section.view.active { display: block; animation: viewIn .35s var(--ease); }
+    @keyframes viewIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+    .page-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; }
+    .page-title { font-family: 'Playfair Display', serif; font-size: clamp(1.35rem, 3vw, 1.85rem); color: var(--ivory-bright); }
     .page-title em { font-style: italic; color: var(--accent); }
-    .account-line { font-size: .68rem; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); }
-    .asof { font-size: .62rem; color: var(--muted-2); letter-spacing: .12em; text-transform: uppercase; }
+    .page-sub { font-size: .74rem; color: var(--muted); margin-top: 4px; }
+    .asof { font-size: .6rem; color: var(--muted-2); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
 
-    /* ── KPI row ────────────────────────────────────────────────── */
-    .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 26px; }
-    .kpi {
-      background: linear-gradient(160deg, var(--panel), var(--panel-2));
-      border: 1px solid var(--line); border-radius: var(--r); padding: 20px 22px;
-    }
-    .kpi-k { font-size: .58rem; letter-spacing: .28em; text-transform: uppercase; color: var(--muted-2); margin-bottom: 10px; }
-    .kpi-v { font-family: 'Playfair Display', serif; font-size: 1.55rem; color: var(--ivory-bright); }
-    .kpi-s { font-size: .68rem; margin-top: 6px; }
+    /* ── Cards, KPIs, tables ────────────────────────────────────── */
+    .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(185px, 1fr)); gap: 12px; margin-bottom: 22px; }
+    .kpi { background: linear-gradient(160deg, var(--panel), var(--panel-2)); border: 1px solid var(--line); border-radius: var(--r); padding: 17px 19px; }
+    .kpi-k { font-size: .56rem; letter-spacing: .26em; text-transform: uppercase; color: var(--muted-2); margin-bottom: 8px; }
+    .kpi-v { font-family: 'Playfair Display', serif; font-size: 1.4rem; color: var(--ivory-bright); }
+    .kpi-s { font-size: .66rem; margin-top: 5px; color: var(--muted); }
 
-    /* ── Cards & grid ───────────────────────────────────────────── */
-    .grid-2 { display: grid; grid-template-columns: 1.6fr 1fr; gap: 14px; margin-bottom: 26px; }
     .card {
       background: linear-gradient(160deg, var(--panel), var(--panel-2));
       border: 1px solid var(--line); border-radius: var(--r); overflow: hidden;
-      display: flex; flex-direction: column; min-width: 0;
+      display: flex; flex-direction: column; min-width: 0; margin-bottom: 18px;
     }
-    .card-head { display: flex; align-items: center; gap: 10px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
-    .card-title { font-size: .62rem; letter-spacing: .3em; text-transform: uppercase; color: var(--accent); }
+    .card-head { display: flex; align-items: center; gap: 10px; padding: 13px 17px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+    .card-title { font-size: .6rem; letter-spacing: .3em; text-transform: uppercase; color: var(--accent); }
     .card-sub { font-size: .6rem; color: var(--muted-2); letter-spacing: .08em; }
-    .card-body { padding: 16px 18px; flex: 1; min-width: 0; }
+    .card-body { padding: 15px 17px; flex: 1; min-width: 0; }
+    .card-action { margin-left: auto; background: none; border: 1px solid var(--line); border-radius: 6px; color: var(--muted); font-size: .56rem; letter-spacing: .18em; text-transform: uppercase; padding: 5px 11px; }
+    .card-action:hover { color: var(--accent); border-color: rgba(198,164,104,.5); }
 
-    #nav-chart-wrap { position: relative; height: 280px; }
-    #nav-chart { position: absolute; inset: 0; width: 100%; height: 100%; }
+    .grid-2 { display: grid; grid-template-columns: 1.6fr 1fr; gap: 16px; }
+    .grid-2 > .card { margin-bottom: 0; }
+    .grid-2 { margin-bottom: 18px; }
 
-    .alloc-flex { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }
-    #alloc-donut { width: 168px; height: 168px; flex: 0 0 auto; }
-    .alloc-legend { flex: 1; min-width: 170px; display: flex; flex-direction: column; gap: 10px; }
-    .alloc-row { display: flex; align-items: center; gap: 10px; font-size: .78rem; }
+    .chart-wrap { position: relative; height: 260px; }
+    .chart-wrap.tall { height: 300px; }
+    .chart-wrap.short { height: 150px; }
+    .chart-wrap canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+    table.grid { width: 100%; border-collapse: collapse; }
+    table.grid th {
+      text-align: right; font-weight: 500; font-size: .54rem; letter-spacing: .18em; text-transform: uppercase;
+      color: var(--muted-2); padding: 8px 10px; border-bottom: 1px solid var(--line-strong); white-space: nowrap;
+      position: sticky; top: 0; background: #0D1727; z-index: 2;
+    }
+    table.grid td { text-align: right; padding: 8px 10px; border-bottom: 1px solid var(--line); font-size: .74rem; white-space: nowrap; }
+    table.grid th:first-child, table.grid td:first-child { text-align: left; }
+    table.grid tr:last-child td { border-bottom: 0; }
+    table.grid tr.subtotal td { border-top: 1px solid var(--line-strong); color: var(--ivory-bright); font-weight: 500; background: rgba(198,164,104,.04); }
+    .table-scroll { overflow-x: auto; max-height: 430px; overflow-y: auto; }
+    .cell-note { color: var(--muted-2); font-size: .64rem; }
+
+    .alloc-flex { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+    #alloc-donut { width: 158px; height: 158px; flex: 0 0 auto; }
+    .alloc-legend { flex: 1; min-width: 165px; display: flex; flex-direction: column; gap: 9px; }
+    .alloc-row { display: flex; align-items: center; gap: 10px; font-size: .76rem; }
     .alloc-swatch { width: 10px; height: 10px; border-radius: 3px; flex: 0 0 auto; }
     .alloc-name { color: var(--muted); flex: 1; }
     .alloc-pct { color: var(--ivory-bright); }
 
-    table.grid { width: 100%; border-collapse: collapse; }
-    table.grid th {
-      text-align: right; font-weight: 500; font-size: .56rem; letter-spacing: .2em; text-transform: uppercase;
-      color: var(--muted-2); padding: 8px 10px; border-bottom: 1px solid var(--line-strong); white-space: nowrap;
-    }
-    table.grid td { text-align: right; padding: 9px 10px; border-bottom: 1px solid var(--line); font-size: .76rem; white-space: nowrap; }
-    table.grid th:first-child, table.grid td:first-child { text-align: left; }
-    .table-scroll { overflow-x: auto; }
+    /* Monthly returns heat table */
+    .ret-pos { background: rgba(111,191,151,.12); color: var(--pos); }
+    .ret-neg { background: rgba(201,123,111,.12); color: var(--neg); }
+    .ret-ytd { font-weight: 600; color: var(--ivory-bright); }
 
+    /* Stat strip */
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; margin-bottom: 18px; }
+    .stat { background: rgba(14,25,40,.72); padding: 15px 17px; }
+    .stat-k { font-size: .54rem; letter-spacing: .24em; text-transform: uppercase; color: var(--muted-2); margin-bottom: 7px; }
+    .stat-v { font-size: 1rem; color: var(--ivory-bright); }
+    .stat-s { font-size: .6rem; color: var(--muted-2); margin-top: 3px; }
+
+    /* Documents */
+    .doc-filters { display: flex; gap: 6px; flex-wrap: wrap; padding: 10px 17px; border-bottom: 1px solid var(--line); }
+    .df { background: none; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: .56rem; letter-spacing: .18em; text-transform: uppercase; padding: 4px 12px; }
+    .df.active { color: var(--accent); border-color: rgba(198,164,104,.5); background: var(--accent-soft); }
     .doc-list { display: flex; flex-direction: column; }
-    .doc {
-      display: flex; align-items: center; gap: 14px; padding: 12px 18px; border-bottom: 1px solid var(--line);
-      transition: background .2s;
-    }
+    .doc { display: flex; align-items: center; gap: 14px; padding: 12px 17px; border-bottom: 1px solid var(--line); transition: background .2s; }
     .doc:hover { background: rgba(198,164,104,.05); }
     .doc:last-child { border-bottom: 0; }
-    .doc-icon { width: 30px; height: 30px; flex: 0 0 auto; color: var(--accent); }
+    .doc-icon { width: 28px; height: 28px; flex: 0 0 auto; color: var(--accent); }
     .doc-body { flex: 1; min-width: 0; }
-    .doc-name { font-size: .8rem; color: var(--ivory); }
-    .doc-meta { font-size: .6rem; color: var(--muted-2); letter-spacing: .14em; text-transform: uppercase; margin-top: 2px; }
-    .doc-action { font-size: .6rem; letter-spacing: .2em; text-transform: uppercase; white-space: nowrap; }
+    .doc-name { font-size: .78rem; color: var(--ivory); }
+    .doc-meta { font-size: .58rem; color: var(--muted-2); letter-spacing: .12em; text-transform: uppercase; margin-top: 2px; }
+    .doc-action { font-size: .58rem; letter-spacing: .2em; text-transform: uppercase; white-space: nowrap; }
     .doc-action.na { color: var(--muted-2); }
 
+    /* Activity */
     .activity { display: flex; flex-direction: column; }
-    .act { display: flex; gap: 14px; padding: 11px 18px; border-bottom: 1px solid var(--line); }
+    .act { display: flex; gap: 14px; padding: 11px 17px; border-bottom: 1px solid var(--line); }
     .act:last-child { border-bottom: 0; }
     .act-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); margin-top: 7px; flex: 0 0 auto; }
+    .act-dot.flow { background: var(--pos); }
+    .act-dot.gov { background: var(--muted-2); }
     .act-body { flex: 1; }
-    .act-text { font-size: .78rem; color: var(--ivory); }
-    .act-time { font-size: .6rem; color: var(--muted-2); letter-spacing: .14em; text-transform: uppercase; margin-top: 2px; }
+    .act-text { font-size: .76rem; color: var(--ivory); }
+    .act-time { font-size: .58rem; color: var(--muted-2); letter-spacing: .12em; text-transform: uppercase; margin-top: 2px; }
 
-    .grid-3 { display: grid; grid-template-columns: 1.25fr 1fr; gap: 14px; margin-bottom: 26px; }
+    /* Account / profile */
+    .pref-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 11px 0; border-bottom: 1px solid var(--line); }
+    .pref-row:last-child { border-bottom: 0; }
+    .pref-k { font-size: .78rem; color: var(--ivory); }
+    .pref-s { font-size: .62rem; color: var(--muted-2); margin-top: 2px; }
+    .toggle { position: relative; width: 40px; height: 22px; flex: 0 0 auto; }
+    .toggle input { opacity: 0; width: 100%; height: 100%; position: absolute; margin: 0; cursor: pointer; z-index: 2; }
+    .toggle-track { position: absolute; inset: 0; border-radius: 999px; background: #0B1424; border: 1px solid var(--line-strong); transition: background .25s, border-color .25s; }
+    .toggle-thumb { position: absolute; top: 3px; left: 3px; width: 16px; height: 16px; border-radius: 50%; background: var(--muted); transition: transform .25s var(--ease), background .25s; }
+    .toggle input:checked ~ .toggle-track { background: var(--accent-soft); border-color: rgba(198,164,104,.55); }
+    .toggle input:checked ~ .toggle-thumb { transform: translateX(18px); background: var(--accent); }
+    dl.kv { display: grid; grid-template-columns: auto 1fr; gap: 8px 22px; }
+    dl.kv dt { font-size: .6rem; letter-spacing: .22em; text-transform: uppercase; color: var(--muted-2); padding-top: 2px; white-space: nowrap; }
+    dl.kv dd { font-size: .8rem; color: var(--ivory); text-align: right; }
 
     .contact-strip {
       display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap;
-      border: 1px solid var(--line-strong); border-radius: var(--r); padding: 22px 26px;
-      background: linear-gradient(165deg, var(--panel), var(--panel-2));
+      border: 1px solid var(--line-strong); border-radius: var(--r); padding: 20px 24px;
+      background: linear-gradient(165deg, var(--panel), var(--panel-2)); margin-bottom: 18px;
     }
-    .contact-strip h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--ivory-bright); margin-bottom: 4px; }
-    .contact-strip p { font-size: .78rem; color: var(--muted); }
+    .contact-strip h3 { font-family: 'Playfair Display', serif; font-size: 1.05rem; color: var(--ivory-bright); margin-bottom: 4px; }
+    .contact-strip p { font-size: .76rem; color: var(--muted); }
     .btn {
-      display: inline-flex; align-items: center; gap: 8px; font-size: .66rem; letter-spacing: .24em; text-transform: uppercase;
-      padding: 12px 22px; border-radius: 6px; border: 1px solid var(--line-strong); color: var(--ivory); background: none;
+      display: inline-flex; align-items: center; gap: 8px; font-size: .64rem; letter-spacing: .22em; text-transform: uppercase;
+      padding: 11px 20px; border-radius: 6px; border: 1px solid var(--line-strong); color: var(--ivory); background: none;
       transition: border-color .3s, background .3s;
     }
     .btn:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--ivory-bright); }
 
-    footer.portal-foot {
-      border-top: 1px solid var(--line); margin-top: 40px; padding-top: 22px;
-      font-size: .66rem; color: var(--muted-2); line-height: 1.7;
+    footer.portal-foot { border-top: 1px solid var(--line); margin-top: 36px; padding-top: 20px; font-size: .64rem; color: var(--muted-2); line-height: 1.7; }
+
+    /* ── Mobile ─────────────────────────────────────────────────── */
+    #mobile-tabs { display: none; }
+    @media (max-width: 900px) {
+      #layout { grid-template-columns: 1fr; }
+      aside#side { display: none; }
+      .bar-links { display: none; }
+      #mobile-tabs {
+        display: flex; gap: 4px; overflow-x: auto; padding: 8px 12px;
+        position: sticky; top: 55px; z-index: 25;
+        background: rgba(7,13,23,.94); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
+        border-bottom: 1px solid var(--line); scrollbar-width: none;
+      }
+      #mobile-tabs::-webkit-scrollbar { display: none; }
+      .m-tab { flex: 0 0 auto; background: none; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; padding: 7px 14px; }
+      .m-tab.active { color: var(--accent); border-color: rgba(198,164,104,.5); background: var(--accent-soft); }
+      .grid-2 { grid-template-columns: 1fr; }
     }
 
-    @media (max-width: 900px) {
-      .grid-2, .grid-3 { grid-template-columns: 1fr; }
-      .bar-links { display: none; }
+    /* ── Print (statements) ─────────────────────────────────────── */
+    @media print {
+      body { background: #fff; color: #111; }
+      #gate, header.bar, .demo-ribbon, aside#side, #mobile-tabs, .signout, .card-action, footer.portal-foot, .contact-strip { display: none !important; }
+      #app, #app.active { display: block; }
+      section.view { display: none !important; }
+      section.view.active { display: block !important; }
+      .card, .kpi, .stat { border: 1px solid #bbb; background: #fff; box-shadow: none; }
+      .kpi-v, .page-title, table.grid td { color: #111; }
+      table.grid th { color: #555; background: #fff; }
+      a { color: #111; }
     }
   </style>
 </head>
@@ -267,99 +351,232 @@
     <nav class="bar-links" aria-label="Estate">
       <a class="bar-link" href="../platform/">Terminal</a>
       <a class="bar-link" href="../family-office/">Blueprint</a>
-      <a class="bar-link" href="mailto:office@thetitanmarketsllc.com">Contact</a>
+      <a class="bar-link" href="mailto:ir@thetitanmarketsllc.com">Contact IR</a>
     </nav>
     <button class="signout" id="signout">Sign Out</button>
   </header>
   <div class="demo-ribbon">Demonstration portal — all figures are sample data</div>
 
-  <main>
-    <div class="page-head">
-      <div>
-        <h1 class="page-title">Good day, <em>Titan Family</em></h1>
-        <div class="account-line">Sample Account · TMC-001 · The Titan Family Trust</div>
-      </div>
-      <div class="asof" id="asof">As of —</div>
-    </div>
+  <!-- Mobile tab strip -->
+  <nav id="mobile-tabs" aria-label="Portal sections"></nav>
 
-    <!-- KPI row -->
-    <div class="kpis" id="kpis"></div>
+  <div id="layout">
+    <!-- ══════════ SIDEBAR ══════════ -->
+    <aside id="side">
+      <div class="side-title">Portfolio</div>
+      <nav class="side-nav" id="side-nav" aria-label="Portal sections"></nav>
+      <div class="side-foot">
+        Sample Account · TMC-001<br />The Titan Family Trust
+        <br /><span class="marks-badge" id="marks-badge">marks: sample</span>
+      </div>
+    </aside>
 
-    <!-- NAV chart + allocation -->
-    <div class="grid-2">
-      <div class="card">
-        <div class="card-head">
-          <span class="card-title">Net Asset Value</span>
-          <span class="card-sub">Monthly · since inception (sample)</span>
-        </div>
-        <div class="card-body">
-          <div id="nav-chart-wrap"><canvas id="nav-chart"></canvas></div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-head">
-          <span class="card-title">Allocation</span>
-          <span class="card-sub">By mandate (sample)</span>
-        </div>
-        <div class="card-body alloc-flex">
-          <canvas id="alloc-donut" width="336" height="336"></canvas>
-          <div class="alloc-legend" id="alloc-legend"></div>
-        </div>
-      </div>
-    </div>
+    <!-- ══════════ CONTENT ══════════ -->
+    <main id="content">
 
-    <!-- Capital account -->
-    <div class="card" style="margin-bottom:26px;">
-      <div class="card-head">
-        <span class="card-title">Capital Account</span>
-        <span class="card-sub">Quarterly summary (sample)</span>
-      </div>
-      <div class="table-scroll">
-        <table class="grid" id="cap-table"></table>
-      </div>
-    </div>
-
-    <!-- Documents + activity -->
-    <div class="grid-3">
-      <div class="card">
-        <div class="card-head">
-          <span class="card-title">Statements &amp; Documents</span>
-          <span class="card-sub">Issued by the office</span>
+      <!-- ════════ OVERVIEW ════════ -->
+      <section class="view" id="view-overview">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Good day, <em>Titan Family</em></h1>
+            <div class="page-sub">Sample Account · TMC-001 · The Titan Family Trust</div>
+          </div>
+          <div class="asof" id="asof-overview"></div>
         </div>
-        <div class="doc-list" id="doc-list"></div>
-      </div>
-      <div class="card">
-        <div class="card-head">
-          <span class="card-title">Recent Activity</span>
+        <div class="kpis" id="kpis"></div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-head">
+              <span class="card-title">Net Asset Value</span>
+              <span class="card-sub">Monthly · since inception (sample)</span>
+            </div>
+            <div class="card-body"><div class="chart-wrap tall"><canvas id="nav-chart"></canvas></div></div>
+          </div>
+          <div class="card">
+            <div class="card-head">
+              <span class="card-title">Allocation</span>
+              <span class="card-sub">By mandate (sample)</span>
+            </div>
+            <div class="card-body alloc-flex">
+              <canvas id="alloc-donut" width="316" height="316"></canvas>
+              <div class="alloc-legend" id="alloc-legend"></div>
+            </div>
+          </div>
         </div>
-        <div class="activity" id="activity"></div>
-      </div>
-    </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Recent Activity</span></div>
+            <div class="activity" id="activity-recent"></div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Next On The Calendar</span><span class="card-sub">Governance cadence</span></div>
+            <div class="card-body" id="calendar-next"></div>
+          </div>
+        </div>
+      </section>
 
-    <div class="contact-strip">
-      <div>
-        <h3>Questions about your account?</h3>
-        <p>Write to the office directly — statements, distributions, documents, and meetings.</p>
-      </div>
-      <a class="btn" href="mailto:ir@thetitanmarketsllc.com">ir@thetitanmarketsllc.com</a>
-    </div>
+      <!-- ════════ PERFORMANCE ════════ -->
+      <section class="view" id="view-performance">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Performance</h1>
+            <div class="page-sub">Net of costs · time-weighted · sample data</div>
+          </div>
+          <div class="asof" id="asof-performance"></div>
+        </div>
+        <div class="stats" id="perf-stats"></div>
+        <div class="card">
+          <div class="card-head">
+            <span class="card-title">Growth of 100</span>
+            <span class="card-sub">Net TWR vs. objective (CPI + 4% proxy) · sample</span>
+          </div>
+          <div class="card-body"><div class="chart-wrap tall"><canvas id="twr-chart"></canvas></div></div>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-title">Drawdown</span><span class="card-sub">From running peak · sample</span></div>
+          <div class="card-body"><div class="chart-wrap short"><canvas id="dd-chart"></canvas></div></div>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-title">Monthly Net Returns</span><span class="card-sub">Percent · sample</span></div>
+          <div class="table-scroll"><table class="grid" id="monthly-table"></table></div>
+        </div>
+      </section>
 
-    <footer class="portal-foot">
-      Demonstration portal. All balances, returns, allocations, documents, and activity shown on this page are
-      <strong>sample data</strong> generated for preview purposes and do not represent actual accounts or results.
-      Titan Meridian Capital is a private family investment office; it does not offer products or services to the
-      public. Past performance is not indicative of future results. © 2026 Titan Meridian Capital.
-    </footer>
-  </main>
+      <!-- ════════ HOLDINGS ════════ -->
+      <section class="view" id="view-holdings">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Holdings</h1>
+            <div class="page-sub">Sample positions · trading-book marks upgrade to the live quote pipeline when reachable</div>
+          </div>
+          <div class="asof" id="asof-holdings"></div>
+        </div>
+        <div class="kpis" id="hold-kpis"></div>
+        <div id="holdings-cards"></div>
+      </section>
+
+      <!-- ════════ CAPITAL ACCOUNT ════════ -->
+      <section class="view" id="view-capital">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Capital Account</h1>
+            <div class="page-sub">Quarterly summary since inception · sample</div>
+          </div>
+          <div class="asof" id="asof-capital"></div>
+        </div>
+        <div class="card">
+          <div class="card-head">
+            <span class="card-title">Quarterly Statement</span>
+            <span class="card-sub">All periods</span>
+            <button class="card-action" id="csv-capital">Download CSV</button>
+            <button class="card-action" onclick="window.print()">Print</button>
+          </div>
+          <div class="table-scroll"><table class="grid" id="cap-table"></table></div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Flows Ledger</span><span class="card-sub">Contributions &amp; distributions</span></div>
+            <div class="table-scroll"><table class="grid" id="flows-table"></table></div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Standing Distribution Programme</span></div>
+            <div class="card-body" id="dist-programme"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ════════ DOCUMENTS ════════ -->
+      <section class="view" id="view-documents">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Statements &amp; Documents</h1>
+            <div class="page-sub">Issued by the office · governance documents open directly</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="doc-filters" id="doc-filters"></div>
+          <div class="doc-list" id="doc-list"></div>
+        </div>
+      </section>
+
+      <!-- ════════ ACTIVITY ════════ -->
+      <section class="view" id="view-activity">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Activity</h1>
+            <div class="page-sub">Portal and account events · sample</div>
+          </div>
+        </div>
+        <div class="contact-strip">
+          <div>
+            <h3>Questions about your account?</h3>
+            <p>Write to the office directly — statements, distributions, documents, and meetings.</p>
+          </div>
+          <a class="btn" href="mailto:ir@thetitanmarketsllc.com">ir@thetitanmarketsllc.com</a>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-title">Full Log</span></div>
+          <div class="activity" id="activity-full"></div>
+        </div>
+      </section>
+
+      <!-- ════════ ACCOUNT ════════ -->
+      <section class="view" id="view-account">
+        <div class="page-head">
+          <div>
+            <h1 class="page-title">Account &amp; Preferences</h1>
+            <div class="page-sub">Reporting preferences are stored in this browser only</div>
+          </div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Account Details</span><span class="card-sub">Sample</span></div>
+            <div class="card-body">
+              <dl class="kv">
+                <dt>Account</dt><dd>TMC-001 · The Titan Family Trust</dd>
+                <dt>Inception</dt><dd>January 2023</dd>
+                <dt>Base Currency</dt><dd>USD</dd>
+                <dt>Mandate</dt><dd>Multi-asset absolute return (IPS-governed)</dd>
+                <dt>Reporting</dt><dd>Monthly statement · quarterly letter</dd>
+                <dt>Custody</dt><dd>Segregated accounts at regulated brokers &amp; banks</dd>
+                <dt>Portal Session</dt><dd id="session-info">—</dd>
+              </dl>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Reporting Preferences</span></div>
+            <div class="card-body" id="prefs"></div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-head"><span class="card-title">Security Notes</span></div>
+          <div class="card-body" style="font-size:.76rem; color:var(--muted); line-height:1.8;">
+            This preview gate protects nothing — it exists to demonstrate the portal experience.
+            Production access uses personally-issued credentials over an authenticated backend
+            (see the <a href="../docs/family_office/07_technology_estate.md">technology estate</a>, §4).
+            The office never asks for credentials by email; distribution instructions are always
+            confirmed by call-back to a number on file.
+          </div>
+        </div>
+      </section>
+
+      <footer class="portal-foot">
+        Demonstration portal. All balances, returns, holdings, documents, and activity shown are
+        <strong>sample data</strong> generated for preview purposes and do not represent actual accounts or
+        results. Where marked, instrument prices come from the estate's public market-data pipeline and may
+        be delayed. Titan Meridian Capital is a private family investment office; it does not offer products
+        or services to the public. Past performance is not indicative of future results.
+        © 2026 Titan Meridian Capital.
+      </footer>
+    </main>
+  </div>
 </div>
 
 <script>
 (function () {
   'use strict';
 
-  /* ════════════════ Gate (demo) ════════════════
-     Client-side preview gate only — the page says so plainly.
-     Production access would sit behind real authentication.    */
+  /* ════════════════ Gate (demo) ════════════════ */
   var CODE = 'MERIDIAN';
   var gate = document.getElementById('gate');
   var app = document.getElementById('app');
@@ -371,12 +588,11 @@
     app.classList.add('active');
     boot();
   }
-
   document.getElementById('gate-form').addEventListener('submit', function (e) {
     e.preventDefault();
     var v = (document.getElementById('gate-code').value || '').trim().toUpperCase();
     if (v === CODE) {
-      try { sessionStorage.setItem('tmc-portal-demo', '1'); } catch (err) {}
+      try { sessionStorage.setItem('tmc-portal-demo', '1'); sessionStorage.setItem('tmc-portal-since', String(Date.now())); } catch (err) {}
       openApp();
     } else {
       document.getElementById('gate-error').textContent = 'That code was not recognised. Preview code: MERIDIAN';
@@ -387,9 +603,8 @@
     location.reload();
   });
 
-  /* ════════════════ Sample dataset ════════════════
-     One seeded monthly series drives every figure on the page,
-     so the KPIs, chart, and capital account always agree.       */
+  /* ════════════════ Seeded sample dataset ════════════════
+     One monthly series drives every figure in every section.  */
   function mulberry32(a) {
     return function () {
       a |= 0; a = a + 0x6D2B79F5 | 0;
@@ -399,20 +614,21 @@
     };
   }
   var rng = mulberry32(0x51DE);
-  var START = { y: 2023, m: 0 };           // Jan 2023 inception
-  var MONTHS = 43;                          // through Jul 2026
+  var START = { y: 2023, m: 0 };
+  var MONTHS = 43;                 // Jan 2023 → Jul 2026
   var START_CAP = 2000000;
+  var OBJ_MONTHLY = 0.0057;        // CPI+4% proxy ≈ 7.1%/yr
 
-  var series = [];                          // {y, m, nav, ret, contrib, wd}
+  var series = [];
   (function build() {
     var nav = START_CAP;
     for (var i = 0; i < MONTHS; i++) {
       var y = START.y + Math.floor((START.m + i) / 12);
       var m = (START.m + i) % 12;
-      var ret = (rng() - 0.40) * 0.05;                  // mild positive drift
-      if (i === 14) ret = -0.048;                       // a real drawdown month
+      var ret = (rng() - 0.40) * 0.05;
+      if (i === 14) ret = -0.048;
       if (i === 15) ret = -0.021;
-      var contrib = (i === 6 || i === 19) ? 150000 : 0; // two sample contributions
+      var contrib = (i === 6 || i === 19) ? 150000 : 0;
       var wd = (i >= 24 && (m === 2 || m === 5 || m === 8 || m === 11)) ? 15000 : 0;
       nav = nav * (1 + ret) + contrib - wd;
       series.push({ y: y, m: m, nav: nav, ret: ret, contrib: contrib, wd: wd });
@@ -420,26 +636,233 @@
   })();
 
   var MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  function money0(v) { return '$' + Math.round(v).toLocaleString('en-US'); }
-  function pct(v) { return (v >= 0 ? '+' : '') + (v * 100).toFixed(1) + '%'; }
-
   var last = series[series.length - 1];
-  var jan = series.filter(function (s) { return s.y === last.y && s.m === 0; })[0];
-  var ytdRet = jan ? (last.nav / (jan.nav / (1 + jan.ret)) - 1) : 0;
-  // Money-weighted-ish ITD figure for display: total gain over contributed capital.
+  var ASOF = MONTH_NAMES[last.m] + ' ' + last.y;
+
+  function money0(v) { var s = v < 0 ? '−' : ''; return s + '$' + Math.abs(Math.round(v)).toLocaleString('en-US'); }
+  function money2(v) { var s = v < 0 ? '−' : ''; return s + '$' + Math.abs(v).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+  function pct1(v) { return (v >= 0 ? '+' : '') + (v * 100).toFixed(1) + '%'; }
+  function pct2(v) { return (v >= 0 ? '+' : '') + (v * 100).toFixed(2) + '%'; }
+  function fmt(v, dp) { return v.toLocaleString('en-US', { minimumFractionDigits: dp, maximumFractionDigits: dp }); }
+
+  /* Derived aggregates */
   var totalContrib = START_CAP + series.reduce(function (a, s) { return a + s.contrib; }, 0);
   var totalWd = series.reduce(function (a, s) { return a + s.wd; }, 0);
   var itdGain = last.nav + totalWd - totalContrib;
   var wdYtd = series.filter(function (s) { return s.y === last.y; }).reduce(function (a, s) { return a + s.wd; }, 0);
+  var ytdRet = series.filter(function (s) { return s.y === last.y; })
+    .reduce(function (a, s) { return a * (1 + s.ret); }, 1) - 1;
 
-  /* ════════════════ KPIs ════════════════ */
+  // TWR index, objective index, drawdown
+  var twr = [], obj = [], dd = [];
+  (function () {
+    var t = 100, o = 100, peak = 100;
+    for (var i = 0; i < series.length; i++) {
+      t *= (1 + series[i].ret); o *= (1 + OBJ_MONTHLY);
+      peak = Math.max(peak, t);
+      twr.push(t); obj.push(o); dd.push(t / peak - 1);
+    }
+  })();
+  var itdTwr = twr[twr.length - 1] / 100 - 1;
+  var years = MONTHS / 12;
+  var annTwr = Math.pow(1 + itdTwr, 1 / years) - 1;
+  var rets = series.map(function (s) { return s.ret; });
+  var meanRet = rets.reduce(function (a, b) { return a + b; }, 0) / rets.length;
+  var vol = Math.sqrt(rets.reduce(function (a, b) { return a + (b - meanRet) * (b - meanRet); }, 0) / (rets.length - 1)) * Math.sqrt(12);
+  var maxDD = Math.min.apply(null, dd);
+  var bestM = Math.max.apply(null, rets), worstM = Math.min.apply(null, rets);
+  var posMonths = rets.filter(function (r) { return r >= 0; }).length;
+
+  /* ════════════════ Holdings model ════════════════
+     Weights × NAV, holdings normalized inside each mandate.
+     Trading-book marks re-price from quotes.json when it loads. */
+  var ALLOC = [
+    { key: 'trading',  name: 'Trading Book',       pct: 38, color: '#C6A468' },
+    { key: 'income',   name: 'Income & Credit',    pct: 27, color: '#6FBF97' },
+    { key: 'real',     name: 'Real & Hard Assets', pct: 22, color: '#8B96A8' },
+    { key: 'reserves', name: 'Strategic Reserves', pct: 13, color: '#5E6B80' }
+  ];
+
+  // Sample marks near real levels; replaced by pipeline quotes when available.
+  var MARKS = {
+    XAUUSD: { px: 4020, dp: 2 }, XAGUSD: { px: 57.0, dp: 3 },
+    US500:  { px: 7450, dp: 1 }, EURUSD: { px: 1.145, dp: 4 },
+    BTCUSD: { px: 64500, dp: 0 }
+  };
+  var marksSource = 'sample';
+  var marksStamp = '';
+
+  // Trading book: unit-weights within the book (sum 1).
+  var TRADING = [
+    { sym: 'XAUUSD', name: 'Gold · COMEX',       w: .34, unit: 'oz-lots' },
+    { sym: 'US500',  name: 'S&P 500 futures',    w: .26, unit: 'contracts' },
+    { sym: 'EURUSD', name: 'Euro / Dollar',      w: .18, unit: 'notional' },
+    { sym: 'XAGUSD', name: 'Silver · COMEX',     w: .12, unit: 'oz-lots' },
+    { sym: 'BTCUSD', name: 'Bitcoin (spot)',     w: .10, unit: 'BTC' }
+  ];
+  var INCOME = [
+    { name: 'US T-Bill ladder · 1–6 m',  w: .46, note: 'rolling 4-rung ladder' },
+    { name: 'US Treasury notes · 2–5 y', w: .34, note: 'held to maturity' },
+    { name: 'IG credit fund',            w: .20, note: 'daily liquidity' }
+  ];
+  var REAL = [
+    { name: 'Allocated gold (vaulted)',   w: .58, note: 'segregated title' },
+    { name: 'Allocated silver (vaulted)', w: .22, note: 'segregated title' },
+    { name: 'Property (carrying value)',  w: .20, note: 'appraised annually' }
+  ];
+  var RESERVES = [
+    { name: 'USD cash — operating',   w: .55, note: 'bank, insured tiers' },
+    { name: 'T-Bills < 3 m',          w: .45, note: 'deployment reserve' }
+  ];
+
+  function mandateValue(key) {
+    var a = ALLOC.filter(function (x) { return x.key === key; })[0];
+    return last.nav * a.pct / 100;
+  }
+
+  // Trading book positions: qty derived once from sample marks (entry ≈ 6% below mark
+  // for a modest unrealized gain), then re-marked live when quotes.json arrives.
+  var tradingBook = TRADING.map(function (t) {
+    var value = mandateValue('trading') * t.w;
+    var mark = MARKS[t.sym].px;
+    var qty = value / mark;
+    return { sym: t.sym, name: t.name, unit: t.unit, qty: qty, entry: mark * 0.94, mark: mark, dp: MARKS[t.sym].dp };
+  });
+
+  function loadMarks() {
+    fetch('../platform/data/quotes.json?v=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+      .then(function (j) {
+        if (!j.symbols) return;
+        var got = 0;
+        tradingBook.forEach(function (p) {
+          var s = j.symbols[p.sym];
+          if (s && s.last != null) { p.mark = s.last; got++; }
+        });
+        if (got) {
+          marksSource = 'pipeline';
+          marksStamp = j.generated_at || '';
+          var b = document.getElementById('marks-badge');
+          b.textContent = 'marks: live pipeline';
+          b.className = 'marks-badge live';
+          b.title = 'Trading-book marks from platform/data/quotes.json · generated ' + marksStamp;
+          renderHoldings();
+        }
+      })
+      .catch(function () { /* sample marks stand */ });
+  }
+
+  /* ════════════════ Documents & activity data ════════════════ */
+  function lastMonths(n) {
+    var out = [];
+    for (var i = series.length - 1; i >= 0 && out.length < n; i--) out.push(series[i]);
+    return out;
+  }
+  var DOCS = [];
+  lastMonths(6).forEach(function (s) {
+    DOCS.push({ cat: 'statements', name: 'Capital Statement — ' + MONTH_NAMES[s.m] + ' ' + s.y + ' (sample)', meta: 'Statement · PDF', href: null });
+  });
+  [['Q2 2026'], ['Q1 2026'], ['Q4 2025'], ['Q3 2025']].forEach(function (q) {
+    DOCS.push({ cat: 'letters', name: 'Quarterly Letter — ' + q[0] + ' (sample)', meta: 'Letter · PDF', href: null });
+  });
+  DOCS.push(
+    { cat: 'governance', name: 'Investment Policy Statement', meta: 'Governance · current template', href: '../docs/family_office/02_investment_policy_statement.md' },
+    { cat: 'governance', name: 'Family Governance Charter', meta: 'Governance · current template', href: '../docs/family_office/03_governance_charter.md' },
+    { cat: 'governance', name: 'Operations Runbook', meta: 'Governance · current template', href: '../docs/family_office/04_operations_runbook.md' },
+    { cat: 'governance', name: 'Family Office Blueprint', meta: 'Operating manual · web', href: '../family-office/' },
+    { cat: 'tax', name: 'Schedule K-1 — 2025 (sample)', meta: 'Tax · issued on request', href: null },
+    { cat: 'tax', name: 'Year-End Tax Package — 2025 (sample)', meta: 'Tax · issued on request', href: null }
+  );
+
+  var ACTIVITY = [
+    { t: 'Monthly capital statement published to the portal.', when: 'Jul 2026', kind: 'doc' },
+    { t: 'Market-data pipeline connected — trading-book marks now refresh from the live wire.', when: 'Jul 2026', kind: 'gov' },
+    { t: 'Quarterly distribution processed under the standing programme.', when: 'Jun 2026', kind: 'flow' },
+    { t: 'Quarterly letter issued — allocation review and mandate scoring.', when: 'Jun 2026', kind: 'doc' },
+    { t: 'Monthly reconciliation signed off — broker ↔ log ↔ bank, no breaks.', when: 'Jun 2026', kind: 'gov' },
+    { t: 'Quarterly distribution processed under the standing programme.', when: 'Mar 2026', kind: 'flow' },
+    { t: 'Annual IPS re-ratified by the investment committee.', when: 'Jan 2026', kind: 'gov' },
+    { t: 'Annual governance meeting held; access review completed.', when: 'Jan 2026', kind: 'gov' },
+    { t: 'Quarterly distribution processed under the standing programme.', when: 'Dec 2025', kind: 'flow' },
+    { t: 'Portal preview issued to family members.', when: 'Oct 2025', kind: 'doc' },
+    { t: 'Contribution received and allocated per IPS bands.', when: 'Aug 2024', kind: 'flow' },
+    { t: 'Account TMC-001 opened; inception statement issued.', when: 'Jan 2023', kind: 'gov' }
+  ];
+
+  /* ════════════════ Navigation ════════════════ */
+  var VIEWS = [
+    { id: 'overview',    label: 'Overview',        icon: '<path d="M3 10 L10 3 L17 10 M5 9 V17 H15 V9"/>' },
+    { id: 'performance', label: 'Performance',     icon: '<path d="M3 15 L8 9 L11 12 L17 4"/><path d="M13 4 H17 V8"/>' },
+    { id: 'holdings',    label: 'Holdings',        icon: '<rect x="3" y="4" width="14" height="4" rx="1"/><rect x="3" y="12" width="14" height="4" rx="1"/>' },
+    { id: 'capital',     label: 'Capital Account', icon: '<circle cx="10" cy="10" r="7"/><path d="M10 6 V14 M7.5 8 H11 a1.8 1.8 0 0 1 0 3.6 H9 a1.8 1.8 0 0 0 0 3.6 H12.5" stroke-width="1"/>' },
+    { id: 'documents',   label: 'Documents',       icon: '<path d="M5 2 h7 l3 3 v13 H5 Z"/><path d="M12 2 v3 h3"/>' },
+    { id: 'activity',    label: 'Activity',        icon: '<circle cx="10" cy="10" r="7"/><path d="M10 6 V10 L13 12"/>' },
+    { id: 'account',     label: 'Account',         icon: '<circle cx="10" cy="7" r="3.4"/><path d="M4 17 c0-3.3 2.7-5 6-5 s6 1.7 6 5"/>' }
+  ];
+  var activeView = 'overview';
+
+  function buildNav() {
+    var side = document.getElementById('side-nav');
+    var mob = document.getElementById('mobile-tabs');
+    side.innerHTML = VIEWS.map(function (v) {
+      return '<button class="side-link" data-view="' + v.id + '">' +
+        '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">' + v.icon + '</svg>' +
+        v.label + '</button>';
+    }).join('');
+    mob.innerHTML = VIEWS.map(function (v) {
+      return '<button class="m-tab" data-view="' + v.id + '">' + v.label + '</button>';
+    }).join('');
+    [side, mob].forEach(function (host) {
+      host.addEventListener('click', function (e) {
+        var b = e.target.closest('[data-view]'); if (!b) return;
+        selectView(b.getAttribute('data-view'));
+      });
+    });
+  }
+
+  function selectView(id) {
+    activeView = id;
+    document.querySelectorAll('.view').forEach(function (s) {
+      s.classList.toggle('active', s.id === 'view-' + id);
+    });
+    document.querySelectorAll('[data-view]').forEach(function (b) {
+      b.classList.toggle('active', b.getAttribute('data-view') === id);
+    });
+    try { history.replaceState(null, '', '#' + id); } catch (e) {}
+    // charts need their canvas visible to size correctly
+    if (id === 'overview') { drawNav(); drawDonut(); }
+    if (id === 'performance') { drawTwr(); drawDd(); }
+  }
+
+  /* ════════════════ Renderers ════════════════ */
   function boot() {
-    document.getElementById('asof').textContent =
-      'As of ' + MONTH_NAMES[last.m] + ' ' + last.y + ' · Sample';
+    ['overview', 'performance', 'holdings', 'capital'].forEach(function (v) {
+      var el = document.getElementById('asof-' + v);
+      if (el) el.textContent = 'As of ' + ASOF + ' · Sample';
+    });
+    buildNav();
+    renderKpis();
+    renderActivity();
+    renderCalendarNext();
+    renderPerfStats();
+    renderMonthlyTable();
+    renderHoldings();
+    renderCapital();
+    renderFlows();
+    renderDistProgramme();
+    renderDocFilters();
+    renderDocs();
+    renderPrefs();
+    renderSessionInfo();
+    var initial = (location.hash || '#overview').slice(1);
+    selectView(VIEWS.some(function (v) { return v.id === initial; }) ? initial : 'overview');
+    loadMarks();
+  }
 
+  function renderKpis() {
     var kpis = [
-      { k: 'Net Asset Value', v: money0(last.nav), s: MONTH_NAMES[last.m] + ' ' + last.y + ' close', cls: '' },
-      { k: 'YTD Net Return', v: pct(ytdRet), s: 'Calendar ' + last.y, cls: ytdRet >= 0 ? 'up' : 'down' },
+      { k: 'Net Asset Value', v: money0(last.nav), s: ASOF + ' close', cls: '' },
+      { k: 'YTD Net Return', v: pct1(ytdRet), s: 'Calendar ' + last.y + ' (TWR)', cls: ytdRet >= 0 ? 'up' : 'down' },
       { k: 'Inception Gain', v: money0(itdGain), s: 'Since Jan 2023, net of distributions', cls: itdGain >= 0 ? 'up' : 'down' },
       { k: 'Distributions YTD', v: money0(wdYtd), s: 'Quarterly programme', cls: '' }
     ];
@@ -448,90 +871,358 @@
         '<div class="kpi-v num">' + x.v + '</div>' +
         '<div class="kpi-s ' + x.cls + '">' + x.s + '</div></div>';
     }).join('');
-
-    drawNav();
-    drawDonut();
-    buildCapTable();
-    buildDocs();
-    buildActivity();
   }
 
-  /* ════════════════ NAV chart ════════════════ */
-  function drawNav() {
-    var cv = document.getElementById('nav-chart');
-    var wrap = document.getElementById('nav-chart-wrap');
-    var rect = wrap.getBoundingClientRect();
+  function actRow(a) {
+    return '<div class="act"><span class="act-dot ' + (a.kind === 'flow' ? 'flow' : a.kind === 'gov' ? 'gov' : '') + '"></span>' +
+      '<div class="act-body"><div class="act-text">' + a.t + ' <span style="color:var(--muted-2)">(sample)</span></div>' +
+      '<div class="act-time">' + a.when + '</div></div></div>';
+  }
+  function renderActivity() {
+    document.getElementById('activity-recent').innerHTML = ACTIVITY.slice(0, 5).map(actRow).join('');
+    document.getElementById('activity-full').innerHTML = ACTIVITY.map(actRow).join('');
+  }
+
+  function renderCalendarNext() {
+    var items = [
+      ['Aug 5', 'Monthly statement — July close published to the portal'],
+      ['Sep ' + (last.y === 2026 ? '30' : '30'), 'Q3 distribution under the standing programme'],
+      ['Oct 15', 'Q3 letter — allocation review and mandate scoring'],
+      ['Jan 2027', 'Annual governance meeting — IPS re-ratification']
+    ];
+    document.getElementById('calendar-next').innerHTML =
+      '<dl class="kv">' + items.map(function (i) {
+        return '<dt>' + i[0] + '</dt><dd style="text-align:left">' + i[1] + '</dd>';
+      }).join('') + '</dl>';
+  }
+
+  function renderPerfStats() {
+    var stats = [
+      { k: 'Since Inception', v: pct1(itdTwr), s: 'Cumulative net TWR', cls: itdTwr >= 0 ? 'up' : 'down' },
+      { k: 'Annualised', v: pct1(annTwr), s: years.toFixed(1) + ' years', cls: annTwr >= 0 ? 'up' : 'down' },
+      { k: 'Volatility', v: (vol * 100).toFixed(1) + '%', s: 'Annualised, monthly obs.' },
+      { k: 'Max Drawdown', v: (maxDD * 100).toFixed(1) + '%', s: 'Peak to trough', cls: 'down' },
+      { k: 'Best / Worst Month', v: pct1(bestM) + ' / ' + pct1(worstM), s: '' },
+      { k: 'Positive Months', v: posMonths + ' of ' + MONTHS, s: Math.round(posMonths / MONTHS * 100) + '% hit rate' }
+    ];
+    document.getElementById('perf-stats').innerHTML = stats.map(function (x) {
+      return '<div class="stat"><div class="stat-k">' + x.k + '</div>' +
+        '<div class="stat-v num ' + (x.cls || '') + '">' + x.v + '</div>' +
+        (x.s ? '<div class="stat-s">' + x.s + '</div>' : '') + '</div>';
+    }).join('');
+  }
+
+  function renderMonthlyTable() {
+    var byYear = {};
+    series.forEach(function (s) { (byYear[s.y] = byYear[s.y] || {})[s.m] = s.ret; });
+    var yearsList = Object.keys(byYear).sort().reverse();
+    var head = '<thead><tr><th>Year</th>' + MONTH_NAMES.map(function (m) { return '<th>' + m + '</th>'; }).join('') + '<th>YTD</th></tr></thead>';
+    var rows = yearsList.map(function (y) {
+      var cells = '';
+      var ytd = 1, any = false;
+      for (var m = 0; m < 12; m++) {
+        var r = byYear[y][m];
+        if (r == null) { cells += '<td class="cell-note">—</td>'; continue; }
+        any = true; ytd *= (1 + r);
+        cells += '<td class="num ' + (r >= 0 ? 'ret-pos' : 'ret-neg') + '">' + (r * 100).toFixed(1) + '</td>';
+      }
+      var ytdTxt = any ? ((ytd - 1) * 100).toFixed(1) : '—';
+      return '<tr><td>' + y + '</td>' + cells + '<td class="num ret-ytd">' + ytdTxt + '</td></tr>';
+    }).join('');
+    document.getElementById('monthly-table').innerHTML = head + '<tbody>' + rows + '</tbody>';
+  }
+
+  /* ── Holdings ── */
+  function holdingsTable(rows, cols) {
+    return '<div class="table-scroll" style="max-height:none"><table class="grid">' +
+      '<thead><tr>' + cols.map(function (c) { return '<th>' + c + '</th>'; }).join('') + '</tr></thead>' +
+      '<tbody>' + rows + '</tbody></table></div>';
+  }
+
+  function renderHoldings() {
+    var host = document.getElementById('holdings-cards');
+    var totalMV = 0;
+    var cards = '';
+
+    // Trading book — marked positions
+    var tbRows = '';
+    var tbMV = 0, tbPL = 0;
+    tradingBook.forEach(function (p) {
+      var mv = p.qty * p.mark;
+      var pl = p.qty * (p.mark - p.entry);
+      tbMV += mv; tbPL += pl;
+      tbRows += '<tr><td>' + p.sym + ' <span class="cell-note">' + p.name + '</span></td>' +
+        '<td class="num">' + fmt(p.qty, p.qty < 10 ? 3 : 1) + '</td>' +
+        '<td class="num">' + fmt(p.entry, p.dp) + '</td>' +
+        '<td class="num">' + fmt(p.mark, p.dp) + '</td>' +
+        '<td class="num">' + money0(mv) + '</td>' +
+        '<td class="num ' + (pl >= 0 ? 'up' : 'down') + '">' + money0(pl) + '</td></tr>';
+    });
+    tbRows += '<tr class="subtotal"><td>Trading Book</td><td></td><td></td><td></td>' +
+      '<td class="num">' + money0(tbMV) + '</td>' +
+      '<td class="num ' + (tbPL >= 0 ? 'up' : 'down') + '">' + money0(tbPL) + '</td></tr>';
+    totalMV += tbMV;
+    cards += '<div class="card"><div class="card-head"><span class="card-title">Trading Book</span>' +
+      '<span class="card-sub">Marks: ' + (marksSource === 'pipeline' ? 'live pipeline' : 'sample') + ' · positions are sample</span></div>' +
+      holdingsTable(tbRows, ['Instrument', 'Qty', 'Avg Entry', 'Mark', 'Value', 'Unrl P/L']) + '</div>';
+
+    // Simple mandates
+    [['Income & Credit', 'income', INCOME], ['Real & Hard Assets', 'real', REAL], ['Strategic Reserves', 'reserves', RESERVES]]
+      .forEach(function (grp) {
+        var mv = mandateValue(grp[1]);
+        totalMV += mv;
+        var rows = grp[2].map(function (h) {
+          return '<tr><td>' + h.name + ' <span class="cell-note">' + h.note + '</span></td>' +
+            '<td class="num">' + Math.round(h.w * 100) + '%</td>' +
+            '<td class="num">' + money0(mv * h.w) + '</td></tr>';
+        }).join('') +
+        '<tr class="subtotal"><td>' + grp[0] + '</td><td></td><td class="num">' + money0(mv) + '</td></tr>';
+        cards += '<div class="card"><div class="card-head"><span class="card-title">' + grp[0] + '</span>' +
+          '<span class="card-sub">Sample holdings</span></div>' +
+          holdingsTable(rows, ['Holding', 'Weight', 'Value']) + '</div>';
+      });
+
+    host.innerHTML = cards;
+
+    document.getElementById('hold-kpis').innerHTML = [
+      { k: 'Total Portfolio', v: money0(totalMV), s: 'Sums to NAV by construction' },
+      { k: 'Trading Book', v: money0(tbMV), s: (marksSource === 'pipeline' ? 'Marked to live pipeline' : 'Marked to sample levels') },
+      { k: 'Trading Unrl P/L', v: money0(tbPL), s: 'Vs. sample average entries', cls: tbPL >= 0 ? 'up' : 'down' },
+      { k: 'Mandates', v: '4', s: 'IPS bands respected' }
+    ].map(function (x) {
+      return '<div class="kpi"><div class="kpi-k">' + x.k + '</div><div class="kpi-v num">' + x.v + '</div>' +
+        '<div class="kpi-s ' + (x.cls || '') + '">' + x.s + '</div></div>';
+    }).join('');
+  }
+
+  /* ── Capital account ── */
+  var capRows = [];
+  (function buildCap() {
+    var contrib = 0, wd = 0, begin = START_CAP, started = false;
+    series.forEach(function (s, i) {
+      if (!started) { begin = i === 0 ? START_CAP : series[i - 1].nav; started = true; }
+      contrib += s.contrib; wd += s.wd;
+      var isQEnd = (s.m % 3 === 2) || i === series.length - 1;
+      if (isQEnd) {
+        var gain = s.nav - begin - contrib + wd;
+        capRows.push({
+          label: 'Q' + (Math.floor(s.m / 3) + 1) + ' ' + s.y,
+          begin: begin, contrib: contrib, wd: wd, gain: gain, end: s.nav
+        });
+        started = false; contrib = 0; wd = 0;
+      }
+    });
+  })();
+
+  function renderCapital() {
+    var head = '<thead><tr><th>Period</th><th>Beginning</th><th>Contributions</th><th>Distributions</th><th>Net Gain / Loss</th><th>Ending</th></tr></thead>';
+    var rows = capRows.slice().reverse().map(function (r) {
+      return '<tr><td>' + r.label + '</td>' +
+        '<td class="num">' + money0(r.begin) + '</td>' +
+        '<td class="num">' + (r.contrib ? money0(r.contrib) : '—') + '</td>' +
+        '<td class="num">' + (r.wd ? '(' + money0(r.wd).replace('$', '$') + ')' : '—') + '</td>' +
+        '<td class="num ' + (r.gain >= 0 ? 'up' : 'down') + '">' + money0(r.gain) + '</td>' +
+        '<td class="num">' + money0(r.end) + '</td></tr>';
+    }).join('');
+    document.getElementById('cap-table').innerHTML = head + '<tbody>' + rows + '</tbody>';
+  }
+
+  document.getElementById('csv-capital').addEventListener('click', function () {
+    var lines = ['Period,Beginning,Contributions,Distributions,Net Gain,Ending'];
+    capRows.forEach(function (r) {
+      lines.push([r.label, Math.round(r.begin), r.contrib, -r.wd, Math.round(r.gain), Math.round(r.end)].join(','));
+    });
+    lines.push('');
+    lines.push('# Titan Meridian Capital — sample capital account export, generated ' + new Date().toISOString());
+    var blob = new Blob([lines.join('\n')], { type: 'text/csv' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'tmc-001-capital-account-sample.csv';
+    document.body.appendChild(a); a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 400);
+  });
+
+  function renderFlows() {
+    var flows = [];
+    series.forEach(function (s) {
+      if (s.contrib) flows.push({ when: MONTH_NAMES[s.m] + ' ' + s.y, type: 'Contribution', amt: s.contrib });
+      if (s.wd) flows.push({ when: MONTH_NAMES[s.m] + ' ' + s.y, type: 'Distribution', amt: -s.wd });
+    });
+    var rows = flows.reverse().map(function (f) {
+      return '<tr><td>' + f.when + '</td><td>' + f.type + '</td>' +
+        '<td class="num ' + (f.amt >= 0 ? 'up' : 'down') + '">' + money0(f.amt) + '</td></tr>';
+    }).join('');
+    document.getElementById('flows-table').innerHTML =
+      '<thead><tr><th>Date</th><th>Type</th><th>Amount</th></tr></thead><tbody>' + rows + '</tbody>';
+  }
+
+  function renderDistProgramme() {
+    document.getElementById('dist-programme').innerHTML =
+      '<dl class="kv">' +
+      '<dt>Cadence</dt><dd>Quarterly — Mar · Jun · Sep · Dec</dd>' +
+      '<dt>Amount</dt><dd>' + money0(15000) + ' per quarter (standing)</dd>' +
+      '<dt>Method</dt><dd>Wire to instructions on file, call-back confirmed</dd>' +
+      '<dt>Authority</dt><dd>IC majority per Governance Charter §2</dd>' +
+      '<dt>Next</dt><dd>Sep ' + last.y + '</dd>' +
+      '</dl>' +
+      '<p style="margin-top:14px; font-size:.68rem; color:var(--muted-2);">Changes to the programme require committee approval and are logged in the capital account the day funds move. (Sample terms.)</p>';
+  }
+
+  /* ── Documents ── */
+  var DOC_CATS = [['all', 'All'], ['statements', 'Statements'], ['letters', 'Letters'], ['governance', 'Governance'], ['tax', 'Tax']];
+  var docFilter = 'all';
+  var DOC_ICON = '<svg class="doc-icon" viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true">' +
+    '<path d="M8 3 h10 l5 5 v19 H8 Z"/><path d="M18 3 v5 h5"/><path d="M11.5 14 h7 M11.5 18 h7 M11.5 22 h4.5"/></svg>';
+
+  function renderDocFilters() {
+    document.getElementById('doc-filters').innerHTML = DOC_CATS.map(function (c) {
+      return '<button class="df' + (c[0] === docFilter ? ' active' : '') + '" data-f="' + c[0] + '">' + c[1] + '</button>';
+    }).join('');
+  }
+  document.getElementById('doc-filters').addEventListener('click', function (e) {
+    var b = e.target.closest('.df'); if (!b) return;
+    docFilter = b.getAttribute('data-f');
+    renderDocFilters(); renderDocs();
+  });
+  function renderDocs() {
+    var items = DOCS.filter(function (d) { return docFilter === 'all' || d.cat === docFilter; });
+    document.getElementById('doc-list').innerHTML = items.map(function (d) {
+      var action = d.href
+        ? '<a class="doc-action" href="' + d.href + '">Open →</a>'
+        : '<span class="doc-action na">On Request</span>';
+      return '<div class="doc">' + DOC_ICON +
+        '<div class="doc-body"><div class="doc-name">' + d.name + '</div>' +
+        '<div class="doc-meta">' + d.meta + '</div></div>' + action + '</div>';
+    }).join('');
+  }
+
+  /* ── Preferences (localStorage only) ── */
+  var PREFS = [
+    ['pref-statement', 'Email me when the monthly statement is published', true],
+    ['pref-letter', 'Email me the quarterly letter', true],
+    ['pref-distribution', 'Notify me when a distribution is processed', true],
+    ['pref-meeting', 'Calendar invitations for quarterly meetings', false]
+  ];
+  function renderPrefs() {
+    var host = document.getElementById('prefs');
+    host.innerHTML = PREFS.map(function (p) {
+      var saved = null;
+      try { saved = localStorage.getItem('tmc-' + p[0]); } catch (e) {}
+      var on = saved == null ? p[2] : saved === '1';
+      return '<div class="pref-row"><div><div class="pref-k">' + p[1] + '</div>' +
+        '<div class="pref-s">Preference stored in this browser (demo)</div></div>' +
+        '<label class="toggle"><input type="checkbox" data-pref="' + p[0] + '"' + (on ? ' checked' : '') + ' />' +
+        '<span class="toggle-track"></span><span class="toggle-thumb"></span></label></div>';
+    }).join('');
+    host.addEventListener('change', function (e) {
+      var t = e.target.closest('[data-pref]'); if (!t) return;
+      try { localStorage.setItem('tmc-' + t.getAttribute('data-pref'), t.checked ? '1' : '0'); } catch (err) {}
+    });
+  }
+
+  function renderSessionInfo() {
+    var since = 0;
+    try { since = parseInt(sessionStorage.getItem('tmc-portal-since') || '0', 10); } catch (e) {}
+    document.getElementById('session-info').textContent =
+      since ? 'Demo session since ' + new Date(since).toLocaleTimeString() : 'Demo session';
+  }
+
+  /* ════════════════ Charts ════════════════ */
+  function setupCanvas(id) {
+    var cv = document.getElementById(id);
+    var rect = cv.parentElement.getBoundingClientRect();
+    if (rect.width < 10) return null;
     var dpr = Math.min(window.devicePixelRatio || 1, 2);
     cv.width = Math.round(rect.width * dpr); cv.height = Math.round(rect.height * dpr);
     var ctx = cv.getContext('2d');
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    var Wd = rect.width, Hd = rect.height;
-    var padL = 8, padR = 56, padT = 12, padB = 24;
-    var plotW = Wd - padL - padR, plotH = Hd - padT - padB;
+    return { ctx: ctx, W: rect.width, H: rect.height };
+  }
 
-    var lo = Infinity, hi = -Infinity;
-    series.forEach(function (s) { lo = Math.min(lo, s.nav); hi = Math.max(hi, s.nav); });
-    var span = hi - lo || 1; lo -= span * 0.08; hi += span * 0.08; span = hi - lo;
-    function xOf(i) { return padL + (i / (series.length - 1)) * plotW; }
+  function lineChart(id, seriesList, opts) {
+    var c = setupCanvas(id); if (!c) return;
+    var ctx = c.ctx, W = c.W, H = c.H;
+    var padL = 8, padR = 58, padT = 12, padB = 22;
+    var plotW = W - padL - padR, plotH = H - padT - padB;
+    var lo = Infinity, hi = -Infinity, n = 0;
+    seriesList.forEach(function (s) {
+      n = Math.max(n, s.data.length);
+      s.data.forEach(function (v) { lo = Math.min(lo, v); hi = Math.max(hi, v); });
+    });
+    var span = (hi - lo) || 1; lo -= span * 0.07; hi += span * 0.07; span = hi - lo;
+    function xOf(i) { return padL + (i / (n - 1)) * plotW; }
     function yOf(v) { return padT + (1 - (v - lo) / span) * plotH; }
 
-    ctx.clearRect(0, 0, Wd, Hd);
-
-    // Grid + right-side labels
+    ctx.clearRect(0, 0, W, H);
     ctx.font = '10px ui-monospace, Menlo, monospace';
     ctx.textAlign = 'left';
     for (var g = 0; g <= 4; g++) {
-      var val = lo + span * g / 4;
-      var gy = yOf(val);
+      var val = lo + span * g / 4, gy = yOf(val);
       ctx.strokeStyle = 'rgba(232,226,212,.05)';
       ctx.beginPath(); ctx.moveTo(padL, gy); ctx.lineTo(padL + plotW, gy); ctx.stroke();
       ctx.fillStyle = 'rgba(139,150,168,.75)';
-      ctx.fillText('$' + (val / 1000000).toFixed(2) + 'M', padL + plotW + 8, gy + 3);
+      ctx.fillText(opts.fmt(val), padL + plotW + 8, gy + 3);
     }
-
-    // Area fill
-    var grad = ctx.createLinearGradient(0, padT, 0, padT + plotH);
-    grad.addColorStop(0, 'rgba(198,164,104,.28)');
-    grad.addColorStop(1, 'rgba(198,164,104,0)');
-    ctx.beginPath();
-    series.forEach(function (s, i) { var x = xOf(i), y = yOf(s.nav); i ? ctx.lineTo(x, y) : ctx.moveTo(x, y); });
-    ctx.lineTo(xOf(series.length - 1), padT + plotH); ctx.lineTo(xOf(0), padT + plotH); ctx.closePath();
-    ctx.fillStyle = grad; ctx.fill();
-
-    // Line
-    ctx.beginPath();
-    series.forEach(function (s, i) { var x = xOf(i), y = yOf(s.nav); i ? ctx.lineTo(x, y) : ctx.moveTo(x, y); });
-    ctx.strokeStyle = '#C6A468'; ctx.lineWidth = 1.8; ctx.stroke();
-
-    // Contribution / distribution markers
-    series.forEach(function (s, i) {
-      if (!s.contrib && !s.wd) return;
-      ctx.fillStyle = s.contrib ? 'rgba(111,191,151,.9)' : 'rgba(201,123,111,.85)';
-      ctx.beginPath(); ctx.arc(xOf(i), yOf(s.nav), 3, 0, Math.PI * 2); ctx.fill();
+    seriesList.forEach(function (s) {
+      if (s.fill) {
+        var grad = ctx.createLinearGradient(0, padT, 0, padT + plotH);
+        grad.addColorStop(0, s.fill); grad.addColorStop(1, 'rgba(198,164,104,0)');
+        ctx.beginPath();
+        s.data.forEach(function (v, i) { i ? ctx.lineTo(xOf(i), yOf(v)) : ctx.moveTo(xOf(i), yOf(v)); });
+        ctx.lineTo(xOf(s.data.length - 1), padT + plotH); ctx.lineTo(xOf(0), padT + plotH); ctx.closePath();
+        ctx.fillStyle = grad; ctx.fill();
+      }
+      ctx.beginPath();
+      s.data.forEach(function (v, i) { i ? ctx.lineTo(xOf(i), yOf(v)) : ctx.moveTo(xOf(i), yOf(v)); });
+      ctx.strokeStyle = s.color; ctx.lineWidth = s.width || 1.6;
+      if (s.dash) ctx.setLineDash(s.dash);
+      ctx.stroke(); ctx.setLineDash([]);
     });
-
-    // Year labels
     ctx.fillStyle = 'rgba(94,107,128,.9)'; ctx.textAlign = 'center';
     series.forEach(function (s, i) {
-      if (s.m === 0) ctx.fillText(String(s.y), xOf(i), Hd - 8);
+      if (s.m === 0) ctx.fillText(String(s.y), xOf(i), H - 8);
     });
-
-    // End dot
-    ctx.fillStyle = '#EDE7DA';
-    ctx.beginPath(); ctx.arc(xOf(series.length - 1), yOf(last.nav), 3.4, 0, Math.PI * 2); ctx.fill();
+    if (opts.markers) {
+      series.forEach(function (s, i) {
+        if (!s.contrib && !s.wd) return;
+        ctx.fillStyle = s.contrib ? 'rgba(111,191,151,.9)' : 'rgba(201,123,111,.85)';
+        ctx.beginPath(); ctx.arc(xOf(i), yOf(opts.markers[i]), 3, 0, Math.PI * 2); ctx.fill();
+      });
+    }
+    if (opts.legend) {
+      var lx = padL + 6;
+      opts.legend.forEach(function (l) {
+        ctx.fillStyle = l[1]; ctx.fillRect(lx, padT + 2, 14, 2.5);
+        ctx.fillStyle = 'rgba(139,150,168,.95)'; ctx.textAlign = 'left';
+        ctx.fillText(l[0], lx + 19, padT + 6);
+        lx += 19 + ctx.measureText(l[0]).width + 22;
+      });
+    }
   }
 
-  /* ════════════════ Allocation donut ════════════════ */
-  var ALLOC = [
-    { name: 'Trading Book',     pct: 38, color: '#C6A468' },
-    { name: 'Income & Credit',  pct: 27, color: '#6FBF97' },
-    { name: 'Real & Hard Assets', pct: 22, color: '#8B96A8' },
-    { name: 'Strategic Reserves', pct: 13, color: '#5E6B80' }
-  ];
+  function drawNav() {
+    lineChart('nav-chart',
+      [{ data: series.map(function (s) { return s.nav; }), color: '#C6A468', fill: 'rgba(198,164,104,.28)', width: 1.8 }],
+      { fmt: function (v) { return '$' + (v / 1000000).toFixed(2) + 'M'; }, markers: series.map(function (s) { return s.nav; }) });
+  }
+  function drawTwr() {
+    lineChart('twr-chart',
+      [
+        { data: obj, color: 'rgba(139,150,168,.8)', dash: [4, 4], width: 1.2 },
+        { data: twr, color: '#C6A468', fill: 'rgba(198,164,104,.22)', width: 1.8 }
+      ],
+      { fmt: function (v) { return v.toFixed(0); }, legend: [['Portfolio (net TWR)', '#C6A468'], ['Objective proxy', 'rgba(139,150,168,.8)']] });
+  }
+  function drawDd() {
+    lineChart('dd-chart',
+      [{ data: dd.map(function (v) { return v * 100; }), color: '#C97B6F', fill: 'rgba(201,123,111,.2)', width: 1.5 }],
+      { fmt: function (v) { return v.toFixed(1) + '%'; } });
+  }
+
   function drawDonut() {
     var cv = document.getElementById('alloc-donut');
     var ctx = cv.getContext('2d');
-    var S = cv.width; // square, drawn at 2x for crispness
+    var S = cv.width;
     ctx.clearRect(0, 0, S, S);
     var cx = S / 2, cy = S / 2, R = S * 0.42, TH = S * 0.13;
     var a = -Math.PI / 2;
@@ -554,79 +1245,18 @@
     document.getElementById('alloc-legend').innerHTML = ALLOC.map(function (seg) {
       return '<div class="alloc-row"><span class="alloc-swatch" style="background:' + seg.color + '"></span>' +
         '<span class="alloc-name">' + seg.name + '</span>' +
-        '<span class="alloc-pct num">' + seg.pct + '%</span></div>';
-    }).join('');
-  }
-
-  /* ════════════════ Capital account table ════════════════ */
-  function buildCapTable() {
-    var rows = [];
-    var qStart = null, contrib = 0, wd = 0, begin = null;
-    series.forEach(function (s, i) {
-      if (qStart === null) { qStart = s; begin = i === 0 ? START_CAP : series[i - 1].nav; }
-      contrib += s.contrib; wd += s.wd;
-      var isQEnd = (s.m % 3 === 2) || i === series.length - 1;
-      if (isQEnd) {
-        var gain = s.nav - begin - contrib + wd;
-        rows.push({
-          label: 'Q' + (Math.floor(s.m / 3) + 1) + ' ' + s.y,
-          begin: begin, contrib: contrib, wd: wd, gain: gain, end: s.nav
-        });
-        qStart = null; contrib = 0; wd = 0;
-      }
-    });
-    var recent = rows.slice(-6).reverse();
-    document.getElementById('cap-table').innerHTML =
-      '<thead><tr><th>Period</th><th>Beginning</th><th>Contributions</th><th>Distributions</th><th>Net Gain / Loss</th><th>Ending</th></tr></thead><tbody>' +
-      recent.map(function (r) {
-        return '<tr><td>' + r.label + '</td>' +
-          '<td class="num">' + money0(r.begin) + '</td>' +
-          '<td class="num">' + (r.contrib ? money0(r.contrib) : '—') + '</td>' +
-          '<td class="num">' + (r.wd ? '(' + money0(r.wd).slice(1) + ')' : '—') + '</td>' +
-          '<td class="num ' + (r.gain >= 0 ? 'up' : 'down') + '">' + money0(r.gain) + '</td>' +
-          '<td class="num">' + money0(r.end) + '</td></tr>';
-      }).join('') + '</tbody>';
-  }
-
-  /* ════════════════ Documents ════════════════ */
-  var DOC_ICON = '<svg class="doc-icon" viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true">' +
-    '<path d="M8 3 h10 l5 5 v19 H8 Z"/><path d="M18 3 v5 h5"/><path d="M11.5 14 h7 M11.5 18 h7 M11.5 22 h4.5"/></svg>';
-  function buildDocs() {
-    var docs = [
-      { name: 'Quarterly Letter — Q2 ' + last.y + ' (sample)', meta: 'Letter · PDF · issued on request', href: null },
-      { name: 'Capital Statement — ' + MONTH_NAMES[last.m] + ' ' + last.y + ' (sample)', meta: 'Statement · PDF · issued on request', href: null },
-      { name: 'Investment Policy Statement', meta: 'Governance · current template', href: '../docs/family_office/02_investment_policy_statement.md' },
-      { name: 'Family Governance Charter', meta: 'Governance · current template', href: '../docs/family_office/03_governance_charter.md' },
-      { name: 'Family Office Blueprint', meta: 'Operating manual · web', href: '../family-office/' }
-    ];
-    document.getElementById('doc-list').innerHTML = docs.map(function (d) {
-      var action = d.href
-        ? '<a class="doc-action" href="' + d.href + '">Open →</a>'
-        : '<span class="doc-action na">On Request</span>';
-      return '<div class="doc">' + DOC_ICON +
-        '<div class="doc-body"><div class="doc-name">' + d.name + '</div>' +
-        '<div class="doc-meta">' + d.meta + '</div></div>' + action + '</div>';
-    }).join('');
-  }
-
-  /* ════════════════ Activity ════════════════ */
-  function buildActivity() {
-    var acts = [
-      { t: 'Monthly capital statement published to the portal.', when: MONTH_NAMES[last.m] + ' ' + last.y },
-      { t: 'Quarterly distribution processed under the standing programme.', when: 'Jun ' + last.y },
-      { t: 'Quarterly letter issued — allocation review and mandate scoring.', when: 'Jun ' + last.y },
-      { t: 'Annual IPS re-ratified by the investment committee.', when: 'Jan ' + last.y },
-      { t: 'Portal preview issued to family members.', when: 'Jan ' + last.y }
-    ];
-    document.getElementById('activity').innerHTML = acts.map(function (a) {
-      return '<div class="act"><span class="act-dot"></span><div class="act-body">' +
-        '<div class="act-text">' + a.t + ' <span style="color:var(--muted-2)">(sample)</span></div>' +
-        '<div class="act-time">' + a.when + '</div></div></div>';
+        '<span class="alloc-pct num">' + seg.pct + '% · ' + money0(last.nav * seg.pct / 100) + '</span></div>';
     }).join('');
   }
 
   window.addEventListener('resize', function () {
-    if (app.classList.contains('active')) drawNav();
+    if (!app.classList.contains('active')) return;
+    if (activeView === 'overview') { drawNav(); drawDonut(); }
+    if (activeView === 'performance') { drawTwr(); drawDd(); }
+  });
+  window.addEventListener('hashchange', function () {
+    var id = location.hash.slice(1);
+    if (VIEWS.some(function (v) { return v.id === id; }) && id !== activeView) selectView(id);
   });
 
   // Re-entry via sessionStorage happens only now, once the dataset above exists.
