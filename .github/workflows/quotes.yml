@@ -36,6 +36,11 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add platform/data/quotes.json
           git commit -m "Market quotes refresh"
-          # A news-bot push may land between checkout and here; rebase once.
-          git pull --rebase origin "${GITHUB_REF_NAME}" || true
-          git push
+          # The news bot may push to main concurrently — rebase and retry.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase FETCH_HEAD || { git rebase --abort; exit 1; }
+          done
+          echo "Push failed after 3 attempts" >&2
+          exit 1
