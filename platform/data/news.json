@@ -1,15 +1,187 @@
 {
-  "generated_at": "2026-07-20T08:24:28.874156Z",
+  "generated_at": "2026-07-20T11:21:50.898151Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Brent crude hovers near $90 as Iran vows not \u2018a single drop\u2019 of oil or gas will transit Hormuz",
+      "title": "UK to get a new prime minister as Trump slams Britain as 'Poverty Stricken Disaster'",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-      "published": "2026-07-20T08:20:26Z",
+      "url": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
+      "published": "2026-07-20T11:12:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Voters wary of government ownership in companies as Trump administration takes equity stakes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/trump-government-company-ownership-americans-wary-cnbc-poll.html",
+      "published": "2026-07-20T11:00:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Scared of the AI trade? Here are three investment themes instead, says Goldman Sachs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/scared-of-the-ai-trade-here-are-three-investment-themes-instead-says-goldman-sachs-e620a510?mod=mw_rss_topstories",
+      "published": "2026-07-20T10:36:00Z",
       "tags": [
         "commodities"
+      ]
+    },
+    {
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "published": "2026-07-20T10:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
+      "published": "2026-07-20T10:23:34Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why it\u2019s time to retire the Magnificent Seven as a stock-market talking point, say these strategists",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories",
+      "published": "2026-07-20T10:02:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+      "published": "2026-07-20T10:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
+      "published": "2026-07-20T09:58:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "published": "2026-07-20T09:55:36Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Boeing CEO says company still needs 'a couple more years' to repair finances before new jet",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html",
+      "published": "2026-07-20T09:55:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is an opportunity to buy chip stocks nearing? These two big Wall Street banks are divided.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-an-opportunity-to-buy-chip-stocks-nearing-these-two-big-wall-street-banks-are-divided-ba1b03af?mod=mw_rss_topstories",
+      "published": "2026-07-20T09:35:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Inflation is broadening out, says Goldman economist",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/inflation-is-broadening-out-says-goldman-economist-44fa437f?mod=mw_rss_topstories",
+      "published": "2026-07-20T09:32:00Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "published": "2026-07-20T09:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "If history is a guide, there\u2019s still another week before earnings will start to move the stock market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories",
+      "published": "2026-07-20T09:18:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+      "published": "2026-07-20T09:05:04Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Sean \u2018Diddy\u2019 Combs sells $55 million Miami mansion he tried to use for bail",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sean-diddy-combs-sells-55-million-miami-mansion-he-tried-to-use-for-bail-3cd2cb02?mod=mw_rss_topstories",
+      "published": "2026-07-20T09:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Full House\u2019 creator Jeff Franklin relists $45 million Beverly Hills home built on site of Manson murders",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/full-house-creator-jeff-franklin-relists-45-million-beverly-hills-home-built-on-site-of-manson-murders-4d6a3f07?mod=mw_rss_topstories",
+      "published": "2026-07-20T08:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran says that diplomatic efforts have been \"active\" in recent days, received proposals from several mediators",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-says-that-diplomatic-efforts-have-been-active-in-recent-days-received-proposals-from-several-mediators/",
+      "published": "2026-07-20T08:50:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices ease a bit after Iran's Foreign Ministry Spokesperson suggests diplomatic efforts are continuing despite the attacks",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oil-prices-ease-a-bit-after-iran-s-foreign-ministry-spokesperson-suggests-diplomatic-efforts-are-continuing-despite-the-attacks/",
+      "published": "2026-07-20T08:47:46Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "China's car market heads for worst year since 2021 as sales plunge 20%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
+      "published": "2026-07-20T08:43:40Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -19,15 +191,6 @@
       "published": "2026-07-20T08:09:59Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Oil prices climb as U.S. and Iran continue to fight",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-      "published": "2026-07-20T08:07:00Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -53,15 +216,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/germany-june-producer-prices-vs-0-2-m-m-expected/",
       "published": "2026-07-20T06:10:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CNBC Daily Open: Burnham set to take helm of 'poverty stricken disaster,' says Trump",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/daily-open-andy-burnam-uk-pm-trump.html",
-      "published": "2026-07-20T06:07:09Z",
       "tags": [
         "wire"
       ]
@@ -140,15 +294,6 @@
       ]
     },
     {
-      "title": "U.S. hits Iran for ninth consecutive night as American casualties rise",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html",
-      "published": "2026-07-20T03:00:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Plenty of stocks are working in this market \u2014 you just have to look beyond tech",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
@@ -162,15 +307,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html",
       "published": "2026-07-20T00:09:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "World Cup-champion Spain just won $50 million \u2014 and the IRS gets a cut",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-      "published": "2026-07-19T22:29:00Z",
       "tags": [
         "wire"
       ]
@@ -194,15 +330,6 @@
       ]
     },
     {
-      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-      "published": "2026-07-19T19:06:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
@@ -212,55 +339,10 @@
       ]
     },
     {
-      "title": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
-      "published": "2026-07-19T15:43:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
       "published": "2026-07-19T14:45:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Can former employers withhold money from your 401(k) when you\u2019re laid off?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-      "published": "2026-07-19T14:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "26-year-old quit her corporate job to become a seamstress at Yellowstone National Park for $19.25/hour",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/19/26-year-old-quit-her-corporate-job-to-become-a-seamstress-at-yellowstone.html",
-      "published": "2026-07-19T14:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html",
-      "published": "2026-07-19T13:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stop asking 'How was work today?' Successful, mentally strong couples ask these 7 questions instead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
-      "published": "2026-07-19T13:30:01Z",
       "tags": [
         "wire"
       ]
@@ -279,87 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
       "published": "2026-07-19T12:42:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-      "published": "2026-07-19T12:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-      "published": "2026-07-19T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-      "published": "2026-07-19T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-      "published": "2026-07-19T11:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-      "published": "2026-07-19T09:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
-      "published": "2026-07-18T23:01:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
-      "published": "2026-07-18T22:04:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-      "published": "2026-07-18T19:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "published": "2026-07-18T19:00:00Z",
       "tags": [
         "wire"
       ]
