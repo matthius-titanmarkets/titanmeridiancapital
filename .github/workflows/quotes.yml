@@ -1,0 +1,41 @@
+name: Refresh market quotes
+
+on:
+  schedule:
+    # Weekdays: every 15 minutes — FX, futures, indices, crypto.
+    - cron: '*/15 * * * 1-5'
+    # Weekends: every 2 hours — crypto still trades; everything else
+    # carries Friday's close (no commit when nothing changed).
+    - cron: '7 */2 * * 0,6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-quotes
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch quotes
+        run: python3 scripts/fetch_quotes.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- platform/data/quotes.json; then
+            echo "Quotes unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "meridian-quotes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add platform/data/quotes.json
+          git commit -m "Market quotes refresh"
+          # A news-bot push may land between checkout and here; rebase once.
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push

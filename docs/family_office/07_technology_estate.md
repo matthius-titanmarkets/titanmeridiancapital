@@ -10,11 +10,12 @@ is deliberate: **static-first, self-contained, few moving parts.**
 | System | Path / Location | Runtime | Owner |
 |---|---|---|---|
 | Fund website | `/index.html` | Static (GitHub Pages) | Ops |
-| Meridian Terminal | `/platform/` | Static + browser JS (simulated data; paper book in localStorage) | Desk |
+| Meridian Terminal | `/platform/` | Static + browser JS — live prices (Kraken/Coinbase public APIs) over pipeline quotes (quotes.json); paper book in localStorage | Desk |
 | Client portal (demo) | `/clients/` | Static + browser JS (sample data; demo gate) | Ops |
 | Titan Markets site | `/titan-markets/` | Static | Ops |
 | Family office pack | `/docs/family_office/` | Markdown | IC |
 | News pipeline | `scripts/fetch_news.py` + `.github/workflows/news.yml` | GitHub Actions cron (30 min, weekdays) → `platform/data/news.json` | Ops |
+| Quotes pipeline | `scripts/fetch_quotes.py` + `.github/workflows/quotes.yml` | GitHub Actions cron (15 min weekdays, 2 h weekends) → `platform/data/quotes.json` via Yahoo public chart API | Ops |
 | Pages deploy | `.github/workflows/pages.yml` | GitHub Actions on push to `main` | Ops |
 | Trading bot | `/trading_bot/` | Python service: TradingView alert → Flask webhook → Interactive Brokers (ib_insync), risk-gated | Desk |
 | Strategy code | `/trading_bot/pine_script/` | TradingView Pine | Desk |
@@ -34,12 +35,15 @@ TradingView strategy ──alert──▶ webhook_server.py ──checks──�
                                                        │
                      financial_analysis / dashboard.py ◀┘ (reporting)
 
-Public RSS wires ──cron──▶ fetch_news.py ──▶ platform/data/news.json ──▶ Terminal
+Public RSS wires ──cron──▶ fetch_news.py ───▶ platform/data/news.json ──▶ Terminal
+Yahoo chart API ──cron──▶ fetch_quotes.py ─▶ platform/data/quotes.json ─▶ Terminal + desk tape
+Kraken / Coinbase public APIs ──browser fetch (~7s)──▶ Terminal live lane (FX + BTC)
 ```
 
 The public surfaces (site, terminal, portal) hold **no live account data**.
-Terminal prices are simulated for display; the paper book never leaves the
-browser. Live execution exists only in the bot stack, which runs privately.
+Terminal prices are real market data from public sources, badged live /
+wire (with age) / sim per symbol; the paper book never leaves the browser.
+Live execution exists only in the bot stack, which runs privately.
 
 ## 3. Environments & deploys
 
@@ -58,11 +62,11 @@ browser. Live execution exists only in the bot stack, which runs privately.
    Supabase Auth (or Auth0) + a small API serving real statements, with the
    static portal as the shell. Until then the portal carries sample data
    only.
-2. **Real market data in the terminal** — plug a quote API key in behind a
-   thin proxy if live quotes are ever wanted publicly; until then simulated
-   mode is labeled honestly.
-3. **Statement generation** — automate monthly PDF statements from the trade
+2. **Statement generation** — automate monthly PDF statements from the trade
    log (Python, reportlab) into the archive.
+3. **Quote-history housekeeping** — the quotes pipeline commits ~100 KB per
+   refresh; if repository size ever matters, squash old data commits or move
+   `platform/data/` to a dedicated branch.
 
 ## 5. Registers (keep current)
 

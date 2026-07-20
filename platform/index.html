@@ -80,6 +80,16 @@
     }
     .badge-sim { border-color: rgba(198,164,104,.5); color: var(--accent); }
     .badge-paper { border-color: rgba(111,191,151,.45); color: var(--pos); }
+    .badge-live { border-color: rgba(111,191,151,.55); color: var(--pos); }
+    .badge-mixed { border-color: rgba(198,164,104,.5); color: var(--accent); }
+    .badge-off { border-color: rgba(201,123,111,.5); color: var(--neg); }
+    .w-dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-right: 7px; vertical-align: 1px; background: var(--muted-2); }
+    .dot-live { background: var(--pos); box-shadow: 0 0 6px rgba(111,191,151,.8); }
+    .dot-wire { background: var(--accent); }
+    .dot-sim { background: var(--muted-2); }
+    .chart-feed { font-size: .58rem; letter-spacing: .18em; text-transform: uppercase; color: var(--muted-2); }
+    .chart-feed.live { color: var(--pos); }
+    .chart-feed.wire { color: var(--accent); }
     .head-spacer { flex: 1; }
     .head-clock { text-align: right; line-height: 1.2; white-space: nowrap; }
     .head-clock .num { font-size: .92rem; color: var(--ivory-bright); }
@@ -291,7 +301,7 @@
       </span>
     </a>
     <div class="head-badges">
-      <span class="badge badge-sim" title="Prices are generated locally for display — not live market data.">Sim Data</span>
+      <span class="badge" id="data-badge" title="Connecting to market data…">Connecting…</span>
       <span class="badge badge-paper" title="Paper book only. No orders are transmitted anywhere.">Paper Book</span>
     </div>
     <div class="head-spacer"></div>
@@ -335,6 +345,7 @@
           <div class="chart-symline">
             <span class="chart-sym" id="chart-sym">XAUUSD</span>
             <span class="chart-last num" id="chart-last">—</span>
+            <span class="chart-feed" id="chart-feed"></span>
           </div>
           <span class="chart-ohlc num" id="chart-ohlc"></span>
           <div class="tf-tabs" id="tf-tabs" role="tablist" aria-label="Timeframe"></div>
@@ -363,7 +374,7 @@
           </div>
           <button type="button" class="t-btn t-buy" id="btn-buy">Buy · Paper</button>
           <button type="button" class="t-btn t-sell" id="btn-sell">Sell · Paper</button>
-          <div class="ticket-note">Paper fills at the simulated price. Nothing leaves this browser — live execution runs only through the broker stack (TradingView → webhook → IB).</div>
+          <div class="ticket-note">Paper fills at the displayed market price (live or delayed — see the badge). Nothing leaves this browser; live execution runs only through the broker stack (TradingView → webhook → IB).</div>
         </form>
       </div>
     </div>
@@ -413,7 +424,7 @@
   <!-- ══════════════ FOOT ══════════════ -->
   <footer id="foot">
     <span>MERIDIAN TERMINAL</span><span class="sep">·</span>
-    <span>Simulated display data — not investment advice, not live quotes.</span><span class="sep">·</span>
+    <span id="foot-data">Market data via public sources (Kraken live; quote pipeline may be delayed). Informational only — not advice.</span><span class="sep">·</span>
     <span>Paper book only; no orders are transmitted.</span><span class="sep">·</span>
     <span>© 2026 Titan Meridian Capital</span>
   </footer>
@@ -439,81 +450,62 @@
   }
   function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
 
-  /* ════════════════ Instruments & simulated series ════════════════
-     Prices are a seeded random walk anchored at plausible levels.
-     They are DISPLAY DATA ONLY — the badges and footer say so.       */
+  /* ════════════════ Instruments & market data ════════════════════
+     Three data tiers, always labeled honestly:
+       live — streamed from Kraken (Coinbase fallback) in this browser
+       wire — real quotes/candles from the scheduled pipeline
+              (platform/data/quotes.json via Yahoo; may be delayed)
+       sim  — seeded random walk, ONLY when no real data is reachable
+     Real prices are never given fabricated ticks: live symbols move
+     when the exchange moves, wire symbols move when the pipeline
+     refreshes, and the badges say which is which.                     */
   var INSTRUMENTS = [
-    { sym: 'XAUUSD', name: 'Gold Spot',        px: 2412.50,  dp: 2, vol: 0.00042, drift: 0.02, unit: 100 },
-    { sym: 'EURUSD', name: 'Euro / Dollar',    px: 1.0925,   dp: 4, vol: 0.00016, drift: 0.00, unit: 100000 },
-    { sym: 'GBPUSD', name: 'Pound / Dollar',   px: 1.2980,   dp: 4, vol: 0.00019, drift: 0.00, unit: 100000 },
-    { sym: 'USDJPY', name: 'Dollar / Yen',     px: 156.40,   dp: 2, vol: 0.00021, drift: 0.01, unit: 1000 },
-    { sym: 'US500',  name: 'S&P 500 Index',    px: 5615.0,   dp: 1, vol: 0.00030, drift: 0.03, unit: 50 },
-    { sym: 'NAS100', name: 'Nasdaq 100',       px: 20260.0,  dp: 1, vol: 0.00044, drift: 0.03, unit: 20 },
-    { sym: 'US30',   name: 'Dow Jones 30',     px: 40180.0,  dp: 0, vol: 0.00026, drift: 0.02, unit: 5 },
-    { sym: 'XAGUSD', name: 'Silver Spot',      px: 29.15,    dp: 3, vol: 0.00075, drift: 0.02, unit: 5000 },
-    { sym: 'WTIUSD', name: 'WTI Crude',        px: 78.60,    dp: 2, vol: 0.00080, drift: 0.00, unit: 1000 },
-    { sym: 'BTCUSD', name: 'Bitcoin',          px: 64350,    dp: 0, vol: 0.00160, drift: 0.04, unit: 1 }
+    { sym: 'XAUUSD', name: 'Gold · COMEX',      px: 4000,   dp: 2, unit: 100 },
+    { sym: 'EURUSD', name: 'Euro / Dollar',     px: 1.14,   dp: 4, unit: 100000 },
+    { sym: 'GBPUSD', name: 'Pound / Dollar',    px: 1.35,   dp: 4, unit: 100000 },
+    { sym: 'USDJPY', name: 'Dollar / Yen',      px: 162.0,  dp: 2, unit: 1000 },
+    { sym: 'US500',  name: 'S&P 500 Index',     px: 7450,   dp: 1, unit: 50 },
+    { sym: 'NAS100', name: 'Nasdaq 100 Index',  px: 28600,  dp: 1, unit: 20 },
+    { sym: 'US30',   name: 'Dow Jones 30',      px: 52100,  dp: 0, unit: 5 },
+    { sym: 'XAGUSD', name: 'Silver · COMEX',    px: 57.0,   dp: 3, unit: 5000 },
+    { sym: 'WTIUSD', name: 'WTI Crude · NYMEX', px: 83.0,   dp: 2, unit: 1000 },
+    { sym: 'BTCUSD', name: 'Bitcoin',           px: 64500,  dp: 0, unit: 1 }
   ];
 
   var TFS = [
-    { id: '5M',  secs: 300 },
     { id: '15M', secs: 900 },
     { id: '1H',  secs: 3600 },
     { id: '4H',  secs: 14400 },
     { id: '1D',  secs: 86400 }
   ];
-  var HIST = 360; // candles kept per timeframe
+  var HIST = 200; // max candles drawn per timeframe
 
-  // Build per-instrument state: seeded 1-minute walk, aggregated on demand.
   var market = {};
-  INSTRUMENTS.forEach(function (ins, idx) {
-    var rng = mulberry32(0xA11CE + idx * 7919);
-    var minutes = [];
-    var px = ins.px * (1 - ins.vol * 260); // walk back so we end near anchor
-    var t = Math.floor(Date.now() / 60000) * 60000 - 60000 * 1800; // 1800 min history
-    for (var i = 0; i < 1800; i++) {
-      var o = px;
-      var shock = (rng() - 0.5 + ins.drift * 0.008);
-      var c = o * (1 + shock * ins.vol * 6);
-      var h = Math.max(o, c) * (1 + rng() * ins.vol * 2.4);
-      var l = Math.min(o, c) * (1 - rng() * ins.vol * 2.4);
-      minutes.push({ t: t, o: o, h: h, l: l, c: c });
-      px = c; t += 60000;
-    }
+  INSTRUMENTS.forEach(function (ins) {
     market[ins.sym] = {
-      ins: ins, rng: rng, minutes: minutes,
-      last: minutes[minutes.length - 1].c,
-      dayOpen: minutes[Math.max(0, minutes.length - 390)].o,
-      prev: minutes[minutes.length - 1].c
+      ins: ins,
+      last: null, prevClose: null, prev: null,
+      intra: [],   // 15m OHLC bars, ms timestamps (canonical intraday)
+      daily: [],   // 1d OHLC bars
+      src: 'none', // none | sim | wire | live
+      liveVia: '', // kraken | coinbase
+      ts: 0        // ms of last update for this symbol
     };
   });
 
-  function tickMarket() {
-    var nowMin = Math.floor(Date.now() / 60000) * 60000;
-    INSTRUMENTS.forEach(function (ins) {
-      var m = market[ins.sym];
-      var lastBar = m.minutes[m.minutes.length - 1];
-      m.prev = m.last;
-      var shock = (m.rng() - 0.5 + ins.drift * 0.008);
-      var next = m.last * (1 + shock * ins.vol * 1.6);
-      m.last = next;
-      if (lastBar.t === nowMin) {
-        lastBar.c = next;
-        lastBar.h = Math.max(lastBar.h, next);
-        lastBar.l = Math.min(lastBar.l, next);
-      } else {
-        m.minutes.push({ t: nowMin, o: m.last, h: next, l: next, c: next });
-        if (m.minutes.length > 2200) m.minutes.splice(0, m.minutes.length - 2200);
-      }
-    });
+  function dayChg(m) {
+    if (m.last == null) return null;
+    var base = m.prevClose;
+    if (!base && m.daily.length > 1) base = m.daily[m.daily.length - 2].c;
+    if (!base) return null;
+    return (m.last - base) / base;
   }
 
-  function candlesFor(sym, tfSecs) {
-    var mins = market[sym].minutes;
+  function aggregate(bars, tfSecs) {
     var bucketMs = tfSecs * 1000;
     var out = []; var cur = null;
-    for (var i = 0; i < mins.length; i++) {
-      var b = mins[i];
+    for (var i = 0; i < bars.length; i++) {
+      var b = bars[i];
       var bt = Math.floor(b.t / bucketMs) * bucketMs;
       if (!cur || cur.t !== bt) {
         cur = { t: bt, o: b.o, h: b.h, l: b.l, c: b.c };
@@ -524,7 +516,232 @@
         cur.c = b.c;
       }
     }
+    return out;
+  }
+
+  function candlesFor(sym, tfSecs) {
+    var m = market[sym];
+    var out;
+    if (tfSecs >= 86400) {
+      out = m.daily.slice();
+      // keep the last daily bar marked to the latest price
+      if (out.length && m.last != null) {
+        var d = out[out.length - 1];
+        d.c = m.last; d.h = Math.max(d.h, m.last); d.l = Math.min(d.l, m.last);
+      }
+    } else if (tfSecs <= 900) {
+      out = m.intra;
+    } else {
+      out = aggregate(m.intra, tfSecs);
+    }
     return out.slice(-HIST);
+  }
+
+  /* ── Wire tier: quotes.json from the scheduled pipeline ─────────── */
+  var wireStamp = 0; // generated_at of the applied file
+
+  function unpack(packed) {
+    var out = [];
+    if (!packed || !packed.t) return out;
+    for (var i = 0; i < packed.t.length; i++) {
+      out.push({ t: packed.t[i] * 1000, o: packed.o[i], h: packed.h[i], l: packed.l[i], c: packed.c[i] });
+    }
+    return out;
+  }
+
+  function applyQuotes(j) {
+    if (!j || !j.symbols) return;
+    wireStamp = Date.parse(j.generated_at) || Date.now();
+    INSTRUMENTS.forEach(function (ins) {
+      var s = j.symbols[ins.sym];
+      if (!s) return;
+      var m = market[ins.sym];
+      m.intra = unpack(s.intraday);
+      m.daily = unpack(s.daily);
+      if (s.prevClose != null) m.prevClose = s.prevClose;
+      // A live stream outranks the pipeline for the last price.
+      if (m.src !== 'live') {
+        m.prev = m.last;
+        m.last = s.last;
+        m.src = 'wire';
+        m.ts = (s.marketTime ? s.marketTime * 1000 : wireStamp);
+      }
+    });
+    renderAll();
+  }
+
+  function loadQuotes() {
+    return fetch('data/quotes.json?v=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+      .then(applyQuotes)
+      .catch(function () {
+        // No pipeline data reachable; if nothing else fills in, sim takes over.
+        setTimeout(function () { if (!hasRealData()) simFallback(); }, 4000);
+      });
+  }
+
+  /* ── Live tier: Kraken public ticker (Coinbase fallback) ────────── */
+  var KRAKEN = [
+    { keys: ['XXBTZUSD', 'XBTUSD'],  sym: 'BTCUSD' },
+    { keys: ['ZEURZUSD', 'EURUSD'],  sym: 'EURUSD' },
+    { keys: ['ZGBPZUSD', 'GBPUSD'],  sym: 'GBPUSD' },
+    { keys: ['ZUSDZJPY', 'USDJPY'],  sym: 'USDJPY' }
+  ];
+  var krakenFails = 0;
+
+  function liveTick(sym, px, via) {
+    var m = market[sym];
+    if (!isFinite(px) || px <= 0) return;
+    m.prev = m.last;
+    m.last = px;
+    m.src = 'live';
+    m.liveVia = via;
+    m.ts = Date.now();
+    patchIntraday(m, px);
+  }
+
+  function patchIntraday(m, px) {
+    var bucket = Math.floor(Date.now() / 900000) * 900000;
+    var lastBar = m.intra[m.intra.length - 1];
+    if (lastBar && lastBar.t === bucket) {
+      lastBar.c = px;
+      lastBar.h = Math.max(lastBar.h, px);
+      lastBar.l = Math.min(lastBar.l, px);
+    } else {
+      m.intra.push({ t: bucket, o: px, h: px, l: px, c: px });
+      if (m.intra.length > 400) m.intra.splice(0, m.intra.length - 400);
+    }
+  }
+
+  function pollKraken() {
+    fetch('https://api.kraken.com/0/public/Ticker?pair=XBTUSD,EURUSD,GBPUSD,USDJPY')
+      .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+      .then(function (j) {
+        if (!j.result) throw new Error('no result');
+        krakenFails = 0;
+        KRAKEN.forEach(function (map) {
+          for (var i = 0; i < map.keys.length; i++) {
+            var row = j.result[map.keys[i]];
+            if (row && row.c) { liveTick(map.sym, parseFloat(row.c[0]), 'kraken'); return; }
+          }
+        });
+        renderAll();
+      })
+      .catch(function () {
+        krakenFails += 1;
+        if (krakenFails === 3) pollCoinbase(); // switch lanes after repeated failures
+      });
+  }
+
+  function pollCoinbase() {
+    // Fallback live-ish lane: BTC spot + fiat exchange rates.
+    fetch('https://api.coinbase.com/v2/prices/BTC-USD/spot')
+      .then(function (r) { return r.json(); })
+      .then(function (j) { liveTick('BTCUSD', parseFloat(j.data.amount), 'coinbase'); })
+      .catch(function () {});
+    fetch('https://api.coinbase.com/v2/exchange-rates?currency=USD')
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        var r = j.data.rates;
+        if (r.EUR) liveTick('EURUSD', 1 / parseFloat(r.EUR), 'coinbase');
+        if (r.GBP) liveTick('GBPUSD', 1 / parseFloat(r.GBP), 'coinbase');
+        if (r.JPY) liveTick('USDJPY', parseFloat(r.JPY), 'coinbase');
+        renderAll();
+      })
+      .catch(function () {});
+  }
+
+  /* ── Sim tier: labeled fallback when nothing real is reachable ──── */
+  var simActive = false;
+
+  function hasRealData() {
+    return INSTRUMENTS.some(function (ins) {
+      return market[ins.sym].src === 'wire' || market[ins.sym].src === 'live';
+    });
+  }
+
+  function simFallback() {
+    if (simActive || hasRealData()) return;
+    simActive = true;
+    INSTRUMENTS.forEach(function (ins, idx) {
+      var m = market[ins.sym];
+      if (m.src !== 'none') return;
+      var rng = mulberry32(0xA11CE + idx * 7919);
+      var vol = 0.0025, px = ins.px, bars = [];
+      var t = Math.floor(Date.now() / 900000) * 900000 - 900000 * 220;
+      for (var i = 0; i < 220; i++) {
+        var o = px;
+        var c = o * (1 + (rng() - 0.5) * vol);
+        bars.push({
+          t: t, o: o, c: c,
+          h: Math.max(o, c) * (1 + rng() * vol * 0.4),
+          l: Math.min(o, c) * (1 - rng() * vol * 0.4)
+        });
+        px = c; t += 900000;
+      }
+      m.rng = rng;
+      m.intra = bars;
+      m.daily = aggregate(bars, 86400);
+      m.prevClose = bars[Math.max(0, bars.length - 30)].c;
+      m.last = bars[bars.length - 1].c;
+      m.src = 'sim';
+      m.ts = Date.now();
+    });
+    renderAll();
+  }
+
+  function tickSim() {
+    if (!simActive) return;
+    INSTRUMENTS.forEach(function (ins) {
+      var m = market[ins.sym];
+      if (m.src !== 'sim') return;
+      m.prev = m.last;
+      m.last = m.last * (1 + (m.rng() - 0.5) * 0.0009);
+      patchIntraday(m, m.last);
+    });
+  }
+
+  /* ── Status & badges ────────────────────────────────────────────── */
+  function ageOf(m) {
+    var ref = m.src === 'wire' ? Math.max(m.ts, wireStamp) : m.ts;
+    return Math.max(0, Date.now() - ref);
+  }
+  function ageLabel(ms) {
+    if (ms < 90000) return 'now';
+    if (ms < 3600000) return Math.round(ms / 60000) + 'm ago';
+    return Math.round(ms / 3600000) + 'h ago';
+  }
+  function statusOf(m) {
+    if (m.src === 'live' && Date.now() - m.ts < 90000) return 'live';
+    if (m.src === 'live' || m.src === 'wire') return 'wire';
+    if (m.src === 'sim') return 'sim';
+    return 'none';
+  }
+
+  function renderDataBadge() {
+    var live = 0, wire = 0, sim = 0;
+    INSTRUMENTS.forEach(function (ins) {
+      var s = statusOf(market[ins.sym]);
+      if (s === 'live') live++; else if (s === 'wire') wire++; else if (s === 'sim') sim++;
+    });
+    var el = document.getElementById('data-badge');
+    if (live && !sim) {
+      el.textContent = wire ? 'Live + Wire' : 'Live Data';
+      el.className = 'badge ' + (wire ? 'badge-mixed' : 'badge-live');
+      el.title = live + ' live-streamed, ' + wire + ' from the quote pipeline (updated ' + ageLabel(Date.now() - wireStamp) + ').';
+    } else if (wire && !sim) {
+      el.textContent = 'Wire · ' + ageLabel(Date.now() - wireStamp);
+      el.className = 'badge badge-mixed';
+      el.title = 'Real quotes from the scheduled pipeline; refreshes every few minutes.';
+    } else if (sim) {
+      el.textContent = 'Sim Data';
+      el.className = 'badge badge-sim';
+      el.title = 'No market-data source reachable — prices are a labeled simulation.';
+    } else {
+      el.textContent = 'Connecting…';
+      el.className = 'badge';
+      el.title = 'Connecting to market data…';
+    }
   }
 
   /* ════════════════ Watchlist ════════════════ */
@@ -539,13 +756,16 @@
       btn.className = 'w-row' + (ins.sym === activeSym ? ' active' : '');
       btn.setAttribute('role', 'option');
       btn.innerHTML =
-        '<span class="w-sym">' + ins.sym + '</span>' +
+        '<span class="w-sym"><span class="w-dot"></span>' + ins.sym + '</span>' +
         '<span class="w-px num"></span>' +
         '<span class="w-name">' + ins.name + '</span>' +
         '<span class="w-chg num"></span>';
       btn.addEventListener('click', function () { selectSymbol(ins.sym); });
       watchEl.appendChild(btn);
-      rowRefs[ins.sym] = { root: btn, px: btn.querySelector('.w-px'), chg: btn.querySelector('.w-chg') };
+      rowRefs[ins.sym] = {
+        root: btn, px: btn.querySelector('.w-px'),
+        chg: btn.querySelector('.w-chg'), dot: btn.querySelector('.w-dot')
+      };
     });
     document.getElementById('watch-count').textContent = INSTRUMENTS.length + ' instruments';
   }
@@ -553,15 +773,26 @@
   function renderWatchlist() {
     INSTRUMENTS.forEach(function (ins) {
       var m = market[ins.sym]; var r = rowRefs[ins.sym];
-      var chg = (m.last - m.dayOpen) / m.dayOpen * 100;
+      if (m.last == null) {
+        r.px.textContent = '—'; r.chg.textContent = '';
+        r.dot.className = 'w-dot'; r.root.title = 'Awaiting market data';
+        return;
+      }
+      var chg = dayChg(m);
       r.px.textContent = fmt(m.last, ins.dp);
-      r.chg.textContent = (chg >= 0 ? '+' : '') + chg.toFixed(2) + '%';
+      r.chg.textContent = chg == null ? '' : (chg >= 0 ? '+' : '') + (chg * 100).toFixed(2) + '%';
       r.chg.className = 'w-chg num ' + (chg >= 0 ? 'up' : 'down');
-      if (m.last !== m.prev) {
+      var st = statusOf(m);
+      r.dot.className = 'w-dot dot-' + st;
+      r.root.title = st === 'live'
+        ? 'Live · ' + (m.liveVia || 'stream')
+        : st === 'wire' ? 'Quote pipeline · ' + ageLabel(ageOf(m)) : 'Simulated (no data source reachable)';
+      if (m.prev != null && m.last !== m.prev) {
         r.px.classList.remove('w-flash-up', 'w-flash-down');
         void r.px.offsetWidth;
         r.px.classList.add(m.last > m.prev ? 'w-flash-up' : 'w-flash-down');
       }
+      m.prev = m.last; // flash once per real change, not per render
     });
   }
 
@@ -592,9 +823,10 @@
     Array.prototype.forEach.call(items, function (el, i) {
       var ins = INSTRUMENTS[i % INSTRUMENTS.length];
       var m = market[ins.sym];
-      var chg = (m.last - m.dayOpen) / m.dayOpen * 100;
+      if (m.last == null) { el.children[1].textContent = '—'; el.children[2].textContent = ''; return; }
+      var chg = dayChg(m) || 0;
       el.children[1].textContent = fmt(m.last, ins.dp);
-      el.children[2].textContent = (chg >= 0 ? '▲' : '▼') + Math.abs(chg).toFixed(2) + '%';
+      el.children[2].textContent = (chg >= 0 ? '▲' : '▼') + Math.abs(chg * 100).toFixed(2) + '%';
       el.children[2].className = 'tape-chg num ' + (chg >= 0 ? 'up' : 'down');
     });
   }
@@ -631,6 +863,15 @@
     var ins = market[activeSym].ins;
     var tf = TFS.filter(function (t) { return t.id === activeTF; })[0];
     var data = candlesFor(activeSym, tf.secs);
+    if (!data.length) {
+      cctx.save(); cctx.setTransform(1, 0, 0, 1, 0, 0);
+      cctx.clearRect(0, 0, chartCanvas.width, chartCanvas.height);
+      cctx.restore();
+      cctx.fillStyle = 'rgba(139,150,168,.7)';
+      cctx.font = '11px Inter, sans-serif'; cctx.textAlign = 'center';
+      cctx.fillText('Awaiting market data…', Wc / 2, Hc / 2);
+      return;
+    }
     var padR = 62, padT = 14, padB = 22;
     var plotW = Wc - padR, plotH = Hc - padT - padB;
 
@@ -675,15 +916,17 @@
 
     // Last price line
     var last = market[activeSym].last;
-    var ly = yOf(last);
-    cctx.strokeStyle = 'rgba(198,164,104,.65)';
-    cctx.setLineDash([4, 4]);
-    cctx.beginPath(); cctx.moveTo(0, ly); cctx.lineTo(plotW, ly); cctx.stroke();
-    cctx.setLineDash([]);
-    cctx.fillStyle = '#C6A468';
-    cctx.fillRect(plotW, ly - 9, padR, 18);
-    cctx.fillStyle = '#0A1220';
-    cctx.fillText(fmt(last, ins.dp), plotW + 8, ly + 3);
+    if (last != null) {
+      var ly = yOf(last);
+      cctx.strokeStyle = 'rgba(198,164,104,.65)';
+      cctx.setLineDash([4, 4]);
+      cctx.beginPath(); cctx.moveTo(0, ly); cctx.lineTo(plotW, ly); cctx.stroke();
+      cctx.setLineDash([]);
+      cctx.fillStyle = '#C6A468';
+      cctx.fillRect(plotW, ly - 9, padR, 18);
+      cctx.fillStyle = '#0A1220';
+      cctx.fillText(fmt(last, ins.dp), plotW + 8, ly + 3);
+    }
 
     // Time axis labels
     cctx.fillStyle = 'rgba(94,107,128,.9)';
@@ -717,10 +960,21 @@
 
     // Header readout
     var m = market[activeSym];
-    var chg = (m.last - m.dayOpen) / m.dayOpen * 100;
     var lastEl = document.getElementById('chart-last');
-    lastEl.textContent = fmt(m.last, ins.dp) + '  (' + (chg >= 0 ? '+' : '') + chg.toFixed(2) + '%)';
-    lastEl.className = 'chart-last num ' + (chg >= 0 ? 'up' : 'down');
+    if (m.last == null) {
+      lastEl.textContent = '—'; lastEl.className = 'chart-last num';
+    } else {
+      var chg = dayChg(m);
+      var chgTxt = chg == null ? '' : '  (' + (chg >= 0 ? '+' : '') + (chg * 100).toFixed(2) + '%)';
+      lastEl.textContent = fmt(m.last, ins.dp) + chgTxt;
+      lastEl.className = 'chart-last num ' + (chg >= 0 ? 'up' : 'down');
+    }
+    var feedEl = document.getElementById('chart-feed');
+    var st = statusOf(m);
+    if (st === 'live') { feedEl.textContent = 'live · ' + (m.liveVia || 'stream'); feedEl.className = 'chart-feed live'; }
+    else if (st === 'wire') { feedEl.textContent = 'wire · ' + ageLabel(ageOf(m)); feedEl.className = 'chart-feed wire'; }
+    else if (st === 'sim') { feedEl.textContent = 'simulated'; feedEl.className = 'chart-feed'; }
+    else { feedEl.textContent = ''; feedEl.className = 'chart-feed'; }
   }
 
   chartCanvas.parentElement.addEventListener('mousemove', function (e) {
@@ -753,7 +1007,7 @@
   });
 
   /* ════════════════ Paper book ════════════════ */
-  var BOOK_KEY = 'meridian-paper-book-v1';
+  var BOOK_KEY = 'meridian-paper-book-v2'; // v2: books priced off real data
   var START_EQUITY = 250000;
   var DAILY_LIMIT_PCT = 2.0;
   var book;
@@ -774,6 +1028,7 @@
 
   function positionPnl(p) {
     var m = market[p.sym];
+    if (m.last == null) return 0;
     var diff = (m.last - p.entry) * (p.side === 'LONG' ? 1 : -1);
     return diff * p.qty * pnlScale(m.ins);
   }
@@ -858,6 +1113,7 @@
     var qty = parseFloat(document.getElementById('ticket-qty').value);
     if (!isFinite(qty) || qty <= 0) return;
     var m = market[activeSym];
+    if (m.last == null) return; // no price yet — buttons are disabled anyway
     var px = m.last;
     var posSide = side === 'BUY' ? 'LONG' : 'SHORT';
     var realized = null;
@@ -904,8 +1160,10 @@
 
   function renderTicket() {
     var m = market[activeSym];
-    document.getElementById('ticket-px').textContent = activeSym + ' @ ' + fmt(m.last, m.ins.dp);
-    var blocked = tradingBlocked();
+    var noPx = m.last == null;
+    document.getElementById('ticket-px').textContent =
+      noPx ? activeSym + ' · awaiting price' : activeSym + ' @ ' + fmt(m.last, m.ins.dp);
+    var blocked = tradingBlocked() || noPx;
     document.getElementById('btn-buy').disabled = blocked;
     document.getElementById('btn-sell').disabled = blocked;
   }
@@ -976,7 +1234,7 @@
     { title: 'Desk briefing: week ahead — central bank calendar, metals positioning, index breadth', source: 'Meridian Desk', url: '', published: new Date().toISOString(), tags: ['desk'] },
     { title: 'Risk note: daily loss limit and position caps re-armed for the new session', source: 'Meridian Desk', url: '', published: new Date().toISOString(), tags: ['risk'] },
     { title: 'Ops: live headlines appear here once the scheduled news workflow has run on GitHub', source: 'Meridian Ops', url: '', published: new Date().toISOString(), tags: ['ops'] },
-    { title: 'Reminder: terminal market data is simulated for display — execution runs through the broker stack only', source: 'Meridian Ops', url: '', published: new Date().toISOString(), tags: ['ops'] }
+    { title: 'Ops: prices stream live (Kraken) with pipeline quotes behind them — check the data badge for freshness', source: 'Meridian Ops', url: '', published: new Date().toISOString(), tags: ['ops'] }
   ];
   var NEWS_FILTERS = ['all', 'macro', 'fx', 'commodities', 'equities', 'crypto', 'desk'];
   var newsItems = [];
@@ -1061,6 +1319,16 @@
   });
 
   /* ════════════════ Boot & loops ════════════════ */
+  function renderAll() {
+    renderWatchlist();
+    renderTape();
+    drawChart();
+    renderTicket();
+    renderDataBadge();
+    if (book.positions.length) renderRisk();
+    if (activeBookTab === 'positions' && book.positions.length) renderBook();
+  }
+
   buildWatchlist();
   buildTape();
   renderNewsFilters();
@@ -1071,23 +1339,29 @@
   selectSymbol(activeSym);
   renderBook();
   renderRisk();
-  renderWatchlist();
-  renderTape();
+  renderAll();
   animateTape();
+
+  // Real data: pipeline anchors first, then the live lane on top.
+  loadQuotes().then(pollKraken);
 
   window.addEventListener('resize', function () { sizeChart(); drawChart(); });
 
+  var liveTicks = 0;
   setInterval(function () {
-    tickMarket();
-    renderWatchlist();
-    renderTape();
-    drawChart();
-    renderTicket();
-    if (book.positions.length) renderRisk();
-    if (activeBookTab === 'positions' && book.positions.length) renderBook();
-  }, 900);
+    liveTicks += 1;
+    if (krakenFails >= 3) {
+      if (liveTicks % 4 === 0) pollCoinbase();          // fallback lane ~28s
+      if (liveTicks % 12 === 0) { krakenFails = 2; pollKraken(); } // retry Kraken
+    } else {
+      pollKraken();                                     // primary lane ~7s
+    }
+  }, 7000);
+
+  setInterval(function () { tickSim(); renderAll(); }, 900);
   setInterval(renderClock, 1000);
   setInterval(renderSessions, 30000);
+  setInterval(loadQuotes, 5 * 60 * 1000);
   setInterval(loadNews, 5 * 60 * 1000);
 })();
 </script>

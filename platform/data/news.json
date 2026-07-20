@@ -25,7 +25,7 @@
       "tags": ["ops"]
     },
     {
-      "title": "Reminder: terminal market data is simulated for display — execution runs through the broker stack only",
+      "title": "Ops: prices stream live (Kraken) with pipeline quotes behind them — check the data badge for freshness",
       "source": "Meridian Ops",
       "url": "",
       "published": "2026-07-19T00:00:00Z",

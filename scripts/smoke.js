@@ -43,7 +43,10 @@ const term = file('platform/index.html');
 check('terminal exists (platform/index.html)', !!term);
 if (term) {
   check('terminal: titled Meridian Terminal', term.includes('Meridian Terminal'));
-  check('terminal: simulated-data label', /Sim Data|simulated/i.test(term));
+  check('terminal: reads data/quotes.json', term.includes('data/quotes.json'));
+  check('terminal: live lane (Kraken) wired', term.includes('api.kraken.com'));
+  check('terminal: fallback live lane (Coinbase) wired', term.includes('api.coinbase.com'));
+  check('terminal: labeled sim fallback retained', term.includes('simFallback'));
   check('terminal: paper book label', /Paper Book|paper/i.test(term));
   check('terminal: reads data/news.json', term.includes('data/news.json'));
   check('terminal: daily loss limit logic', term.includes('DAILY_LIMIT_PCT'));
@@ -56,6 +59,25 @@ if (news) {
   try { parsed = JSON.parse(news); } catch (e) { /* handled below */ }
   check('news.json parses', !!parsed);
   check('news.json has items[]', !!parsed && Array.isArray(parsed.items) && parsed.items.length > 0);
+}
+
+const quotes = file('platform/data/quotes.json');
+check('quotes.json exists', !!quotes);
+if (quotes) {
+  let parsed = null;
+  try { parsed = JSON.parse(quotes); } catch (e) { /* handled below */ }
+  check('quotes.json parses', !!parsed);
+  const syms = parsed && parsed.symbols ? Object.keys(parsed.symbols) : [];
+  check('quotes.json has 10 symbols', syms.length === 10);
+  check(
+    'quotes.json symbols have last price + candles',
+    syms.length > 0 && syms.every((s) => {
+      const q = parsed.symbols[s];
+      return typeof q.last === 'number' && q.last > 0
+        && q.intraday && Array.isArray(q.intraday.t) && q.intraday.t.length > 10
+        && q.daily && Array.isArray(q.daily.t) && q.daily.t.length > 10;
+    })
+  );
 }
 
 /* ── Client portal ────────────────────────────────────────────── */
@@ -95,7 +117,11 @@ check('blueprint page exists (family-office/index.html)', !!file('family-office/
 /* ── Pipelines ────────────────────────────────────────────────── */
 check('news fetch script exists', !!file('scripts/fetch_news.py'));
 check('news workflow exists', !!file('.github/workflows/news.yml'));
+check('quotes fetch script exists', !!file('scripts/fetch_quotes.py'));
+check('quotes workflow exists', !!file('.github/workflows/quotes.yml'));
 check('pages workflow exists', !!file('.github/workflows/pages.yml'));
+const desk2 = file('titan-markets/index.html');
+check('desk site tape anchors to quotes.json', !!desk2 && desk2.includes('platform/data/quotes.json'));
 
 /* ── Result ───────────────────────────────────────────────────── */
 if (failures) {

@@ -1353,12 +1353,39 @@
       });
     }
     TAPE.forEach(function (q) { render(q, 0); });
+    // Anchor the tape to the estate's real quote pipeline when reachable
+    // (keeps the styled indicative levels above if the fetch fails). Anchored
+    // symbols only flutter a hair around the real print; re-anchored every 5 min.
+    var QMAP = { 'S&P 500': 'US500', 'NASDAQ 100': 'NAS100', 'Gold': 'XAUUSD',
+                 'EUR/USD': 'EURUSD', 'GBP/USD': 'GBPUSD', 'USD/JPY': 'USDJPY',
+                 'Crude Oil': 'WTIUSD', 'BTC/USD': 'BTCUSD' };
+    function anchorTape() {
+      fetch('../platform/data/quotes.json?v=' + Date.now(), { cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+        .then(function (j) {
+          TAPE.forEach(function (q) {
+            var s = j.symbols && j.symbols[QMAP[q.sym]];
+            if (!s || s.last == null) return;
+            q.px = s.last;
+            q.open = s.prevClose || s.last;
+            q.anchor = s.last;
+            render(q, 0);
+          });
+        })
+        .catch(function () {});
+    }
+    anchorTape();
+    setInterval(anchorTape, 5 * 60 * 1000);
     if (reducedMotion) return;
     setInterval(function () {
       for (var n = 0; n < 3; n++) {
         var q = TAPE[Math.floor(Math.random() * TAPE.length)];
         var drift = (Math.random() - .48) * .0008 * q.px;
-        var next = Math.min(q.open * 1.025, Math.max(q.open * .975, q.px + drift));
+        // Real-anchored symbols stay pinned to the pipeline print (±0.05%);
+        // unanchored ones keep the old indicative band around the open.
+        var lo = q.anchor ? q.anchor * .9995 : q.open * .975;
+        var hi = q.anchor ? q.anchor * 1.0005 : q.open * 1.025;
+        var next = Math.min(hi, Math.max(lo, q.px + drift));
         if (next === q.px) continue;
         var dir = next > q.px ? 1 : -1;
         q.px = next;
