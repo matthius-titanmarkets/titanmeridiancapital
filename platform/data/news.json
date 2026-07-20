@@ -1,35 +1,368 @@
 {
-  "generated_at": "2026-07-19T00:00:00Z",
-  "mode": "seed",
-  "note": "Seed briefing items authored by the Meridian desk. The scheduled news workflow replaces this file with live headlines from public RSS wires.",
+  "generated_at": "2026-07-20T05:28:57.150200Z",
+  "mode": "live",
+  "errors": [],
   "items": [
     {
-      "title": "Desk briefing: week ahead — central bank calendar, metals positioning, index breadth",
-      "source": "Meridian Desk",
-      "url": "",
-      "published": "2026-07-19T00:00:00Z",
-      "tags": ["desk", "briefing"]
+      "title": "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
+      "published": "2026-07-20T05:17:16Z",
+      "tags": [
+        "wire"
+      ]
     },
     {
-      "title": "Risk note: daily loss limit and position caps re-armed for the new session",
-      "source": "Meridian Desk",
-      "url": "",
-      "published": "2026-07-19T00:00:00Z",
-      "tags": ["risk"]
+      "title": "Oil prices continue to ramp up to start the new week",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oil-prices-continue-to-ramp-up-to-start-the-new-week/",
+      "published": "2026-07-20T05:03:18Z",
+      "tags": [
+        "commodities"
+      ]
     },
     {
-      "title": "Ops: live news wire activates automatically once the scheduled fetch workflow runs",
-      "source": "Meridian Ops",
-      "url": "",
-      "published": "2026-07-19T00:00:00Z",
-      "tags": ["ops"]
+      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+      "published": "2026-07-20T04:49:24Z",
+      "tags": [
+        "wire"
+      ]
     },
     {
-      "title": "Ops: prices stream live (Kraken) with pipeline quotes behind them — check the data badge for freshness",
-      "source": "Meridian Ops",
-      "url": "",
-      "published": "2026-07-19T00:00:00Z",
-      "tags": ["ops", "risk"]
+      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+      "published": "2026-07-20T04:44:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "published": "2026-07-20T04:43:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/give-me-my-money-back-south-korean-traders-leveraged-bets-unravel.html",
+      "published": "2026-07-20T04:18:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
+      "published": "2026-07-20T04:09:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Market moving news for Asian trading: Oil jumps as US-Iran war spread, Hormuz tankers struck",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/market-moving-news-for-asian-trading-oil-jumps-as-us-iran-war-spread-hormuz-tankers-struck/",
+      "published": "2026-07-20T03:47:25Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/samsung-biologics-polypeptide-group-deal-switzerland.html",
+      "published": "2026-07-20T03:19:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "published": "2026-07-20T03:02:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "U.S. hits Iran for ninth consecutive night as American casualties rise",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/us-iran-strait-of-hormuz-hostilities-casualties-.html",
+      "published": "2026-07-20T03:00:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Plenty of stocks are working in this market \u2014 you just have to look beyond tech",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
+      "published": "2026-07-20T00:33:52Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "World Cup 2026 final in photos: Spain triumphs as football crowns a new champion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html",
+      "published": "2026-07-20T00:09:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "World Cup-champion Spain just won $50 million \u2014 and the IRS gets a cut",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "published": "2026-07-19T22:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "ICYMI - France orders ISPs to block Polymarket after prediction market ban ignored",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/icymi-france-orders-isps-to-block-polymarket-after-prediction-market-ban-ignored/",
+      "published": "2026-07-19T21:49:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "FBI will no longer investigate ICE confrontations, The New York Times reports",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
+      "published": "2026-07-19T19:51:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+      "published": "2026-07-19T19:06:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
+      "published": "2026-07-19T16:28:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+      "published": "2026-07-19T15:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
+      "published": "2026-07-19T14:45:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Can former employers withhold money from your 401(k) when you\u2019re laid off?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+      "published": "2026-07-19T14:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "26-year-old quit her corporate job to become a seamstress at Yellowstone National Park for $19.25/hour",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/26-year-old-quit-her-corporate-job-to-become-a-seamstress-at-yellowstone.html",
+      "published": "2026-07-19T14:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html",
+      "published": "2026-07-19T13:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stop asking 'How was work today?' Successful, mentally strong couples ask these 7 questions instead",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
+      "published": "2026-07-19T13:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+      "published": "2026-07-19T12:46:25Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+      "published": "2026-07-19T12:42:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+      "published": "2026-07-19T12:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "published": "2026-07-19T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+      "published": "2026-07-19T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+      "published": "2026-07-19T11:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+      "published": "2026-07-19T09:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+      "published": "2026-07-18T23:01:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
+      "published": "2026-07-18T22:04:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+      "published": "2026-07-18T19:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+      "published": "2026-07-18T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "published": "2026-07-18T18:16:42Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Fanatics CEO Michael Rubin on two sports businesses his multibillion-dollar conglomerate won't enter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/fanatics-fanfest-michael-rubin.html",
+      "published": "2026-07-18T16:20:28Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
+      "published": "2026-07-18T14:53:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html",
+      "published": "2026-07-18T14:41:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Scam victims can owe taxes on stolen money. A bill in Congress could offer relief",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/18/scam-victims-irs-tax-stolen-money.html",
+      "published": "2026-07-18T13:30:01Z",
+      "tags": [
+        "wire"
+      ]
     }
   ]
 }
