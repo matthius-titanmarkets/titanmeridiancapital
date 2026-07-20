@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-07-19T00:00:00Z",
+  "mode": "seed",
+  "note": "Seed briefing items authored by the Meridian desk. The scheduled news workflow replaces this file with live headlines from public RSS wires.",
+  "items": [
+    {
+      "title": "Desk briefing: week ahead — central bank calendar, metals positioning, index breadth",
+      "source": "Meridian Desk",
+      "url": "",
+      "published": "2026-07-19T00:00:00Z",
+      "tags": ["desk", "briefing"]
+    },
+    {
+      "title": "Risk note: daily loss limit and position caps re-armed for the new session",
+      "source": "Meridian Desk",
+      "url": "",
+      "published": "2026-07-19T00:00:00Z",
+      "tags": ["risk"]
+    },
+    {
+      "title": "Ops: live news wire activates automatically once the scheduled fetch workflow runs",
+      "source": "Meridian Ops",
+      "url": "",
+      "published": "2026-07-19T00:00:00Z",
+      "tags": ["ops"]
+    },
+    {
+      "title": "Reminder: terminal market data is simulated for display — execution runs through the broker stack only",
+      "source": "Meridian Ops",
+      "url": "",
+      "published": "2026-07-19T00:00:00Z",
+      "tags": ["ops", "risk"]
+    }
+  ]
+}

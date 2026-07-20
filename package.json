@@ -1,12 +1,12 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
+  "name": "titan-meridian-capital",
+  "version": "1.0.0",
+  "description": "Titan Meridian Capital — private family investment office estate: fund site, Meridian Terminal, client portal, Titan Markets division site, governance pack, and news pipeline.",
   "scripts": {
-    "test": "node scripts/smoke.js"
+    "test": "node scripts/smoke.js",
+    "serve": "python3 -m http.server 4173",
+    "news": "python3 scripts/fetch_news.py"
   },
-  "dependencies": {
-    "@primer/css": "17.0.1"
-  },
-  "license": "MIT"
+  "license": "UNLICENSED",
+  "private": true
 }
