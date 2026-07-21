@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-07-20T23:06:24.571985Z",
+  "generated_at": "2026-07-21T00:57:38.447937Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+      "published": "2026-07-21T00:13:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Carney says Canada ready to intensify trade talks after new US tariffs",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/seo-headline-carney-says-canada-ready-to-intensify-trade-talks-after-new-us-tariffs/",
+      "published": "2026-07-21T00:00:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+      "published": "2026-07-20T23:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "published": "2026-07-20T23:01:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "New Zealand Q2 CPI 4.1% y/y (expected 4.0%) and 1.5% q/q (expected 1.4%)",
       "source": "ForexLive",
@@ -40,6 +76,15 @@
       ]
     },
     {
+      "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
+      "published": "2026-07-20T22:20:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
@@ -53,15 +98,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
       "published": "2026-07-20T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
-      "published": "2026-07-20T21:53:00Z",
       "tags": [
         "wire"
       ]
@@ -136,15 +172,6 @@
       "published": "2026-07-20T20:44:46Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "SpaceX gave investors intense FOMO. Now the decade\u2019s hottest IPO represents a brutal reality check.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
-      "published": "2026-07-20T20:39:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -334,33 +361,6 @@
       "published": "2026-07-20T14:09:39Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "UK's Andy Burnham becomes PM as Trump slams Britain as 'Poverty Stricken Disaster'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
-      "published": "2026-07-20T14:09:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Boeing CEO says company still needs 'a couple more years' to repair finances before new jet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html",
-      "published": "2026-07-20T14:01:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Voters wary of government ownership in companies as Trump administration takes equity stakes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/trump-government-company-ownership-americans-wary-cnbc-poll.html",
-      "published": "2026-07-20T13:14:52Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
