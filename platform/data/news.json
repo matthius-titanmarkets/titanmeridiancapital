@@ -1,13 +1,40 @@
 {
-  "generated_at": "2026-07-21T10:01:21.926394Z",
+  "generated_at": "2026-07-21T12:07:58.139238Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
+      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
-      "published": "2026-07-21T09:47:05Z",
+      "url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+      "published": "2026-07-21T11:56:14Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Treasury yields are little changed as investors map geopolitical risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/treasury-yields-bonds-iran-us-politics.html",
+      "published": "2026-07-21T11:55:08Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+      "published": "2026-07-21T11:53:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+      "published": "2026-07-21T11:47:00Z",
       "tags": [
         "equities"
       ]
@@ -16,9 +43,127 @@
       "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
-      "published": "2026-07-21T09:33:09Z",
+      "published": "2026-07-21T11:39:17Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+      "published": "2026-07-21T11:35:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European FX news wrap: UK jobs beat, focus stays on Middle East",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-uk-jobs-beat-focus-stays-on-middle-east/",
+      "published": "2026-07-21T11:35:20Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
+      "published": "2026-07-21T11:27:25Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+      "published": "2026-07-21T11:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Market outlook today: Gold and Bitcoin lead as key breakout levels come into focus",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/market-outlook-today-gold-and-bitcoin-lead-as-key-breakout-levels-come-into-focus/",
+      "published": "2026-07-21T11:09:19Z",
+      "tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
+      "published": "2026-07-21T11:06:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "published": "2026-07-21T11:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
+      "published": "2026-07-21T10:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "published": "2026-07-21T10:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "published": "2026-07-21T10:24:07Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+      "published": "2026-07-21T10:20:13Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+      "published": "2026-07-21T10:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Another major stock exchange moves toward 24-hour trading",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/another-major-stock-exchange-moves-toward-24-hour-trading-7f406dce?mod=mw_rss_topstories",
+      "published": "2026-07-21T10:02:00Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -49,39 +194,12 @@
       ]
     },
     {
-      "title": "Montana home of Kelly Clarkson\u2019s late ex-husband Brandon Blackstock listed for $2.9 million",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/montana-home-of-kelly-clarksons-late-ex-husbandbrandon-blackstock-listed-for-2-9-million-f1a5a7b4?mod=mw_rss_topstories",
-      "published": "2026-07-21T09:03:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "All eyes are on John Healey, the UK's new finance minister. Here\u2019s what\u2019s at stake",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/andy-burnham-john-healey-chancellor-gilts-jamie-dimon.html",
       "published": "2026-07-21T09:00:10Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don\u2019t ease, says Goldman Sachs",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories",
-      "published": "2026-07-21T09:00:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Treasury yields edge lower as investors map geopolitical risks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/treasury-yields-bonds-iran-us-politics.html",
-      "published": "2026-07-21T08:25:56Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -100,15 +218,6 @@
       "published": "2026-07-21T08:14:10Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says he wouldn\u2019t buy Treasurys. \u2018I don\u2019t understand the upside.\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jamie-dimon-says-he-wouldnt-buy-treasurys-i-dont-understand-the-upside-dfcdf012?mod=mw_rss_topstories",
-      "published": "2026-07-21T07:51:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -203,24 +312,6 @@
       ]
     },
     {
-      "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-      "published": "2026-07-21T04:01:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
-      "published": "2026-07-21T04:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Asia-Pacific market moving news: Trump nears pivotal Iran decision",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-trump-nears-pivotal-iran-decision/",
@@ -239,15 +330,6 @@
       ]
     },
     {
-      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
-      "published": "2026-07-21T00:13:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Carney says Canada ready to intensify trade talks after new US tariffs",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/seo-headline-carney-says-canada-ready-to-intensify-trade-talks-after-new-us-tariffs/",
@@ -257,57 +339,12 @@
       ]
     },
     {
-      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-      "published": "2026-07-20T23:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-      "published": "2026-07-20T23:01:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "New Zealand Q2 CPI 4.1% y/y (expected 4.0%) and 1.5% q/q (expected 1.4%)",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/new-zealand-q2-cpi-y-y-expected-4-0-and-q-q-expected-1-4/",
       "published": "2026-07-20T22:55:15Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-      "published": "2026-07-20T22:55:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "published": "2026-07-20T22:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
-      "published": "2026-07-20T22:21:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -326,42 +363,6 @@
       "published": "2026-07-20T22:13:57Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
-      "published": "2026-07-20T21:50:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump hits Canada with new tariffs on alcohol, dairy and autos",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-hits-canada-with-new-tariffs-on-alcohol-dairy-and-autos/",
-      "published": "2026-07-20T21:15:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 20 Jul:",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-jul/",
-      "published": "2026-07-20T21:08:29Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Alphabet stock pops on report it's developing a more efficient AI chip",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
-      "published": "2026-07-20T20:44:46Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
