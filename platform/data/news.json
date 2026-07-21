@@ -1,22 +1,175 @@
 {
-  "generated_at": "2026-07-21T14:34:12.785662Z",
+  "generated_at": "2026-07-21T16:22:05.959694Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
-      "published": "2026-07-21T14:32:00Z",
+      "title": "IRS chief Frank Bisignano laughs off JPMorgan spying allegations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
+      "published": "2026-07-21T16:18:27Z",
       "tags": [
-        "equities"
+        "wire"
+      ]
+    },
+    {
+      "title": "These signs suggest investors should give the software sector a second chance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/here-are-some-signs-that-say-investors-should-give-the-software-sector-a-second-chance-f4143255?mod=mw_rss_topstories",
+      "published": "2026-07-21T16:10:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+      "published": "2026-07-21T15:53:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump meets with Lebanese President Joseph Aoun in the White House",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-meets-with-lebanese-president-joseph-aoun-in-the-white-house/",
+      "published": "2026-07-21T15:43:41Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-      "published": "2026-07-21T14:15:54Z",
+      "published": "2026-07-21T15:34:04Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+      "published": "2026-07-21T15:25:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Canada Carney: Latest tariff threat are a violation of USMCA",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canada-carney-latest-tariff-threat-are-a-violation-of-usmca/",
+      "published": "2026-07-21T15:20:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nebius stock surges 13% as Nvidia discloses significant stake in neocloud",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+      "published": "2026-07-21T15:19:15Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Pro stock pickers cannot beat simple math \u2014 war in the Middle East is proving it",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+      "published": "2026-07-21T15:12:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
+      "published": "2026-07-21T15:03:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Novo Nordisk\u2019s lawsuit against Eli Lilly over ads highlights intense competition in GLP-1 market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
+      "published": "2026-07-21T15:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+      "published": "2026-07-21T15:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+      "published": "2026-07-21T15:00:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
+      "published": "2026-07-21T15:00:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+      "published": "2026-07-21T14:54:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+      "published": "2026-07-21T14:53:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wall Street is selling more rental homes, as buying ban takes effect",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
+      "published": "2026-07-21T14:49:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+      "published": "2026-07-21T14:37:08Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
+      "published": "2026-07-21T14:32:00Z",
       "tags": [
         "equities"
       ]
@@ -49,15 +202,6 @@
       ]
     },
     {
-      "title": "Bessent says U.S. could sanction China over AI model 'theft'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
-      "published": "2026-07-21T14:14:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/samsung-electronics-sets-up-robotics-unit-amid-push-into-physical-ai-.html",
@@ -85,24 +229,6 @@
       ]
     },
     {
-      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-      "published": "2026-07-21T13:54:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
-      "published": "2026-07-21T13:54:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
@@ -112,7 +238,7 @@
       ]
     },
     {
-      "title": "How to successfully deal with a micromanaging boss",
+      "title": "How to deal with a micromanager",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/how-to-successfully-deal-with-a-micromanaging-boss-d9151b50?mod=mw_rss_topstories",
       "published": "2026-07-21T13:49:00Z",
@@ -130,24 +256,6 @@
       ]
     },
     {
-      "title": "If timing the stock market were easy, the Iran war would have proven it. It\u2019s done the opposite.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-      "published": "2026-07-21T13:38:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
-      "published": "2026-07-21T13:35:44Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
@@ -157,46 +265,10 @@
       ]
     },
     {
-      "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
-      "published": "2026-07-21T13:32:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Welcome to the \u2018Roaring \u201920s\u2019: Here\u2019s how this earnings season will keep the bull market strong",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
-      "published": "2026-07-21T13:32:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Time to buy the dip in momentum stocks after a punishing July drawdown? Here\u2019s what history tells us.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/time-to-buy-the-dip-in-momentum-stocks-after-a-punishing-july-drawdown-heres-what-history-tells-us-bc5c0c4e?mod=mw_rss_topstories",
-      "published": "2026-07-21T13:25:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "USTR Greer: Canada is giving other countries better trade deals",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/ustr-greer-canada-is-giving-other-countries-better-trade-deals/",
       "published": "2026-07-21T13:13:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Novo Nordisk sues Eli Lilly over ads as GLP-1 market hits \u2018inflection point\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
-      "published": "2026-07-21T13:11:00Z",
       "tags": [
         "wire"
       ]
@@ -215,15 +287,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/intel-foundry-lands-fortinet-as-first-customer-for-security-chips.html",
       "published": "2026-07-21T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wall Street is selling more rental homes, as buying ban takes effect",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
-      "published": "2026-07-21T12:56:09Z",
       "tags": [
         "wire"
       ]
@@ -265,15 +328,6 @@
       ]
     },
     {
-      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-      "published": "2026-07-21T11:56:14Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "investingLive European FX news wrap: UK jobs beat, focus stays on Middle East",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-uk-jobs-beat-focus-stays-on-middle-east/",
@@ -306,60 +360,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/germany-zew-survey-current-conditions-77-6-vs-77-8-expected/",
       "published": "2026-07-21T09:13:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Opinion: Burnham is Britain's new prime minister. Now what?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/andy-burnham-uk-prime-minister-vat.html",
-      "published": "2026-07-21T09:06:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Boeing and Airbus prepare for next narrow-body battle \u2013 but airlines aren\u2019t pushing for new jets yet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/boeing-airbus-narrow-body-planes-deliveries-737max-a320.html",
-      "published": "2026-07-21T08:21:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Eurozone banks tighten lending standards further as geopolitical risks weigh on credit conditions",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eurozone-banks-tighten-lending-standards-further-as-geopolitical-risks-weigh-on-credit-conditions/",
-      "published": "2026-07-21T08:14:10Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Trouble already for Burnham in his first policy announcement?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trouble-already-for-burnham-in-his-first-policy-announcement/",
-      "published": "2026-07-21T07:16:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
-      "published": "2026-07-21T06:51:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Abu Dhabi approves $6.2 billion gas project to boost UAE supply",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/abu-dhabi-gas-project-uae-energy-supply.html",
-      "published": "2026-07-21T06:49:21Z",
       "tags": [
         "wire"
       ]
