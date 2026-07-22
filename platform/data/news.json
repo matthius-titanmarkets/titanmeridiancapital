@@ -1,13 +1,67 @@
 {
-  "generated_at": "2026-07-21T23:28:04.454849Z",
+  "generated_at": "2026-07-22T00:57:34.467812Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Here\u2019s how to time your retirement to keep your healthcare costs down",
+      "title": "Mamdani says New York City lacks authority to arrest Netanyahu, calls him \u2018war criminal\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "published": "2026-07-22T00:47:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan exports and imports grow at fastest pace in June since November 2022, beating estimates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
+      "published": "2026-07-22T00:36:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
+      "published": "2026-07-22T00:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Sony\u2019s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
+      "published": "2026-07-22T00:30:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
+      "published": "2026-07-22T00:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan trade data shows exports in June higher than expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-trade-data-shows-exports-in-june-higher-than-expected/",
+      "published": "2026-07-21T23:56:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
-      "published": "2026-07-21T23:16:00Z",
+      "published": "2026-07-21T23:56:00Z",
       "tags": [
         "equities"
       ]
@@ -46,15 +100,6 @@
       "published": "2026-07-21T22:34:35Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
-      "published": "2026-07-21T22:11:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -143,15 +188,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories",
       "published": "2026-07-21T20:27:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-      "published": "2026-07-21T20:19:12Z",
       "tags": [
         "equities"
       ]
@@ -324,42 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
       "published": "2026-07-21T16:52:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump meets with Lebanese President Joseph Aoun in the White House",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-meets-with-lebanese-president-joseph-aoun-in-the-white-house/",
-      "published": "2026-07-21T15:43:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada Carney: Latest tariff threat are a violation of USMCA",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-carney-latest-tariff-threat-are-a-violation-of-usmca/",
-      "published": "2026-07-21T15:20:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
-      "published": "2026-07-21T15:03:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
-      "published": "2026-07-21T15:00:02Z",
       "tags": [
         "wire"
       ]
