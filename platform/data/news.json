@@ -1,13 +1,166 @@
 {
-  "generated_at": "2026-07-23T20:35:23.579872Z",
+  "generated_at": "2026-07-23T22:03:01.976314Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "title": "AMD\u2019s rivalry with Nvidia is increasingly moving into a new realm",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "published": "2026-07-23T21:56:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:55:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The stock market\u2019s calm is cracking. Here\u2019s how to prepare for an August shock.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:53:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
+      "published": "2026-07-23T21:50:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+      "published": "2026-07-23T21:43:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "ServiceNow\u2019s stock falls as a new AI threat overshadows earnings beat",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:41:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 23 Jul: Risk off sentiment as geopolitical tensions rise.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jul-risk-off-sentiment-as-geopolitical-tensions-rise/",
+      "published": "2026-07-23T21:26:40Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-      "published": "2026-07-23T20:34:56Z",
+      "published": "2026-07-23T21:25:26Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
+      "published": "2026-07-23T21:17:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk\u2019s plan to spend \u2018as fast as we can\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+      "published": "2026-07-23T21:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump unveils new tariffs designed to survive legal challenge, WSJ reports",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-unveils-new-tariffs-designed-to-survive-legal-challenge-wsj-reports/",
+      "published": "2026-07-23T21:11:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "published": "2026-07-23T21:09:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "published": "2026-07-23T20:47:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "published": "2026-07-23T20:45:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Lockheed Martin\u2019s stock skyrockets as push to build more missiles faster pays off",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+      "published": "2026-07-23T20:41:00Z",
       "tags": [
         "equities"
       ]
@@ -32,12 +185,13 @@
       ]
     },
     {
-      "title": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
+      "title": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
-      "published": "2026-07-23T20:27:11Z",
+      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "published": "2026-07-23T20:30:50Z",
       "tags": [
-        "wire"
+        "macro",
+        "commodities"
       ]
     },
     {
@@ -60,39 +214,12 @@
       ]
     },
     {
-      "title": "T-Mobile\u2019s stock sinks despite customers pouring into premium plans",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:24:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/as-the-sp-500-sells-off-traders-eye-key-risk-pivot-level.html",
       "published": "2026-07-23T20:22:32Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "The rising cost of capital for companies today is starting to spook the stock market: \u2018The worry is the spending might not pay off\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:20:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Alphabet\u2019s massive profit growth is \u2018illusory\u2019, as SpaceX and Anthropic help mask a historic cash drain",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:17:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -105,30 +232,12 @@
       ]
     },
     {
-      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-      "published": "2026-07-23T20:12:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
       "published": "2026-07-23T20:12:13Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-      "published": "2026-07-23T20:09:13Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -159,33 +268,6 @@
       ]
     },
     {
-      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:51:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Imax\u2019s CEO says it\u2019s time to hike prices as tickets to \u2018The Odyssey\u2019 resell for $1,000",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/imaxs-ceo-says-its-time-to-hike-prices-as-tickets-to-the-odyssey-resell-for-1-000-2df43d7e?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:50:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How to find the best mortgage rate \u2014 it could save you $3,300 a year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:20:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
@@ -195,30 +277,13 @@
       ]
     },
     {
-      "title": "Global oil tops $100, settles at 2-month high after Houthis strike Saudi tankers and Trump threatens \u2018military punishment\u2019 on Iran",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:18:00Z",
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "published": "2026-07-23T19:19:01Z",
       "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Most FDA advisers say the BPC-157 and KPV peptides should be made available in the U.S. Here\u2019s what happens next.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they\u2019re stuck.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-than-70-of-recent-home-buyers-were-counting-on-mortgage-rates-to-drop-now-theyre-stuck-1d0dab60?mod=mw_rss_topstories",
-      "published": "2026-07-23T19:08:00Z",
-      "tags": [
-        "wire"
+        "commodities",
+        "equities"
       ]
     },
     {
@@ -298,69 +363,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
       "published": "2026-07-23T17:02:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Senate blocks resolution curbing Trump's Iran War Powers. Tensions remain high.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-senate-blocks-resolution-curbing-trump-s-iran-war-powers/",
-      "published": "2026-07-23T16:48:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The story gets worse: 30 year mortgage rates reach the highest level since August 2025",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-story-gets-worse-30-year-mortgage-rates-reach-the-highest-level-since-august-2025/",
-      "published": "2026-07-23T16:16:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
-      "published": "2026-07-23T16:14:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-      "published": "2026-07-23T15:41:37Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Pres. Trump: Considering a massive attack greater than anything before.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/pres-trump-considering-a-massive-attack-greater-than-anything-before/",
-      "published": "2026-07-23T15:37:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-      "published": "2026-07-23T15:26:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Middle East tensions remains high with Iran increasing hostilities",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/middle-east-tensions-remains-high-with-iran-increasing-hostilities/",
-      "published": "2026-07-23T14:49:08Z",
       "tags": [
         "wire"
       ]
