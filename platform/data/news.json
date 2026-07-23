@@ -1,22 +1,222 @@
 {
-  "generated_at": "2026-07-23T16:25:03.639040Z",
+  "generated_at": "2026-07-23T17:55:01.111336Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "The story gets worse: 30 year mortgage rates reach the highest level since August 2025",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-story-gets-worse-30-year-mortgage-rates-reach-the-highest-level-since-august-2025/",
-      "published": "2026-07-23T16:16:27Z",
+      "title": "Russia\u2019s Amazon-style retail giant Wildberries is now in Ukraine\u2019s crosshairs. Here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/ukraine-russia-war-wildberries-drones-amazon.html",
+      "published": "2026-07-23T17:51:52Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "\u2018It would feel like a burden\u2019: My stepmother, 96, owns the house I grew up in. Is it wrong to tell her I don\u2019t want to inherit it?",
+      "title": "Still waiting for the free $1,000 to hit your \u2018Trump account\u2019? Here\u2019s what to know.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
-      "published": "2026-07-23T16:16:00Z",
+      "url": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "American Airlines stock tumbles 9% as fuel spike further postpones turnaround",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "published": "2026-07-23T17:47:45Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+      "published": "2026-07-23T17:43:52Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+      "published": "2026-07-23T17:42:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "published": "2026-07-23T17:41:22Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+      "published": "2026-07-23T17:30:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs \u2014 despite rough quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "published": "2026-07-23T17:10:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Most FDA advisers say the BPC-157 peptide should be made available in the U.S. Here\u2019s what happens next.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'The Odyssey' is cleaning up for IMAX. Expect the momentum to continue",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/the-odyssey-imax-ticket-sales-revenue.html",
+      "published": "2026-07-23T17:06:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The rising cost of capital for companies today is starting to spook the stock market: \u2018The worry is the spending might not pay off\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:04:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The Treasury market is flashing a warning sign for home buyers. Are 7% mortgage rates next?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:03:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
+      "published": "2026-07-23T17:02:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "published": "2026-07-23T17:02:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "published": "2026-07-23T16:56:57Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens \u2018military punishment\u2019 on Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+      "published": "2026-07-23T16:50:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "US Senate blocks resolution curbing Trump's Iran War Powers. Tensions remain high.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-senate-blocks-resolution-curbing-trump-s-iran-war-powers/",
+      "published": "2026-07-23T16:48:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Are you looking for financial advice? This is the best way to ask for it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+      "published": "2026-07-23T16:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Lockheed Martin\u2019s stock has best day in 25 years as push to build more missiles faster pays off",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+      "published": "2026-07-23T16:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+      "published": "2026-07-23T16:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Google slapped with $1 billion fine under landmark EU digital law",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html",
+      "published": "2026-07-23T16:29:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cramer has a problem with Alphabet. Plus, updates on 2 industrials",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/cramer-has-a-problem-with-alphabet-plus-updates-on-2-industrials-.html",
+      "published": "2026-07-23T16:24:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The story gets worse: 30 year mortgage rates reach the highest level since August 2025",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/the-story-gets-worse-30-year-mortgage-rates-reach-the-highest-level-since-august-2025/",
+      "published": "2026-07-23T16:16:27Z",
       "tags": [
         "wire"
       ]
@@ -40,28 +240,10 @@
       ]
     },
     {
-      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+      "title": "Tesla falls 13%, Alphabet sinks 7% as AI spending concerns spook investors",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-      "published": "2026-07-23T16:06:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-      "published": "2026-07-23T16:04:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "These franchises have the lowest startup costs \u2014 and none are fast-food restaurants",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-franchises-have-the-lowest-startup-costs-and-none-are-fast-food-restaurants-8c755b09?mod=mw_rss_topstories",
-      "published": "2026-07-23T16:04:00Z",
+      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+      "published": "2026-07-23T15:57:35Z",
       "tags": [
         "wire"
       ]
@@ -74,24 +256,6 @@
       "tags": [
         "macro",
         "commodities"
-      ]
-    },
-    {
-      "title": "Google slapped with $1 billion fine under landmark EU digital law",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html",
-      "published": "2026-07-23T15:44:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We're ready to move on from Dover after the industrial conglomerate's weak quarter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/were-ready-to-move-on-from-dover-after-the-industrials-weak-quarter.html",
-      "published": "2026-07-23T15:41:48Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -113,55 +277,10 @@
       ]
     },
     {
-      "title": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
-      "published": "2026-07-23T15:37:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why ServiceNow\u2019s stock is a rare bright spot while the rest of tech stumbles",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
-      "published": "2026-07-23T15:34:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "'The Odyssey' is cleaning up for IMAX. Expect the momentum to continue",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/the-odyssey-imax-ticket-sales-revenue.html",
-      "published": "2026-07-23T15:32:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
       "published": "2026-07-23T15:26:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-      "published": "2026-07-23T15:25:14Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Tesla sees a $200 billion wipeout as investors pan Musk\u2019s plan to spend \u2018as fast as we can\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
-      "published": "2026-07-23T15:24:00Z",
       "tags": [
         "wire"
       ]
@@ -203,15 +322,6 @@
       ]
     },
     {
-      "title": "Alphabet\u2019s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
-      "published": "2026-07-23T14:28:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "IRS chief Frank Bisignano may have misled Congress, Democrats say",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/frank-bisignano-irs-misled-congress-warren-democrats.html",
@@ -230,57 +340,12 @@
       ]
     },
     {
-      "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published": "2026-07-23T14:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "For young investors, $100,000 was once the gateway to wealth. Today, it\u2019s double that.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
-      "published": "2026-07-23T14:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-      "published": "2026-07-23T14:09:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Eli Lilly says it will file for approval of next-generation obesity drug in 2027 as it clears two more trials",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/eli-lilly-will-file-for-approval-of-retatrutide-obesity-drug-in-2027.html",
       "published": "2026-07-23T13:52:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
-      "published": "2026-07-23T13:52:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-      "published": "2026-07-23T13:36:29Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -294,75 +359,12 @@
       ]
     },
     {
-      "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
-      "published": "2026-07-23T13:25:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Canada Retail sales for May 1.0% versus 1.0% expected",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/canada-retail-sales-for-may-1-0-versus-1-0-expected/",
       "published": "2026-07-23T12:42:42Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
-      "published": "2026-07-23T12:39:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US initial jobless claims 187K versus 212K expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-187k-versus-212k-expected/",
-      "published": "2026-07-23T12:37:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
-      "published": "2026-07-23T12:36:17Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "AARP to Congress: 'We strongly object to fast-tracking Social Security changes'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/aarp-opposes-bipartisan-social-security-reform-proposal.html",
-      "published": "2026-07-23T12:35:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump: Hold Iran responsible for Houthis attacks.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-hold-iran-responsible-for-houthis-attacks/",
-      "published": "2026-07-23T12:27:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The full statement from the ECB as they keep rates unchanged.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-full-statement-from-the-ecb-as-they-keep-rates-unchanged/",
-      "published": "2026-07-23T12:16:24Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
