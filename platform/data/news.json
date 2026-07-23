@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-23T04:50:04.716890Z",
+  "generated_at": "2026-07-23T07:32:00.876970Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "UniCredit CEO tells CNBC full acquisition of Commerzbank could happen in fourth quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
+      "published": "2026-07-23T07:11:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "French business climate brightens a little more as rebound extends into July",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/france-july-business-confidence-vs-95-expected/",
+      "published": "2026-07-23T06:57:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+      "published": "2026-07-23T06:42:08Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-9/",
+      "published": "2026-07-23T06:26:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "published": "2026-07-23T06:23:06Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+      "published": "2026-07-23T05:06:41Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Silver and gold prices stage a cautious rebound \u2014 but analysts see slim hopes for a sustained rally",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+      "published": "2026-07-23T05:00:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "China sends a clear message with live-fire drills in Taiwan Strait",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-sends-a-clear-message-with-live-fire-drills-in-taiwan-strait/",
+      "published": "2026-07-23T04:54:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Gen Z protests led by India\u2019s 'Cockroach party' are testing Modi\u2019s leadership",
       "source": "CNBC Markets",
@@ -46,15 +118,6 @@
       "published": "2026-07-23T01:48:22Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-      "published": "2026-07-23T01:34:22Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -229,15 +292,6 @@
       ]
     },
     {
-      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-      "published": "2026-07-22T20:54:44Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/washington-to-expand-nuclear-technology-exports-to-saudi-arabia-us-saudi-nuclear-deal/",
@@ -306,60 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/22/secret-service-threat-trump-white-house-drones.html",
       "published": "2026-07-22T20:09:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-      "published": "2026-07-22T20:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-      "published": "2026-07-22T19:50:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "EU antitrust regulators clear Paramount-WBD merger as it faces challenge by U.S. states",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/european-commission-paramount-wbd-approval.html",
-      "published": "2026-07-22T19:19:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "J&J gets a big win on its new robotic surgical system \u2014 plus, a flood of earnings",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
-      "published": "2026-07-22T18:57:50Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Iran broadens its threats as the rhetoric turns increasingly dangerous",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-broadens-its-threats-as-the-rhetoric-turns-increasingly-dangerous/",
-      "published": "2026-07-22T18:51:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-      "published": "2026-07-22T18:45:55Z",
       "tags": [
         "wire"
       ]
