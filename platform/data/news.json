@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-07-23T22:03:01.976314Z",
+  "generated_at": "2026-07-23T23:27:37.842595Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
+      "published": "2026-07-23T22:40:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "published": "2026-07-23T22:17:09Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The August stock-market slump is a myth \u2014 so why does Wall Street keep repeating it?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+      "published": "2026-07-23T22:12:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "published": "2026-07-23T22:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "published": "2026-07-23T22:03:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "published": "2026-07-23T22:02:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "AMD\u2019s rivalry with Nvidia is increasingly moving into a new realm",
       "source": "MarketWatch",
@@ -17,15 +71,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
       "published": "2026-07-23T21:56:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-      "published": "2026-07-23T21:55:00Z",
       "tags": [
         "wire"
       ]
@@ -85,15 +130,6 @@
       ]
     },
     {
-      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-      "published": "2026-07-23T21:25:26Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
@@ -139,15 +175,6 @@
       ]
     },
     {
-      "title": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:47:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
@@ -157,30 +184,11 @@
       ]
     },
     {
-      "title": "Lockheed Martin\u2019s stock skyrockets as push to build more missiles faster pays off",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:41:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Cerebras stock gains on AMD partnership",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
       "published": "2026-07-23T20:33:12Z",
       "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Japan\u2019s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
-      "published": "2026-07-23T20:31:00Z",
-      "tags": [
-        "macro",
         "equities"
       ]
     },
@@ -263,15 +271,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html",
       "published": "2026-07-23T20:06:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
-      "published": "2026-07-23T19:19:26Z",
       "tags": [
         "wire"
       ]
