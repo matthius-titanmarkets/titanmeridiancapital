@@ -1,31 +1,221 @@
 {
-  "generated_at": "2026-07-24T17:04:20.780044Z",
+  "generated_at": "2026-07-24T18:57:05.294979Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "title": "Trump considers \u2018massive attack\u2019 on Iran; Pakistan reportedly seeks to restart stalled peace talks",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "published": "2026-07-24T17:00:01Z",
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "published": "2026-07-24T18:48:10Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Verizon\u2019s stock rises after earnings \u2014 and a surprise entry into a new AI business area",
+      "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
+      "published": "2026-07-24T18:47:41Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "The bond market hasn\u2019t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:55:00Z",
+      "url": "https://www.marketwatch.com/story/the-bond-market-hasnt-been-this-calm-since-the-dot-com-bust-and-the-financial-crisis-history-warns-of-a-rude-awakening-5597c25d?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:47:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "published": "2026-07-24T18:46:41Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "published": "2026-07-24T18:46:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "This energy company sidestepped Iran war challenges by pushing into data centers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-energy-company-sidestepped-iran-war-challenges-by-pushing-into-data-centers-0aed9ca7?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:39:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Intel, Micron and other major chip stocks are falling \u2014 even as the rest of tech holds up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-micron-and-other-major-chip-stocks-are-falling-even-as-the-rest-of-tech-holds-up-506851dc?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:37:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Why we would buy the Intel dip but can't get behind the Dover bounce",
+      "title": "The 'sell chips, buy software' trade reappears as Wall Street caps off another volatile week",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/why-we-would-buy-the-intel-dip-but-cant-get-behind-the-dover-bounce.html",
-      "published": "2026-07-24T16:38:28Z",
+      "url": "https://www.cnbc.com/2026/07/24/the-sell-chips-buy-software-trade-reappears-as-wall-street-caps-off-another-volatile-week.html",
+      "published": "2026-07-24T18:36:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/ny-times-trump-meets-with-top-advisors-to-decide-whether-to-increase-military-pressure-on-iran/",
+      "published": "2026-07-24T18:34:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Farmers are already set for a $55 billion payday \u2014 why does Washington want to give them more?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Can AI-powered ETFs beat the stock market?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why bond investors are pushing up some of your interest rates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
+      "published": "2026-07-24T18:29:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "published": "2026-07-24T18:20:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Your retirement math may have a surprising flaw",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
+      "published": "2026-07-24T18:12:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "EU fines today, Trump 301 tariffs tomorrow?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/eu-fines-today-trump-301-tariffs-tomorrow/",
+      "published": "2026-07-24T18:08:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jensen Huang has a high-stakes message for AI policymakers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jensen-huang-has-a-high-stakes-message-for-ai-policymakers-aa60017b?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:06:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "published": "2026-07-24T17:55:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump targets E.U. with new tariffs over its fines for Big Tech \u2013 and even more levies are coming",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
+      "published": "2026-07-24T17:41:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "published": "2026-07-24T17:32:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
+      "published": "2026-07-24T17:28:15Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+      "published": "2026-07-24T17:26:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
+      "published": "2026-07-24T17:20:47Z",
       "tags": [
         "wire"
       ]
@@ -40,121 +230,12 @@
       ]
     },
     {
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:22:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Still waiting for the free $1,000 to hit your child\u2019s \u2018Trump account\u2019? Here\u2019s what to know.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:20:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Treasury yields retreat as oil prices fall amid hopes for new U.S.-Iran peace talks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-      "published": "2026-07-24T16:16:28Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "published": "2026-07-24T16:13:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why there are still more Trump tariffs expected \u2014 even after this past week\u2019s rollouts",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:10:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump considers \u2018massive attack\u2019 on Iran; Pakistan reportedly seeks to restart stalled peace talks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-      "published": "2026-07-24T16:04:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-      "published": "2026-07-24T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Pakistan is exploring a path toward a resumption of US \u2013 Iran talks. Oil moves lower",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/pakistan-is-exploring-a-path-toward-a-resumption-of-us-iran-talks-helps-stocks/",
       "published": "2026-07-24T15:49:22Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "published": "2026-07-24T15:47:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How you can get financial advice from MarketWatch tailored to your needs",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-you-can-get-financial-advice-from-marketwatch-tailored-to-your-needs-4fc0fef8?mod=mw_rss_topstories",
-      "published": "2026-07-24T15:42:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -167,12 +248,12 @@
       ]
     },
     {
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "published": "2026-07-24T15:30:00Z",
+      "title": "Oil falls more than 4% on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+      "published": "2026-07-24T15:34:06Z",
       "tags": [
-        "wire"
+        "commodities"
       ]
     },
     {
@@ -207,15 +288,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
       "published": "2026-07-24T14:12:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump imposes 'sweeping' new tariffs on 60 trade partners as global duties expire",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
-      "published": "2026-07-24T14:11:56Z",
       "tags": [
         "wire"
       ]
@@ -289,79 +361,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/canada-june-ppi-1-4-versus-0-4-expected/",
       "published": "2026-07-24T12:41:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada new housing price index for June -0.1% vs -0.3% last month",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-new-housing-price-index-for-june-0-1-vs-0-3-last-month/",
-      "published": "2026-07-24T12:33:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-      "published": "2026-07-24T12:09:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
-      "published": "2026-07-24T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How have interest rate expectations changed after this week's events?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events/",
-      "published": "2026-07-24T10:56:55Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Oil prices come off the boil, markets take a light breather in final stretch of the week",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-oil-prices-come-off-the-boil-markets-take-a-light-breather-in-final-stretch-of-the-week/",
-      "published": "2026-07-24T10:55:27Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "UK July flash services PMI 51.8 vs 49.4 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-july-flash-services-pmi-xx-vs-49-4-expected/",
-      "published": "2026-07-24T08:33:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Euro area business activity rises for first time in four months as demand conditions rebound",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eurozone-july-flash-services-pmi-vs-49-8-expected/",
-      "published": "2026-07-24T08:14:18Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Volkswagen CFO addresses plant closures, job losses as profits sink",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
-      "published": "2026-07-24T07:56:12Z",
       "tags": [
         "wire"
       ]
