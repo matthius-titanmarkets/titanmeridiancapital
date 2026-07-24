@@ -1,8 +1,172 @@
 {
-  "generated_at": "2026-07-24T18:57:05.294979Z",
+  "generated_at": "2026-07-24T20:23:01.298962Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "published": "2026-07-24T20:20:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "published": "2026-07-24T20:19:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "published": "2026-07-24T20:11:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bond market anxiety is growing over AI capex budgets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+      "published": "2026-07-24T20:07:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+      "published": "2026-07-24T20:04:44Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+      "published": "2026-07-24T20:02:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
+      "published": "2026-07-24T19:58:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Next week's earnings calendar heats up",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/next-week-s-earnings-calendar-heats-up/",
+      "published": "2026-07-24T19:55:10Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "published": "2026-07-24T19:53:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump: Iran not ready to make a deal.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-iran-not-ready-to-make-a-deal/",
+      "published": "2026-07-24T19:44:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
+      "published": "2026-07-24T19:41:08Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "published": "2026-07-24T19:39:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
+      "published": "2026-07-24T19:31:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Don\u2019t rush to save Social Security, AARP tells Congress: \u2018It should be debated openly \u2014 not through an accelerated process\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-rush-to-save-social-security-aarp-tells-congress-it-should-be-debated-openly-not-through-an-accelerated-process-96cfb75d?mod=mw_rss_topstories",
+      "published": "2026-07-24T19:17:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+      "published": "2026-07-24T19:12:09Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "published": "2026-07-24T19:12:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "published": "2026-07-24T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+      "published": "2026-07-24T18:58:00Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
     {
       "title": "Trump considers \u2018massive attack\u2019 on Iran; Pakistan reportedly seeks to restart stalled peace talks",
       "source": "CNBC Markets",
@@ -31,25 +195,6 @@
       ]
     },
     {
-      "title": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-      "published": "2026-07-24T18:46:41Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-      "published": "2026-07-24T18:46:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "This energy company sidestepped Iran war challenges by pushing into data centers",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/this-energy-company-sidestepped-iran-war-challenges-by-pushing-into-data-centers-0aed9ca7?mod=mw_rss_topstories",
@@ -65,15 +210,6 @@
       "published": "2026-07-24T18:37:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "The 'sell chips, buy software' trade reappears as Wall Street caps off another volatile week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/the-sell-chips-buy-software-trade-reappears-as-wall-street-caps-off-another-volatile-week.html",
-      "published": "2026-07-24T18:36:28Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -95,15 +231,6 @@
       ]
     },
     {
-      "title": "Can AI-powered ETFs beat the stock market?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
-      "published": "2026-07-24T18:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Why bond investors are pushing up some of your interest rates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
@@ -122,46 +249,10 @@
       ]
     },
     {
-      "title": "Your retirement math may have a surprising flaw",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-      "published": "2026-07-24T18:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/odds-that-the-straits-traffic-returns-to-normal-drop-on-kalshi.html",
-      "published": "2026-07-24T18:12:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "EU fines today, Trump 301 tariffs tomorrow?",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/eu-fines-today-trump-301-tariffs-tomorrow/",
       "published": "2026-07-24T18:08:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang has a high-stakes message for AI policymakers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jensen-huang-has-a-high-stakes-message-for-ai-policymakers-aa60017b?mod=mw_rss_topstories",
-      "published": "2026-07-24T18:06:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published": "2026-07-24T18:01:00Z",
       "tags": [
         "wire"
       ]
@@ -176,39 +267,12 @@
       ]
     },
     {
-      "title": "Trump targets E.U. with new tariffs over its fines for Big Tech \u2013 and even more levies are coming",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
-      "published": "2026-07-24T17:41:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "published": "2026-07-24T17:32:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
       "published": "2026-07-24T17:28:15Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "FDA advisers vote against sleep peptide as they debate safety and health claims",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-      "published": "2026-07-24T17:26:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -245,15 +309,6 @@
       "published": "2026-07-24T15:41:39Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil falls more than 4% on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-      "published": "2026-07-24T15:34:06Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -307,60 +362,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-june-0-628m-versus-0-610m-estimate/",
       "published": "2026-07-24T14:09:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-      "published": "2026-07-24T14:05:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The July Flash S&P Global Manufacturing 53.8 vs 54.3 estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-july-flash-s-p-global-manufacturing-53-8-vs-54-3-estimate/",
-      "published": "2026-07-24T13:54:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Explosions Reported in Saudi Arabia",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/explosions-reported-in-saudi-arabia/",
-      "published": "2026-07-24T13:15:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Russian attack cuts power to around 150,000 in Ukraine\u2019s north as Kyiv hits missile, oil facilities",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
-      "published": "2026-07-24T13:09:21Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
-      "published": "2026-07-24T13:01:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada June PPI -1.4% versus -0.4% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-june-ppi-1-4-versus-0-4-expected/",
-      "published": "2026-07-24T12:41:01Z",
       "tags": [
         "wire"
       ]
