@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-07-23T23:27:37.842595Z",
+  "generated_at": "2026-07-24T00:56:54.500559Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Amazon cracks down on use of AI images by sellers after New York law",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+      "published": "2026-07-24T00:36:42Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/japan-cpi-june-inflation-oil-prices-yen.html",
+      "published": "2026-07-24T00:23:08Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Japan June 2026 inflation: Headline jumps to 1.7% y/y (prior 1.5%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-june-inflation/",
+      "published": "2026-07-24T00:19:15Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Allianz to buy HSBC\u2019s Singapore insurance unit for $2.09 billion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/24/allianz-to-buy-hsbcs-singapore-insurance-unit-for-2billion.html",
+      "published": "2026-07-24T00:18:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Intel's turnaround under CEO Lip-Bu Tan gains steam with another strong quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/23/intels-turnaround-under-ceo-lip-bu-tan-gains-steam-with-another-strong-quarter.html",
+      "published": "2026-07-23T23:53:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "published": "2026-07-23T23:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia composite PMI rises to 52.6 in July as new orders return to growth",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-composite-pmi-rises-to-52-6-in-july-as-new-orders-return-to-growth/",
+      "published": "2026-07-23T23:12:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
       "source": "CNBC Markets",
@@ -28,15 +92,6 @@
       "published": "2026-07-23T22:12:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-      "published": "2026-07-23T22:08:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -304,64 +359,10 @@
       ]
     },
     {
-      "title": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
-      "published": "2026-07-23T18:35:53Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
       "published": "2026-07-23T18:15:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'The Odyssey' is cleaning up for Imax. Expect the momentum to continue",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/the-odyssey-imax-ticket-sales-revenue.html",
-      "published": "2026-07-23T17:57:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-      "published": "2026-07-23T17:43:52Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "EU Google Fine Escalates U.S.-EU Trade Tensions",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eu-google-fine-escalates-u-s-eu-trade-tensions/",
-      "published": "2026-07-23T17:10:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs \u2014 despite rough quarter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-      "published": "2026-07-23T17:10:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
-      "published": "2026-07-23T17:02:35Z",
       "tags": [
         "wire"
       ]
