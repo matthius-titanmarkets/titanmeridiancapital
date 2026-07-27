@@ -1,25 +1,89 @@
 {
-  "generated_at": "2026-07-27T02:46:51.956569Z",
+  "generated_at": "2026-07-27T06:28:31.004802Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-      "published": "2026-07-27T02:24:00Z",
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-11/",
+      "published": "2026-07-27T06:21:45Z",
       "tags": [
-        "commodities",
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "China memory chipmaker CXMT skyrockets 470% in blockbuster Shanghai debut",
+      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-      "published": "2026-07-27T02:22:32Z",
+      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+      "published": "2026-07-27T05:06:47Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Why Trump's new tariff blitz is very different this time round",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
+      "published": "2026-07-27T05:04:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "published": "2026-07-27T04:51:30Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "A case of US-Iran d\u00e9j\u00e0 vu for markets?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/a-case-of-us-iran-deja-vu-for-markets/",
+      "published": "2026-07-27T04:33:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-pacific FX news wrap: Pause in Iran strikes boosts peace trades",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-pause-in-iran-strikes-boosts-peace-trades/",
+      "published": "2026-07-27T03:38:55Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+      "published": "2026-07-27T03:36:08Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+      "published": "2026-07-27T03:29:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "published": "2026-07-27T03:02:00Z",
+      "tags": [
+        "commodities",
+        "equities"
       ]
     },
     {
@@ -30,25 +94,6 @@
       "tags": [
         "commodities",
         "equities"
-      ]
-    },
-    {
-      "title": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
-      "published": "2026-07-27T00:34:22Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-      "published": "2026-07-26T23:58:00Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -223,15 +268,6 @@
       ]
     },
     {
-      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
-      "published": "2026-07-26T12:17:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
@@ -326,42 +362,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
       "published": "2026-07-25T12:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-      "published": "2026-07-25T08:49:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-      "published": "2026-07-25T02:17:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-traders/",
-      "published": "2026-07-24T21:51:42Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Why bond investors are pushing up some of your interest rates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
-      "published": "2026-07-24T21:09:24Z",
       "tags": [
         "wire"
       ]
