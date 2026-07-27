@@ -1,13 +1,169 @@
 {
-  "generated_at": "2026-07-27T20:50:06.505907Z",
+  "generated_at": "2026-07-27T22:04:54.088853Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "published": "2026-07-27T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "published": "2026-07-27T21:56:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:35:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "published": "2026-07-27T21:29:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "published": "2026-07-27T21:29:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "published": "2026-07-27T21:26:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple ends day as world's most valuable company, passing Nvidia",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "published": "2026-07-27T21:12:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "South Korea June consumer sentiment 106.8 vs 106.6 prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/south-korea-june-consumer-sentiment-106-8-vs-106-6-prior/",
+      "published": "2026-07-27T21:03:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "He brought AI to Wall Street in 1994 \u2014 but won\u2019t trust ChatGPT with his money",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+      "published": "2026-07-27T21:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 27 Jul: Oil was down sharply but the stocks, bonds, USD did not fully follow.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-27-jul-oil-was-down-sharply-but-the-stocks-bonds-usd-did-not-fully-follow/",
+      "published": "2026-07-27T20:55:05Z",
+      "tags": [
+        "commodities",
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+      "published": "2026-07-27T20:52:29Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "published": "2026-07-27T20:52:29Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+      "published": "2026-07-27T20:52:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-      "published": "2026-07-27T20:44:34Z",
+      "published": "2026-07-27T20:51:08Z",
       "tags": [
         "commodities"
       ]
@@ -28,33 +184,6 @@
       "published": "2026-07-27T20:33:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "published": "2026-07-27T20:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple reclaims title of world\u2019s largest company after historic stretch of outperformance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/apple-reclaims-title-of-worlds-largest-company-after-historic-stretch-of-outperformance-92920ab6?mod=mw_rss_topstories",
-      "published": "2026-07-27T20:12:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
-      "published": "2026-07-27T20:10:27Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -82,24 +211,6 @@
       "published": "2026-07-27T19:46:20Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "published": "2026-07-27T19:44:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
-      "published": "2026-07-27T19:26:56Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -131,34 +242,6 @@
       ]
     },
     {
-      "title": "\u2018I know what he wants to do,\u2019 Trump says of Fed\u2019s Warsh, as president presses for rate cuts",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-know-what-he-wants-to-do-trump-says-of-feds-warsh-as-president-presses-for-rate-cuts-edaa115e?mod=mw_rss_topstories",
-      "published": "2026-07-27T19:06:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
-      "published": "2026-07-27T18:58:23Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-      "published": "2026-07-27T18:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
@@ -174,33 +257,6 @@
       "published": "2026-07-27T18:06:35Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
-      "published": "2026-07-27T18:03:47Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "published": "2026-07-27T18:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Should you get paid to care for a family member?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "published": "2026-07-27T17:56:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -231,15 +287,6 @@
       ]
     },
     {
-      "title": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "published": "2026-07-27T17:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump: On Iran, I have plenty of time",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-on-iran-i-have-plenty-of-time/",
@@ -253,15 +300,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html",
       "published": "2026-07-27T17:25:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published": "2026-07-27T17:25:00Z",
       "tags": [
         "wire"
       ]
@@ -325,42 +363,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-i-am-not-giving-much-time-to-negotiations-either-it-will-move-quickly-or-won-t-happen-at-all/",
       "published": "2026-07-27T15:12:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Europe wildfire in pictures: Gigantic fire cloud engulfing France, Spain regions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/wildfire-pictures-spain-france-bordeaux-heatwave.html",
-      "published": "2026-07-27T14:20:42Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Chipmaker CXMT\u2019s 466% market debut surge makes it the most valuable China-listed company",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-      "published": "2026-07-27T14:19:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
-      "published": "2026-07-27T13:00:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why Trump's new tariff blitz is very different this time around",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-      "published": "2026-07-27T12:53:33Z",
       "tags": [
         "wire"
       ]
