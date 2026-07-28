@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-07-28T18:53:02.134764Z",
+  "generated_at": "2026-07-28T20:15:07.000826Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
+      "published": "2026-07-28T20:12:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+      "published": "2026-07-28T20:11:36Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How young is too young for a Roth IRA conversion? You may be surprised.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/roth-conversions-as-early-as-your-20s-and-30s-its-not-a-crazy-idea-1f028e24?mod=mw_rss_topstories",
+      "published": "2026-07-28T20:09:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "published": "2026-07-28T20:01:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
+      "published": "2026-07-28T19:56:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Palantir\u2019s stock is missing out on a big software rally",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-missing-out-on-a-big-software-rally-08acc5bf?mod=mw_rss_topstories",
+      "published": "2026-07-28T19:46:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "published": "2026-07-28T19:45:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published": "2026-07-28T19:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
+      "published": "2026-07-28T19:25:29Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The U.S. will import Mexican cattle again. Here\u2019s what that means for high beef prices.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-will-import-mexican-cattle-again-heres-what-that-means-for-high-beef-prices-2c1e275e?mod=mw_rss_topstories",
+      "published": "2026-07-28T19:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
+      "published": "2026-07-28T19:03:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018She is on Medicaid\u2019: My sick friend pleaded with me to be her executor. Can I decline after she dies?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories",
+      "published": "2026-07-28T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
+      "published": "2026-07-28T18:56:34Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
       "source": "CNBC Markets",
@@ -17,15 +134,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/an-extra-caffeinated-version-of-mr-pibb-is-helping-coca-cola-win-over-cash-strapped-shoppers-4142fd56?mod=mw_rss_topstories",
       "published": "2026-07-28T18:43:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
-      "published": "2026-07-28T18:42:03Z",
       "tags": [
         "wire"
       ]
@@ -58,30 +166,21 @@
       ]
     },
     {
-      "title": "The U.S. will import Mexican cattle again. Here\u2019s what that means for high beef prices.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-will-import-mexican-cattle-again-heres-what-that-means-for-high-beef-prices-2c1e275e?mod=mw_rss_topstories",
-      "published": "2026-07-28T18:26:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple touches $5 trillion market cap for first time",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
-      "published": "2026-07-28T18:21:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Senate to set up key vote on Russia sanctions",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
       "published": "2026-07-28T18:17:55Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "We're trimming a rallying stock to protect against a potential earnings letdown",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/were-trimming-a-rallying-stock-to-protect-against-a-potential-earnings-letdown-.html",
+      "published": "2026-07-28T18:17:04Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -94,48 +193,12 @@
       ]
     },
     {
-      "title": "We're upgrading our rating on Boeing as CEO Ortberg's turnaround bears fruit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/were-upgrading-our-boeing-rating-as-ortbergs-turnaround-bears-fruit.html",
-      "published": "2026-07-28T18:10:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-      "published": "2026-07-28T18:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "published": "2026-07-28T17:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
       "published": "2026-07-28T17:40:03Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
-      "published": "2026-07-28T17:30:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -166,12 +229,12 @@
       ]
     },
     {
-      "title": "Roth IRA conversions as early as your 20s and 30s? It\u2019s not a crazy idea.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/roth-conversions-as-early-as-your-20s-and-30s-its-not-a-crazy-idea-1f028e24?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:54:00Z",
+      "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
+      "published": "2026-07-28T16:51:11Z",
       "tags": [
-        "wire"
+        "equities"
       ]
     },
     {
@@ -181,35 +244,6 @@
       "published": "2026-07-28T16:42:45Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "published": "2026-07-28T16:41:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:41:00Z",
-      "tags": [
-        "macro",
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "The Fed isn\u2019t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:39:00Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -231,30 +265,12 @@
       ]
     },
     {
-      "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-      "published": "2026-07-28T16:00:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
       "published": "2026-07-28T15:59:04Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
-      "published": "2026-07-28T15:55:12Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -345,24 +361,6 @@
       "published": "2026-07-28T13:13:38Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Trump on Fox News: Iran understand it will never have a nuclear weapon",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-on-fox-news-iran-understand-it-will-never-have-a-nuclear-weapon/",
-      "published": "2026-07-28T12:56:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-      "published": "2026-07-28T12:39:13Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
