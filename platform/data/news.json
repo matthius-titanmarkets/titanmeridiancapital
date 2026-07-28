@@ -1,15 +1,170 @@
 {
-  "generated_at": "2026-07-28T11:15:41.521454Z",
+  "generated_at": "2026-07-28T13:09:12.648726Z",
   "mode": "live",
   "errors": [
     "ForexLive: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
   ],
   "items": [
     {
-      "title": "\u2018Picks and shovels\u2019 trade comes unstuck as AI hardware stocks plunge on competitive threat from China",
+      "title": "UPS beats earnings expectations, raises full-year guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "published": "2026-07-28T13:07:49Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Apple is now letting you lease an iPhone like a car. Here\u2019s what to know.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apple-is-now-letting-you-lease-an-iphone-like-a-car-heres-what-to-know-51a10a91?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:57:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "published": "2026-07-28T12:56:43Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails \u2018good talks\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
+      "published": "2026-07-28T12:52:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "PayPal delivers an earnings beat \u2014 and suggests it\u2019s not against a merger deal",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:46:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+      "published": "2026-07-28T12:39:13Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "As chips sell off, rattled investors should heed this Cisco Systems lesson from the last millennium",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:39:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+      "published": "2026-07-28T12:38:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+      "published": "2026-07-28T12:25:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Boeing\u2019s stock rallies as surprisingly large loss is offset by upbeat revenue and backlog",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/boeings-stock-rallies-as-surprisingly-large-loss-is-offset-by-upbeat-revenue-and-backlog-e0ad69c9?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:24:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Meta is up against a wall of AI pessimism heading into earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:17:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
+      "published": "2026-07-28T12:15:01Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:15:00Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil prices decline further after Trump claims \u2018deep talks\u2019 are underway with Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:01:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "published": "2026-07-28T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "published": "2026-07-28T12:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Emerging China threat puts a scare into AI hardware stocks. Is the \u2018picks and shovels\u2019 trade breaking down?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
-      "published": "2026-07-28T11:12:00Z",
+      "published": "2026-07-28T11:40:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "UPS turns the page as job cuts and Amazon \u2018glide down\u2019 are completed",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ups-turns-the-page-as-job-cuts-and-amazon-glide-down-are-completed-e16f03fe?mod=mw_rss_topstories",
+      "published": "2026-07-28T11:31:00Z",
       "tags": [
         "equities"
       ]
@@ -21,15 +176,6 @@
       "published": "2026-07-28T11:08:51Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "published": "2026-07-28T11:06:40Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -60,46 +206,10 @@
       ]
     },
     {
-      "title": "How the fight over Cracker Barrel\u2019s logo marked the beginning of the end for its CEO",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-the-fight-over-cracker-barrels-logo-marked-the-beginning-of-the-end-for-its-ceo-89283d83?mod=mw_rss_topstories",
-      "published": "2026-07-28T11:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Leveraged ETFs are booming in 2026. But they\u2019re also being shut down at a record pace.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/leveraged-etfs-are-booming-in-2026-but-theyre-also-being-shut-down-at-a-record-pace-f136ef10?mod=mw_rss_topstories",
-      "published": "2026-07-28T11:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "As semis sell off, rattled investors should heed last millennium\u2019s lesson from Cisco Systems",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
-      "published": "2026-07-28T10:47:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
       "published": "2026-07-28T10:30:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "UPS beats earnings expectations, raises full-year guidance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "published": "2026-07-28T10:27:36Z",
       "tags": [
         "equities"
       ]
@@ -114,46 +224,10 @@
       ]
     },
     {
-      "title": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "published": "2026-07-28T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018She is on Medicaid\u2019: My sick friend pleaded with me to be her executor. Can I decline after she dies?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories",
-      "published": "2026-07-28T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "China\u2019s reported chip breakthrough comes with some big caveats",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/china-chipmaking-duv-tool-asml-explained.html",
       "published": "2026-07-28T09:44:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "published": "2026-07-28T09:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Actor Orlando Bloom tries again to sell Malibu beach house \u2014 now for $10 million",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/actor-orlando-bloom-tries-again-to-sell-malibu-beach-house-now-for-10-million-3e9cf1c4?mod=mw_rss_topstories",
-      "published": "2026-07-28T09:01:00Z",
       "tags": [
         "wire"
       ]
@@ -186,15 +260,6 @@
       ]
     },
     {
-      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "published": "2026-07-28T01:19:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Microsoft touts cost-saving AI model for cybersecurity",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
@@ -222,15 +287,6 @@
       ]
     },
     {
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "published": "2026-07-27T22:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
@@ -240,28 +296,10 @@
       ]
     },
     {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-      "published": "2026-07-27T21:29:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
       "published": "2026-07-27T21:29:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple ends day as world's most valuable company, passing Nvidia",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-      "published": "2026-07-27T21:12:26Z",
       "tags": [
         "wire"
       ]
@@ -277,28 +315,10 @@
       ]
     },
     {
-      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
-      "published": "2026-07-27T20:51:08Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
       "published": "2026-07-27T19:48:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
-      "published": "2026-07-27T19:46:20Z",
       "tags": [
         "wire"
       ]
@@ -313,28 +333,10 @@
       ]
     },
     {
-      "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-      "published": "2026-07-27T17:43:48Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
       "published": "2026-07-27T17:42:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Netflix woes setting up for a Hollywood ending, says trader Mike Khouw",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html",
-      "published": "2026-07-27T17:25:45Z",
       "tags": [
         "wire"
       ]
