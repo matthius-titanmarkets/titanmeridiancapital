@@ -1,15 +1,150 @@
 {
-  "generated_at": "2026-07-28T17:25:07.415951Z",
+  "generated_at": "2026-07-28T18:53:02.134764Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/us-strategic-petroleum-reserve-spr-iran-oil-strait-hormuz.html",
+      "published": "2026-07-28T18:49:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "An extra-caffeinated version of Mr. Pibb is helping Coca-Cola win over cash-strapped shoppers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/an-extra-caffeinated-version-of-mr-pibb-is-helping-coca-cola-win-over-cash-strapped-shoppers-4142fd56?mod=mw_rss_topstories",
+      "published": "2026-07-28T18:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
+      "published": "2026-07-28T18:42:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors are piling into bond funds at a rapid rate. That\u2019s a problem.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-are-piling-into-bond-funds-at-a-rapid-rate-thats-a-problem-09aaa039?mod=mw_rss_topstories",
+      "published": "2026-07-28T18:39:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+      "published": "2026-07-28T18:27:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/netanyahu-confirmed-to-trump-that-additional-strikes-on-rehabilitated-iranian-nuclear-facilities-are-unavoidable/",
+      "published": "2026-07-28T18:26:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The U.S. will import Mexican cattle again. Here\u2019s what that means for high beef prices.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-will-import-mexican-cattle-again-heres-what-that-means-for-high-beef-prices-2c1e275e?mod=mw_rss_topstories",
+      "published": "2026-07-28T18:26:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple touches $5 trillion market cap for first time",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+      "published": "2026-07-28T18:21:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Senate to set up key vote on Russia sanctions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+      "published": "2026-07-28T18:17:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "published": "2026-07-28T18:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're upgrading our rating on Boeing as CEO Ortberg's turnaround bears fruit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/were-upgrading-our-boeing-rating-as-ortbergs-turnaround-bears-fruit.html",
+      "published": "2026-07-28T18:10:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+      "published": "2026-07-28T18:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "published": "2026-07-28T17:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-      "published": "2026-07-28T17:21:35Z",
+      "published": "2026-07-28T17:40:03Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
+      "published": "2026-07-28T17:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump-Netanyahu meeting reinforces Iran focus",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-netanyahu-meeting-reinforces-iran-focus/",
+      "published": "2026-07-28T17:15:34Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -37,24 +172,6 @@
       "published": "2026-07-28T16:54:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
-      "published": "2026-07-28T16:51:11Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -105,46 +222,10 @@
       ]
     },
     {
-      "title": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/software-stocks-are-rising-and-these-6-are-expected-to-withstand-the-ai-threat-1ce47e99?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:30:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Your retirement math may have a surprising flaw",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:22:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer says buy these 2 stocks but remain cautious on a couple of others",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-says-buy-these-2-stocks-but-remain-cautious-a-couple-of-others.html",
-      "published": "2026-07-28T16:20:08Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
       "published": "2026-07-28T16:16:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "published": "2026-07-28T16:08:00Z",
       "tags": [
         "wire"
       ]
@@ -208,42 +289,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
       "published": "2026-07-28T15:35:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
-      "published": "2026-07-28T15:35:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
-      "published": "2026-07-28T15:33:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stop snacking all day: Eating for only 8 or 9 hours a day may keep your mind sharp.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-      "published": "2026-07-28T15:26:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-      "published": "2026-07-28T14:50:10Z",
       "tags": [
         "wire"
       ]
@@ -318,51 +363,6 @@
       "published": "2026-07-28T12:39:13Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
-      "published": "2026-07-28T12:38:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US advance goods trade balance for June -$101.5 billion versus -$100 billion estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-advance-goods-trade-balance-for-june-101-5-billion-versus-100-billion-estimate/",
-      "published": "2026-07-28T12:37:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US wholesale inventories for June +0.3% vs +0.4% m/m expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-wholesale-inventories-for-june-0-3-vs-0-4-m-m-expected/",
-      "published": "2026-07-28T12:34:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "ADP weekly NER pulse 15,000 versus 16,500 last week",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/adp-weekly-ner-pulse-15-000-versus-16-500-last-week/",
-      "published": "2026-07-28T12:17:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
-      "published": "2026-07-28T12:15:01Z",
-      "tags": [
-        "crypto"
       ]
     }
   ]
