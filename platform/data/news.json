@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:31:11.433415Z",
+  "generated_at": "2026-07-29T23:58:39.166004Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,97 @@
       "title": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-      "published": "2026-07-29T22:26:25Z",
+      "published": "2026-07-29T23:54:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "published": "2026-07-29T23:42:17Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "What a divided Fed means for investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "published": "2026-07-29T23:36:34Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The U.S. wants Asia to use its AI \u2014 but China dominates cheaper models",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "published": "2026-07-29T23:10:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+      "published": "2026-07-29T23:09:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "published": "2026-07-29T23:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "published": "2026-07-29T22:54:09Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "published": "2026-07-29T22:46:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
+      "published": "2026-07-29T22:44:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump is weighing another two-week campaign of strikes against Iran",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-is-weighing-another-two-week-campaign-of-strikes-against-iran/",
+      "published": "2026-07-29T22:39:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018We already have wills\u2019: We\u2019re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "published": "2026-07-29T22:30:00Z",
       "tags": [
         "wire"
       ]
@@ -95,24 +185,6 @@
       ]
     },
     {
-      "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
-      "published": "2026-07-29T21:27:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
-      "published": "2026-07-29T21:26:17Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
@@ -156,42 +228,6 @@
       "published": "2026-07-29T21:07:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "\u2018Love Island USA\u2019 winners are spending their $100,000 prize money in a very relatable way",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/love-island-usa-winners-are-spending-their-100-000-prize-money-in-a-very-relatable-way-5f4f1794?mod=mw_rss_topstories",
-      "published": "2026-07-29T20:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Robinhood puts up record revenue as volatility drives a trading bonanza",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
-      "published": "2026-07-29T20:43:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here are the five big takeaways from this week's Fed meeting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-      "published": "2026-07-29T20:42:50Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
-      "published": "2026-07-29T20:38:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -321,46 +357,10 @@
       ]
     },
     {
-      "title": "Warren probes Pentagon program to hire highly paid private sector workers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/warren-probes-pentagon-program-to-hire-highly-paid-private-sector-workers.html",
-      "published": "2026-07-29T15:19:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
-      "published": "2026-07-29T14:59:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
       "published": "2026-07-29T14:54:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
-      "published": "2026-07-29T14:53:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-      "published": "2026-07-29T14:49:45Z",
       "tags": [
         "wire"
       ]
