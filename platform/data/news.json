@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-29T20:29:37.605050Z",
+  "generated_at": "2026-07-29T21:28:57.600919Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-      "published": "2026-07-29T20:29:13Z",
+      "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "published": "2026-07-29T21:27:13Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
+      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
-      "published": "2026-07-29T20:27:29Z",
+      "published": "2026-07-29T21:26:17Z",
       "tags": [
         "equities"
       ]
@@ -25,25 +25,7 @@
       "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "published": "2026-07-29T20:27:19Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-      "published": "2026-07-29T20:19:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Carvana posts record quarterly profits, forecasts up to $3 billion in earnings this year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-      "published": "2026-07-29T20:15:13Z",
+      "published": "2026-07-29T21:22:20Z",
       "tags": [
         "equities"
       ]
@@ -52,16 +34,107 @@
       "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-      "published": "2026-07-29T20:02:38Z",
+      "published": "2026-07-29T21:19:52Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+      "title": "Bond market is calling Warsh\u2019s bluff on inflation fight as yields surge",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
+      "published": "2026-07-29T21:18:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground Subtitle:",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-29-jul-fed-stands-pat-markets-lose-ground-subtitle/",
+      "published": "2026-07-29T21:11:36Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Starbucks is becoming cool again. Here\u2019s how it pulled off its turnaround.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
+      "published": "2026-07-29T21:09:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
-      "published": "2026-07-29T19:45:54Z",
+      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "published": "2026-07-29T21:08:27Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Qualcomm\u2019s stock falls as memory woes weigh on earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
+      "published": "2026-07-29T21:07:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "published": "2026-07-29T20:58:06Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "published": "2026-07-29T20:57:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Love Island USA\u2019 winners are spending their $100,000 prize money in a very relatable way",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/love-island-usa-winners-are-spending-their-100-000-prize-money-in-a-very-relatable-way-5f4f1794?mod=mw_rss_topstories",
+      "published": "2026-07-29T20:51:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Robinhood puts up record revenue as volatility drives a trading bonanza",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
+      "published": "2026-07-29T20:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "published": "2026-07-29T20:42:50Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
+      "published": "2026-07-29T20:38:00Z",
       "tags": [
         "wire"
       ]
@@ -70,7 +143,25 @@
       "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
-      "published": "2026-07-29T19:31:58Z",
+      "published": "2026-07-29T20:33:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+      "published": "2026-07-29T20:30:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "published": "2026-07-29T20:19:31Z",
       "tags": [
         "wire"
       ]
@@ -112,7 +203,7 @@
       ]
     },
     {
-      "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+      "title": "Do-nothing Fed? Maybe not. Now Wall Street zeros in on rate hike in September.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
       "published": "2026-07-29T19:11:00Z",
@@ -148,30 +239,12 @@
       ]
     },
     {
-      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
-      "published": "2026-07-29T18:24:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
       "published": "2026-07-29T18:00:00Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/retirement-income-4percent-rule.html",
-      "published": "2026-07-29T17:48:55Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -184,15 +257,6 @@
       ]
     },
     {
-      "title": "Individual investors are dumping stocks at the fastest pace since the COVID crash",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/individual-investors-are-dumping-stocks-at-the-fastest-pace-since-the-covid-crash-42b46756?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:40:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Report: U.S. preparing for a larger response to Iran",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/report-u-s-preparing-for-a-larger-response-to-iran/",
@@ -202,56 +266,10 @@
       ]
     },
     {
-      "title": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:18:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why SoFi\u2019s stock is dropping, even after its earnings beat expectations",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:18:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "WH Economic Advisor Hassett: Pres Trump has hard regard for Kevin Warsh.",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/wh-economic-advisor-hassett-pres-trump-has-hard-regard-for-kevin-warsh/",
       "published": "2026-07-29T17:14:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The dollar\u2019s rally matters \u2014 but it still won\u2019t help Fed\u2019s Warsh win the inflation fight",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:12:00Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "published": "2026-07-29T17:00:00Z",
       "tags": [
         "wire"
       ]
@@ -342,24 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
       "published": "2026-07-29T14:49:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says U.S. will give Iran a 'beating' after surprise attack",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
-      "published": "2026-07-29T14:18:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-      "published": "2026-07-29T14:03:23Z",
       "tags": [
         "wire"
       ]
