@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-07-29T17:46:55.368986Z",
+  "generated_at": "2026-07-29T19:13:32.433583Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+      "published": "2026-07-29T19:11:58Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
+      "published": "2026-07-29T19:11:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "published": "2026-07-29T19:05:55Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+      "published": "2026-07-29T18:58:16Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Ford\u2019s big-truck bet is paying off \u2014 and Wall Street is taking notice",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "published": "2026-07-29T18:32:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+      "published": "2026-07-29T18:24:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+      "published": "2026-07-29T18:03:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "2026-07-29T18:00:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/retirement-income-4percent-rule.html",
+      "published": "2026-07-29T17:48:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/apple-shares-just-hit-a-record-heres-how-trader-mike-khouw-is-playing-the-move.html",
+      "published": "2026-07-29T17:48:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
       "source": "CNBC Markets",
@@ -86,15 +176,6 @@
       ]
     },
     {
-      "title": "Oil prices jump 7% after Trump says U.S. will hit Iran hard",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-      "published": "2026-07-29T16:51:44Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
@@ -131,15 +212,6 @@
       ]
     },
     {
-      "title": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
-      "published": "2026-07-29T16:14:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
@@ -167,15 +239,6 @@
       ]
     },
     {
-      "title": "A key cryptocurrency bill could flop because of Trump\u2019s crypto ventures and banks\u2019 objections",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
-      "published": "2026-07-29T16:03:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
       "title": "Meta reports second-quarter results after the close",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
@@ -189,15 +252,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/29/yes-network-msg-networks-dazn-streaming.html",
       "published": "2026-07-29T15:57:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Las Vegas home prices post largest drop in the nation",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
-      "published": "2026-07-29T15:45:00Z",
       "tags": [
         "wire"
       ]
@@ -284,15 +338,6 @@
       ]
     },
     {
-      "title": "Does the 4% retirement rule still work? New research points to another strategy to maximize income",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/retirement-income-4percent-rule.html",
-      "published": "2026-07-29T13:35:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump: We'll be hitting Iran hard. Strikes in reaction to attacks on US in Jordan",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-we-ll-be-hitting-iran-hard-strikes-in-reaction-to-attacks-on-us-in-jordan/",
@@ -319,51 +364,6 @@
         "macro",
         "commodities",
         "fx"
-      ]
-    },
-    {
-      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "published": "2026-07-29T11:25:02Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
-      "published": "2026-07-29T11:00:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis are considering fees for ships sailing through the Red Sea - Reuters",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/yemen-s-houthis-are-considering-fees-for-ships-sailing-through-the-red-sea-reuters/",
-      "published": "2026-07-29T10:45:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UBS CEO says the AI pullback is healthy \u2014 but there\u2019s a bigger risk investors should watch",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
-      "published": "2026-07-29T09:40:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK mortgage approvals rebound in June but credit data continues to point to worrying signals",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-mortgage-approvals-rebound-in-june-but-credit-data-continues-to-point-to-worrying-signals/",
-      "published": "2026-07-29T08:53:14Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
