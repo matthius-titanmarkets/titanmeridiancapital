@@ -1,15 +1,123 @@
 {
-  "generated_at": "2026-07-30T18:55:13.021385Z",
+  "generated_at": "2026-07-30T20:13:24.458236Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
+      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
-      "published": "2026-07-30T18:52:13Z",
+      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+      "published": "2026-07-30T20:13:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Amazon posts Q2 revenue beat, accelerating cloud growth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "published": "2026-07-30T20:12:19Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Reddit crushes revenue and earnings estimates, issues strong guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+      "published": "2026-07-30T20:09:57Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+      "published": "2026-07-30T20:08:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+      "published": "2026-07-30T20:06:59Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "published": "2026-07-30T20:02:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Implosion of Situational Awareness has Wall Street betting the bottom is in for the AI trade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+      "published": "2026-07-30T20:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+      "published": "2026-07-30T19:59:12Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "published": "2026-07-30T19:49:05Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
+      "published": "2026-07-30T19:40:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+      "published": "2026-07-30T19:21:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AI stocks rebound, and why J&J's earnings guidance cut is not cause for concern",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/ai-stocks-rebound-and-why-jjs-earnings-guidance-cut-is-not-cause-for-concern.html",
+      "published": "2026-07-30T19:05:46Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Warsh\u2019s Wall Street cred takes a hit as investors doubt the Fed chair\u2019s inflation-fighting resolve",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
+      "published": "2026-07-30T19:02:00Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -49,24 +157,6 @@
       ]
     },
     {
-      "title": "Jersey Mike's stock falls 3% in public market debut after pricing shares at $23",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-      "published": "2026-07-30T17:59:19Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Retailer Reformation opens flat in NYSE debut as CEO says company is 'ready to scale'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
-      "published": "2026-07-30T17:41:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft\u2019s earnings",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
@@ -76,28 +166,10 @@
       ]
     },
     {
-      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
-      "published": "2026-07-30T17:30:06Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
       "published": "2026-07-30T17:27:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
-      "published": "2026-07-30T17:24:31Z",
       "tags": [
         "wire"
       ]
@@ -157,24 +229,6 @@
       ]
     },
     {
-      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-      "published": "2026-07-30T16:36:13Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Mortgage rates jump to their highest level in a year and show few signs of falling",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
@@ -190,24 +244,6 @@
       "published": "2026-07-30T16:16:03Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon on deck to report earnings after the bell with cloud, capex in focus",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-      "published": "2026-07-30T16:06:46Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -244,15 +280,6 @@
       "published": "2026-07-30T15:04:43Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Wealth managers face a new challenger: Their clients\u2019 AI chatbots",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-      "published": "2026-07-30T15:02:24Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -335,33 +362,6 @@
       "published": "2026-07-30T13:29:38Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "WH Advisor Hassett: Inflation is continuing to ease",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/wh-advisor-hassett-inflation-is-continuing-to-ease/",
-      "published": "2026-07-30T13:28:05Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
-      "published": "2026-07-30T13:06:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-june-pce-inflation-3-7-vs-3-7-expected-core-3-3-vs-3-3-expected/",
-      "published": "2026-07-30T13:04:41Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
