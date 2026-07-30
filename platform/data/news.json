@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-07-30T17:25:04.765019Z",
+  "generated_at": "2026-07-30T18:55:13.021385Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
+      "published": "2026-07-30T18:52:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China\u2019s open-weight model lead exposes America\u2019s AI blind spot",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+      "published": "2026-07-30T18:51:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The warning signal insiders are sending",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+      "published": "2026-07-30T18:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "published": "2026-07-30T18:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+      "published": "2026-07-30T18:17:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jersey Mike's stock falls 3% in public market debut after pricing shares at $23",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+      "published": "2026-07-30T17:59:19Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Retailer Reformation opens flat in NYSE debut as CEO says company is 'ready to scale'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+      "published": "2026-07-30T17:41:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft\u2019s earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+      "published": "2026-07-30T17:36:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+      "published": "2026-07-30T17:30:06Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "published": "2026-07-30T17:27:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
       "source": "CNBC Markets",
@@ -22,21 +112,12 @@
       ]
     },
     {
-      "title": "The cyclospora outbreak is the biggest ever. Why the \u2018unusual\u2019 outbreak is so hard to manage.",
+      "title": "The cyclospora outbreak is the biggest ever. Why this \u2018unusual\u2019 outbreak is so hard to manage.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
       "published": "2026-07-30T17:16:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Jersey Mike's stock falls 2% in public market debut after pricing shares at $23",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-      "published": "2026-07-30T17:13:19Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -62,15 +143,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
       "published": "2026-07-30T17:05:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Retailer Reformation opens flat in market debut after pricing IPO at $15",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
-      "published": "2026-07-30T16:58:41Z",
       "tags": [
         "wire"
       ]
@@ -139,33 +211,6 @@
       ]
     },
     {
-      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:06:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:03:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Ferrari CEO says he 'would not change anything' about polarizing Luce EV debut",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/ferrari-ceo-luce-ev-debut.html",
@@ -190,24 +235,6 @@
       "published": "2026-07-30T15:29:23Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
-      "published": "2026-07-30T15:11:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bank of England holds UK interest rate steady at 3.75% \u2014 but policymakers see upside inflation risk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/interest-rates-inflation-bank-of-england.html",
-      "published": "2026-07-30T15:07:29Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -335,33 +362,6 @@
       "published": "2026-07-30T13:04:41Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "US initial jobless claims 197K versus 200K expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-xxk-versus-200k-expected/",
-      "published": "2026-07-30T12:53:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-q2-advance-gdp-1-5-vs-2-1-expected/",
-      "published": "2026-07-30T12:50:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
-      "published": "2026-07-30T12:45:54Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
