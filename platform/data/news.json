@@ -1,31 +1,157 @@
 {
-  "generated_at": "2026-07-30T20:13:24.458236Z",
+  "generated_at": "2026-07-30T21:41:44.118184Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-      "published": "2026-07-30T20:13:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Amazon posts Q2 revenue beat, accelerating cloud growth",
+      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-      "published": "2026-07-30T20:12:19Z",
+      "published": "2026-07-30T21:31:31Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Reddit crushes revenue and earnings estimates, issues strong guidance",
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "published": "2026-07-30T21:29:19Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+      "published": "2026-07-30T21:28:53Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Software stocks are fading \u2014 but these 4 could shine through the rest of the year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
+      "published": "2026-07-30T21:24:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+      "published": "2026-07-30T21:19:16Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-      "published": "2026-07-30T20:09:57Z",
+      "published": "2026-07-30T21:17:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Can credit cards survive AI shopping? Why Mastercard\u2019s CEO says they\u2019ll \u2018prevail\u2019 in this new era.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories",
+      "published": "2026-07-30T21:13:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "published": "2026-07-30T20:51:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 30 Jul",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-jul/",
+      "published": "2026-07-30T20:41:32Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+      "published": "2026-07-30T20:40:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+      "published": "2026-07-30T20:38:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+      "published": "2026-07-30T20:32:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta\u2019s stock falls hard. Here\u2019s why the company is in Wall Street\u2019s doghouse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+      "published": "2026-07-30T20:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft\u2019s earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+      "published": "2026-07-30T20:26:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why Microsoft\u2019s stock soared to a historic gain after earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+      "published": "2026-07-30T20:21:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "published": "2026-07-30T20:17:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+      "published": "2026-07-30T20:13:00Z",
       "tags": [
         "equities"
       ]
@@ -40,30 +166,12 @@
       ]
     },
     {
-      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+      "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-      "published": "2026-07-30T20:06:59Z",
+      "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+      "published": "2026-07-30T20:04:13Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
-      "published": "2026-07-30T20:02:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Implosion of Situational Awareness has Wall Street betting the bottom is in for the AI trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
-      "published": "2026-07-30T20:00:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -76,28 +184,10 @@
       ]
     },
     {
-      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-      "published": "2026-07-30T19:49:05Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
       "published": "2026-07-30T19:40:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-      "published": "2026-07-30T19:21:01Z",
       "tags": [
         "wire"
       ]
@@ -157,15 +247,6 @@
       ]
     },
     {
-      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft\u2019s earnings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
-      "published": "2026-07-30T17:36:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
@@ -184,48 +265,12 @@
       ]
     },
     {
-      "title": "The cyclospora outbreak is the biggest ever. Why this \u2018unusual\u2019 outbreak is so hard to manage.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
-      "published": "2026-07-30T17:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "published": "2026-07-30T17:07:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
       "published": "2026-07-30T17:05:28Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "published": "2026-07-30T17:05:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "A break below this critical stock-market threshold used to signal panic for investors. Not anymore.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
-      "published": "2026-07-30T16:45:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -260,15 +305,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
       "published": "2026-07-30T15:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "NYSE CEO Sprecher, SBA head Loeffler's husband, has ties to Trump Jr.-backed private club",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
-      "published": "2026-07-30T15:29:23Z",
       "tags": [
         "wire"
       ]
@@ -326,42 +362,6 @@
       "published": "2026-07-30T14:56:13Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
-      "published": "2026-07-30T14:24:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
-      "published": "2026-07-30T14:09:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-      "published": "2026-07-30T13:56:03Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "published": "2026-07-30T13:29:38Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
