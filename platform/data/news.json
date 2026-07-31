@@ -1,15 +1,87 @@
 {
-  "generated_at": "2026-07-31T04:58:00.155863Z",
+  "generated_at": "2026-07-31T07:54:54.358321Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+      "published": "2026-07-31T07:41:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Deadly storms and a global supply squeeze are sending copper prices soaring",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html",
+      "published": "2026-07-31T07:13:23Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "French inflation accelerates in July, reaffirming the broader trend in the region",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/french-inflation-accelerates-in-july-reaffirming-the-broader-trend-in-the-region/",
+      "published": "2026-07-31T07:03:25Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+      "published": "2026-07-31T06:44:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-15/",
+      "published": "2026-07-31T06:38:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey may have cost it the \u2018golden time\u2019 to go public",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+      "published": "2026-07-31T06:33:30Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
       "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
-      "published": "2026-07-31T04:31:37Z",
+      "published": "2026-07-31T06:20:14Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "UK annual house price growth slows in July - Nationwide",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-annual-house-price-growth-slows-in-july-nationwide/",
+      "published": "2026-07-31T06:08:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+      "published": "2026-07-31T06:05:22Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -19,15 +91,6 @@
       "published": "2026-07-31T04:25:53Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
-      "published": "2026-07-31T04:19:06Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -81,15 +144,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
       "published": "2026-07-31T01:11:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
-      "published": "2026-07-31T00:52:26Z",
       "tags": [
         "wire"
       ]
@@ -155,15 +209,6 @@
       "published": "2026-07-30T23:32:49Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey cost it the \u2018golden time\u2019 to go public",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
-      "published": "2026-07-30T23:30:34Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -315,51 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
       "published": "2026-07-30T21:29:19Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Software stocks are fading \u2014 but these 4 could shine through the rest of the year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
-      "published": "2026-07-30T21:24:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-      "published": "2026-07-30T21:19:16Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
-      "published": "2026-07-30T20:51:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-      "published": "2026-07-30T20:38:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta\u2019s stock falls hard. Here\u2019s why the company is in Wall Street\u2019s doghouse.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-      "published": "2026-07-30T20:31:00Z",
       "tags": [
         "equities"
       ]
