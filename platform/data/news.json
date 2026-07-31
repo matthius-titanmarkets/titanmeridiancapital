@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-31T01:04:03.595715Z",
+  "generated_at": "2026-07-31T04:58:00.155863Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+      "published": "2026-07-31T04:31:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+      "published": "2026-07-31T04:25:53Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+      "published": "2026-07-31T04:19:06Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "investingLive Asia-pacific FX news wrap: Yen intervention fades as BOJ holds",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-yen-intervention-fades-as-boj-holds/",
+      "published": "2026-07-31T03:57:28Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+      "published": "2026-07-31T03:49:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
+      "published": "2026-07-31T03:47:31Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "China July manufacturing PMI 49.2 vs 50.0 expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-july-manufacturing-pmi-49-2-vs-50-0-expected/",
+      "published": "2026-07-31T01:32:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia Q2 PPI +3.6% vs +3.0% prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-q2-ppi-vs-3-0-prior/",
+      "published": "2026-07-31T01:30:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "published": "2026-07-31T01:11:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
       "source": "CNBC Markets",
@@ -19,15 +101,6 @@
       "published": "2026-07-31T00:31:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-      "published": "2026-07-31T00:29:31Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -98,6 +171,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
       "published": "2026-07-30T23:27:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
+      "published": "2026-07-30T22:50:12Z",
       "tags": [
         "wire"
       ]
@@ -280,87 +362,6 @@
       "published": "2026-07-30T20:31:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-      "published": "2026-07-30T20:13:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
-      "published": "2026-07-30T20:08:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
-      "published": "2026-07-30T20:04:13Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
-      "published": "2026-07-30T19:59:12Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
-      "published": "2026-07-30T19:40:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China\u2019s open-weight model lead exposes America\u2019s AI blind spot",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-      "published": "2026-07-30T18:51:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-      "published": "2026-07-30T17:27:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
-      "published": "2026-07-30T17:05:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Dallas Fed Trimmed Mean +1.4% vs +2.7% in May",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/dallas-fed-trimmed-mean-1-4-vs-2-7-in-may/",
-      "published": "2026-07-30T16:16:03Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
