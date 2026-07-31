@@ -1,22 +1,185 @@
 {
-  "generated_at": "2026-07-31T10:37:18.592272Z",
+  "generated_at": "2026-07-31T12:54:08.262289Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-      "published": "2026-07-31T10:32:14Z",
+      "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+      "published": "2026-07-31T12:49:14Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "The Big Mac Index turns 40. Here\u2019s why it\u2019s still relevant.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-big-mac-index-turns-forty-and-heres-the-beef-its-still-relevant-b56497dd?mod=mw_rss_topstories",
+      "published": "2026-07-31T12:48:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Oi prices choppy as recovering Hormuz Strait traffic tempers war premium",
+      "title": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow toits pipeline",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
-      "published": "2026-07-31T10:14:36Z",
+      "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
+      "published": "2026-07-31T12:47:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fed dissenters speak: Why they backed higher interest rates",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-dissenters-speak-why-they-backed-higher-interest-rates-e0306129?mod=mw_rss_topstories",
+      "published": "2026-07-31T12:43:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "published": "2026-07-31T12:41:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "published": "2026-07-31T12:40:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why fresh volatility means a \u2018valuation opportunity\u2019 is opening up in U.S. stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-fresh-volatility-means-a-valuation-opportunity-is-opening-up-in-u-s-stocks-9dbef149?mod=mw_rss_topstories",
+      "published": "2026-07-31T12:32:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018It\u2019s like buying a lottery ticket\u2019: Fidelity asked for my former sister-in-law\u2019s death certificate. Does this mean I\u2019m due a windfall?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "published": "2026-07-31T12:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The cyclospora outbreak is the biggest ever. Why this \u2018unusual\u2019 outbreak is so hard to manage.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
+      "published": "2026-07-31T12:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "EV prices aren't following the 'law of used cars,' analyst says \u2014 what it means for buyers and sellers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+      "published": "2026-07-31T12:15:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Beyond Trump Account S&P 500 fund: How to increase odds of lifetime financial security for children",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/trump-accounts-children-stock-market-investing.html",
+      "published": "2026-07-31T12:00:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "South Korea\u2019s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+      "published": "2026-07-31T11:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
+      "published": "2026-07-31T11:52:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+      "published": "2026-07-31T11:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-eurozone-inflation-ticks-up-in-july-usd-jpy-intervention-again/",
+      "published": "2026-07-31T11:23:06Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
+      "published": "2026-07-31T11:11:29Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "New Medicaid work rules could cause patients to lose coverage, rare disease advocates warn",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/new-medicaid-work-rules-insurance-coverage-rare-disease-patients.html",
+      "published": "2026-07-31T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How have interest rate expectations changed after this week's events?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-0/",
+      "published": "2026-07-31T10:56:50Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
+      "published": "2026-07-31T10:46:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+      "published": "2026-07-31T10:32:14Z",
       "tags": [
         "wire"
       ]
@@ -46,15 +209,6 @@
       "published": "2026-07-31T09:50:16Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "South Korea\u2019s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
-      "published": "2026-07-31T09:48:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -101,15 +255,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "Diane Keaton\u2019s stunning $23 million dream home in L.A. finally finds a buyer",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/diane-keatons-stunning-23-million-dream-home-in-l-a-finally-finds-a-buyer-52f1373e?mod=mw_rss_topstories",
-      "published": "2026-07-31T08:59:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -176,15 +321,6 @@
       ]
     },
     {
-      "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
-      "published": "2026-07-31T06:20:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "UK annual house price growth slows in July - Nationwide",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/uk-annual-house-price-growth-slows-in-july-nationwide/",
@@ -213,24 +349,6 @@
       ]
     },
     {
-      "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
-      "published": "2026-07-31T03:49:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/south-korea-kospi-samsung-sk-hynix-meltdown-record-rebound.html",
-      "published": "2026-07-31T03:47:31Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "China July manufacturing PMI 49.2 vs 50.0 expected",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-july-manufacturing-pmi-49-2-vs-50-0-expected/",
@@ -244,123 +362,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/australia-q2-ppi-vs-3-0-prior/",
       "published": "2026-07-31T01:30:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-      "published": "2026-07-31T01:11:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
-      "published": "2026-07-31T00:59:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Corporate insiders are sending warning signals about the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
-      "published": "2026-07-31T00:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
-      "published": "2026-07-31T00:23:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
-      "published": "2026-07-31T00:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan June prelim industrial production +1.3% m/m vs +0.7% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-june-prelim-industrial-production-1-3-m-m-vs-0-7-expected/",
-      "published": "2026-07-30T23:51:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan unemployment rate 2.5% vs 2.5% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-unemployment-rate-2-5-vs-2-5-expected/",
-      "published": "2026-07-30T23:32:49Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
-      "published": "2026-07-30T22:53:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
-      "published": "2026-07-30T22:50:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
-      "published": "2026-07-30T22:48:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
-      "published": "2026-07-30T22:46:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IBM CEO says quantum computing will have a 'measurable impact' on earnings by 2028 or 2029",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
-      "published": "2026-07-30T22:46:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
-      "published": "2026-07-30T22:37:02Z",
       "tags": [
         "wire"
       ]
