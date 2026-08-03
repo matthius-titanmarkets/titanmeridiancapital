@@ -1,13 +1,94 @@
 {
-  "generated_at": "2026-08-03T13:24:19.054212Z",
+  "generated_at": "2026-08-03T16:01:48.901938Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+      "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
-      "published": "2026-08-03T13:23:42Z",
+      "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+      "published": "2026-08-03T15:50:20Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+      "published": "2026-08-03T15:49:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices tumble after Trump calls off attack on Iran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "published": "2026-08-03T15:47:24Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+      "published": "2026-08-03T15:46:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+      "published": "2026-08-03T15:46:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump: Iran is unbelievably duplicitous",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-iran-is-unbelievably-duplicitous/",
+      "published": "2026-08-03T15:34:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're trimming an industrial and buying another name. Plus, 2 more stocks we're eyeing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/were-trimming-an-industrial-and-buying-another-name-plus-2-more-stocks-were-eyeing-.html",
+      "published": "2026-08-03T15:33:56Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+      "published": "2026-08-03T15:27:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "published": "2026-08-03T15:20:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "published": "2026-08-03T15:17:00Z",
       "tags": [
         "wire"
       ]
@@ -16,43 +97,169 @@
       "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
-      "published": "2026-08-03T13:15:00Z",
+      "published": "2026-08-03T15:15:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "published": "2026-08-03T13:08:00Z",
+      "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+      "published": "2026-08-03T15:03:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "JPMorgan says Warsh failure to buttress Fed credibility may force a rate hike before year-end",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jpmorgan-says-warsh-failure-to-buttress-fed-credibility-may-force-a-rate-hike-before-year-end-e14e5821?mod=mw_rss_topstories",
-      "published": "2026-08-03T13:06:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "published": "2026-08-03T13:00:00Z",
+      "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+      "published": "2026-08-03T14:55:42Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
+      "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it. \u2018It\u2019s just been so much.\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:52:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-      "published": "2026-08-03T12:52:20Z",
+      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+      "published": "2026-08-03T14:38:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My boss and I work in different cities and she never responds to my messages. What do I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it \u2018odd\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:22:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "American manufacturers grow at fastest clip in 4 years due to AI boom \u2014 but all is not well",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/american-manufacturers-grow-at-fastest-clip-in-4-years-due-to-ai-boom-but-all-is-not-well-c49eb383?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:21:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+      "published": "2026-08-03T14:11:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US Construction Spending for June -0.1% vs 0.2% estimate",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-construction-spending-for-june-0-1-vs-0-2-estimate/",
+      "published": "2026-08-03T14:03:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US ISM Manufacturing PMI for July 55.6 versus 54.0 estimate",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-july-55-6-versus-54-0-estimate/",
+      "published": "2026-08-03T14:02:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "published": "2026-08-03T14:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the U.S. stepped in after decades to prop up Japan's yen \u2014 and what's at stake",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+      "published": "2026-08-03T13:49:17Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "S&P Global Manufacturing PMI Final for July 53.9 vs 53.8 preliminary",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-july-53-9-vs-53-8-preliminary/",
+      "published": "2026-08-03T13:47:11Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+      "published": "2026-08-03T13:45:02Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "What the market is saying about the U.S. intervention to prop up the yen",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+      "published": "2026-08-03T13:43:55Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+      "published": "2026-08-03T13:38:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US has made a concession to Iran on Hormuz but Iran won't open until the war is over",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-has-made-a-concession-to-iran-on-hormuz-but-iran-won-t-open-until-the-war-is-over/",
+      "published": "2026-08-03T13:21:48Z",
       "tags": [
         "wire"
       ]
@@ -67,93 +274,12 @@
       ]
     },
     {
-      "title": "Gold is still in its \u2018explosive phase,\u2019 says Deutsche Bank, as it sticks to year-end target",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gold-is-still-in-its-explosive-phase-says-deutsche-bank-as-it-sticks-to-year-end-target-fc5bc13a?mod=mw_rss_topstories",
-      "published": "2026-08-03T12:36:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it \u2018odd\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-      "published": "2026-08-03T12:13:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
       "published": "2026-08-03T12:11:05Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "The gap between big tech and the rest of the market just vanished. Here\u2019s what it means for investors.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-gap-between-big-tech-and-the-rest-of-the-market-just-vanished-heres-what-it-means-for-investors-e783d2dc?mod=mw_rss_topstories",
-      "published": "2026-08-03T12:10:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices tumble after Trump calls off attack on Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-      "published": "2026-08-03T12:08:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here\u2019s the math.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
-      "published": "2026-08-03T12:08:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
-      "published": "2026-08-03T12:00:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "published": "2026-08-03T12:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "SpaceX\u2019s first-ever earnings report is a big deal \u2014 but not because of the numbers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-first-ever-earnings-report-is-a-big-deal-but-not-because-of-the-numbers-9e53bc43?mod=mw_rss_topstories",
-      "published": "2026-08-03T11:54:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "What the market is saying about the U.S. intervention to prop up the yen",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-      "published": "2026-08-03T11:47:06Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -185,15 +311,6 @@
       ]
     },
     {
-      "title": "Trump says Iran talks to resume Monday after calling off planned strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-      "published": "2026-08-03T11:17:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
@@ -203,28 +320,10 @@
       ]
     },
     {
-      "title": "Private credit has dodged public scrutiny for too long \u2014 and regulators need to step in",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/private-credit-has-dodged-public-scrutiny-for-too-long-and-regulators-need-to-step-in-9ebb1d8c?mod=mw_rss_topstories",
-      "published": "2026-08-03T11:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
       "published": "2026-08-03T10:59:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
-      "published": "2026-08-03T10:34:35Z",
       "tags": [
         "wire"
       ]
@@ -263,105 +362,6 @@
       "published": "2026-08-03T08:17:24Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "France manufacturing activity confirmed to have eased slightly in July",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/france-manufacturing-activity-confirmed-to-have-eased-slightly-in-july/",
-      "published": "2026-08-03T08:01:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Germany July final manufacturing PMI 52.2 vs 52.2 prelim",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-july-final-manufacturing-pmi-xx-vs-52-2-prelim/",
-      "published": "2026-08-03T07:57:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Italy July manufacturing PMI 51.3 vs 52.3 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/italy-july-manufacturing-pmi-xx-vs-52-3-expected/",
-      "published": "2026-08-03T07:49:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Swiss inflation holds steady in July as threat of deflation remains",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/swiss-inflation-holds-steady-in-july-as-threat-of-deflation-remains/",
-      "published": "2026-08-03T07:27:20Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-16/",
-      "published": "2026-08-03T06:25:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Germany retail sales slump in June despite stronger petrol station sales again",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-retail-sales-slump-in-june-despite-stronger-petrol-station-sales-again/",
-      "published": "2026-08-03T06:17:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US-Iran conflict: Round and round we go..",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-iran-conflict-round-and-round-we-go/",
-      "published": "2026-08-03T05:13:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
-      "published": "2026-08-03T05:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Market moving news for Asian trading on 3 August: Oil slumps on Trump's Iran claims",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/market-moving-news-for-asian-trading-on-3-august-oil-slumps-on-trump-s-iran-claims/",
-      "published": "2026-08-03T03:49:36Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-s-ratingdog-manufacturing-pmi-eases-to-50-9-eighth-month-of-growth/",
-      "published": "2026-08-03T01:59:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China private survey July manufacturing PMI 50.9 (expected 51.5, prior 51.7)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-private-survey-july-manufacturing-pmi-5-expected-51-5-prior-51-7/",
-      "published": "2026-08-03T01:45:10Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
