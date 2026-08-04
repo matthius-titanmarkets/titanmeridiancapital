@@ -1,13 +1,247 @@
 {
-  "generated_at": "2026-08-04T14:06:44.856802Z",
+  "generated_at": "2026-08-04T16:26:39.429812Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
+      "title": "Bessent defends Warsh, saying markets are going through \u2018detox\u2019 from too much Fed guidance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "published": "2026-08-04T16:25:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-      "published": "2026-08-04T14:00:55Z",
+      "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+      "published": "2026-08-04T16:17:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+      "published": "2026-08-04T16:14:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jim Cramer weighs the next move after massive rallies in two tech stocks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/jim-cramer-weighs-next-move-after-massive-rallies-in-two-tech-stocks.html",
+      "published": "2026-08-04T16:08:31Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
+      "published": "2026-08-04T16:04:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+      "published": "2026-08-04T15:56:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
+      "published": "2026-08-04T15:36:45Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Stocks could soar in August. Here are six potential drivers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
+      "published": "2026-08-04T15:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Palantir is leaving its software peers behind in the AI race",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
+      "published": "2026-08-04T15:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+      "published": "2026-08-04T15:17:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
+      "published": "2026-08-04T15:16:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Abdul El-Sayed, Haley Stevens square off Tuesday in Michigan Democratic primary",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+      "published": "2026-08-04T15:08:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Job openings fell to a 3-month low. Is the labor market losing momentum?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories",
+      "published": "2026-08-04T15:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Palantir jumps 27% on 'otherworldly' commercial revenue \u2014 here's what's driving the demand",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+      "published": "2026-08-04T14:47:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+      "published": "2026-08-04T14:42:39Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Canadian manufacturing PMI hits a four-year high",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canadian-manufacturing-pmi-hits-a-four-year-high/",
+      "published": "2026-08-04T14:37:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+      "published": "2026-08-04T14:36:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Caterpillar\u2019s stock gives the Dow a 200-point boost as data-center demand drives record revenue",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
+      "published": "2026-08-04T14:36:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "McDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html",
+      "published": "2026-08-04T14:32:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "published": "2026-08-04T14:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rubio: There's been progress on reopening Strait. Nothing final but hoping agreement will happen very shortly",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/rubio-there-s-been-progress-on-reopening-strait-nothing-final-but-hoping-agreement-will-happen-very-shortly/",
+      "published": "2026-08-04T14:28:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Michigan voters are hearing 'communist' as they vote Tuesday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/trump-election-republicans-democrats-communist.html",
+      "published": "2026-08-04T14:16:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "published": "2026-08-04T14:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "published": "2026-08-04T14:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Someone on Wall Street thinks SpaceX could triple this week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
+      "published": "2026-08-04T14:05:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "JOLTs job openings 7.359M vs 7.400M estimate. Lower than last month.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/jolts-job-openings-7-359m-vs-7-400m-estimate-lower-than-last-month/",
+      "published": "2026-08-04T14:00:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US June factory orders -0.3% vs +0.2% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-june-factory-orders-vs-0-2-expected/",
+      "published": "2026-08-04T14:00:08Z",
       "tags": [
         "wire"
       ]
@@ -40,48 +274,12 @@
       ]
     },
     {
-      "title": "Caterpillar\u2019s stock gives the Dow a 500-point boost as data-center demand drives record revenue",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
-      "published": "2026-08-04T13:41:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Wayfair stock jumps more than 20% as retailer posts strongest U.S. growth since 2020",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-      "published": "2026-08-04T13:40:23Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Palantir jumps 20% on 'otherworldly' commercial revenue \u2014 here's what's driving the demand",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
-      "published": "2026-08-04T13:37:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "3 money rules I swear by \u2014 and why they work",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
       "published": "2026-08-04T13:36:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "The stock market\u2019s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
-      "published": "2026-08-04T13:34:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -112,39 +310,12 @@
       ]
     },
     {
-      "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-      "published": "2026-08-04T13:24:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices take a dive as Qatar and Bessent note talks to reopen Strait of Hormuz",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-      "published": "2026-08-04T13:22:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
       "published": "2026-08-04T13:18:15Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Why Michigan voters are hearing 'communist' as they vote Tuesday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/trump-election-republicans-democrats-communist.html",
-      "published": "2026-08-04T13:12:13Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -155,33 +326,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-      "published": "2026-08-04T13:12:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-08-04T13:06:53Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "published": "2026-08-04T13:00:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -218,151 +362,6 @@
       "published": "2026-08-04T12:35:02Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "US International Trade balance for June -$73.3B vs -$73.0B estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-international-trade-balance-for-june-73-3b-vs-73-0b-estimate/",
-      "published": "2026-08-04T12:31:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada June trade balance +3.86B vs +3.0B expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-june-trade-balance-3-86b-vs-3-0b-expected/",
-      "published": "2026-08-04T12:30:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Treasury Secretary Bessent's remarks to CNBC might be hinting to an imminent BoJ rate hike",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-secretary-bessent-s-remarks-to-cnbc-might-be-hinting-to-an-imminent-boj-rate-hike/",
-      "published": "2026-08-04T12:28:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-      "published": "2026-08-04T12:26:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As \u2018Spider-Man\u2019 joins \u2018The Odyssey\u2019 in Imax, are premium movie screens worth the extra price?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
-      "published": "2026-08-04T12:19:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
-      "published": "2026-08-04T12:05:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European FX news wrap: Markets cheer and oil prices slide on US-Iran deal hopes",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-cheer-and-oil-prices-slide-on-us-iran-deal-hopes/",
-      "published": "2026-08-04T12:01:01Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "What was the world\u2019s hottest stock market is now hunting ground for short sellers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-f8f25dd0?mod=mw_rss_topstories",
-      "published": "2026-08-04T11:51:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "US Treasury Secretary Bessent: We may have an Iran deal tomorrow to open Hormuz",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-secretary-bessent-we-may-have-an-iran-deal-tomorrow-to-open-hormuz/",
-      "published": "2026-08-04T11:50:51Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "McDonald's names company veteran Skye Anderson as its U.S. president as growth in its largest market slows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/mcdonalds-skye-anderson-us-president.html",
-      "published": "2026-08-04T11:01:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-      "published": "2026-08-04T11:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran and Oman near Hormuz shipping deal, challenging decades of free navigation",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-and-oman-near-hormuz-shipping-deal-challenging-decades-of-free-navigation/",
-      "published": "2026-08-04T10:19:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple launches fresh legal challenge against UK encrypted data access demand",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/apple-encrypted-data-legal-challenge-uk.html",
-      "published": "2026-08-04T10:15:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Reminder: US non-farm payrolls will be on the data docket this week",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/reminder-us-non-farm-payrolls-will-be-on-the-data-docket-this-week/",
-      "published": "2026-08-04T08:42:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-      "published": "2026-08-04T08:23:14Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-      "published": "2026-08-04T08:11:48Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
