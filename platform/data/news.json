@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-08-05T16:40:46.737889Z",
+  "generated_at": "2026-08-05T18:20:20.068230Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Google chief scientist Jeff Dean leaving in AI reshuffle after 27 years at company",
+      "title": "Kids Online Safety Act social media safety bill advances in Senate",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
+      "published": "2026-08-05T18:19:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX stock falls 12% as AI spending surge rattles investors and massive share unlock looms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+      "published": "2026-08-05T18:16:18Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+      "published": "2026-08-05T17:55:41Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Alphabet\u2019s stock drops as Google loses another key AI executive",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+      "published": "2026-08-05T17:50:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "published": "2026-08-05T17:21:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-      "published": "2026-08-05T16:34:34Z",
+      "published": "2026-08-05T17:18:50Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+      "published": "2026-08-05T17:05:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
+      "published": "2026-08-05T16:56:32Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How Ozempic maker Novo Nordisk blew its lead in GLP-1 weight-loss drugs. Can Europe compete in the high-stakes global economy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-0a2bcfd0?mod=mw_rss_topstories",
+      "published": "2026-08-05T16:52:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+      "published": "2026-08-05T16:51:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
+      "published": "2026-08-05T16:47:52Z",
       "tags": [
         "wire"
       ]
@@ -67,15 +157,6 @@
       ]
     },
     {
-      "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
-      "published": "2026-08-05T16:00:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "SpaceX\u2019s stock falls as Wall Street gets spooked by the extent of AI spending",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
@@ -91,15 +172,6 @@
       "published": "2026-08-05T15:55:01Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-      "published": "2026-08-05T15:54:10Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -121,15 +193,6 @@
       ]
     },
     {
-      "title": "SpaceX stock falls 7% after AI spending surge rattles investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-      "published": "2026-08-05T15:49:42Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Tanger CEO says World Cup drove up traffic, sales this summer",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
@@ -145,33 +208,6 @@
       "published": "2026-08-05T15:44:55Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Kids Online Safety Act social media safety bill advances in Senate",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
-      "published": "2026-08-05T15:42:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-      "published": "2026-08-05T15:40:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
-      "published": "2026-08-05T15:33:01Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -217,15 +253,6 @@
       "published": "2026-08-05T14:59:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-      "published": "2026-08-05T14:46:54Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -283,24 +310,6 @@
       ]
     },
     {
-      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "published": "2026-08-05T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The S&P 500 just hit a new high. \u2018Big Short\u2019 investor Michael Burry thinks it could bring a 1987-style fall.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
-      "published": "2026-08-05T13:49:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "US S&P Global services final PMI 54.6 vs 53.6 prelim",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-s-p-global-services-final-pmi-54-6-vs-53-6-prelim/",
@@ -314,15 +323,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
       "published": "2026-08-05T13:43:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Stock bears obliterated as Nasdaq 100 logs top 10 bullish stat of past decade",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/stock-bears-obliterated-as-nasdaq-logs-top-10-bullish-stat-of-past-decade.html",
-      "published": "2026-08-05T13:19:09Z",
       "tags": [
         "equities"
       ]
