@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-05T22:56:18.147190Z",
+  "generated_at": "2026-08-06T00:00:45.736486Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
+      "published": "2026-08-05T23:26:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
+      "published": "2026-08-05T23:20:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Trump administration refunds $100bn of struck down tariffs",
       "source": "ForexLive",
@@ -10,15 +28,6 @@
       "published": "2026-08-05T22:53:28Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
-      "published": "2026-08-05T22:40:41Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -116,15 +125,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
       "published": "2026-08-05T21:22:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/etsy-layoffs-q2-earnings.html",
-      "published": "2026-08-05T21:22:01Z",
       "tags": [
         "wire"
       ]
