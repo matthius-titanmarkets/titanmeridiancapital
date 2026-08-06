@@ -1,8 +1,188 @@
 {
-  "generated_at": "2026-08-06T09:24:42.412225Z",
+  "generated_at": "2026-08-06T11:39:48.757189Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+      "published": "2026-08-06T11:38:35Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "33 stocks to bet on foreign markets continuing to beat the S&P 500",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories",
+      "published": "2026-08-06T11:30:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
+      "published": "2026-08-06T11:20:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
+      "published": "2026-08-06T11:06:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
+      "published": "2026-08-06T11:04:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "World's biggest spirits maker pops 6% on $1 billion cost-cutting plan",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
+      "published": "2026-08-06T11:03:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SoftBank earnings exceed expectations, even without an OpenAI boost. This U.S. chip company saved the day.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
+      "published": "2026-08-06T11:03:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+      "published": "2026-08-06T11:02:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "published": "2026-08-06T11:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Dogs days of summer? July jobs report likely to show soft pace of hiring.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dogs-days-of-summer-july-jobs-report-likely-to-show-soft-pace-of-hiring-39f6eed4?mod=mw_rss_topstories",
+      "published": "2026-08-06T11:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "published": "2026-08-06T10:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. ready to return to \u2018commitments,\u2019 Iran says as Strait of Hormuz deal looms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+      "published": "2026-08-06T10:19:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Google is expanding its AI empire \u2014 and losing the people who built it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+      "published": "2026-08-06T10:18:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
+      "published": "2026-08-06T10:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ukraine\u2019s military hits one of Russia\u2019s biggest oil refineries in long-range drone attack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+      "published": "2026-08-06T09:59:54Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Sandisk is falling after earnings. Here\u2019s what Wall Street says.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories",
+      "published": "2026-08-06T09:56:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/astrazeneca-bristol-myers-merger-talks.html",
+      "published": "2026-08-06T09:40:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors are misreading this major economy \u2014 and creating a rare opportunity in government bonds",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories",
+      "published": "2026-08-06T09:40:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US-based employers announce fewest job cuts in two years in July",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/",
+      "published": "2026-08-06T09:30:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Khanna to introduce 'Data Center Bill of Rights' as fight over AI power plants heats up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html",
+      "published": "2026-08-06T09:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
       "source": "MarketWatch",
@@ -22,39 +202,12 @@
       ]
     },
     {
-      "title": "Ukraine\u2019s military hits one of Russia\u2019s biggest oil refineries in long-range drone attack",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
-      "published": "2026-08-06T09:07:54Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Euro area retail sales unexpectedly fall in June amid broader slump in overall activity",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/euro-area-retail-sales-unexpectedly-fall-in-june-amid-broader-slump-in-overall-activity/",
       "published": "2026-08-06T09:00:28Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
-      "published": "2026-08-06T09:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Bill Cosby takes $6 million New York City home off the market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bill-cosby-takes-6-million-new-york-city-home-off-the-market-11ba015f?mod=mw_rss_topstories",
-      "published": "2026-08-06T08:58:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -107,24 +260,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/what-are-the-main-events-for-today-19/",
       "published": "2026-08-06T06:29:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
-      "published": "2026-08-06T06:22:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Google is expanding its AI empire \u2014 and losing the people who built it",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-      "published": "2026-08-06T06:06:18Z",
       "tags": [
         "wire"
       ]
@@ -184,24 +319,6 @@
       ]
     },
     {
-      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "published": "2026-08-06T01:33:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "published": "2026-08-06T01:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Inside India newsletter: What's behind India\u2019s rush to sell shares in state-owned firms",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
@@ -244,123 +361,6 @@
       "published": "2026-08-05T22:53:28Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-      "published": "2026-08-05T22:35:26Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
-      "published": "2026-08-05T22:25:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Block slashed 40% of its workforce for AI \u2014 and its earnings suggest that\u2019s paying off",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
-      "published": "2026-08-05T22:19:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Figma\u2019s stock falls as the company\u2019s AI push requires steep investments",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories",
-      "published": "2026-08-05T22:12:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-      "published": "2026-08-05T21:55:46Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-      "published": "2026-08-05T21:32:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Gold storms higher",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-gold-storms-higher/",
-      "published": "2026-08-05T21:32:16Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Why AT&T, Verizon and T-Mobile shares are down after SpaceX\u2019s earnings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories",
-      "published": "2026-08-05T21:28:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "SpaceX\u2019s stock falls as Wall Street gets spooked by the extent of AI spending",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
-      "published": "2026-08-05T21:26:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Flutter shares plummet on earnings miss and another key leadership change",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
-      "published": "2026-08-05T21:22:56Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "E.l.f. Beauty sees $50 million windfall in tariff refunds as profits surge 100%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/elf-beauty-elf-q1-2027-earnings.html",
-      "published": "2026-08-05T21:00:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Marc Benioff gets a new operating chief, as Salesforce promotes Miguel Milano",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/marc-benioff-gets-a-new-coo-as-salesforce-promotes-miguel-milano-.html",
-      "published": "2026-08-05T20:48:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-      "published": "2026-08-05T20:36:16Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
