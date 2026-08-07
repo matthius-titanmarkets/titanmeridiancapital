@@ -1,13 +1,85 @@
 {
-  "generated_at": "2026-08-07T00:23:25.893655Z",
+  "generated_at": "2026-08-07T03:27:20.822852Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "China's exports jump 23% in July, beating estimates; imports cool",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "published": "2026-08-07T03:04:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China July Exports jump higher again in July",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-july-exports-jump-higher-again-in-july/",
+      "published": "2026-08-07T02:37:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Micron\u2019s stock falls but is spared the worst of the memory-chip selloff",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+      "published": "2026-08-07T02:35:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+      "published": "2026-08-07T02:30:49Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+      "published": "2026-08-07T02:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "published": "2026-08-07T02:08:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "published": "2026-08-07T02:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-      "published": "2026-08-07T00:19:02Z",
+      "published": "2026-08-07T01:28:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "published": "2026-08-07T00:31:00Z",
       "tags": [
         "wire"
       ]
@@ -166,15 +238,6 @@
       ]
     },
     {
-      "title": "How to wish Social Security a happy 91st birthday",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
-      "published": "2026-08-06T20:56:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Sen. Mitch McConnell says he's left rehab, will work from home",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/mitch-mcconnell-health-update-senate-gop.html",
@@ -193,30 +256,12 @@
       ]
     },
     {
-      "title": "Honeywell Aerospace lands in Wall Street\u2019s \u2018penalty box\u2019 after gloomy guidance triggers 23% stock selloff",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories",
-      "published": "2026-08-06T20:41:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
       "published": "2026-08-06T20:37:51Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "How to use options to trade stocks around an earnings announcement",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-use-options-to-trade-stocks-around-an-earnings-announcement-e1ba7920?mod=mw_rss_topstories",
-      "published": "2026-08-06T20:37:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -274,15 +319,6 @@
       ]
     },
     {
-      "title": "The last time value stocks beat growth by this much was 2022 \u2014 the year of the last major bear market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-last-time-value-stocks-beat-growth-by-this-much-was-2022-the-year-of-the-last-major-bear-market-93851a5f?mod=mw_rss_topstories",
-      "published": "2026-08-06T19:57:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
@@ -319,46 +355,10 @@
       ]
     },
     {
-      "title": "Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
-      "published": "2026-08-06T17:45:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Big Tech's free cash flow \u2014 or lack thereof \u2014 only tells part of the investment story",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/big-techs-free-cash-flow-or-lack-thereof-only-tells-part-of-the-investment-story.html",
       "published": "2026-08-06T17:32:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Rep. Jim Jordan, House Republicans raise alarms over new South Korean 'fake news' law",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/jim-jordan-south-korea-fake-news-law.html",
-      "published": "2026-08-06T17:15:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-      "published": "2026-08-06T17:01:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Now we are supposedly waiting on Trump's decision on the Iran deal",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/now-we-are-supposedly-waiting-on-trump-s-decision-on-the-iran-deal/",
-      "published": "2026-08-06T16:54:38Z",
       "tags": [
         "wire"
       ]
