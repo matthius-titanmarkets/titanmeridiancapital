@@ -1,15 +1,70 @@
 {
-  "generated_at": "2026-08-07T10:50:44.870208Z",
+  "generated_at": "2026-08-07T11:43:30.034575Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+      "published": "2026-08-07T11:23:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
+      "published": "2026-08-07T11:16:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-advances-dollar-muted-ahead-of-nfp/",
+      "published": "2026-08-07T11:05:05Z",
+      "tags": [
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Kevin O\u2019Leary, aka \u2018Mr. Wonderful,\u2019 on crypto, winning in AI and 3 things all business owners must know",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
+      "published": "2026-08-07T11:00:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Optical stocks have a China problem that most investors are missing",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
+      "published": "2026-08-07T11:00:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "Wildfire costs are surging \u2014 but much of the damage in Europe isn\u2019t insured",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
-      "published": "2026-08-07T10:40:59Z",
+      "published": "2026-08-07T10:59:15Z",
       "tags": [
         "fx"
+      ]
+    },
+    {
+      "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+      "published": "2026-08-07T10:56:00Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -76,6 +131,15 @@
       ]
     },
     {
+      "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
+      "published": "2026-08-07T08:03:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "What is the distribution of forecasts for the US NFP?",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp/",
@@ -109,15 +173,6 @@
       "published": "2026-08-07T05:27:03Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "The 72-hour crisis that could upend Meta\u2019s business in India as firm risks losing legal protection",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
-      "published": "2026-08-07T04:11:09Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -238,33 +293,6 @@
       ]
     },
     {
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "published": "2026-08-06T23:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As Alphabet burns through cash on AI, it\u2019s turning back to the bond market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
-      "published": "2026-08-06T23:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trade Desk shares tumble on earnings miss and weak outlook",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
-      "published": "2026-08-06T22:59:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
@@ -334,33 +362,6 @@
       "published": "2026-08-06T20:52:34Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
-      "published": "2026-08-06T20:50:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
-      "published": "2026-08-06T20:37:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
-      "published": "2026-08-06T20:34:01Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
