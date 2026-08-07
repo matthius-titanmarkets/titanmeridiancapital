@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:31:27.119867Z",
+  "generated_at": "2026-08-07T10:50:44.870208Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,52 @@
       "title": "Wildfire costs are surging \u2014 but much of the damage in Europe isn\u2019t insured",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
-      "published": "2026-08-07T09:26:05Z",
+      "published": "2026-08-07T10:40:59Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+      "published": "2026-08-07T10:31:29Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "There are good reasons why higher bond yields are here to stay, this strategist says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-are-good-reasons-why-higher-bond-yields-are-here-to-stay-this-strategist-says-2a89d5ae?mod=mw_rss_topstories",
+      "published": "2026-08-07T10:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "All eyes on the US jobs report now",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/all-eyes-on-the-us-jobs-report-now/",
+      "published": "2026-08-07T10:01:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says a rate hike isn't completely up to Warsh, it's up to the Board",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-says-a-rate-hike-isn-t-completely-up-to-warsh-it-s-up-to-the-board/",
+      "published": "2026-08-07T09:32:41Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Yen rally fades a week after U.S.-Japan intervention as focus shifts to policy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/us-japan-intervention-yen-unwinds-gains.html",
+      "published": "2026-08-07T09:18:47Z",
       "tags": [
         "fx"
       ]
@@ -26,15 +71,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
       "published": "2026-08-07T09:02:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
-      "published": "2026-08-07T08:03:43Z",
       "tags": [
         "wire"
       ]
@@ -166,15 +202,6 @@
       ]
     },
     {
-      "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
-      "published": "2026-08-07T00:05:26Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
       "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
@@ -235,15 +262,6 @@
       "published": "2026-08-06T22:59:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
-      "published": "2026-08-06T22:58:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -343,24 +361,6 @@
       "published": "2026-08-06T20:34:01Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-      "published": "2026-08-06T20:30:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The July jobs numbers are due out Friday. Here's what to expect",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-      "published": "2026-08-06T20:15:22Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
