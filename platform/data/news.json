@@ -1,40 +1,346 @@
 {
-  "generated_at": "2026-08-06T14:04:26.421348Z",
+  "generated_at": "2026-08-07T00:23:25.893655Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "US June wholesale inventories vs +2.2% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-june-wholesale-inventories-vs-2-2-expected/",
-      "published": "2026-08-06T14:00:51Z",
+      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+      "published": "2026-08-07T00:19:02Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
+      "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
-      "published": "2026-08-06T14:00:37Z",
+      "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+      "published": "2026-08-07T00:05:26Z",
       "tags": [
-        "equities"
+        "fx"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "published": "2026-08-07T00:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan household spending falls for seventh month, clouding BOJ rate path",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-household-spending-falls-for-seventh-month-clouding-boj-rate-path/",
+      "published": "2026-08-06T23:55:09Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
+      "published": "2026-08-06T23:42:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan June 2026 Household spending -6.4% m/m (vs. expected -3.1%, prior +3.7%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-june-2026-household-spending-6-4-m-m-vs-expected-3-1-prior-3-7/",
+      "published": "2026-08-06T23:36:31Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "published": "2026-08-06T14:00:00Z",
+      "published": "2026-08-06T23:31:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+      "title": "As Alphabet burns through cash on AI, it\u2019s turning back to the bond market",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
-      "published": "2026-08-06T14:00:00Z",
+      "url": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
+      "published": "2026-08-06T23:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trade Desk shares tumble on earnings miss and weak outlook",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
+      "published": "2026-08-06T22:59:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
+      "published": "2026-08-06T22:58:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
+      "published": "2026-08-06T22:26:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jim Cramer highlights 5 investing themes \u2014 and the stocks to buy for each",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
+      "published": "2026-08-06T22:23:25Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+      "published": "2026-08-06T22:19:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+      "published": "2026-08-06T22:01:34Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AMD buys chip startup that hardwires AI models into its silicon",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "published": "2026-08-06T21:42:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
+      "published": "2026-08-06T21:24:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-pacific FX news wrap 6 Aug: USD moves higher with yields ahead of US jobs report",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-6-aug-usd-moves-higher-with-yields-ahead-of-us-jobs-report/",
+      "published": "2026-08-06T21:12:08Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
+      "published": "2026-08-06T20:57:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "How to wish Social Security a happy 91st birthday",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
+      "published": "2026-08-06T20:56:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sen. Mitch McConnell says he's left rehab, will work from home",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/mitch-mcconnell-health-update-senate-gop.html",
+      "published": "2026-08-06T20:52:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
+      "published": "2026-08-06T20:50:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Honeywell Aerospace lands in Wall Street\u2019s \u2018penalty box\u2019 after gloomy guidance triggers 23% stock selloff",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories",
+      "published": "2026-08-06T20:41:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
+      "published": "2026-08-06T20:37:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How to use options to trade stocks around an earnings announcement",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-use-options-to-trade-stocks-around-an-earnings-announcement-e1ba7920?mod=mw_rss_topstories",
+      "published": "2026-08-06T20:37:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
+      "published": "2026-08-06T20:34:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
+      "published": "2026-08-06T20:30:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+      "published": "2026-08-06T20:15:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Friday, August 7, 2026 - Fed speaker, Chinese trade data",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-7-2026-fed-speaker-chinese-trade-data/",
+      "published": "2026-08-06T20:10:17Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Copper jumps to its highest level ever. What the metal is telling us",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+      "published": "2026-08-06T20:07:51Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Savers Value Village thrift store launches new AI tool to price items",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
+      "published": "2026-08-06T20:06:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The last time value stocks beat growth by this much was 2022 \u2014 the year of the last major bear market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-last-time-value-stocks-beat-growth-by-this-much-was-2022-the-year-of-the-last-major-bear-market-93851a5f?mod=mw_rss_topstories",
+      "published": "2026-08-06T19:57:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/trump-fed-chairman-kevin-warsh-relationship.html",
+      "published": "2026-08-06T19:38:44Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "SpaceX shares passed a key test Thursday. Now sophisticated traders are betting the bottom may be in",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/spacex-passed-a-key-test-thursday-sophisticated-traders-bet-the-bottom-is-in.html",
+      "published": "2026-08-06T19:25:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump wins last-minute reprieve temporarily blocking BBC access to his business records",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/trump-bbc-lawsuit-financial-records-court-stay.html",
+      "published": "2026-08-06T18:10:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Preview: July non-farm payrolls by the numbers",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/preview-july-non-farm-payrolls-by-the-numbers/",
+      "published": "2026-08-06T17:48:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+      "published": "2026-08-06T17:45:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Big Tech's free cash flow \u2014 or lack thereof \u2014 only tells part of the investment story",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/big-techs-free-cash-flow-or-lack-thereof-only-tells-part-of-the-investment-story.html",
+      "published": "2026-08-06T17:32:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rep. Jim Jordan, House Republicans raise alarms over new South Korean 'fake news' law",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/06/jim-jordan-south-korea-fake-news-law.html",
+      "published": "2026-08-06T17:15:47Z",
       "tags": [
         "wire"
       ]
@@ -43,325 +349,16 @@
       "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-      "published": "2026-08-06T13:57:20Z",
+      "published": "2026-08-06T17:01:07Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "How to earn a 9% dividend yield while cutting your risk in the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-earn-a-9-dividend-yield-while-cutting-your-risk-in-the-stock-market-348de255?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:56:00Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Senate vote on the Protect College Sports Act could come this week: What it means for transfers and salary caps",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:49:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Datadog\u2019s stock slides after earnings. This is what\u2019s nagging at investors.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/datadogs-stock-slides-after-earnings-this-is-whats-nagging-at-investors-eeb6fa9a?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:46:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
-      "published": "2026-08-06T13:45:29Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
-      "published": "2026-08-06T13:42:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Family offices back clean energy and sustainability startups in July as dealmaking holds steady",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html",
-      "published": "2026-08-06T13:36:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
-      "published": "2026-08-06T13:36:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:35:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Sandisk\u2019s stock is down after earnings. Here\u2019s what Wall Street has to say.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My adult kids are big earners. Should I do a Roth conversion now so they aren\u2019t taxed as much on their inheritance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-adult-kids-are-big-earners-should-i-do-a-roth-conversion-now-so-they-arent-taxed-as-much-on-their-inheritance-c136adae?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
-      "published": "2026-08-06T13:29:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-      "published": "2026-08-06T13:20:54Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
-      "published": "2026-08-06T13:18:38Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Opinion: Demis Hassabis\u2019 new role exposes Google\u2019s AI balancing act",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html",
-      "published": "2026-08-06T13:15:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
-      "published": "2026-08-06T13:10:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "published": "2026-08-06T13:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Megayacht Amadea sold for $187 million to Dubai billionaire with Trump ties",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/megayacht-amadea-sale-dubai-billionaire-trump-ties.html",
-      "published": "2026-08-06T12:44:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We're exiting our position in a spin-off play gone wrong",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/were-exiting-our-position-in-a-spin-off-play-gone-wrong-.html",
-      "published": "2026-08-06T12:38:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fiserv\u2019s stock drops as the company goes through another bruising \u2018reset\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fiservs-stock-drops-as-the-company-goes-through-another-bruising-reset-2efceea3?mod=mw_rss_topstories",
-      "published": "2026-08-06T12:36:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Inheriting a home can leave siblings with financial headaches \u2014 how to avoid costly mistakes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/inherited-home-sell-rent-keep.html",
-      "published": "2026-08-06T12:35:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Q2 prelim unit labor costs +1.3% vs +2.1% expected",
+      "title": "Now we are supposedly waiting on Trump's decision on the Iran deal",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-q2-prelim-unit-labor-costs-vs-2-1-expected/",
-      "published": "2026-08-06T12:30:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US initial jobless claims 199K versus 202K estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-199k-versus-202k-estimate/",
-      "published": "2026-08-06T12:30:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
-      "published": "2026-08-06T12:13:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "EU urges Caribbean nations to shut down golden passport programs or face travel restrictions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/-eu-cracks-down-on-caribbean-golden-passport-programs-with-visa-threat.html",
-      "published": "2026-08-06T12:11:20Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "investingLive European markets wrap: Dollar steadies, gold stays poised but off early highs",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-steadies-gold-stays-poised-but-off-early-highs/",
-      "published": "2026-08-06T12:02:10Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Shaquille O'Neal says WNBA players' treatment of Caitlin Clark is a rite of passage",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/shaquille-oneal-caitlin-clark-rite-of-passage.html",
-      "published": "2026-08-06T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukraine\u2019s military hits one of Russia\u2019s biggest oil refineries in long-range drone attack",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
-      "published": "2026-08-06T11:46:34Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
-      "published": "2026-08-06T11:04:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Google is expanding its AI empire \u2014 and losing the people who built it",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-      "published": "2026-08-06T10:18:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/astrazeneca-bristol-myers-merger-talks.html",
-      "published": "2026-08-06T09:40:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US-based employers announce fewest job cuts in two years in July",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/",
-      "published": "2026-08-06T09:30:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Khanna to introduce 'Data Center Bill of Rights' as fight over AI power plants heats up",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html",
-      "published": "2026-08-06T09:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Euro area retail sales unexpectedly fall in June amid broader slump in overall activity",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/euro-area-retail-sales-unexpectedly-fall-in-june-amid-broader-slump-in-overall-activity/",
-      "published": "2026-08-06T09:00:28Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "UK construction slump eases in July amid rebound in client demand",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-july-construction-pmi-vs-40-0-expected/",
-      "published": "2026-08-06T08:30:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Italian industrial production falls by 1.0% in June despite quarterly growth",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/italian-industrial-production-falls-by-1-0-in-june-despite-quarterly-growth/",
-      "published": "2026-08-06T08:12:10Z",
+      "url": "https://investinglive.com/news/now-we-are-supposedly-waiting-on-trump-s-decision-on-the-iran-deal/",
+      "published": "2026-08-06T16:54:38Z",
       "tags": [
         "wire"
       ]
