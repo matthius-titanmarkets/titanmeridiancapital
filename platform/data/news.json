@@ -1,15 +1,51 @@
 {
-  "generated_at": "2026-08-10T06:50:49.774227Z",
+  "generated_at": "2026-08-10T08:25:19.641322Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-      "published": "2026-08-10T06:34:31Z",
+      "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash \u2014 on one stock it knows very well",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+      "published": "2026-08-10T08:21:00Z",
       "tags": [
-        "commodities"
+        "equities"
+      ]
+    },
+    {
+      "title": "Treasury yields inch lower as investors look ahead to key inflation data",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
+      "published": "2026-08-10T08:11:27Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Iran foreign ministry reaffirms that there are no negotiations with the US currently",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-foreign-ministry-reaffirms-that-there-are-no-negotiations-with-the-us-currently/",
+      "published": "2026-08-10T08:05:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The space boom has created a giant mess. Now startups want to clean it up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
+      "published": "2026-08-10T07:44:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australian rare earth miner surges as much as 29% after U.S. Department of War investment",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+      "published": "2026-08-10T07:03:25Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -194,15 +230,6 @@
       ]
     },
     {
-      "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-      "published": "2026-08-09T12:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
@@ -320,15 +347,6 @@
       ]
     },
     {
-      "title": "How cleaning up space debris could grow to become a big business",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-      "published": "2026-08-08T12:04:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
@@ -342,24 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
       "published": "2026-08-08T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
-      "published": "2026-08-07T20:10:09Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-      "published": "2026-08-07T18:19:39Z",
       "tags": [
         "wire"
       ]
