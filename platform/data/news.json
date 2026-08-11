@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-11T05:34:00.024340Z",
+  "generated_at": "2026-08-11T07:03:59.530513Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-22/",
+      "published": "2026-08-11T06:24:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The market is obviously on fire\u2019: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "published": "2026-08-11T06:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
       "source": "CNBC Markets",
@@ -175,21 +193,21 @@
       ]
     },
     {
-      "title": "SpaceX\u2019s stock moves above its IPO price for the first time in almost a month",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-      "published": "2026-08-10T22:39:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
       "published": "2026-08-10T22:33:55Z",
       "tags": [
         "crypto"
+      ]
+    },
+    {
+      "title": "OpenAI wraps $7 billion share sale ahead of potential IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+      "published": "2026-08-10T22:15:31Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -344,24 +362,6 @@
       "published": "2026-08-10T16:09:32Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Trump\u2019s foreign licensing business booms to $59.5 million as Gulf developers pay",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
-      "published": "2026-08-10T15:06:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-      "published": "2026-08-10T14:27:15Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
