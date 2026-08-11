@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-08-11T15:28:36.297727Z",
+  "generated_at": "2026-08-11T16:26:02.610432Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Baby products company Frida is expanding into kids\u2019 personal care",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+      "published": "2026-08-11T16:23:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "European shares end mixed, but DAX and Ibex close at record highs",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/european-shares-end-mixed-but-dax-and-ibex-close-at-record-highs/",
+      "published": "2026-08-11T16:22:48Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "published": "2026-08-11T16:18:34Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+      "published": "2026-08-11T16:12:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Musk\u2019s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+      "published": "2026-08-11T16:11:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+      "published": "2026-08-11T15:54:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
+      "published": "2026-08-11T15:45:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "published": "2026-08-11T15:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Target appoints its first chief AI officer as big retailers bet on AI",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
+      "published": "2026-08-11T15:44:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "If you can answer this one question, you\u2019ll never worry about money again",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
+      "published": "2026-08-11T15:44:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A historically strong stretch for the U.S. stock market is about to begin",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
+      "published": "2026-08-11T15:40:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I looked into buying a house in Singapore as an investment. Here\u2019s why I didn\u2019t \u2014 despite the 2% mortgage rate.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+      "published": "2026-08-11T15:32:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Parents could put pretax paycheck money into Trump Accounts, with employers matching, Treasury says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
+      "published": "2026-08-11T15:29:22Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "Ukraine war sparked race for countries to build spy satellites, space-tech CEO says",
       "source": "CNBC Markets",
@@ -76,15 +193,6 @@
       ]
     },
     {
-      "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
-      "published": "2026-08-11T14:34:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Wall Street thinks inflation is under control. Here\u2019s why investors shouldn\u2019t buy it.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
@@ -139,64 +247,10 @@
       ]
     },
     {
-      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "published": "2026-08-11T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Airbnb has added thousands of new hotel listings. Will that damage the brand\u2019s identity?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
-      "published": "2026-08-11T13:58:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I just moved. These 7 tips saved me nearly $1,000.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-just-moved-these-7-tips-saved-me-around-1-000-ea3b0ae5?mod=mw_rss_topstories",
-      "published": "2026-08-11T13:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Parents could put pre-tax paycheck money into Trump Accounts, with employers matching, Treasury says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
-      "published": "2026-08-11T13:49:30Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-      "published": "2026-08-11T13:39:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "My 401(k) fully vests this month\u2014why my latest work anniversary is worth thousands",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
       "published": "2026-08-11T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We live on a farm and have $2.2 million saved for retirement. We\u2019re ready to retire abroad. Can we afford it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
-      "published": "2026-08-11T13:00:00Z",
       "tags": [
         "wire"
       ]
@@ -215,24 +269,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/adp-weekly-ner-pulse-vs-15k-prior/",
       "published": "2026-08-11T12:15:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-      "published": "2026-08-11T12:15:44Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Baby products company Frida is expanding into kids\u2019 personal care",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
-      "published": "2026-08-11T12:00:02Z",
       "tags": [
         "wire"
       ]
@@ -323,42 +359,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/what-are-the-main-events-for-today-22/",
       "published": "2026-08-11T06:24:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific Financial Market news: Oil and gold stay near highs",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-and-gold-stay-near-highs/",
-      "published": "2026-08-11T03:38:11Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
-      "published": "2026-08-11T02:58:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australian business conditions edge higher in July but confidence stays fragile",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australian-business-conditions-edge-higher-in-july-but-confidence-stays-fragile/",
-      "published": "2026-08-11T02:04:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "NZ PM Luxon calls urgent caucus meeting to address leadership speculation",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/nz-pm-luxon-calls-urgent-caucus-meeting-to-address-leadership-speculation/",
-      "published": "2026-08-11T01:39:45Z",
       "tags": [
         "wire"
       ]
