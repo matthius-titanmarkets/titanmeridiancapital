@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-12T07:21:34.990871Z",
+  "generated_at": "2026-08-12T08:46:43.523928Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+      "published": "2026-08-12T08:45:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury yields are little changed as investors await key inflation data",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
+      "published": "2026-08-12T08:31:12Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "A stock just surged on news Situational Awareness had bought it. But its current fate is unclear.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-stock-just-surged-on-news-situational-awareness-had-bought-it-but-its-current-fate-is-unclear-00f17a97?mod=mw_rss_topstories",
+      "published": "2026-08-12T08:22:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Italy inflation eases just a touch in July, core price keep steady though",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/italy-july-final-cpi-2-9-vs-2-8-y-y-prelim/",
+      "published": "2026-08-12T08:01:34Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "What is the distribution of forecasts for the US CPI?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-0/",
+      "published": "2026-08-12T07:45:58Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "published": "2026-08-12T07:40:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
       "source": "CNBC Markets",
@@ -10,15 +64,6 @@
       "published": "2026-08-12T07:20:31Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
-      "published": "2026-08-12T07:01:56Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -35,15 +80,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/what-are-the-main-events-for-today-23/",
       "published": "2026-08-12T06:20:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-      "published": "2026-08-12T06:09:57Z",
       "tags": [
         "wire"
       ]
@@ -269,15 +305,6 @@
       ]
     },
     {
-      "title": "Oracle\u2019s stock has taken a hit as AI spending concerns resurface",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
-      "published": "2026-08-11T20:32:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
@@ -338,33 +365,6 @@
       "published": "2026-08-11T18:34:41Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Credit card debt climbs to $1.26 trillion as \u2018K-shaped\u2019 divide persists, New York Fed research finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
-      "published": "2026-08-11T18:23:43Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Trump says NYC pied-\u00e0-terre tax 'must be stopped,' eyes federal block",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
-      "published": "2026-08-11T18:10:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-      "published": "2026-08-11T18:09:08Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
