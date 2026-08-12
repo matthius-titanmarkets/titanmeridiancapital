@@ -1,15 +1,60 @@
 {
-  "generated_at": "2026-08-12T05:54:22.058101Z",
+  "generated_at": "2026-08-12T07:21:34.990871Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership",
+      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "published": "2026-08-12T05:10:36Z",
+      "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+      "published": "2026-08-12T07:20:31Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+      "published": "2026-08-12T07:01:56Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "published": "2026-08-12T06:30:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-23/",
+      "published": "2026-08-12T06:20:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "published": "2026-08-12T06:09:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Germany inflation confirmed to accelerate in July but core prices remain steadier",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/germany-july-final-cpi-vs-2-8-y-y-prelim/",
+      "published": "2026-08-12T06:01:23Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -22,30 +67,12 @@
       ]
     },
     {
-      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-      "published": "2026-08-12T04:51:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Asia-Pacific Financial Market news: Oil edges higher",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-edges-higher/",
       "published": "2026-08-12T03:50:27Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-      "published": "2026-08-12T03:37:00Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -338,33 +365,6 @@
       "published": "2026-08-11T18:09:08Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
-      "published": "2026-08-11T18:05:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eia-raises-crude-oil-price-forecasts-as-middle-east-supply-risks-tighten-outlook/",
-      "published": "2026-08-11T17:19:11Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-75-billion-3-year-notes-at-a-high-yield-of-4-291/",
-      "published": "2026-08-11T17:08:13Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
