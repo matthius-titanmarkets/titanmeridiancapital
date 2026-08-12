@@ -1,13 +1,141 @@
 {
-  "generated_at": "2026-08-12T20:41:09.954462Z",
+  "generated_at": "2026-08-12T21:42:37.728307Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+      "published": "2026-08-12T21:37:18Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+      "published": "2026-08-12T21:30:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
+      "published": "2026-08-12T21:19:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "Cerebras stock plunges 14% after second earnings report following IPO",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-      "published": "2026-08-12T20:28:48Z",
+      "published": "2026-08-12T21:18:40Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+      "published": "2026-08-12T21:18:35Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "published": "2026-08-12T21:13:11Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Goldman\u2019s latest deal underscores how \u2018boomer candy\u2019 ETFs are now big business on Wall Street",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories",
+      "published": "2026-08-12T21:12:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Chip stocks are closing in on a bull market. Here\u2019s why some analysts are nervous.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chip-stocks-are-closing-in-on-a-bull-market-heres-why-some-analysts-are-nervous-2a180b75?mod=mw_rss_topstories",
+      "published": "2026-08-12T21:08:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
+      "published": "2026-08-12T21:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+      "published": "2026-08-12T21:04:18Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "published": "2026-08-12T21:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-aug-cpi-as-expected-usd-reverses-declines-and-closes-higher/",
+      "published": "2026-08-12T21:00:10Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+      "published": "2026-08-12T20:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+      "published": "2026-08-12T20:58:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Cisco's stock drops despite earnings, revenue beat",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+      "published": "2026-08-12T20:51:07Z",
       "tags": [
         "equities"
       ]
@@ -31,31 +159,12 @@
       ]
     },
     {
-      "title": "Trump says Karoline Leavitt resigning as White House press secretary",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
-      "published": "2026-08-12T20:09:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
       "published": "2026-08-12T20:00:52Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "published": "2026-08-12T19:57:25Z",
-      "tags": [
-        "macro",
-        "commodities"
       ]
     },
     {
@@ -68,30 +177,12 @@
       ]
     },
     {
-      "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
-      "published": "2026-08-12T19:51:51Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
       "published": "2026-08-12T19:50:29Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-      "published": "2026-08-12T19:46:08Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -158,39 +249,12 @@
       ]
     },
     {
-      "title": "Chili\u2019s has hopped on the chicken-sandwich bandwagon, and it\u2019s driving big sales gains",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
-      "published": "2026-08-12T18:04:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Here's the inflation breakdown for July 2026 \u2014 in one chart",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
       "published": "2026-08-12T17:51:16Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-      "published": "2026-08-12T17:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX\u2019s stock is getting a Grok-fueled boost",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-      "published": "2026-08-12T17:26:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -230,24 +294,6 @@
       ]
     },
     {
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "published": "2026-08-12T16:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-      "published": "2026-08-12T16:44:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
@@ -275,39 +321,12 @@
       ]
     },
     {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "published": "2026-08-12T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "published": "2026-08-12T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
       "published": "2026-08-12T15:53:24Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-      "published": "2026-08-12T15:37:25Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -344,24 +363,6 @@
       "published": "2026-08-12T14:20:10Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "published": "2026-08-12T13:59:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
-      "published": "2026-08-12T13:40:40Z",
-      "tags": [
-        "fx"
       ]
     }
   ]
