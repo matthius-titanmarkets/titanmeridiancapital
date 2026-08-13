@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-13T18:29:06.837839Z",
+  "generated_at": "2026-08-13T19:36:26.938042Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "published": "2026-08-13T19:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Workday skyrockets 18%, trading halted multiple times on report of Silver Lake takeover",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+      "published": "2026-08-13T19:24:15Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
+      "published": "2026-08-13T19:23:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices fall as IEA sees lower demand on rising fuel prices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "published": "2026-08-13T19:06:41Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+      "published": "2026-08-13T18:44:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
       "source": "CNBC Markets",
@@ -28,15 +73,6 @@
       "published": "2026-08-13T17:53:51Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Oil prices fall as investors weigh falling demand against Middle East tensions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "published": "2026-08-13T17:46:28Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -82,15 +118,6 @@
       "published": "2026-08-13T17:02:58Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-      "published": "2026-08-13T17:00:49Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -202,15 +229,6 @@
       ]
     },
     {
-      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-      "published": "2026-08-13T14:57:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories",
@@ -233,15 +251,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
       "published": "2026-08-13T14:15:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-      "published": "2026-08-13T14:08:00Z",
       "tags": [
         "equities"
       ]
@@ -356,15 +365,6 @@
       "published": "2026-08-13T09:17:52Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Shipping giants warn ports and trucks could hold up deliveries and push up prices",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
-      "published": "2026-08-13T09:17:39Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
