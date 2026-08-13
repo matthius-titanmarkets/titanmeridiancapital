@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-13T07:27:20.418549Z",
+  "generated_at": "2026-08-13T08:51:36.381889Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
+      "published": "2026-08-13T08:28:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+      "published": "2026-08-13T07:56:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "In pictures: Europe sees best solar eclipse since 1999",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
+      "published": "2026-08-13T07:51:26Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+      "published": "2026-08-13T07:20:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Lenovo profits soar past expectations on AI computers, servers and services",
       "source": "MarketWatch",
@@ -62,15 +98,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
       "published": "2026-08-13T05:22:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-      "published": "2026-08-13T05:19:50Z",
       "tags": [
         "wire"
       ]
@@ -285,24 +312,6 @@
       ]
     },
     {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-      "published": "2026-08-12T21:37:18Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-      "published": "2026-08-12T21:13:11Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
@@ -355,15 +364,6 @@
       "published": "2026-08-12T19:50:29Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-      "published": "2026-08-12T19:15:54Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
