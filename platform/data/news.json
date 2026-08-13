@@ -1,22 +1,130 @@
 {
-  "generated_at": "2026-08-13T08:51:36.381889Z",
+  "generated_at": "2026-08-13T10:02:56.799463Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-      "published": "2026-08-13T08:28:14Z",
+      "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+      "published": "2026-08-13T10:01:40Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "published": "2026-08-13T10:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What is driving the rapid shift as South Korea\u2019s bear market turns back into a bull",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories",
+      "published": "2026-08-13T09:57:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "World\u2019s largest jeweler bets on platinum despite falling silver prices, CEO tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/pandora-platinum-plated-jewelry-silver-prices.html",
+      "published": "2026-08-13T09:17:52Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Shipping giants warn ports and trucks could hold up deliveries and push up prices",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
-      "published": "2026-08-13T07:56:00Z",
+      "published": "2026-08-13T09:17:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+      "published": "2026-08-13T09:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/stock-market-today-ai-lead-so-far-this-week-but-cisco-may-cool-things-down/",
+      "published": "2026-08-13T09:14:34Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Euro area industrial output holds flat in June",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/euro-area-industrial-output-holds-flat-in-june/",
+      "published": "2026-08-13T09:05:08Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "The latest rally has energized the stock market but left the credit market concerned",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories",
+      "published": "2026-08-13T09:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+      "published": "2026-08-13T09:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Actress Tamara Mello of \u2018She\u2019s All That\u2019 puts L.A. home on the market for $1.5 million",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/actresstamara-melloof-shes-all-that-puts-l-a-home-on-the-market-for-1-5-million-0046941f?mod=mw_rss_topstories",
+      "published": "2026-08-13T08:58:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "published": "2026-08-13T08:43:23Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Treasury yields dip as Wall Street awaits wholesale inflation data",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
+      "published": "2026-08-13T08:40:17Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
+      "published": "2026-08-13T08:28:14Z",
       "tags": [
         "wire"
       ]
@@ -28,15 +136,6 @@
       "published": "2026-08-13T07:51:26Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
-      "published": "2026-08-13T07:20:28Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -89,15 +188,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/it-s-on-to-jackson-hole-next/",
       "published": "2026-08-13T05:29:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-      "published": "2026-08-13T05:22:03Z",
       "tags": [
         "wire"
       ]
@@ -212,15 +302,6 @@
       ]
     },
     {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "published": "2026-08-13T00:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Japan July PPI surges 7.2%, but lower than the expected 7.4%",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/japan-july-ppi-surges-7-2-but-lower-than-the-expected-7-4/",
@@ -249,15 +330,6 @@
       ]
     },
     {
-      "title": "Google\u2019s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "published": "2026-08-12T22:49:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Ford says it's increasing Lincoln production in the U.S. in 2030",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/ford-lincoln-us-china.html",
@@ -267,46 +339,10 @@
       ]
     },
     {
-      "title": "China\u2019s next economic ambition: workshop for the Muslim world",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
-      "published": "2026-08-12T22:35:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
-      "published": "2026-08-12T22:34:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Lumentum\u2019s stock surges, giving a further boost to the optical-networking trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
-      "published": "2026-08-12T22:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump says Karoline Leavitt resigning as White House press secretary",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
       "published": "2026-08-12T22:08:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "published": "2026-08-12T22:00:00Z",
       "tags": [
         "wire"
       ]
@@ -328,42 +364,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
-      "published": "2026-08-12T20:16:05Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia Thursday, August 13, 2026 - RBNZ inflation expectations",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-august-13-2026/",
-      "published": "2026-08-12T20:12:09Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "White House Press Secretary Leavitt will be departing her role at the end of the month.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/white-house-press-secretary-leavitt-will-be-departing-her-role-at-the-end-of-the-month/",
-      "published": "2026-08-12T19:54:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-      "published": "2026-08-12T19:50:29Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
