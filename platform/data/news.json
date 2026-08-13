@@ -1,13 +1,85 @@
 {
-  "generated_at": "2026-08-13T21:42:16.777410Z",
+  "generated_at": "2026-08-13T22:39:19.877434Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "NZ manufacturing growth cools to 54.3 in July after June's surge",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/nz-manufacturing-growth-cools-to-54-3-in-july-after-june-s-surge/",
+      "published": "2026-08-13T22:36:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:09:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Salesforce\u2019s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:07:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:05:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Markets are looking eerily calm as investors chase FOMO rally",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:05:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Reddit stock jumps on inclusion in S&P 500",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-      "published": "2026-08-13T21:38:59Z",
+      "published": "2026-08-13T21:56:29Z",
       "tags": [
         "equities"
       ]
@@ -67,15 +139,6 @@
       ]
     },
     {
-      "title": "More than half of Gen Z redirected money away from investing and toward sports betting over the past year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-than-half-of-gen-z-redirected-money-away-from-investing-and-toward-sports-betting-over-the-past-year-937a366c?mod=mw_rss_topstories",
-      "published": "2026-08-13T21:11:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Kennedy Center board votes to put Trump name on facade despite court order",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html",
@@ -112,15 +175,6 @@
       ]
     },
     {
-      "title": "SpaceX set an IPO record. Now there\u2019s hope that Anthropic could shatter it.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-set-an-ipo-record-now-theres-hope-that-anthropic-could-shatter-it-ea44b12a?mod=mw_rss_topstories",
-      "published": "2026-08-13T20:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Americas market news wrap: S&P 500 hits a fresh record",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-s-p-500-hits-a-fresh-record/",
@@ -148,6 +202,15 @@
       ]
     },
     {
+      "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+      "published": "2026-08-13T19:59:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Economic and event calendar in Asia Friday, August 14, 2026",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-14-2026/",
@@ -161,51 +224,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
       "published": "2026-08-13T19:56:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The average car loan is now $785 a month \u2014 and lasts for almost 6 years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
-      "published": "2026-08-13T19:54:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-      "published": "2026-08-13T19:52:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-      "published": "2026-08-13T19:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
-      "published": "2026-08-13T19:36:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-      "published": "2026-08-13T19:27:00Z",
       "tags": [
         "wire"
       ]
@@ -343,25 +361,6 @@
       "published": "2026-08-13T13:18:36Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-      "published": "2026-08-13T12:42:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
-      "published": "2026-08-13T12:31:22Z",
-      "tags": [
-        "macro",
-        "equities"
       ]
     }
   ]
