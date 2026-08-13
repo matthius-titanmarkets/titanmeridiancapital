@@ -1,13 +1,131 @@
 {
-  "generated_at": "2026-08-12T23:38:53.190859Z",
+  "generated_at": "2026-08-13T01:49:29.670978Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "EVs dominate China\u2019s car market: 5 takeaways from the country's latest auto sales data",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+      "published": "2026-08-13T01:31:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
+      "published": "2026-08-13T01:25:47Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "South Korea stocks have entered bull market in about a month as AI trade roars back",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+      "published": "2026-08-13T01:19:08Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
+      "published": "2026-08-13T01:16:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
+      "published": "2026-08-13T01:12:22Z",
+      "tags": [
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+      "published": "2026-08-13T01:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "published": "2026-08-13T00:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "published": "2026-08-13T00:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Why global funds are flocking to GIFT City in Modi\u2019s home state",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/global-funds-blackrock-modi-gift-city.html",
+      "published": "2026-08-13T00:15:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump sued over Truth Social advance access sale",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "published": "2026-08-13T00:13:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "published": "2026-08-13T00:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan July PPI surges 7.2%, but lower than the expected 7.4%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-july-ppi-surges-7-2-but-lower-than-the-expected-7-4/",
+      "published": "2026-08-12T23:55:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "published": "2026-08-12T23:49:23Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
-      "published": "2026-08-12T23:38:02Z",
+      "published": "2026-08-12T23:41:02Z",
       "tags": [
         "macro",
         "commodities"
@@ -59,15 +177,6 @@
       ]
     },
     {
-      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-      "published": "2026-08-12T22:18:58Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump says Karoline Leavitt resigning as White House press secretary",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
@@ -95,24 +204,6 @@
       ]
     },
     {
-      "title": "SpaceX\u2019s stock is getting a Grok-fueled boost",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-      "published": "2026-08-12T21:59:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Alphabet\u2019s stock slips as Nvidia\u2019s $500 billion financing deal threatens custom chips",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
-      "published": "2026-08-12T21:55:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
@@ -122,37 +213,10 @@
       ]
     },
     {
-      "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
-      "published": "2026-08-12T21:19:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
       "published": "2026-08-12T21:13:11Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Goldman\u2019s latest deal underscores how \u2018boomer candy\u2019 ETFs are now big business on Wall Street",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories",
-      "published": "2026-08-12T21:12:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Chip stocks are closing in on a bull market. Here\u2019s why some analysts are nervous.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chip-stocks-are-closing-in-on-a-bull-market-heres-why-some-analysts-are-nervous-2a180b75?mod=mw_rss_topstories",
-      "published": "2026-08-12T21:08:00Z",
       "tags": [
         "equities"
       ]
@@ -294,73 +358,10 @@
       ]
     },
     {
-      "title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
-      "published": "2026-08-12T16:48:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
       "published": "2026-08-12T16:33:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump sued over Truth Social advance access sale",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-      "published": "2026-08-12T16:25:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
-      "published": "2026-08-12T16:17:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
-      "published": "2026-08-12T15:53:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-      "published": "2026-08-12T15:23:12Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Cleveland Fed median CPI +0.3% vs +0.2% prior",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/cleveland-fed-median-cpi-0-3-vs-0-2-prior/",
-      "published": "2026-08-12T15:12:40Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-      "published": "2026-08-12T14:28:39Z",
       "tags": [
         "wire"
       ]
