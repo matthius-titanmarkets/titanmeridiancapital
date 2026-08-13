@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-13T22:39:19.877434Z",
+  "generated_at": "2026-08-13T23:39:03.417061Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Reddit stock jumps on inclusion in S&P 500",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+      "published": "2026-08-13T23:04:21Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+      "published": "2026-08-13T22:40:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "NZ manufacturing growth cools to 54.3 in July after June's surge",
       "source": "ForexLive",
@@ -76,15 +94,6 @@
       ]
     },
     {
-      "title": "Reddit stock jumps on inclusion in S&P 500",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-      "published": "2026-08-13T21:56:29Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
@@ -125,15 +134,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/uconn-coach-geno-auriemma-wnba-trans-debate.html",
       "published": "2026-08-13T21:21:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I didn\u2019t know what else to do:\u2019 Patients take their health-insurance battles to Facebook and LinkedIn",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
-      "published": "2026-08-13T21:14:00Z",
       "tags": [
         "wire"
       ]
@@ -346,12 +346,13 @@
       ]
     },
     {
-      "title": "Sweetgreen isn't linked to cyclospora, but many customers still don't want salads: 'I didn't think it would last' this long, CEO says",
+      "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/cyclospora-outbreak-sweetgreen-ceo.html",
-      "published": "2026-08-13T13:31:09Z",
+      "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
+      "published": "2026-08-13T13:33:05Z",
       "tags": [
-        "wire"
+        "commodities",
+        "fx"
       ]
     },
     {
