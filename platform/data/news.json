@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-08-13T16:02:37.966269Z",
+  "generated_at": "2026-08-13T17:28:16.328118Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+      "published": "2026-08-13T17:19:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "published": "2026-08-13T17:18:20Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
+      "published": "2026-08-13T17:08:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why September is the worst month of the year for the stock market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
+      "published": "2026-08-13T17:06:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Democrats demand Trump reveal stock managers, explain suspicious trades",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
+      "published": "2026-08-13T17:04:49Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "US treasury sells 30 year bonds at a high yield of 5.216%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-treasury-sells-30-year-bonds-at-a-high-yield-of-5-216/",
+      "published": "2026-08-13T17:02:58Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+      "published": "2026-08-13T17:00:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "published": "2026-08-13T16:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+      "published": "2026-08-13T16:38:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-30-year-average-mortgage-rate-averages-6-67-vs-6-69-last-week/",
+      "published": "2026-08-13T16:31:55Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+      "published": "2026-08-13T16:20:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+      "published": "2026-08-13T16:06:38Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "European shares close lower despite the US tech push higher",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/european-shares-close-lower-despite-the-us-tech-push-higher/",
+      "published": "2026-08-13T16:06:12Z",
+      "tags": [
+        "fx"
+      ]
+    },
     {
       "title": "These nontech stocks can ride the AI build-out for years",
       "source": "MarketWatch",
@@ -17,15 +134,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
       "published": "2026-08-13T15:31:20Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-      "published": "2026-08-13T15:29:22Z",
       "tags": [
         "commodities"
       ]
@@ -53,15 +161,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
       "published": "2026-08-13T15:08:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-      "published": "2026-08-13T15:02:23Z",
       "tags": [
         "wire"
       ]
@@ -139,33 +238,6 @@
       ]
     },
     {
-      "title": "Democrats demand Trump reveal stock managers, explain suspicious trades",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
-      "published": "2026-08-13T14:03:35Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-      "published": "2026-08-13T14:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "published": "2026-08-13T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
@@ -189,15 +261,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
       "published": "2026-08-13T13:18:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-      "published": "2026-08-13T13:01:37Z",
       "tags": [
         "wire"
       ]
@@ -300,69 +363,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
       "published": "2026-08-13T09:17:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/stock-market-today-ai-lead-so-far-this-week-but-cisco-may-cool-things-down/",
-      "published": "2026-08-13T09:14:34Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Euro area industrial output holds flat in June",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/euro-area-industrial-output-holds-flat-in-june/",
-      "published": "2026-08-13T09:05:08Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
-      "published": "2026-08-13T09:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-      "published": "2026-08-13T08:28:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Spain inflation nudges higher in July as both headline and core prices push up",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/spain-inflation-nudges-higher-in-july-as-both-headline-and-core-prices-push-up/",
-      "published": "2026-08-13T07:00:15Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-24/",
-      "published": "2026-08-13T06:33:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-q2-preliminary-gdp-vs-0-4-q-q-expected/",
-      "published": "2026-08-13T06:00:11Z",
       "tags": [
         "wire"
       ]
