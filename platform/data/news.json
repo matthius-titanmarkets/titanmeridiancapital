@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:55:02.928408Z",
+  "generated_at": "2026-08-14T07:21:50.182223Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,34 @@
       "title": "Trump ally Nigel Farage wins special election to return to UK parliament",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-      "published": "2026-08-14T05:48:57Z",
+      "published": "2026-08-14T07:17:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Swiss economy estimated to post quarterly growth of 1.5% in the second quarter",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/swiss-economy-estimated-to-post-quarterly-growth-of-1-5-in-the-second-quarter/",
+      "published": "2026-08-14T07:13:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "French inflation accelerates again in July, core prices move up as well",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/french-inflation-accelerates-again-in-july-core-prices-move-up-as-well/",
+      "published": "2026-08-14T06:45:54Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "German wholesale prices bounce back in July as energy tax cut lapses",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/german-wholesale-prices-bounce-back-in-july-as-energy-tax-cut-lapses/",
+      "published": "2026-08-14T06:00:22Z",
       "tags": [
         "wire"
       ]
@@ -332,33 +359,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
       "published": "2026-08-13T18:44:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
-      "published": "2026-08-13T17:08:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US treasury sells 30 year bonds at a high yield of 5.216%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-30-year-bonds-at-a-high-yield-of-5-216/",
-      "published": "2026-08-13T17:02:58Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-      "published": "2026-08-13T16:38:06Z",
       "tags": [
         "wire"
       ]
