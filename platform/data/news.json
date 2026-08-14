@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-14T04:06:50.819438Z",
+  "generated_at": "2026-08-14T05:55:02.928408Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Trump ally Nigel Farage wins special election to return to UK parliament",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+      "published": "2026-08-14T05:48:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China built robots that can do backflips \u2013 but can they make money?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
+      "published": "2026-08-14T05:00:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "published": "2026-08-14T05:00:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
     {
       "title": "investingLive Asia-Pacific Market news: Oil edges up, small move",
       "source": "ForexLive",
@@ -265,15 +292,6 @@
       ]
     },
     {
-      "title": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "published": "2026-08-13T20:05:16Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
@@ -341,24 +359,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
       "published": "2026-08-13T16:38:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-30-year-average-mortgage-rate-averages-6-67-vs-6-69-last-week/",
-      "published": "2026-08-13T16:31:55Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-      "published": "2026-08-13T16:20:22Z",
       "tags": [
         "wire"
       ]
