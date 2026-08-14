@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-14T21:52:18.822571Z",
+  "generated_at": "2026-08-14T22:20:17.123571Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+      "published": "2026-08-14T21:45:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
       "source": "MarketWatch",
@@ -355,15 +364,6 @@
       "tags": [
         "commodities",
         "fx"
-      ]
-    },
-    {
-      "title": "Data centers in space could be a new frontier for insurers \u2014 if they can price the risk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
-      "published": "2026-08-14T11:19:51Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
