@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-14T15:49:59.565578Z",
+  "generated_at": "2026-08-14T16:50:21.203117Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
+      "published": "2026-08-14T16:40:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+      "published": "2026-08-14T16:37:42Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+      "published": "2026-08-14T16:27:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "published": "2026-08-14T16:27:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+      "published": "2026-08-14T16:27:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Still trying to time the stock market? This chart shows why it\u2019s tougher than you think.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/still-trying-to-time-the-stock-market-this-chart-shows-why-its-tougher-than-you-think-79a726c4?mod=mw_rss_topstories",
+      "published": "2026-08-14T16:21:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "published": "2026-08-14T16:14:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
+      "published": "2026-08-14T16:10:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
       "source": "MarketWatch",
@@ -13,10 +85,19 @@
       ]
     },
     {
-      "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+      "title": "10-year Treasury yield inches higher as traders digest soft retail sales, monitor the Middle East",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-      "published": "2026-08-14T15:38:46Z",
+      "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+      "published": "2026-08-14T15:36:33Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
+      "published": "2026-08-14T15:22:00Z",
       "tags": [
         "wire"
       ]
@@ -26,6 +107,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
       "published": "2026-08-14T15:11:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're buying more shares of a recent spin-off that has great long-term prospects",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/were-buying-more-shares-of-a-recent-spin-off-that-has-great-long-term-prospects.html",
+      "published": "2026-08-14T15:07:25Z",
       "tags": [
         "wire"
       ]
@@ -55,24 +145,6 @@
       "published": "2026-08-14T15:00:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
-      "published": "2026-08-14T14:50:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-      "published": "2026-08-14T14:43:30Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -139,39 +211,12 @@
       ]
     },
     {
-      "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here\u2019s how long the defiance can last.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
-      "published": "2026-08-14T13:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
-      "published": "2026-08-14T13:27:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
       "published": "2026-08-14T13:24:54Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "The Club's top 10 things to watch in the stock market Friday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "published": "2026-08-14T13:17:25Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -221,28 +266,10 @@
       ]
     },
     {
-      "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-      "published": "2026-08-14T12:17:42Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Data breach notices have already blown past last year\u2019s total \u2014 and AI is playing a growing role",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
       "published": "2026-08-14T12:15:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI\u2019s infrastructure boom is getting more leveraged \u2014 and harder to track",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-      "published": "2026-08-14T12:03:32Z",
       "tags": [
         "wire"
       ]
@@ -255,6 +282,15 @@
       "tags": [
         "commodities",
         "fx"
+      ]
+    },
+    {
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "published": "2026-08-14T11:50:40Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -325,42 +361,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/swiss-economy-estimated-to-post-quarterly-growth-of-1-5-in-the-second-quarter/",
       "published": "2026-08-14T07:13:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "French inflation accelerates again in July, core prices move up as well",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/french-inflation-accelerates-again-in-july-core-prices-move-up-as-well/",
-      "published": "2026-08-14T06:45:54Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "German wholesale prices bounce back in July as energy tax cut lapses",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-wholesale-prices-bounce-back-in-july-as-energy-tax-cut-lapses/",
-      "published": "2026-08-14T06:00:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific Market news: Oil edges up, small move",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-edges-up-small-move/",
-      "published": "2026-08-14T03:40:12Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Trump orders more tariffs, this time up to 100% on drone imports. Cites security.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-orders-more-tariffs-this-time-up-to-100-on-drone-imports-cites-security/",
-      "published": "2026-08-14T03:04:51Z",
       "tags": [
         "wire"
       ]
