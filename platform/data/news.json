@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-17T02:40:08.548825Z",
+  "generated_at": "2026-08-17T03:48:13.677088Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "China's delayed July data looms as markets eye demand and PBOC's yuan stance",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-s-delayed-july-data-looms-as-markets-eye-demand-and-pboc-s-yuan-stance/",
+      "published": "2026-08-17T03:05:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "published": "2026-08-17T02:24:00Z",
+      "published": "2026-08-17T03:02:00Z",
       "tags": [
         "macro",
         "equities"
@@ -354,15 +363,6 @@
       "published": "2026-08-14T23:41:50Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-      "published": "2026-08-14T21:45:19Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
