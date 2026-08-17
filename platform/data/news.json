@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-08-17T15:22:40.476778Z",
+  "generated_at": "2026-08-17T15:49:23.231798Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-      "published": "2026-08-17T15:21:46Z",
+      "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+      "published": "2026-08-17T15:48:32Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Micron, Sandisk and other chip stocks climb as investors are more confident about AI spending",
+      "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+      "published": "2026-08-17T15:34:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
+      "published": "2026-08-17T15:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "published": "2026-08-17T15:28:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "published": "2026-08-17T15:26:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "published": "2026-08-17T15:25:43Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
-      "published": "2026-08-17T15:18:00Z",
+      "published": "2026-08-17T15:22:00Z",
       "tags": [
         "equities"
       ]
@@ -49,15 +94,6 @@
       ]
     },
     {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-      "published": "2026-08-17T15:12:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
@@ -85,15 +121,6 @@
       ]
     },
     {
-      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-      "published": "2026-08-17T14:56:42Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
@@ -107,15 +134,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
       "published": "2026-08-17T14:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-      "published": "2026-08-17T14:51:24Z",
       "tags": [
         "wire"
       ]
@@ -170,15 +188,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-august-nahb-housing-market-index-vs-33-expected/",
       "published": "2026-08-17T14:00:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-      "published": "2026-08-17T13:45:00Z",
       "tags": [
         "wire"
       ]
@@ -352,16 +361,6 @@
       "published": "2026-08-17T05:02:31Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Oil steady, yen firms",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-yen-firms/",
-      "published": "2026-08-17T03:52:42Z",
-      "tags": [
-        "commodities",
-        "fx"
       ]
     }
   ]
