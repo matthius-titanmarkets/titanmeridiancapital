@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:08:45.849363Z",
+  "generated_at": "2026-08-17T02:40:08.548825Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,7 @@
       "title": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "published": "2026-08-17T00:55:00Z",
+      "published": "2026-08-17T02:24:00Z",
       "tags": [
         "macro",
         "equities"
@@ -17,9 +17,19 @@
       "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html",
-      "published": "2026-08-17T00:50:18Z",
+      "published": "2026-08-17T02:21:02Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/yen-edges-higher-as-traders-push-back-fed-rate-hike-bets-shrug-off-soft-gdp/",
+      "published": "2026-08-17T01:08:00Z",
+      "tags": [
+        "macro",
+        "fx"
       ]
     },
     {
@@ -353,16 +363,6 @@
       "published": "2026-08-14T21:45:19Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-aug-stocks-finish-mixed-as-yields-rise-and-the-dollar-falls/",
-      "published": "2026-08-14T21:18:50Z",
-      "tags": [
-        "fx",
-        "equities"
       ]
     }
   ]
