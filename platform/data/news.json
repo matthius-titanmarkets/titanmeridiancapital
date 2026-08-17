@@ -1,15 +1,96 @@
 {
-  "generated_at": "2026-08-17T18:36:56.644086Z",
+  "generated_at": "2026-08-17T19:26:03.634546Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "published": "2026-08-17T19:21:02Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "published": "2026-08-17T19:14:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "published": "2026-08-17T19:04:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "published": "2026-08-17T19:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+      "published": "2026-08-17T19:01:55Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
       "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-      "published": "2026-08-17T18:36:08Z",
+      "published": "2026-08-17T18:58:54Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s stock is rising, and that\u2019s a good sign for Nvidia and Google",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
+      "published": "2026-08-17T18:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Getting diagnosed with dementia isn\u2019t the end. It\u2019s a time to take financial action.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+      "published": "2026-08-17T18:52:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
+      "published": "2026-08-17T18:50:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
+      "published": "2026-08-17T18:42:54Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -19,24 +100,6 @@
       "published": "2026-08-17T18:32:54Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-      "published": "2026-08-17T18:32:42Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-      "published": "2026-08-17T18:25:01Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -112,15 +175,6 @@
       ]
     },
     {
-      "title": "Cramer's advice on Apple after analyst upgrade. Plus, why 2 chipmakers are up big",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/cramers-advice-on-apple-after-upgrade-plus-why-2-semis-are-up-big.html",
-      "published": "2026-08-17T16:12:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
@@ -185,15 +239,6 @@
       ]
     },
     {
-      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
-      "published": "2026-08-17T15:22:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
@@ -203,46 +248,10 @@
       ]
     },
     {
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-      "published": "2026-08-17T15:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "published": "2026-08-17T15:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-      "published": "2026-08-17T14:59:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
       "published": "2026-08-17T14:54:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "published": "2026-08-17T14:49:26Z",
       "tags": [
         "wire"
       ]
@@ -299,15 +308,6 @@
       "published": "2026-08-17T12:30:08Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-      "published": "2026-08-17T12:06:19Z",
-      "tags": [
-        "wire"
       ]
     },
     {
