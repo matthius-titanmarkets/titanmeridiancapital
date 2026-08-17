@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-17T17:55:15.112364Z",
+  "generated_at": "2026-08-17T18:36:56.644086Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+      "published": "2026-08-17T18:36:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "published": "2026-08-17T18:32:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+      "published": "2026-08-17T18:32:42Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "published": "2026-08-17T18:25:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+      "published": "2026-08-17T18:09:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Here\u2019s how Amazon\u2019s stock could nearly double by the end of next year, according to Morgan Stanley",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
+      "published": "2026-08-17T17:57:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it.",
       "source": "MarketWatch",
@@ -22,30 +76,12 @@
       ]
     },
     {
-      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-      "published": "2026-08-17T17:42:09Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
       "published": "2026-08-17T17:12:44Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-      "published": "2026-08-17T17:10:01Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -194,15 +230,6 @@
       ]
     },
     {
-      "title": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the wrong stocks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/most-investors-are-making-the-same-costly-mistake-and-it-has-nothing-to-do-with-picking-the-wrong-stocks-4af9d328?mod=mw_rss_topstories",
-      "published": "2026-08-17T14:57:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
@@ -275,15 +302,6 @@
       ]
     },
     {
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-      "published": "2026-08-17T12:23:26Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "I drove Tesla FSD, Rivian Autonomy+ \u2018hands-free\u2019 driving systems. Here\u2019s how they compare",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
@@ -342,24 +360,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/iran-reaffirms-that-talks-have-not-yet-begun-with-the-us/",
       "published": "2026-08-17T08:09:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China stats bureau says July economic activity affected by extreme weather conditions, among other factors",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-stats-bureau-says-july-economic-activity-affected-by-extreme-weather-conditions-among-other-factors/",
-      "published": "2026-08-17T07:28:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China retail sales disappoint in July, industrial output slows while new home prices extend declines",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-retail-sales-disappoint-in-july-industrial-output-slows-while-new-home-prices-extend-declines/",
-      "published": "2026-08-17T07:00:14Z",
       "tags": [
         "wire"
       ]
