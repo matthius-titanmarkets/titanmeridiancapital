@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-17T22:49:57.980730Z",
+  "generated_at": "2026-08-17T23:20:16.655450Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "published": "2026-08-17T22:55:31Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+      "published": "2026-08-17T22:52:11Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
       "source": "MarketWatch",
@@ -46,24 +64,6 @@
       "published": "2026-08-17T21:30:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-      "published": "2026-08-17T21:29:34Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-      "published": "2026-08-17T21:26:13Z",
-      "tags": [
-        "macro"
       ]
     },
     {
