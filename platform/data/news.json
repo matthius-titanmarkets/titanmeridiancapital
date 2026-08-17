@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-17T20:53:46.243060Z",
+  "generated_at": "2026-08-17T21:23:28.001980Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "published": "2026-08-17T21:22:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Defense contractor L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+      "published": "2026-08-17T21:19:59Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The number of \u2018negative-beta\u2019 stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+      "published": "2026-08-17T21:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "published": "2026-08-17T21:08:29Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "published": "2026-08-17T21:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
       "source": "CNBC Markets",
@@ -17,24 +62,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
       "published": "2026-08-17T20:43:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-      "published": "2026-08-17T20:33:35Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Defense contractor L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-      "published": "2026-08-17T20:32:15Z",
       "tags": [
         "equities"
       ]
@@ -202,15 +229,6 @@
       ]
     },
     {
-      "title": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-      "published": "2026-08-17T17:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
@@ -235,15 +253,6 @@
       "published": "2026-08-17T16:36:20Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Investor dubbed the \u2018AI stock god\u2019 had 56% of his hedge fund invested in these two stocks before the July blow-up",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-      "published": "2026-08-17T16:31:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -281,15 +290,6 @@
       "tags": [
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-      "published": "2026-08-17T15:26:52Z",
-      "tags": [
-        "wire"
       ]
     },
     {
