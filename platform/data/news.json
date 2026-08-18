@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-18T02:35:14.252898Z",
+  "generated_at": "2026-08-18T03:42:02.163267Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+      "published": "2026-08-18T02:48:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "ING says heavy tone in Treasuries has further to run as truce lapses",
       "source": "ForexLive",
@@ -262,15 +271,6 @@
       "published": "2026-08-17T18:42:54Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-      "published": "2026-08-17T18:32:54Z",
-      "tags": [
-        "wire"
       ]
     },
     {
