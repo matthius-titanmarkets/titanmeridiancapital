@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-08-18T11:50:37.624022Z",
+  "generated_at": "2026-08-18T12:41:20.662027Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "published": "2026-08-18T12:39:04Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Home Depot revenue rises even as customers turn away from bigger projects",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
+      "published": "2026-08-18T12:32:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US July import prices -0.4% vs +0.1% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-july-import-prices-xx-vs-0-1-expected/",
+      "published": "2026-08-18T12:30:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US July housing starts 1.239m vs 1.350m expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-july-housing-starts-xxm-vs-1-350m-expected/",
+      "published": "2026-08-18T12:30:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
+      "published": "2026-08-18T12:17:00Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "published": "2026-08-18T12:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "ADP weekly NER pulse 9.50K vs 8.25K prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/adp-weekly-ner-pulse-xxk-vs-8-25k-prior/",
+      "published": "2026-08-18T12:15:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Worrisome': AI is driving a looming market correction, central bank economists warn",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+      "published": "2026-08-18T12:07:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fund managers have rarely been this bullish about stocks, says a Bank of America survey",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fund-manager-have-rarely-been-this-bullish-about-stocks-says-bank-of-america-survey-dccd304a?mod=mw_rss_topstories",
+      "published": "2026-08-18T12:07:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Prediction markets entrant Novig posts more than $125 million in trading volume during its first week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/novig-posts-more-than-125-million-in-trading-volume-in-its-first-week.html",
+      "published": "2026-08-18T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
+      "published": "2026-08-18T11:59:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia's AI moat is shifting from chips to capital",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+      "published": "2026-08-18T11:55:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+      "published": "2026-08-18T11:51:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-ti-84-has-ruled-math-classes-for-decades-can-cheaper-calculators-gain-ground-4c4554af?mod=mw_rss_topstories",
+      "published": "2026-08-18T11:51:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
       "source": "CNBC Markets",
@@ -13,31 +140,12 @@
       ]
     },
     {
-      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
-      "published": "2026-08-18T11:39:00Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
       "title": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-in-limbo-as-us-iran-stalemate-extends/",
       "published": "2026-08-18T11:22:35Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "published": "2026-08-18T11:20:40Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -59,15 +167,6 @@
       ]
     },
     {
-      "title": "Nvidia's AI moat is shifting from chips to capital",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-      "published": "2026-08-18T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "The startup using AI to help rare disease families develop custom treatments",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
@@ -77,7 +176,7 @@
       ]
     },
     {
-      "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+      "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond selloff",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-off-f8dfb1df?mod=mw_rss_topstories",
       "published": "2026-08-18T10:58:00Z",
@@ -113,15 +212,6 @@
       ]
     },
     {
-      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
-      "published": "2026-08-18T10:15:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Financial advisers tell us how they handle clients who love to gamble",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/financial-advisers-tell-us-how-they-handle-clients-who-love-to-gamble-9438f239?mod=mw_rss_topstories",
@@ -149,28 +239,10 @@
       ]
     },
     {
-      "title": "Usher\u2019s art-packed Atlanta mansion also has a hookah lounge and a barbershop",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ushers-art-packed-atlanta-mansion-also-has-a-hookah-lounge-and-a-barbershop-00309302?mod=mw_rss_topstories",
-      "published": "2026-08-18T09:03:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Germany August ZEW survey current conditions -61.1 vs -69.5 expected",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/germany-august-zew-survey-current-conditions-61-1-vs-69-5-expected/",
       "published": "2026-08-18T09:01:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Chris Pratt\u2019s Pacific Palisades home returns to the market for just under $20 million",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-million-1b83f5c3?mod=mw_rss_topstories",
-      "published": "2026-08-18T09:01:00Z",
       "tags": [
         "wire"
       ]
@@ -266,24 +338,6 @@
       ]
     },
     {
-      "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-      "published": "2026-08-17T22:52:11Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
-      "published": "2026-08-17T22:33:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
@@ -302,66 +356,12 @@
       ]
     },
     {
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-      "published": "2026-08-17T21:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "published": "2026-08-17T21:22:37Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "What will TV look like in three years? Media insiders share their predictions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
-      "published": "2026-08-17T20:25:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-      "published": "2026-08-17T20:23:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 17 Aug",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-17-aug/",
-      "published": "2026-08-17T20:06:12Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia 18 August 2026 - very light",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-18-august-2026-very-light/",
-      "published": "2026-08-17T20:01:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
-      "published": "2026-08-17T18:42:54Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
