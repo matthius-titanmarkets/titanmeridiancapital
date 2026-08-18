@@ -1,8 +1,127 @@
 {
-  "generated_at": "2026-08-18T14:31:33.493089Z",
+  "generated_at": "2026-08-18T15:29:24.423626Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+      "published": "2026-08-18T15:28:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "published": "2026-08-18T15:23:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Data centers, crypto, and tax revisions take center stage in Tuesday primaries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
+      "published": "2026-08-18T15:19:45Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "A fintech app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
+      "published": "2026-08-18T15:19:40Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "6% Treasury yields are the biggest risk facing stocks right now. Here\u2019s why.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/6-treasury-yields-are-the-biggest-risk-facing-stocks-right-now-heres-why-04fb9bbe?mod=mw_rss_topstories",
+      "published": "2026-08-18T15:16:00Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "published": "2026-08-18T15:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Canadian Dollar comes under renewed pressure as Trump tariff deadline approaches",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canadian-dollar-comes-under-renewed-pressure-as-trump-tariff-deadline-approaches/",
+      "published": "2026-08-18T15:10:36Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
+      "published": "2026-08-18T15:07:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "published": "2026-08-18T15:02:22Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "published": "2026-08-18T15:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Millennials and Gen Z are landing fast-growing, high-paying AI jobs, according to LinkedIn study",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/millennials-and-gen-z-are-landing-fast-growing-high-paying-ai-jobs-linkedin-study.html",
+      "published": "2026-08-18T14:50:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Atlanta Fed GDPNow downgrades Q3 growth estimate to 4.03% vs 4.31% prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/atlanta-fed-gdpnow-downgrades-q3-growth-estimate-to-4-03-vs-4-31-prior/",
+      "published": "2026-08-18T14:46:08Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. How can he fight this?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
+      "published": "2026-08-18T14:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Kalshi seeks to launch \u2018perps\u2019 on equity indexes as it moves in on traditional exchanges' turf",
       "source": "CNBC Markets",
@@ -28,15 +147,6 @@
       "published": "2026-08-18T14:18:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "A payments app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
-      "published": "2026-08-18T14:17:37Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -67,24 +177,6 @@
       ]
     },
     {
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "published": "2026-08-18T14:11:51Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
-      "published": "2026-08-18T14:11:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
@@ -98,15 +190,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
       "published": "2026-08-18T14:02:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-      "published": "2026-08-18T13:55:20Z",
       "tags": [
         "wire"
       ]
@@ -139,28 +222,10 @@
       ]
     },
     {
-      "title": "How to manage estate planning after an Alzheimer\u2019s diagnosis",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-      "published": "2026-08-18T13:46:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
       "published": "2026-08-18T13:45:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Financial advisers tell us how they handle clients who love to gamble",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/financial-advisers-tell-us-how-they-handle-clients-who-love-to-gamble-9438f239?mod=mw_rss_topstories",
-      "published": "2026-08-18T13:45:00Z",
       "tags": [
         "wire"
       ]
@@ -179,15 +244,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-says-there-are-no-talks-going-on-or-scheduled-with-iran-us-naval-blockade-remains-in-full-force/",
       "published": "2026-08-18T13:37:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Primary election season rolls into Alaska, Florida and Wyoming",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
-      "published": "2026-08-18T13:34:30Z",
       "tags": [
         "wire"
       ]
@@ -220,16 +276,6 @@
       ]
     },
     {
-      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
-      "published": "2026-08-18T13:06:00Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
       "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
@@ -252,15 +298,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
       "published": "2026-08-18T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How do I deal with co-workers who constantly complain about the dumbest problems?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
-      "published": "2026-08-18T12:56:00Z",
       "tags": [
         "wire"
       ]
@@ -324,42 +361,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/qatar-says-iran-oman-hormuz-agreement-could-clear-path-for-broader-us-iran-talks/",
       "published": "2026-08-18T11:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The startup using AI to help rare disease families develop custom treatments",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
-      "published": "2026-08-18T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-      "published": "2026-08-18T10:53:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How investors profit from soccer even as Premier League club losses skyrocket",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
-      "published": "2026-08-18T09:09:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Germany August ZEW survey current conditions -61.1 vs -69.5 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-august-zew-survey-current-conditions-61-1-vs-69-5-expected/",
-      "published": "2026-08-18T09:01:02Z",
       "tags": [
         "wire"
       ]
