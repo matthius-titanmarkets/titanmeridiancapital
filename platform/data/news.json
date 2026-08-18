@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-08-18T07:36:16.402716Z",
+  "generated_at": "2026-08-18T08:34:25.353436Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "UK labour market shows further signs of cooling in June",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-labour-market-shows-further-signs-of-cooling-in-june/",
+      "published": "2026-08-18T08:22:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury yields rise as oil gains and U.S.-Iran tensions fuel inflation fears",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "published": "2026-08-18T07:58:59Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
     {
       "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
       "source": "CNBC Markets",
@@ -341,24 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
       "published": "2026-08-17T16:08:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-      "published": "2026-08-17T16:06:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-      "published": "2026-08-17T16:01:46Z",
       "tags": [
         "wire"
       ]
