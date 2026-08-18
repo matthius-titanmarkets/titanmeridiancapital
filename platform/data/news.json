@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-18T05:55:45.659581Z",
+  "generated_at": "2026-08-18T06:41:55.845069Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
+      "published": "2026-08-18T06:11:52Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "South Korea must brace for \u2018worst-case scenario,\u2019 President Lee says, as Trump cuts military drills",
       "source": "CNBC Markets",
@@ -274,6 +283,15 @@
       ]
     },
     {
+      "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "published": "2026-08-17T19:24:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
@@ -341,25 +359,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
       "published": "2026-08-17T16:01:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "European stocks close mostly lower as yields rise",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/european-stocks-close-mostly-lower-as-yields-rise/",
-      "published": "2026-08-17T16:01:46Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "US August NAHB housing market index 35 vs 33 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-august-nahb-housing-market-index-vs-33-expected/",
-      "published": "2026-08-17T14:00:03Z",
       "tags": [
         "wire"
       ]
