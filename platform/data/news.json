@@ -1,13 +1,50 @@
 {
-  "generated_at": "2026-08-19T20:53:35.430763Z",
+  "generated_at": "2026-08-19T21:22:41.901080Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
+      "published": "2026-08-19T21:19:21Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why the Treasury market\u2019s newfound calm could break down in September",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+      "published": "2026-08-19T21:10:00Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+      "published": "2026-08-19T21:05:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-      "published": "2026-08-19T20:52:25Z",
+      "published": "2026-08-19T21:01:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I brought my Super Bowl ring to the open houses\u2019: Seahawks player shares story of getting his real-estate license",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
+      "published": "2026-08-19T21:00:00Z",
       "tags": [
         "wire"
       ]
@@ -112,15 +149,6 @@
       ]
     },
     {
-      "title": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
-      "published": "2026-08-19T20:08:49Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
@@ -222,15 +250,6 @@
       ]
     },
     {
-      "title": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-      "published": "2026-08-19T19:18:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
@@ -253,15 +272,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
       "published": "2026-08-19T18:54:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "published": "2026-08-19T18:39:00Z",
       "tags": [
         "wire"
       ]
@@ -298,15 +308,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
       "published": "2026-08-19T17:05:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-      "published": "2026-08-19T16:08:58Z",
       "tags": [
         "wire"
       ]
