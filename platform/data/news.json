@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-08-19T10:55:12.228907Z",
+  "generated_at": "2026-08-19T11:22:52.350561Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "published": "2026-08-19T10:49:31Z",
+      "published": "2026-08-19T11:16:34Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+      "published": "2026-08-19T11:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+      "published": "2026-08-19T11:09:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Dollar risks are mounting. Here\u2019s what could weaken the greenback",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+      "published": "2026-08-19T11:08:03Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Car dealerships are relying more on parts and service for profits",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+      "published": "2026-08-19T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
+      "published": "2026-08-19T11:00:01Z",
       "tags": [
         "wire"
       ]
@@ -64,15 +109,6 @@
       "published": "2026-08-19T09:42:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Dollar risks are mounting. Here\u2019s what could weaken the greenback",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
-      "published": "2026-08-19T09:32:56Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -303,15 +339,6 @@
       ]
     },
     {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "published": "2026-08-18T23:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "New Zealand Q2 2026 producer price index rises",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/new-zealand-q2-2026-producer-price-index-rises/",
@@ -334,33 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
       "published": "2026-08-18T22:23:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "published": "2026-08-18T20:55:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "published": "2026-08-18T20:33:38Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia Wednesday, August 19, 2026",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-19-2026/",
-      "published": "2026-08-18T20:11:07Z",
       "tags": [
         "wire"
       ]
