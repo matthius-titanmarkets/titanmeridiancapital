@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-08-19T15:29:11.490763Z",
+  "generated_at": "2026-08-19T15:59:30.646526Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Jim Cramer says buy Target on any pullback as turnaround takes hold",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
+      "published": "2026-08-19T15:57:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hedge funds are about to jump into prediction markets in a big way",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
+      "published": "2026-08-19T15:55:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-tells-reporters-us-and-canada-reached-a-deal-suggests-iran-negotiations-continue/",
+      "published": "2026-08-19T15:55:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "published": "2026-08-19T15:55:00Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "UAE severs trade with Iran after reported missile strike",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "published": "2026-08-19T15:38:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "published": "2026-08-19T15:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes",
       "source": "MarketWatch",
@@ -19,15 +75,6 @@
       "published": "2026-08-19T15:15:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
-      "published": "2026-08-19T15:14:45Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -73,17 +120,6 @@
       "published": "2026-08-19T15:00:48Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
-      "published": "2026-08-19T15:00:00Z",
-      "tags": [
-        "macro",
-        "commodities",
-        "equities"
       ]
     },
     {
@@ -159,15 +195,6 @@
       ]
     },
     {
-      "title": "Moderna\u2019s experimental vaccine prevents cancer recurrence, in \u2018historic\u2019 win for personalized medicine. Its stock is soaring.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories",
-      "published": "2026-08-19T14:16:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
@@ -181,15 +208,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
       "published": "2026-08-19T14:06:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hedge funds are about to jump into prediction markets in a big way",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-      "published": "2026-08-19T13:38:44Z",
       "tags": [
         "wire"
       ]
@@ -229,15 +247,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "UAE severs trade with Iran after reported missile strike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-      "published": "2026-08-19T11:27:32Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -355,15 +364,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-pauses-50-canada-tariffs-for-three-day-period/",
       "published": "2026-08-19T02:19:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-      "published": "2026-08-19T01:57:05Z",
       "tags": [
         "wire"
       ]
