@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-19T01:07:42.506443Z",
+  "generated_at": "2026-08-19T02:37:55.478274Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+      "published": "2026-08-19T02:34:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump pauses 50% Canada tariffs for 'three day period'",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-pauses-50-canada-tariffs-for-three-day-period/",
+      "published": "2026-08-19T02:19:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+      "published": "2026-08-19T01:57:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s the best place to hedge severe El Ni\u00f1o shocks to the food supply chain, BofA says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+      "published": "2026-08-19T01:49:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "published": "2026-08-19T01:37:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+      "published": "2026-08-19T01:34:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia Q2 2026 Wage price Index +0.8% q/q (expected +0.8%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-q2-2026-wage-price-index-q-q-expected-0-8/",
+      "published": "2026-08-19T01:34:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Cerebras\u2019s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
       "source": "MarketWatch",
@@ -175,15 +238,6 @@
       ]
     },
     {
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-      "published": "2026-08-18T20:20:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Economic and event calendar in Asia Wednesday, August 19, 2026",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-19-2026/",
@@ -308,60 +362,6 @@
       "published": "2026-08-18T16:19:10Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Nvidia's AI moat is shifting from chips to capital",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-      "published": "2026-08-18T16:13:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
-      "published": "2026-08-18T15:59:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-      "published": "2026-08-18T15:45:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Pentagon weighing a smaller US military presence in the Gulf once the Iran war ends - WaPo",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/pentagon-weighing-a-smaller-us-military-presence-in-the-gulf-once-the-iran-war-ends-wapo/",
-      "published": "2026-08-18T15:32:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Data centers, crypto, and tax revisions take center stage in Tuesday primaries",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
-      "published": "2026-08-18T15:19:45Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "Canadian Dollar comes under renewed pressure as Trump tariff deadline approaches",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canadian-dollar-comes-under-renewed-pressure-as-trump-tariff-deadline-approaches/",
-      "published": "2026-08-18T15:10:36Z",
-      "tags": [
-        "fx"
       ]
     }
   ]
