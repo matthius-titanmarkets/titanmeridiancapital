@@ -1,15 +1,42 @@
 {
-  "generated_at": "2026-08-19T06:53:16.377587Z",
+  "generated_at": "2026-08-19T07:36:25.544983Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Ukraine's Zelenskyy faces call for wartime election from former defense chief",
+      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "published": "2026-08-19T06:48:18Z",
+      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
+      "published": "2026-08-19T07:20:10Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+      "published": "2026-08-19T07:08:19Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+      "published": "2026-08-19T07:06:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "published": "2026-08-19T06:55:57Z",
+      "tags": [
+        "commodities"
       ]
     },
     {
@@ -72,15 +99,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
       "published": "2026-08-19T01:57:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-      "published": "2026-08-19T01:37:01Z",
       "tags": [
         "wire"
       ]
@@ -345,24 +363,6 @@
       "published": "2026-08-18T17:03:44Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-      "published": "2026-08-18T16:57:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kalshi seeks to launch \u2018perps\u2019 on equity indexes as it moves in on traditional exchanges' turf",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-      "published": "2026-08-18T16:49:55Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
