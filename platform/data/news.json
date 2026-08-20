@@ -1,13 +1,112 @@
 {
-  "generated_at": "2026-08-20T12:44:02.128794Z",
+  "generated_at": "2026-08-20T13:43:44.480278Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "published": "2026-08-20T13:42:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+      "published": "2026-08-20T13:42:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
+      "published": "2026-08-20T13:34:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+      "published": "2026-08-20T13:33:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+      "published": "2026-08-20T13:17:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "published": "2026-08-20T13:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+      "published": "2026-08-20T13:06:30Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "published": "2026-08-20T13:06:10Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+      "published": "2026-08-20T13:04:26Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Treasury proposes low-cost investment rules for Trump Accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/trump-accounts-investment-rules-treasury.html",
+      "published": "2026-08-20T13:00:28Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "You\u2019ve all heard AI is remaking the economy. Here\u2019s how it\u2019s changing lives \u2014 for better or worse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
+      "published": "2026-08-20T13:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
-      "published": "2026-08-20T12:43:34Z",
+      "published": "2026-08-20T12:45:35Z",
       "tags": [
         "wire"
       ]
@@ -40,10 +139,28 @@
       ]
     },
     {
-      "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
-      "published": "2026-08-20T12:30:01Z",
+      "title": "US August Philly Fed business index +47.4 vs +25.0 expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
+      "published": "2026-08-20T12:30:42Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Canada July PPI +0.6% vs -0.5% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canada-july-ppi-xx-vs-0-5-expected/",
+      "published": "2026-08-20T12:30:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US initial jobless claims 206K vs 210K expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-210k-expected/",
+      "published": "2026-08-20T12:30:07Z",
       "tags": [
         "wire"
       ]
@@ -55,33 +172,6 @@
       "published": "2026-08-20T12:28:13Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-      "published": "2026-08-20T12:27:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "published": "2026-08-20T12:21:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "published": "2026-08-20T12:19:40Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -103,6 +193,16 @@
       ]
     },
     {
+      "title": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
+      "published": "2026-08-20T11:58:01Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
       "title": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
@@ -121,15 +221,6 @@
       ]
     },
     {
-      "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-      "published": "2026-08-20T11:37:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "ChatGPT for Teens makes vital safety strides, says expert. 'The real question is, does any of this work?'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
@@ -143,15 +234,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
       "published": "2026-08-20T11:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Alibaba shares fall 3% as AI spending drives 75% drop in net income",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-      "published": "2026-08-20T11:14:16Z",
       "tags": [
         "wire"
       ]
@@ -184,40 +266,12 @@
       ]
     },
     {
-      "title": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_rss_topstories",
-      "published": "2026-08-20T11:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
-      "published": "2026-08-20T10:19:00Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
       "title": "At best, German economy may grow slightly in this quarter - Bundesbank",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
       "published": "2026-08-20T10:09:33Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
-      "published": "2026-08-20T09:42:00Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -306,60 +360,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
       "published": "2026-08-20T03:29:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-      "published": "2026-08-20T02:39:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Run on banks feared as concern rises over government seizing deposits to fund war",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/run-on-banks-feared-as-concern-rises-over-government-seizing-deposits-to-fund-war/",
-      "published": "2026-08-20T02:19:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australia's jobless rate climbs to a near four year high in July",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-s-jobless-rate-climbs-to-a-near-four-year-high-in-july/",
-      "published": "2026-08-20T01:54:07Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Australian July 2026 jobs report: Unemployment rate 4.5% (expected 4.4%, prior 4.4%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australian-july-2026-jobs-report-unemployment-rate-4-expected-4-4-prior-4-4/",
-      "published": "2026-08-20T01:30:10Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/india-apple-samsung-china-smartphone-chip-inflation.html",
-      "published": "2026-08-20T00:17:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI boom powers Japan's exports as semiconductor shipments surge 49%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/ai-boom-powers-japan-s-exports-as-semiconductor-shipments-surge-49/",
-      "published": "2026-08-20T00:13:27Z",
       "tags": [
         "wire"
       ]
