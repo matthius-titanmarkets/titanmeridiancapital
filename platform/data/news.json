@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:28:05.129655Z",
+  "generated_at": "2026-08-20T05:58:33.174932Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,9 +7,27 @@
       "title": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
-      "published": "2026-08-20T05:08:40Z",
+      "published": "2026-08-20T05:56:27Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Will the US Treasury buyback be a game changer for markets?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/will-the-us-treasury-buyback-be-a-game-changer-for-markets/",
+      "published": "2026-08-20T05:33:33Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+      "published": "2026-08-20T05:29:50Z",
+      "tags": [
+        "crypto"
       ]
     },
     {
@@ -343,24 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
       "published": "2026-08-19T20:02:32Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-      "published": "2026-08-19T20:01:53Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-      "published": "2026-08-19T19:49:28Z",
       "tags": [
         "macro"
       ]
