@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-20T02:36:45.079839Z",
+  "generated_at": "2026-08-20T03:44:10.910453Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+      "published": "2026-08-20T03:30:54Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Trump vows sweeping new Iran sanctions",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
+      "published": "2026-08-20T03:29:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+      "published": "2026-08-20T03:14:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "published": "2026-08-20T02:49:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+      "published": "2026-08-20T02:39:14Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "Run on banks feared as concern rises over government seizing deposits to fund war",
       "source": "ForexLive",
@@ -28,15 +73,6 @@
       "published": "2026-08-20T01:30:10Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "published": "2026-08-20T01:02:50Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -327,44 +363,6 @@
       "published": "2026-08-19T19:49:28Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-surprise-us-treasury-announcement-sends-dollar-lower-gold-higher/",
-      "published": "2026-08-19T19:40:26Z",
-      "tags": [
-        "macro",
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
-      "published": "2026-08-19T18:58:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "published": "2026-08-19T18:54:50Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "DOJ cites Comey's novel in urging judge not to toss \u201886 47' seashells threat to Trump case",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-      "published": "2026-08-19T18:54:04Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
