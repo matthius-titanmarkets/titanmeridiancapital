@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-21T21:21:41.693517Z",
+  "generated_at": "2026-08-21T21:48:34.484893Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "published": "2026-08-21T21:44:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "published": "2026-08-21T21:31:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "You can now Venmo your kid\u2019s college tuition. But should you?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+      "published": "2026-08-21T21:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
       "source": "MarketWatch",
@@ -185,24 +212,6 @@
       ]
     },
     {
-      "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "published": "2026-08-21T18:23:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Treasury, the Fed and the threat to your money",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-the-fed-and-the-threat-to-your-money-774442ad?mod=mw_rss_topstories",
-      "published": "2026-08-21T18:15:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
@@ -355,15 +364,6 @@
       "tags": [
         "commodities",
         "fx"
-      ]
-    },
-    {
-      "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "published": "2026-08-21T10:36:07Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
