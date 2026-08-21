@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-08-21T05:30:14.307017Z",
+  "generated_at": "2026-08-21T06:41:45.397383Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
-      "published": "2026-08-21T05:27:28Z",
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-25/",
+      "published": "2026-08-21T06:23:27Z",
       "tags": [
-        "commodities",
-        "equities"
+        "wire"
+      ]
+    },
+    {
+      "title": "UK retail sales fall in July as early summer buzz fades",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-july-retail-sales-vs-0-5-m-m-expected/",
+      "published": "2026-08-21T06:00:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US Treasury move risks creating unintended consequences for markets and the economy",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequences-for-markets-and-the-economy/",
+      "published": "2026-08-21T05:52:55Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -18,6 +35,15 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-yields-push-back-up-looks-to-challenge-bessent-put/",
       "published": "2026-08-21T05:13:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+      "published": "2026-08-21T05:00:01Z",
       "tags": [
         "wire"
       ]
@@ -333,33 +359,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
       "published": "2026-08-20T18:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. sports fans spend about $2,000 a year on their favorite teams\u2014many find themselves in debt as a result",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-      "published": "2026-08-20T17:57:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
-      "published": "2026-08-20T17:47:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
-      "published": "2026-08-20T17:28:59Z",
       "tags": [
         "wire"
       ]
