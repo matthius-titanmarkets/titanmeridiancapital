@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-21T01:10:49.100934Z",
+  "generated_at": "2026-08-21T02:43:11.010407Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Japan's historic yen intervention has \u2018turbo-charged\u2019 the carry trade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+      "published": "2026-08-21T02:28:08Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Japan headline inflation rate hits highest this year as energy prices bite",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+      "published": "2026-08-21T02:13:18Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "published": "2026-08-21T01:56:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
       "source": "CNBC Markets",
@@ -28,24 +55,6 @@
       "published": "2026-08-21T00:37:27Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Japan headline inflation rate hits highest this year as energy prices bite",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
-      "published": "2026-08-21T00:22:20Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Japan's historic yen intervention has \u2018turbo-charged\u2019 the carry trade",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
-      "published": "2026-08-21T00:00:01Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -353,15 +362,6 @@
       "published": "2026-08-20T16:07:53Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "published": "2026-08-20T16:07:24Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
