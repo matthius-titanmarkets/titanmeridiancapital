@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:39:41.032010Z",
+  "generated_at": "2026-08-21T19:24:27.908915Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,62 @@
       "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
-      "published": "2026-08-21T18:39:16Z",
+      "published": "2026-08-21T19:23:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "published": "2026-08-21T19:21:21Z",
+      "tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+      "published": "2026-08-21T19:14:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Former JPMorgan exec takes on Social Security advisory role",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
+      "published": "2026-08-21T19:11:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+      "published": "2026-08-21T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "An overlooked AI winner names a new CFO \u2014 plus, Nvidia's key earnings loom",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
+      "published": "2026-08-21T18:55:05Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "published": "2026-08-21T18:43:05Z",
       "tags": [
         "wire"
       ]
@@ -26,15 +81,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
       "published": "2026-08-21T18:31:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "published": "2026-08-21T18:31:25Z",
       "tags": [
         "wire"
       ]
@@ -85,39 +131,12 @@
       ]
     },
     {
-      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
-      "published": "2026-08-21T17:51:10Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
       "published": "2026-08-21T17:43:25Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
-      "published": "2026-08-21T17:38:13Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "published": "2026-08-21T17:25:21Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -166,15 +185,6 @@
       ]
     },
     {
-      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-      "published": "2026-08-21T16:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
@@ -193,15 +203,6 @@
       ]
     },
     {
-      "title": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-      "published": "2026-08-21T16:25:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/brazil-s-lula-us-trump-held-phone-call-on-friday/",
@@ -215,15 +216,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
       "published": "2026-08-21T16:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "States are coming after prediction markets \u2014 and setting up a costly legal battle over who gets to regulate them",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
-      "published": "2026-08-21T16:14:00Z",
       "tags": [
         "wire"
       ]
@@ -363,6 +355,15 @@
       "published": "2026-08-21T10:36:07Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+      "published": "2026-08-21T10:15:18Z",
+      "tags": [
+        "fx"
       ]
     }
   ]
