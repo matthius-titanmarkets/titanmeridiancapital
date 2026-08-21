@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-21T19:24:27.908915Z",
+  "generated_at": "2026-08-21T19:47:33.997528Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "published": "2026-08-21T19:47:12Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
+      "published": "2026-08-21T19:29:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
       "source": "CNBC Markets",
@@ -155,15 +173,6 @@
       "published": "2026-08-21T17:07:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "published": "2026-08-21T16:44:32Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -355,15 +364,6 @@
       "published": "2026-08-21T10:36:07Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
-      "published": "2026-08-21T10:15:18Z",
-      "tags": [
-        "fx"
       ]
     }
   ]
