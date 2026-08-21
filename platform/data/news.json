@@ -1,15 +1,89 @@
 {
-  "generated_at": "2026-08-21T11:32:58.726958Z",
+  "generated_at": "2026-08-21T12:42:09.218826Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Canada Retail sales for June 0.6% vs 0.4% estimate",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
+      "published": "2026-08-21T12:31:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "published": "2026-08-21T12:17:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/when-it-comes-to-returning-cash-to-shareholders-anything-sk-hynix-can-do-samsung-can-do-bigger-87db6ef4?mod=mw_rss_topstories",
+      "published": "2026-08-21T12:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
+      "published": "2026-08-21T12:11:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "published": "2026-08-21T11:24:25Z",
+      "published": "2026-08-21T12:07:14Z",
       "tags": [
         "crypto"
+      ]
+    },
+    {
+      "title": "American consumers are delivering a retail reality check as they laser in on bargains",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
+      "published": "2026-08-21T12:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/",
+      "published": "2026-08-21T11:38:13Z",
+      "tags": [
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "published": "2026-08-21T11:35:46Z",
+      "tags": [
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Why some of America's biggest brands are losing ground in China",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+      "published": "2026-08-21T11:30:02Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -17,15 +91,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
       "published": "2026-08-21T11:22:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
-      "published": "2026-08-21T11:01:45Z",
       "tags": [
         "wire"
       ]
@@ -49,7 +114,7 @@
       ]
     },
     {
-      "title": "Nvidia earnings could rescue a stalling stock market \u2014 if the AI chip maker breaks this trend",
+      "title": "Nvidia earnings could rescue a stalled-out stock market \u2014 if the AI chip maker breaks this trend",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
       "published": "2026-08-21T10:54:00Z",
@@ -73,15 +138,6 @@
       "published": "2026-08-21T10:15:18Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "published": "2026-08-21T09:36:46Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -306,60 +362,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/micron-ceo-pushes-back-on-memory-bear-case-3-takeaways-from-cramers-interview.html",
       "published": "2026-08-21T01:07:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/cftcs-committee-meeting-addresses-prediction-market-risks.html",
-      "published": "2026-08-21T00:45:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Flash PMI shows Japan factories leading strongest growth since February",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/",
-      "published": "2026-08-21T00:37:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan July Core CPI 1.8% y/y (expected 1.8%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-july-headline-cpi-1-8-y-y-expected-1-8/",
-      "published": "2026-08-20T23:30:24Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "UK consumer confidence hits two year high despite inflation warning",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-consumer-confidence-hits-two-year-high-despite-inflation-warning/",
-      "published": "2026-08-20T23:13:27Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Australia private sector growth softens as cost pressures intensify in August",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-private-sector-growth-softens-as-cost-pressures-intensify-in-august/",
-      "published": "2026-08-20T23:07:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "published": "2026-08-20T23:00:00Z",
       "tags": [
         "wire"
       ]
