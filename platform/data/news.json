@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-21T07:40:54.320043Z",
+  "generated_at": "2026-08-21T08:37:49.853756Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-august-flash-services-pmi-xx-vs-51-8-expected/",
+      "published": "2026-08-21T08:30:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "published": "2026-08-21T08:28:18Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+      "published": "2026-08-21T08:10:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
+      "published": "2026-08-21T08:01:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Euro area business activity sees further pick up in August despite France, Germany softness",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/euro-area-business-activity-sees-further-pick-up-in-august-despite-france-germany-softness/",
+      "published": "2026-08-21T08:00:23Z",
+      "tags": [
+        "fx"
+      ]
+    },
     {
       "title": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
       "source": "ForexLive",
@@ -76,15 +121,6 @@
       ]
     },
     {
-      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
-      "published": "2026-08-21T04:32:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
@@ -136,15 +172,6 @@
       "published": "2026-08-21T02:13:18Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-      "published": "2026-08-21T01:56:01Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -332,33 +359,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
       "published": "2026-08-20T19:31:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Sports betting to build wealth is becoming the new American dream",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
-      "published": "2026-08-20T19:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
-      "published": "2026-08-20T19:13:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The bond market is going to burst the stock-market bubble",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories",
-      "published": "2026-08-20T19:06:00Z",
       "tags": [
         "equities"
       ]
