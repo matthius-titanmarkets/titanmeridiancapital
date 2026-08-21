@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-21T03:49:03.531268Z",
+  "generated_at": "2026-08-21T04:35:20.611357Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+      "published": "2026-08-21T03:59:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "investingLive Asia-Pacific market news: Surge for crypto",
       "source": "ForexLive",
@@ -353,15 +362,6 @@
       "published": "2026-08-20T17:11:13Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-      "published": "2026-08-20T16:42:56Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
