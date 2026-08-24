@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:10:12.356512Z",
+  "generated_at": "2026-08-24T02:44:16.688405Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,9 +7,18 @@
       "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-      "published": "2026-08-24T01:01:00Z",
+      "published": "2026-08-24T02:29:00Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "published": "2026-08-24T02:25:07Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -37,15 +46,6 @@
       "published": "2026-08-23T22:50:30Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
-      "published": "2026-08-23T22:39:41Z",
-      "tags": [
-        "macro"
       ]
     },
     {
