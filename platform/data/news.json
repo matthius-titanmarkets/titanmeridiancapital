@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-08-24T04:41:31.372598Z",
+  "generated_at": "2026-08-24T05:36:04.039314Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-26/",
-      "published": "2026-08-24T04:18:10Z",
+      "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
+      "published": "2026-08-24T05:24:43Z",
       "tags": [
-        "wire"
+        "macro"
+      ]
+    },
+    {
+      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+      "published": "2026-08-24T04:59:42Z",
+      "tags": [
+        "commodities"
       ]
     },
     {
       "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "published": "2026-08-24T03:57:57Z",
+      "published": "2026-08-24T04:58:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-26/",
+      "published": "2026-08-24T04:18:10Z",
       "tags": [
         "wire"
       ]
@@ -46,15 +64,6 @@
       "published": "2026-08-24T02:55:22Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
-      "published": "2026-08-24T00:59:57Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -350,15 +359,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
       "published": "2026-08-22T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-      "published": "2026-08-22T10:34:23Z",
       "tags": [
         "wire"
       ]
