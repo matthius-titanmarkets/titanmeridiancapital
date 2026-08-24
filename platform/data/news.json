@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-24T08:50:59.979781Z",
+  "generated_at": "2026-08-24T09:44:33.081753Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "published": "2026-08-24T09:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/alibaba-shares-tumble-as-investors-question-whether-ai-spending-splurge-is-justified-6989038b?mod=mw_rss_topstories",
+      "published": "2026-08-24T09:13:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "published": "2026-08-24T09:11:23Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "published": "2026-08-24T08:54:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
       "source": "MarketWatch",
@@ -40,30 +76,21 @@
       ]
     },
     {
+      "title": "Shein targets $27 billion Hong Kong IPO \u2014 a fraction of its 2022 valuation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "published": "2026-08-24T07:34:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
       "published": "2026-08-24T05:24:43Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
-      "published": "2026-08-24T04:59:42Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "published": "2026-08-24T04:58:03Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -193,37 +220,10 @@
       ]
     },
     {
-      "title": "Here are the 2 big things we're watching in the stock market this week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
-      "published": "2026-08-23T16:56:02Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "published": "2026-08-23T16:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
       "published": "2026-08-23T13:00:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-      "published": "2026-08-23T13:00:00Z",
       "tags": [
         "equities"
       ]
@@ -265,24 +265,6 @@
       ]
     },
     {
-      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-      "published": "2026-08-23T11:29:05Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "published": "2026-08-23T06:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia customers reportedly warned about AI-related price hikes",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
@@ -301,12 +283,12 @@
       ]
     },
     {
-      "title": "Rising yields rattled the market, but we\u2019re sticking with our favorite AI and retail stocks",
+      "title": "Airbnb's new fee change frustrates hosts\u2014what to know before renting out your home",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
-      "published": "2026-08-22T15:08:54Z",
+      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
+      "published": "2026-08-22T14:00:01Z",
       "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
@@ -319,21 +301,21 @@
       ]
     },
     {
-      "title": "Airbnb's new fee change frustrates hosts\u2014what to know before renting out your home",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
-      "published": "2026-08-22T14:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
       "published": "2026-08-22T13:30:01Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+      "published": "2026-08-22T13:26:14Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -361,6 +343,24 @@
       "published": "2026-08-22T12:06:37Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+      "published": "2026-08-22T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
+      "published": "2026-08-22T12:00:01Z",
+      "tags": [
+        "wire"
       ]
     }
   ]
