@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-24T21:37:21.074317Z",
+  "generated_at": "2026-08-24T22:23:33.321948Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
+      "published": "2026-08-24T22:16:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+      "published": "2026-08-24T22:16:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+      "published": "2026-08-24T22:15:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+      "published": "2026-08-24T21:55:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "published": "2026-08-24T21:53:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+      "published": "2026-08-24T21:38:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+      "published": "2026-08-24T21:37:38Z",
+      "tags": [
+        "commodities"
+      ]
+    },
     {
       "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
       "source": "MarketWatch",
@@ -20,15 +83,6 @@
       "tags": [
         "commodities",
         "equities"
-      ]
-    },
-    {
-      "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-      "published": "2026-08-24T21:18:47Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -142,6 +196,15 @@
       ]
     },
     {
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "published": "2026-08-24T19:08:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
@@ -187,15 +250,6 @@
       ]
     },
     {
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "published": "2026-08-24T18:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump on Canada: Someone should get these clowns to \u201cfall in line\"",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-on-canada-someone-should-get-these-clowns-to-fall-in-line/",
@@ -214,39 +268,12 @@
       ]
     },
     {
-      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-      "published": "2026-08-24T17:23:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Bessent says no one is outside the reach of US sanctions on Iran, including China",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/bessent-says-no-one-is-outside-the-reach-of-us-sanctions-on-iran-including-china/",
       "published": "2026-08-24T17:19:42Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-      "published": "2026-08-24T17:19:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
-      "published": "2026-08-24T16:07:35Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -263,6 +290,15 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-set-to-impose-a-7-5-tariff-on-chinese-goods-report/",
       "published": "2026-08-24T15:50:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html",
+      "published": "2026-08-24T15:45:27Z",
       "tags": [
         "wire"
       ]
@@ -286,6 +322,15 @@
       ]
     },
     {
+      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+      "published": "2026-08-24T13:17:35Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
       "title": "Santoli: Why all the fuss about bond yields is happening now",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
@@ -304,15 +349,6 @@
       ]
     },
     {
-      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-      "published": "2026-08-24T12:07:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US Treasury could tap the nearly $1 trillion TGA to fund bond buybacks",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-treasury-could-tap-the-nearly-1-trillion-tga-to-fund-bond-buybacks/",
@@ -326,42 +362,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
       "published": "2026-08-24T11:51:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Canadian dollar extends losses after trade talks collapse",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-canadian-dollar-extends-losses-after-trade-talks-collapse/",
-      "published": "2026-08-24T11:34:33Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
-      "published": "2026-08-24T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "France, UK step up missile support for Ukraine as European leaders meet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/ukraine-coalition-support-russia-strikes.html",
-      "published": "2026-08-24T11:00:01Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "published": "2026-08-24T08:21:17Z",
       "tags": [
         "wire"
       ]
