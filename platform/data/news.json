@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-08-24T19:54:27.895392Z",
+  "generated_at": "2026-08-24T20:28:05.299934Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
+      "published": "2026-08-24T20:22:16Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Ford\u2019s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+      "published": "2026-08-24T20:22:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Trump and Canada trade threats",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-and-canada-trade-threats-0/",
+      "published": "2026-08-24T20:13:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Crypto extends gains after biggest 3-day rally since 2023",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+      "published": "2026-08-24T20:02:22Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
+      "published": "2026-08-24T19:59:32Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
+      "published": "2026-08-24T19:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Here's what the charts say about Nvidia's stock heading into earnings",
       "source": "CNBC Markets",
@@ -76,31 +131,12 @@
       ]
     },
     {
-      "title": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-      "published": "2026-08-24T18:34:34Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
       "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
       "published": "2026-08-24T18:32:36Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
-      "published": "2026-08-24T18:25:41Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -149,15 +185,6 @@
       ]
     },
     {
-      "title": "Ford\u2019s $3 billion Canadian bet is getting caught in trade-war crosshairs",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-      "published": "2026-08-24T17:44:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
@@ -191,15 +218,6 @@
       "published": "2026-08-24T17:15:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Dell\u2019s stock is up 235% this year \u2014 and earnings could propel it even higher, analysts say",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dells-stock-is-up-235-this-year-and-earnings-could-propel-it-even-higher-analysts-say-c1be29d7?mod=mw_rss_topstories",
-      "published": "2026-08-24T17:02:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -245,15 +263,6 @@
       "published": "2026-08-24T15:22:09Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "published": "2026-08-24T14:02:54Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -353,15 +362,6 @@
       "published": "2026-08-24T04:18:10Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Gold hit a three month high",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-a-three-month-high/",
-      "published": "2026-08-24T03:29:54Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
