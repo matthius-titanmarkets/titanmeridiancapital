@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-08-25T04:36:32.775232Z",
+  "generated_at": "2026-08-25T05:29:31.687381Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-27/",
-      "published": "2026-08-25T04:15:59Z",
+      "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "published": "2026-08-25T04:49:18Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "title": "Bitcoin surges past $80,000 as crypto rally gathers pace",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-      "published": "2026-08-25T04:08:37Z",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "published": "2026-08-25T04:38:30Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-27/",
+      "published": "2026-08-25T04:15:59Z",
       "tags": [
         "wire"
       ]
@@ -29,15 +38,6 @@
       "tags": [
         "commodities",
         "equities",
-        "crypto"
-      ]
-    },
-    {
-      "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "published": "2026-08-25T03:05:12Z",
-      "tags": [
         "crypto"
       ]
     },
