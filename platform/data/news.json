@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-25T10:41:19.556319Z",
+  "generated_at": "2026-08-25T11:25:02.074619Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "published": "2026-08-25T11:21:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+      "published": "2026-08-25T11:17:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The debt-fueled AI build-out may already be too big to fail",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
+      "published": "2026-08-25T11:12:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stick with value stocks until everyone is talking about them \u2014 and they are still under the radar, this Wall Street firm says.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "published": "2026-08-25T11:09:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+      "published": "2026-08-25T11:01:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "published": "2026-08-25T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "published": "2026-08-25T10:59:55Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Oil prices decline as investors brush aside Bessent\u2019s \u2018economic D-Day\u2019 for Iran",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-as-investors-brush-aside-bessents-economic-d-day-for-iran-f318b614?mod=mw_rss_topstories",
+      "published": "2026-08-25T10:45:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
     {
       "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
       "source": "CNBC Markets",
@@ -51,15 +123,6 @@
       ]
     },
     {
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-      "published": "2026-08-25T09:47:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
@@ -102,15 +165,6 @@
       "published": "2026-08-25T08:36:49Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin price extends gains as crypto rally gathers pace",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "published": "2026-08-25T08:29:11Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -253,15 +307,6 @@
       ]
     },
     {
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "published": "2026-08-25T00:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
@@ -316,58 +361,12 @@
       ]
     },
     {
-      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
-      "published": "2026-08-24T21:55:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
       "published": "2026-08-24T21:38:59Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
-      "published": "2026-08-24T21:26:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-      "published": "2026-08-24T21:25:32Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-25-august-2026-rba-august-meeting-minutes/",
-      "published": "2026-08-24T20:31:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer says don't sell Meta on litigation risk \u2014 the stock is worth the wait",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
-      "published": "2026-08-24T20:15:13Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
