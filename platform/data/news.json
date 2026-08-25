@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-08-25T07:24:38.514536Z",
+  "generated_at": "2026-08-25T08:06:33.086613Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/germany-august-ifo-business-climate-index-xx-vs-87-2-expected/",
+      "published": "2026-08-25T08:00:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s crossed the $80,000 mark.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+      "published": "2026-08-25T08:00:00Z",
+      "tags": [
+        "commodities",
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "title": "Investors poured into Canadian ETFs right before trade talks broke down",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
+      "published": "2026-08-25T07:57:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Treasury yields steady as traders await more economic data",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
+      "published": "2026-08-25T07:48:57Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+      "published": "2026-08-25T07:13:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "France August consumer confidence 86 vs 87 expected",
       "source": "ForexLive",
@@ -188,15 +235,6 @@
       ]
     },
     {
-      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-      "published": "2026-08-24T22:16:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
@@ -252,17 +290,6 @@
       ]
     },
     {
-      "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s closing in on $80,000.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
-      "published": "2026-08-24T20:53:00Z",
-      "tags": [
-        "commodities",
-        "equities",
-        "crypto"
-      ]
-    },
-    {
       "title": "It\u2019s time to bet big on Nvidia\u2019s stock, says this analyst who thinks the market has it all wrong",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
@@ -278,15 +305,6 @@
       "published": "2026-08-24T20:31:50Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
-      "published": "2026-08-24T20:22:16Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -326,15 +344,6 @@
       ]
     },
     {
-      "title": "Bessent\u2019s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-      "published": "2026-08-24T19:40:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Is the US-Canada deal the classic fifth stage of Trump negotiations",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/is-the-us-canada-deal-the-classic-fifth-stage-of-trump-negotiations/",
@@ -357,15 +366,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
       "published": "2026-08-24T18:40:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
-      "published": "2026-08-24T18:32:36Z",
       "tags": [
         "wire"
       ]
