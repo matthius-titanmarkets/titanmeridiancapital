@@ -1,22 +1,95 @@
 {
-  "generated_at": "2026-08-25T11:25:02.074619Z",
+  "generated_at": "2026-08-25T11:54:33.979494Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-      "published": "2026-08-25T11:21:09Z",
+      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+      "published": "2026-08-25T11:49:33Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "title": "Why hire a warehouse worker for $30 per hour when a robot costs $10? JPMorgan expects booming humanoid demand.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-hire-a-warehouse-worker-for-30-per-hour-when-a-robot-costs-10-jpmorgan-expects-booming-humanoid-demand-9cc6ddf4?mod=mw_rss_topstories",
+      "published": "2026-08-25T11:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington\u2019s \u2018economic D-Day\u2019",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-      "published": "2026-08-25T11:17:40Z",
+      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+      "published": "2026-08-25T11:47:43Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Stick with value stocks until everyone starts talking about them \u2014 and they are still under the radar, this Wall Street firm says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "published": "2026-08-25T11:43:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+      "published": "2026-08-25T11:41:49Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive European news wrap: Risk sentiment improves on hopes of US-Iran breakthrough",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-on-hopes-of-us-iran-breakthrough/",
+      "published": "2026-08-25T11:34:05Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "published": "2026-08-25T11:32:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
+      "published": "2026-08-25T11:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "published": "2026-08-25T11:24:50Z",
+      "tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "published": "2026-08-25T11:21:09Z",
       "tags": [
         "wire"
       ]
@@ -28,42 +101,6 @@
       "published": "2026-08-25T11:12:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Stick with value stocks until everyone is talking about them \u2014 and they are still under the radar, this Wall Street firm says.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "published": "2026-08-25T11:09:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-      "published": "2026-08-25T11:01:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-      "published": "2026-08-25T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "published": "2026-08-25T10:59:55Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -82,17 +119,6 @@
       "published": "2026-08-25T10:23:53Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-      "published": "2026-08-25T10:23:44Z",
-      "tags": [
-        "macro",
-        "commodities",
-        "fx"
       ]
     },
     {
@@ -233,15 +259,6 @@
       ]
     },
     {
-      "title": "Shein targets $27 billion Hong Kong IPO \u2014 a fraction of its 2022 valuation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "published": "2026-08-25T05:58:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
@@ -284,15 +301,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katayama-says/",
       "published": "2026-08-25T02:49:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "published": "2026-08-25T00:15:00Z",
       "tags": [
         "wire"
       ]
@@ -356,15 +364,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
       "published": "2026-08-24T22:16:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-      "published": "2026-08-24T21:38:59Z",
       "tags": [
         "wire"
       ]
