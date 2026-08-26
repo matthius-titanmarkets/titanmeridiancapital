@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-26T02:46:02.306276Z",
+  "generated_at": "2026-08-26T03:52:00.894720Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "investingLive Asia-Pacific market news: Oil down, AUD 3 month high",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-down-aud-3-month-high/",
+      "published": "2026-08-26T03:49:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
     {
       "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
       "source": "CNBC Markets",
@@ -352,15 +362,6 @@
       "published": "2026-08-25T17:15:50Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
-      "published": "2026-08-25T17:06:00Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
