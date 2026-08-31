@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-08-31T03:44:25.530030Z",
+  "generated_at": "2026-08-31T10:32:50.760263Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+      "published": "2026-08-31T10:18:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
+      "published": "2026-08-31T10:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Historic $7.5 million L.A. home restored by \u2018Rocky Horror\u2019 actor Tim Curry finds a buyer just hours after his death",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/historic-7-5-million-l-a-home-restored-by-rocky-horror-actor-tim-curry-finds-a-buyer-just-hours-after-his-death-4934687a?mod=mw_rss_topstories",
+      "published": "2026-08-31T09:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s what Prince Harry and Meghan Markle\u2019s California mansion could really be worth, and how much it costs to keep it up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-what-prince-harry-and-meghan-markles-california-mansion-could-really-be-worth-and-how-much-it-costs-to-keep-it-up-93a3c5fa?mod=mw_rss_topstories",
+      "published": "2026-08-31T08:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+      "published": "2026-08-31T08:55:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "published": "2026-08-31T08:42:40Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "German states see higher inflation prints in August",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/german-states-see-higher-inflation-prints-in-august/",
+      "published": "2026-08-31T08:06:25Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Russia preparing 'massive strikes' on Ukraine's energy sites after deadliest attack of the year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
+      "published": "2026-08-31T07:29:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-31/",
+      "published": "2026-08-31T06:21:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "India\u2019s largest private lender HDFC Bank sees shares rise after CEO announces surprise exit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/hdfc-largest-bank-india-ceo-exit.html",
+      "published": "2026-08-31T05:27:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "France is becoming the \u2018poster child\u2019 of sovereign debt problems as government borrowing costs hit near 2008 highs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
+      "published": "2026-08-31T05:08:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+      "published": "2026-08-31T04:57:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "IRGC claims that a supertanker has caught fire after being struck by naval mines in Strait of Hormuz",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/irgc-claims-that-a-supertanker-has-caught-fire-after-being-struck-by-naval-mines-in-strait-of-hormuz/",
+      "published": "2026-08-31T04:35:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran says US must bear full responsibility for consequences of escalation",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-says-us-must-bear-full-responsibility-for-consequences-of-escalation/",
+      "published": "2026-08-31T04:28:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Heads up: Germany states' CPI readings due later today",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/heads-up-germany-states-cpi-readings-due-later-today/",
+      "published": "2026-08-31T04:20:53Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "BYD shares slide as fierce China competition dents first-half earnings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "published": "2026-08-31T04:01:47Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil jumps, renewed Iran - US strikes",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-jumps-renewed-iran-us-strikes/",
+      "published": "2026-08-31T03:47:42Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "published": "2026-08-31T03:47:28Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "China's factory activity shrinks for second straight month, contracting less than expected",
       "source": "CNBC Markets",
@@ -20,15 +182,6 @@
       "tags": [
         "macro",
         "equities"
-      ]
-    },
-    {
-      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-      "published": "2026-08-31T02:48:30Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -74,15 +227,6 @@
       "published": "2026-08-31T01:00:28Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-      "published": "2026-08-31T00:46:46Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -203,15 +347,6 @@
       ]
     },
     {
-      "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "published": "2026-08-30T14:54:49Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
@@ -225,141 +360,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
       "published": "2026-08-30T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-      "published": "2026-08-30T13:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I'm a psychologist who studies couples: The happiest couples never fight about this 1 thing (it's not sex or money)",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/psychologist-people-in-the-happiest-relationships-never-fight-about-this.html",
-      "published": "2026-08-30T13:08:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "published": "2026-08-30T13:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "published": "2026-08-30T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "These charts show how leverage-happy investors are transforming the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-      "published": "2026-08-30T13:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-      "published": "2026-08-30T12:32:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Party balloons could become a \u2018luxury\u2019 as the Iran war spurs a helium shortage",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories",
-      "published": "2026-08-30T12:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-      "published": "2026-08-30T12:00:02Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
-      "published": "2026-08-30T10:42:13Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-      "published": "2026-08-30T07:27:55Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
-      "published": "2026-08-29T20:22:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-      "published": "2026-08-29T20:22:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "published": "2026-08-29T19:06:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
-      "published": "2026-08-29T18:23:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump administration weighs Yosemite land swap for private developer\u2019s access road",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "published": "2026-08-29T18:21:49Z",
       "tags": [
         "wire"
       ]
