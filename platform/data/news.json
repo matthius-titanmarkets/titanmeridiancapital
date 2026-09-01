@@ -1,13 +1,185 @@
 {
-  "generated_at": "2026-09-01T19:44:31.131396Z",
+  "generated_at": "2026-09-01T22:22:37.234616Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Stan Kroenke buys controlling stake in MLB's Los Angeles Angels",
+      "title": "House adopts measure condemning socialism ahead of November election",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+      "published": "2026-09-01T22:13:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "published": "2026-09-01T21:56:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "published": "2026-09-01T21:52:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "published": "2026-09-01T21:43:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "published": "2026-09-01T21:41:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-      "published": "2026-09-01T19:40:10Z",
+      "published": "2026-09-01T21:40:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+      "published": "2026-09-01T21:40:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War. Fighting resumes.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-sept-it-s-a-wrap-but-not-for-the-iran-war-fighting-resumes/",
+      "published": "2026-09-01T21:12:30Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "published": "2026-09-01T21:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+      "published": "2026-09-01T20:56:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+      "published": "2026-09-01T20:40:30Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+      "published": "2026-09-01T20:36:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "published": "2026-09-01T20:34:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+      "published": "2026-09-01T20:28:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "published": "2026-09-01T20:20:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-2-2026-rbzn-rate-hike-expected/",
+      "published": "2026-09-01T20:18:18Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
+      "published": "2026-09-01T20:16:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "published": "2026-09-01T20:13:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "How these homeowners pulled off buying a house in their early 20s",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+      "published": "2026-09-01T20:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+      "published": "2026-09-01T19:48:20Z",
       "tags": [
         "wire"
       ]
@@ -31,47 +203,10 @@
       ]
     },
     {
-      "title": "Penn. Gov. Shapiro says too many data center developers 'don't care about our communities'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
-      "published": "2026-09-01T19:17:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
-      "published": "2026-09-01T19:03:41Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "We're adding 2 stocks to our Bullpen watchlist because they meet this criteria",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/were-adding-2-stocks-to-our-bullpen-watchlist-because-they-meet-this-criteria.html",
-      "published": "2026-09-01T18:59:37Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Prediction market traders think job creation rebounded in August",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
       "published": "2026-09-01T18:57:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
-      "published": "2026-09-01T18:54:51Z",
       "tags": [
         "wire"
       ]
@@ -86,28 +221,10 @@
       ]
     },
     {
-      "title": "Bessent touts bond market as 10-year Treasury yield spikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
-      "published": "2026-09-01T18:53:45Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
       "published": "2026-09-01T18:52:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "published": "2026-09-01T18:45:02Z",
       "tags": [
         "wire"
       ]
@@ -119,15 +236,6 @@
       "published": "2026-09-01T18:39:45Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-      "published": "2026-09-01T18:36:00Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -149,66 +257,12 @@
       ]
     },
     {
-      "title": "Manufacturers are getting frustrated: \u2018The economy is annoying\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/manufacturers-are-getting-frustrated-the-economy-is-annoying-a8edf602?mod=mw_rss_topstories",
-      "published": "2026-09-01T18:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Neither of us attended college\u2019: At 62, how can we afford to put our granddaughter through college?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-      "published": "2026-09-01T18:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Buy these stocks to ride the next big AI wave \u2014 connectivity, analyst says",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/buy-these-stocks-to-ride-the-next-big-ai-wave-connectivity-analyst-says-196241b2?mod=mw_rss_topstories",
-      "published": "2026-09-01T17:47:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "published": "2026-09-01T17:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why Microsoft\u2019s stock could rally another 20% even after a summer winning streak",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-microsofts-stock-could-rally-another-20-even-after-a-summer-winning-streak-a0356551?mod=mw_rss_topstories",
-      "published": "2026-09-01T17:38:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump confirms US striking Iran.",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-confirms-us-striking-iran/",
       "published": "2026-09-01T17:34:11Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
-      "published": "2026-09-01T17:12:00Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -294,15 +348,6 @@
       ]
     },
     {
-      "title": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "published": "2026-09-01T14:31:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US construction spending for July -0.5% versus 0.0% expected.",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-construction-spending-for-july-0-5-versus-0-0-expected/",
@@ -312,57 +357,12 @@
       ]
     },
     {
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-      "published": "2026-09-01T14:23:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "US manufacturing PMI 54.6 versus 55.2 estimate",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-manufacturing-pmi-54-6-versus-55-2-estimate/",
       "published": "2026-09-01T14:15:22Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "JOLTs job openings 7.271M vs 7.300M estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/jolts-job-openings-7-271m-vs-7-300m-estimate/",
-      "published": "2026-09-01T14:04:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-      "published": "2026-09-01T14:01:27Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html",
-      "published": "2026-09-01T14:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "S&P global manufacturing PMI final for August 53.9 versus 53.2 preliminary",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-august-53-9-versus-53-2-preliminary/",
-      "published": "2026-09-01T13:47:20Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
