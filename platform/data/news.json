@@ -1,13 +1,220 @@
 {
-  "generated_at": "2026-09-02T17:35:38.268990Z",
+  "generated_at": "2026-09-02T20:30:48.386390Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "published": "2026-09-02T20:29:53Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Snowflake\u2019s stock soars as the company blows away estimates with its AI-fueled forecast",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "published": "2026-09-02T17:30:00Z",
+      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+      "published": "2026-09-02T20:14:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "HPE follows in Dell\u2019s footsteps as it rides the AI server boom to a big earnings beat",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "published": "2026-09-02T20:08:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "10-year U.S. Treasury yield hits highest level since November 2023",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
+      "published": "2026-09-02T20:05:39Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+      "published": "2026-09-02T20:00:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s big AI advantage is why this analyst thinks the stock could double",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories",
+      "published": "2026-09-02T19:45:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why Palantir\u2019s stock is suffering its worst slump since February",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
+      "published": "2026-09-02T19:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html",
+      "published": "2026-09-02T19:23:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rising yields aren\u2019t scaring off investors. Why money is still pouring into bond funds.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-yields-arent-scaring-off-investors-why-money-is-still-pouring-into-bond-funds-a23e9e7c?mod=mw_rss_topstories",
+      "published": "2026-09-02T19:22:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s another way rising bond yields could take a bite out of Americans\u2019 wallets",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-another-way-rising-bond-yields-could-take-a-bite-out-of-americans-wallets-b15a720c?mod=mw_rss_topstories",
+      "published": "2026-09-02T19:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "These women were laid off while on maternity leave. Yes, it's legal, and probably more common than you thought",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html",
+      "published": "2026-09-02T19:13:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
+      "published": "2026-09-02T19:11:07Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "published": "2026-09-02T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
+      "published": "2026-09-02T18:48:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Jersey asks the Supreme Court to take on prediction markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
+      "published": "2026-09-02T18:39:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+      "published": "2026-09-02T18:25:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "published": "2026-09-02T18:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The political headlines are fast and furious coming out of Washington",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/the-political-headlines-are-fast-and-furious-coming-out-of-washington/",
+      "published": "2026-09-02T18:05:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Does Medicare pay for long-term care? Many people get it wrong \u2014 and it may cost them later",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
+      "published": "2026-09-02T18:03:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+      "published": "2026-09-02T18:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
+      "published": "2026-09-02T17:59:24Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AI trade faces test with next week's Oracle earnings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
+      "published": "2026-09-02T17:57:04Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official\u2019s remarks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
+      "published": "2026-09-02T17:44:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "published": "2026-09-02T17:36:11Z",
       "tags": [
         "wire"
       ]
@@ -31,100 +238,10 @@
       ]
     },
     {
-      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
-      "published": "2026-09-02T16:52:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-      "published": "2026-09-02T16:41:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I feel tricked\u2019: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
       "published": "2026-09-02T16:25:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s how much Americans rely on Social Security \u2014 at all income levels",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
-      "published": "2026-09-02T16:19:02Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "We\u2019re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
-      "published": "2026-09-02T16:04:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Medicare Advantage patients who get diagnosed with Alzheimer\u2019s or other serious diseases are ditching their plans \u2014 and it can cost them",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:04:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My friend is charging everyone $80 to attend her 30th birthday party. She says it\u2019s to cover the open bar. Is it rude to not go?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-is-charging-everyone-80-to-attend-her-30th-birthday-party-she-says-its-to-cover-the-open-bar-is-it-rude-to-not-go-d60b3b5b?mod=mw_rss_topstories",
-      "published": "2026-09-02T16:00:00Z",
       "tags": [
         "wire"
       ]
@@ -139,64 +256,10 @@
       ]
     },
     {
-      "title": "These women were laid off while on maternity leave. Yes, it's legal, and probably more common than you thought",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html",
-      "published": "2026-09-02T15:44:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "10-year U.S. Treasury yield hits highest level since November 2023",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
-      "published": "2026-09-02T15:42:43Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Fed\u2019s Williams \u2018is opening options\u2019 to interest-rate hikes. Why that could be \u2018a bad trade.\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
-      "published": "2026-09-02T15:38:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Does Medicare pay for long-term care? Many people get it wrong \u2014 and it may cost them later",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
-      "published": "2026-09-02T15:35:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump: Maybe the Strait of Hormuz should be renamed the Trump Strait?",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-maybe-it-should-be-renamed-the-trump-strait/",
       "published": "2026-09-02T15:30:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Raising Social Security\u2019s full retirement age is political dynamite because it could make this group of people poorer",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/raising-social-securitys-full-retirement-age-is-political-dynamite-because-it-could-make-this-group-of-people-poorer-184793a8?mod=mw_rss_topstories",
-      "published": "2026-09-02T15:29:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How these Gen Z workers managed to buy homes in their early 20s",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
-      "published": "2026-09-02T15:25:00Z",
       "tags": [
         "wire"
       ]
@@ -215,15 +278,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html",
       "published": "2026-09-02T15:15:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
-      "published": "2026-09-02T14:44:38Z",
       "tags": [
         "wire"
       ]
@@ -307,60 +361,6 @@
       "published": "2026-09-02T11:58:05Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-      "published": "2026-09-02T11:09:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
-      "published": "2026-09-02T09:56:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html",
-      "published": "2026-09-02T09:30:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nepal\u2019s mountain tourism industry faces \u2018serious warning\u2019 after Himalayan flood disaster",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
-      "published": "2026-09-02T09:23:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
-      "published": "2026-09-02T09:19:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IRGC claims that another two oil tankers have been disabled after hitting mines in the Strait of Hormuz",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/irgc-claims-that-another-two-oil-tankers-have-been-disabled-after-hitting-mines-in-the-strait-of-hormuz/",
-      "published": "2026-09-02T08:38:34Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
