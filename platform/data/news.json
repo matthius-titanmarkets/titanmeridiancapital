@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-02T00:23:44.658554Z",
+  "generated_at": "2026-09-02T04:53:19.872592Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "investingLive Asia-Pacific market news: Oil hits six week high",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-hits-six-week-high/",
+      "published": "2026-09-02T03:42:58Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+      "published": "2026-09-02T03:05:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia Q2 GDP beats at 0.4%, keeps September rate hike in play",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-q2-gdp-beats-at-0-4-keeps-september-rate-hike-in-play/",
+      "published": "2026-09-02T02:30:51Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
+      "published": "2026-09-02T02:24:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "published": "2026-09-02T01:34:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australian Q2 GDP 0.4% q/q (expected 0.3%, prior 0.3%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australian-q2-gdp-0-4-q-q-expected-0-3-prior-0-3/",
+      "published": "2026-09-02T01:30:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook",
       "source": "MarketWatch",
@@ -116,15 +170,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
       "published": "2026-09-01T21:02:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "published": "2026-09-01T20:56:50Z",
       "tags": [
         "wire"
       ]
@@ -315,52 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
       "published": "2026-09-01T16:27:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/crude-oil-moves-higher-stocks-move-lower-as-reports-of-an-american-attack-on-iran/",
-      "published": "2026-09-01T16:27:25Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "Students are reconsidering their majors, career paths and industries due to AI: CNBC survey",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/students-are-reconsidering-majors-career-paths-due-to-ai-cnbc-survey.html",
-      "published": "2026-09-01T16:17:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Used cars under $20,000 tend to sell quickly \u2014 but there are trade-offs for buyers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/used-cars-under-20000-sell-quickly-tradeoffs.html",
-      "published": "2026-09-01T15:49:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Treas. Sec Bessent: I think Japan is taking right steps for economy",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treas-sec-bessent-i-think-japan-is-taking-right-steps-for-economy/",
-      "published": "2026-09-01T15:03:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada PM Carney: We never thought we had a trade deal with US during talks",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-pm-carney-we-never-thought-we-had-a-trade-deal-with-us-during-talks/",
-      "published": "2026-09-01T14:42:49Z",
       "tags": [
         "wire"
       ]
