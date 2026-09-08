@@ -1,13 +1,204 @@
 {
-  "generated_at": "2026-09-08T08:58:20.284077Z",
+  "generated_at": "2026-09-08T13:28:02.749435Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Pharma major Novartis falls nearly 10%, heading for worst day on record after three drug trial setbacks",
+      "title": "Pharma major Novartis falls 9% after three drug trial setbacks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
-      "published": "2026-09-08T08:39:10Z",
+      "published": "2026-09-08T13:26:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "published": "2026-09-08T13:24:47Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Brent crude oil near $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "published": "2026-09-08T13:17:36Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "published": "2026-09-08T13:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s where rental demand is heading and what it means for future home sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
+      "published": "2026-09-08T13:14:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "published": "2026-09-08T13:13:56Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Amazon and AT&T team up to challenge SpaceX\u2019s satellite dominance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazon-and-at-t-team-up-to-challenge-spacexs-satellite-dominance-c3a1ae47?mod=mw_rss_topstories",
+      "published": "2026-09-08T13:10:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the Dow is being dragged down by a Swiss company\u2019s bad news",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
+      "published": "2026-09-08T12:47:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
+      "published": "2026-09-08T12:32:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+      "published": "2026-09-08T12:27:29Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Iran Foreign Ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "published": "2026-09-08T12:20:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "published": "2026-09-08T12:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia to let social media users 'opt out' of algorithm-based feeds in fresh blow to big tech",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/australia-social-media-algorithm-opt-out.html",
+      "published": "2026-09-08T12:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "published": "2026-09-08T11:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the yen\u2019s rise to a six-month high could go further",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-yens-rise-to-a-six-month-high-could-go-further-6dd18bfa?mod=mw_rss_topstories",
+      "published": "2026-09-08T11:42:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Beneath the surface, the next stock-market leaders are getting ready to break out, says Morgan Stanley",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910?mod=mw_rss_topstories",
+      "published": "2026-09-08T11:32:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive European news wrap: Oil prices rise as Houthis escalate attacks on Saudi targets",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-news-wrap-oil-prices-rise-as-houthis-escalate-attacks-on-saudi-targets/",
+      "published": "2026-09-08T11:30:22Z",
+      "tags": [
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "published": "2026-09-08T11:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I have two sons. Should I allow one son to build a $400,000 house on my property? I\u2019m not permitted to subdivide the land.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
+      "published": "2026-09-08T11:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chip stock investors beware \u2014 these charts could warn of further weakness ahead",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "published": "2026-09-08T11:07:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
+      "published": "2026-09-08T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/plastic-surgery-is-booming-with-boomers-heres-how-to-cash-in-on-the-antiaging-craze-7f1ea891?mod=mw_rss_topstories",
+      "published": "2026-09-08T10:58:00Z",
       "tags": [
         "wire"
       ]
@@ -46,24 +237,6 @@
       "published": "2026-09-08T08:16:11Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "Why the Dow is being dragged down by a Swiss company\u2019s bad news",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
-      "published": "2026-09-08T08:15:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Treasury yields tick higher as traders look ahead to more economic data releases",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/us-treasury-yields-bonds.html",
-      "published": "2026-09-08T08:08:34Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -121,10 +294,10 @@
       ]
     },
     {
-      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "title": "It's been a rough month of natural disasters. Here's a review of some of the worst",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
-      "published": "2026-09-08T05:29:00Z",
+      "url": "https://www.cnbc.com/2026/09/08/natural-disasters-month-review-earthquake-volcano-flood.html",
+      "published": "2026-09-08T06:05:49Z",
       "tags": [
         "wire"
       ]
@@ -143,15 +316,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
       "published": "2026-09-08T04:45:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
-      "published": "2026-09-08T04:02:43Z",
       "tags": [
         "wire"
       ]
@@ -184,15 +348,6 @@
       ]
     },
     {
-      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "published": "2026-09-08T03:09:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "China August trade balance shows imports below expectations",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-august-trade-balance-shows-exports-and-imports-below-expectations/",
@@ -208,160 +363,6 @@
       "published": "2026-09-08T02:34:22Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-      "published": "2026-09-08T02:05:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan wage growth strongest since 1997, cementing BOJ hike case",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-wage-growth-strongest-since-1997-cementing-boj-hike-case/",
-      "published": "2026-09-07T23:57:36Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Japan revised Q2 GDP: +1.4% y/y (preliminary 1.1%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-revised-q2-gdp-1-4-y-y-preliminary-1-1/",
-      "published": "2026-09-07T23:50:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan wages data, July 2026: Headline earnings +4.7% y/y (expected +3.9%, prior +4%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-wages-data-july-2026-headline-earnings-4-7-y-y-expected-3-9-prior-4/",
-      "published": "2026-09-07T23:31:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
-      "published": "2026-09-07T23:31:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-      "published": "2026-09-07T23:23:10Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/brc-data-shows-summer-retail-boost-fading-fast-as-gbp-watches-consumer-signals/",
-      "published": "2026-09-07T23:18:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "South Korea Q2 GDP, final, +0.6% (vs. expected +0.6%, prior +1.8%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/south-korea-q2-gdp-final-0-6-vs-expected-0-6-prior-1-8/",
-      "published": "2026-09-07T23:17:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
-      "published": "2026-09-07T23:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "published": "2026-09-07T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "published": "2026-09-07T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
-      "published": "2026-09-07T21:36:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/preview-china-trade-data-due-today-a-beat-could-firm-up-aud-as-a-demand-proxy-trade/",
-      "published": "2026-09-07T21:03:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia Tuesday, September 8, 2026: Japan GDP and China trade data",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-september-8-2026-japan-gdp-and-china-trade-data/",
-      "published": "2026-09-07T20:24:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "published": "2026-09-07T19:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-7-sept-usd-falls-as-the-yen-surges-on-boj-rate-hike-expectations/",
-      "published": "2026-09-07T19:28:20Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "Far-right AfD landslide in German state piles pressure on federal government",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-      "published": "2026-09-07T17:04:21Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
