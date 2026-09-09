@@ -1,8 +1,218 @@
 {
-  "generated_at": "2026-09-09T11:41:45.502210Z",
+  "generated_at": "2026-09-09T15:56:27.451979Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Treasury will buy more government bonds that previously announced. The market remains \u2018underwhelmed.\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+      "published": "2026-09-09T15:53:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+      "published": "2026-09-09T15:50:39Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+      "published": "2026-09-09T15:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "published": "2026-09-09T15:45:15Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+      "published": "2026-09-09T15:41:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic researchers warn of AI threat to humanity. Here's what experts say about the risk",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+      "published": "2026-09-09T15:40:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta shares are still cheap and worth buying. Here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/meta-shares-are-still-cheap-and-worth-buying-heres-why.html",
+      "published": "2026-09-09T15:37:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+      "published": "2026-09-09T15:37:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "published": "2026-09-09T15:24:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
+      "published": "2026-09-09T15:20:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil\u2019s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "published": "2026-09-09T15:14:00Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
+      "published": "2026-09-09T14:58:55Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
+      "published": "2026-09-09T14:38:32Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How to create a \u2018forever paycheck\u2019 without paying for an annuity",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "published": "2026-09-09T14:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Expecting an inheritance? Don\u2019t count on it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
+      "published": "2026-09-09T14:05:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "published": "2026-09-09T13:46:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+      "published": "2026-09-09T13:46:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Bessent says, \u2018I am the house now.\u2019 What that means for the yen \u2014 and U.S. stocks.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+      "published": "2026-09-09T13:24:00Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+      "published": "2026-09-09T13:23:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why UBS is telling investors to forget Europe\u2019s \u2018tired caricature\u2019 and buy its stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-ubs-is-telling-investors-to-forget-europes-tired-caricature-and-buy-its-stocks-9787b780?mod=mw_rss_topstories",
+      "published": "2026-09-09T12:55:00Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Meta\u2019s stock jumps as new personal AI agent Muse addresses a major investor concern",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories",
+      "published": "2026-09-09T12:43:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I did everything \u2018right\u2019 with my health insurance \u2014 and still got a surprise bill. Here\u2019s what I learned.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-did-everything-right-with-my-health-insurance-and-still-got-a-surprise-bill-heres-what-i-learned-51121f3f?mod=mw_rss_topstories",
+      "published": "2026-09-09T12:17:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Demand for riskier mortgages rises again, along with interest rates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
+      "published": "2026-09-09T11:59:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "investingLive European markets wrap: Brent crude hits $100, equities fall",
       "source": "ForexLive",
@@ -12,70 +222,6 @@
         "commodities",
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "published": "2026-09-09T11:32:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "published": "2026-09-09T11:26:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Strategists say S&P 500 could top 8,000 \u2014 but risks of a pullback are mounting",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/strategists-say-s-p-500-could-top-8-000-but-risks-of-a-pullback-are-mounting-e1629564?mod=mw_rss_topstories",
-      "published": "2026-09-09T11:24:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Why UBS is telling investors to forget Europe\u2019s \u2018tired caricature\u2019 and buy its stocks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-ubs-is-telling-investors-to-forget-europes-tired-caricature-and-buy-its-stocks-9787b780?mod=mw_rss_topstories",
-      "published": "2026-09-09T11:03:00Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "published": "2026-09-09T11:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Demand for riskier mortgages rises again, along with interest rates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
-      "published": "2026-09-09T11:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "published": "2026-09-09T10:35:02Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -97,33 +243,6 @@
       ]
     },
     {
-      "title": "GameStop now generates more revenue from collectibles than video games",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamestop-now-generates-more-revenue-from-collectibles-than-video-games-9f3451f4?mod=mw_rss_topstories",
-      "published": "2026-09-09T10:06:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-      "published": "2026-09-09T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-      "published": "2026-09-09T10:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
@@ -133,28 +252,10 @@
       ]
     },
     {
-      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "published": "2026-09-09T09:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "UK air traffic chief rules out cyber attack after massive disruption at Heathrow",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/09/uk-airport-disruption-heathrow-air-traffic-control.html",
       "published": "2026-09-09T09:01:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How fashion designer Marc Jacobs renovated a $9 million Frank Lloyd Wright house",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-fashion-designer-marc-jacobs-renovated-a-9-million-frank-lloyd-wright-house-3fae7d9c?mod=mw_rss_topstories",
-      "published": "2026-09-09T09:01:00Z",
       "tags": [
         "wire"
       ]
@@ -169,28 +270,10 @@
       ]
     },
     {
-      "title": "\u2018The View\u2019 host Joy Behar finally sells Hamptons house for about half the original asking price",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-view-host-joy-behar-finally-sells-hamptons-house-for-about-half-the-original-asking-price-6e991e03?mod=mw_rss_topstories",
-      "published": "2026-09-09T08:58:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Asia\u2019s ultra-rich are moving their money. Here's where it's going",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/09/asia-ultra-rich-investing-wealthy-chinese-migrating-maybank.html",
       "published": "2026-09-09T08:42:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
-      "published": "2026-09-09T08:35:11Z",
       "tags": [
         "wire"
       ]
@@ -202,25 +285,6 @@
       "published": "2026-09-09T08:34:55Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Bessent says \u2018I am the house now.\u2019 What it means for the yen \u2014 and U.S. stocks.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-      "published": "2026-09-09T08:31:00Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Brent crude passes $100 threshold as war in Iran intensifies",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "published": "2026-09-09T08:27:00Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -302,70 +366,6 @@
       "published": "2026-09-09T03:34:20Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-      "published": "2026-09-09T03:07:32Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "China inflation rebounds on energy costs, but the demand story hasn't changed - recap",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-inflation-rebounds-on-energy-costs-but-the-demand-story-hasn-t-changed-recap/",
-      "published": "2026-09-09T03:03:29Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "China August CPI 0.8% y/y (expected 0.8%, prior 0.5%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-august-cpi-y-y-expected-0-8-prior-0-5/",
-      "published": "2026-09-09T01:30:22Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-      "published": "2026-09-09T00:52:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan factory mood hits near 5-year high as chip demand lifts Reuters Tankan",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-factory-mood-hits-near-5-year-high-as-chip-demand-lifts-reuters-tankan/",
-      "published": "2026-09-08T23:10:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/marvell-shares-soared-ceo.html",
-      "published": "2026-09-08T23:07:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer says investors are too focused on AI stocks. Here\u2019s where he says to look instead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/jim-cramer-investors-focused-ai-stocks.html",
-      "published": "2026-09-08T22:25:23Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
