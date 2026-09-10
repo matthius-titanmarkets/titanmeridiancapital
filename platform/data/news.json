@@ -1,13 +1,198 @@
 {
-  "generated_at": "2026-09-10T08:18:31.920178Z",
+  "generated_at": "2026-09-10T13:00:55.060756Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+      "title": "U.S. crude oil tops $100 again - last seen in May - as market braces for prolonged Iran war",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
-      "published": "2026-09-10T07:32:08Z",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "published": "2026-09-10T12:59:11Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Wealthy investors seek oil and gas assets, but bargains are scarce",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
+      "published": "2026-09-10T12:59:11Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "published": "2026-09-10T12:53:39Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "published": "2026-09-10T12:53:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+      "published": "2026-09-10T12:53:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:53:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of 'tokenized' stock trading",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+      "published": "2026-09-10T12:48:02Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Wholesale prices rose 0.4% in August, as expected",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+      "published": "2026-09-10T12:46:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "published": "2026-09-10T12:39:01Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+      "published": "2026-09-10T12:35:53Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:35:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wholesale inflation stirred up by Iran war and high oil prices. What does it mean for the Fed?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:34:00Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/jobless-claims-show-steady-us-employment-picture-initial-claims-206k-vs-205k-estimate/",
+      "published": "2026-09-10T12:30:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US August PPI 5.4% vs 5.3% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-august-ppi-5-4-vs-5-3-expected/",
+      "published": "2026-09-10T12:30:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle options are doing something curious heading into earnings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+      "published": "2026-09-10T12:20:51Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European markets wrap: Oil and bond yields push higher as ECB decision looms",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-and-bond-yields-push-higher-as-ecb-decision-looms/",
+      "published": "2026-09-10T12:05:13Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Apple\u2019s stock rises after iPhone reveal. The company is walking a \u2018tightrope\u2019 on pricing, say analysts.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+      "published": "2026-09-10T12:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-clarity-moov-banks-stablecoin.html",
+      "published": "2026-09-10T12:00:01Z",
       "tags": [
         "wire"
       ]
@@ -16,9 +201,99 @@
       "title": "With the copper price surfing all-time highs, here\u2019s what one CEO thinks about the sector long term",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
-      "published": "2026-09-10T07:29:00Z",
+      "published": "2026-09-10T11:42:00Z",
       "tags": [
         "commodities"
+      ]
+    },
+    {
+      "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
+      "published": "2026-09-10T11:39:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
+      "published": "2026-09-10T11:26:16Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
+      "published": "2026-09-10T11:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors seek hedges as midterms and geopolitical risks threaten market calm",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
+      "published": "2026-09-10T11:10:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil is driving the rise in long-term yields; Everything else is just noise",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oil-is-driving-the-rise-in-long-term-yields-everything-else-is-just-noise/",
+      "published": "2026-09-10T11:01:56Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "History shows the bar to disrupt AI is surprisingly high, says Bank of America",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
+      "published": "2026-09-10T11:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A rare disease is taking his vision. A gene therapy could help \u2014 if he can get it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/rare-disease-is-taking-his-sight-access-to-a-treatment-is-hard-to-get.html",
+      "published": "2026-09-10T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "published": "2026-09-10T10:49:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html",
+      "published": "2026-09-10T09:35:14Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Coinbase CEO says clearer U.S. crypto rules are coming \u2014 with or without Senate approval",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "published": "2026-09-10T09:25:34Z",
+      "tags": [
+        "crypto"
       ]
     },
     {
@@ -58,37 +333,10 @@
       ]
     },
     {
-      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
-      "published": "2026-09-10T06:02:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US Treasury bond buyback: Why yields are still rising",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-treasury-bond-buyback-why-yields-are-still-rising/",
       "published": "2026-09-10T05:25:13Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
-      "published": "2026-09-10T05:24:52Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "An ECB rate hike is \u2018all but certain\u2019 \u2014 but investors divided on what comes next",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-      "published": "2026-09-10T05:00:02Z",
       "tags": [
         "macro"
       ]
@@ -100,15 +348,6 @@
       "published": "2026-09-10T03:48:12Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and \u2018DOGE\u2019 dividends last year that never came.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
-      "published": "2026-09-10T03:00:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -125,242 +364,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-ties-5-000-payment-promise-to-a-full-republican-midterm-sweep/",
       "published": "2026-09-10T02:49:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
-      "published": "2026-09-10T02:05:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "published": "2026-09-10T02:04:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-      "published": "2026-09-10T01:53:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Inside India newsletter: India\u2019s green push aims to boost energy security but exposes China dependency",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
-      "published": "2026-09-10T00:09:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
-      "published": "2026-09-09T23:56:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Diesel prices hit another record high. If you\u2019re shocked, wait until you see your grocery bill.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
-      "published": "2026-09-09T22:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
-      "published": "2026-09-09T22:49:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "published": "2026-09-09T22:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Home-insurance premiums just hit a record high. Here\u2019s where they spiked the most.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
-      "published": "2026-09-09T22:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "published": "2026-09-09T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
-      "published": "2026-09-09T21:45:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-      "published": "2026-09-09T21:37:34Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
-      "published": "2026-09-09T21:28:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The bull market\u2019s biggest enemy right now could be Bessent\u2019s interventions",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
-      "published": "2026-09-09T21:17:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "published": "2026-09-09T21:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
-      "published": "2026-09-09T21:14:49Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 9 Sept: Oil is a problem as war likely to continue",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-9-sept-oil-is-a-problem-as-war-likely-to-continue/",
-      "published": "2026-09-09T21:08:55Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Oil\u2019s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "published": "2026-09-09T20:36:00Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia Thursday, September 10, 2026 ... m'eh",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-10-2026-m-eh/",
-      "published": "2026-09-09T20:25:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
-      "published": "2026-09-09T20:16:44Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-      "published": "2026-09-09T19:52:11Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
-      "published": "2026-09-09T19:21:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-      "published": "2026-09-09T18:29:51Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "published": "2026-09-09T17:43:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "These are the top 10 U.S. states for workers' rights, says new report\u20148 of them have a minimum wage over $15",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/the-top-us-states-for-workers-in-2026-according-to-oxfam-report.html",
-      "published": "2026-09-09T17:36:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
-      "published": "2026-09-09T16:47:24Z",
       "tags": [
         "wire"
       ]
