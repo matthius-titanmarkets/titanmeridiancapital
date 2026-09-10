@@ -1,10 +1,109 @@
 {
-  "generated_at": "2026-09-10T03:09:51.921918Z",
+  "generated_at": "2026-09-10T08:18:31.920178Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. But he also promised tariff dividends last year that never came.",
+      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
+      "published": "2026-09-10T07:32:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "With the copper price surfing all-time highs, here\u2019s what one CEO thinks about the sector long term",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "published": "2026-09-10T07:29:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "World\u2019s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+      "published": "2026-09-10T06:45:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-39/",
+      "published": "2026-09-10T06:43:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
+      "published": "2026-09-10T06:23:14Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Germany August CPI: Energy shock keeps inflation pressures elevated",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/germany-august-cpi-energy-shock-keeps-inflation-pressures-elevated/",
+      "published": "2026-09-10T06:10:14Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+      "published": "2026-09-10T06:02:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US Treasury bond buyback: Why yields are still rising",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-treasury-bond-buyback-why-yields-are-still-rising/",
+      "published": "2026-09-10T05:25:13Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "published": "2026-09-10T05:24:52Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "An ECB rate hike is \u2018all but certain\u2019 \u2014 but investors divided on what comes next",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "published": "2026-09-10T05:00:02Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Gold steady around $4400",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-steady-around-4400/",
+      "published": "2026-09-10T03:48:12Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and \u2018DOGE\u2019 dividends last year that never came.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
       "published": "2026-09-10T03:00:00Z",
@@ -17,15 +116,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
       "published": "2026-09-10T02:54:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
-      "published": "2026-09-10T02:52:55Z",
       "tags": [
         "wire"
       ]
@@ -204,16 +294,6 @@
       ]
     },
     {
-      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "published": "2026-09-09T20:27:00Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
       "title": "Economic and event calendar in Asia Thursday, September 10, 2026 ... m'eh",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-10-2026-m-eh/",
@@ -277,95 +357,12 @@
       ]
     },
     {
-      "title": "How much does it cost to move a midterm prediction market? Not much",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
-      "published": "2026-09-09T17:28:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
       "published": "2026-09-09T16:47:24Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-      "published": "2026-09-09T16:17:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why Cramer still recommends being 'a little more reserved' about data center stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
-      "published": "2026-09-09T16:11:20Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-      "published": "2026-09-09T15:20:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
-      "published": "2026-09-09T14:38:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "published": "2026-09-09T13:46:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-      "published": "2026-09-09T13:23:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Demand for riskier mortgages rises again, along with interest rates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
-      "published": "2026-09-09T11:59:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European markets wrap: Brent crude hits $100, equities fall",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-markets-wrap-brent-crude-hits-100-equities-fall/",
-      "published": "2026-09-09T11:33:46Z",
-      "tags": [
-        "commodities",
-        "fx",
-        "equities"
       ]
     }
   ]
