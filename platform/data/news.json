@@ -1,13 +1,85 @@
 {
-  "generated_at": "2026-09-09T23:49:27.496487Z",
+  "generated_at": "2026-09-10T03:09:51.921918Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Bank of America CEO says the consumer remains resilient despite rising gas prices",
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. But he also promised tariff dividends last year that never came.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "published": "2026-09-10T03:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bessent\u2019s political turn in GOP speech tests his bond-market credibility",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/bank-of-america-ceo-consumer-resilient-despite-rising-gas.html",
-      "published": "2026-09-09T22:53:51Z",
+      "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+      "published": "2026-09-10T02:54:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+      "published": "2026-09-10T02:52:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump ties $5,000 payment promise to a full Republican midterm sweep",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-ties-5-000-payment-promise-to-a-full-republican-midterm-sweep/",
+      "published": "2026-09-10T02:49:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+      "published": "2026-09-10T02:05:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "published": "2026-09-10T02:04:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "published": "2026-09-10T01:53:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s green push aims to boost energy security but exposes China dependency",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "published": "2026-09-10T00:09:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
+      "published": "2026-09-09T23:56:51Z",
       "tags": [
         "wire"
       ]
@@ -44,24 +116,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
       "published": "2026-09-09T22:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bessent\u2019s political turn in GOP speech tests his bond-market credibility",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
-      "published": "2026-09-09T22:20:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hunter Biden\u2019s memecoin flops, falling 95% just hours after launch",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "published": "2026-09-09T22:02:00Z",
       "tags": [
         "wire"
       ]
@@ -184,15 +238,6 @@
       "published": "2026-09-09T19:52:11Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump\u2019s new ban.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
-      "published": "2026-09-09T19:40:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -321,51 +366,6 @@
         "commodities",
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
-      "published": "2026-09-09T10:30:01Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-      "published": "2026-09-09T09:15:41Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "UK air traffic chief rules out cyber attack after massive disruption at Heathrow",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/uk-airport-disruption-heathrow-air-traffic-control.html",
-      "published": "2026-09-09T09:01:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html",
-      "published": "2026-09-09T09:00:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
-      "published": "2026-09-09T08:34:55Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
