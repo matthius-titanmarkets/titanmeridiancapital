@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-11T22:44:27.691426Z",
+  "generated_at": "2026-09-12T00:54:30.637886Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "published": "2026-09-11T23:54:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
       "source": "CNBC Markets",
@@ -13,12 +22,14 @@
       ]
     },
     {
-      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
+      "title": "Cramer\u2019s week ahead: Falling oil could help stocks but Fed is the next big test",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-      "published": "2026-09-11T22:11:10Z",
+      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+      "published": "2026-09-11T22:35:09Z",
       "tags": [
-        "wire"
+        "macro",
+        "commodities",
+        "equities"
       ]
     },
     {
@@ -145,15 +156,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
       "published": "2026-09-11T20:08:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "published": "2026-09-11T20:00:00Z",
       "tags": [
         "wire"
       ]
