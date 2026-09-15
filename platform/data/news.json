@@ -1,8 +1,157 @@
 {
-  "generated_at": "2026-09-15T20:24:02.703803Z",
+  "generated_at": "2026-09-15T23:02:13.365743Z",
   "mode": "live",
-  "errors": [],
+  "errors": [
+    "Federal Reserve: HTTP Error 404: Not Found"
+  ],
   "items": [
+    {
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+      "published": "2026-09-15T22:33:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+      "published": "2026-09-15T22:17:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "2026-09-15T22:15:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "2026-09-15T22:00:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "published": "2026-09-15T21:46:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "published": "2026-09-15T21:40:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "2026-09-15T21:34:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
+      "published": "2026-09-15T21:31:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there\u2019s no spending slowdown in sight.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "published": "2026-09-15T21:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Washington seeks cap on foreign parts in AI chips and servers",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/washington-seeks-cap-on-foreign-parts-in-ai-chips-and-servers/",
+      "published": "2026-09-15T21:00:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inflation killed the penny. Now it\u2019s coming for your dollar.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "published": "2026-09-15T21:00:00Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Why a Federal Reserve rate hike could be a \u2018rare win\u2019 for your retirement money",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "published": "2026-09-15T20:47:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Wednesday, September 16, 2026. Busy, bit non-impactful.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-16-2026-busy-bit-non-impactful/",
+      "published": "2026-09-15T20:42:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+      "published": "2026-09-15T20:36:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle\u2019s stock falls for the fifth day in a row \u2014 missing out on the AI bounce",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+      "published": "2026-09-15T20:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Rising oil overshadows the Fed decision",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-rising-oil-overshadows-the-fed-decision/",
+      "published": "2026-09-15T20:24:49Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
     {
       "title": "Dow clinches its worst September start since 2008 as history repeats itself",
       "source": "MarketWatch",
@@ -22,100 +171,10 @@
       ]
     },
     {
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "published": "2026-09-15T20:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Two camps have emerged in the debate over AI safety and regulation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
-      "published": "2026-09-15T20:12:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump Account contributions have a Dec. 31 deadline \u2014 and employers can complicate the math",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/trump-accounts-employer-benefits.html",
       "published": "2026-09-15T20:10:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
-      "published": "2026-09-15T20:08:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "published": "2026-09-15T20:00:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
-      "published": "2026-09-15T19:55:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here\u2019s what the science says.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
-      "published": "2026-09-15T19:54:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Fed\u2019s expected interest-rate hike on Wednesday could be the start of something more troubling for investors",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-fed-rate-hike-isnt-the-only-thing-investors-should-be-watching-for-on-wednesday-3157d12d?mod=mw_rss_topstories",
-      "published": "2026-09-15T19:50:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-      "published": "2026-09-15T19:45:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX\u2019s Starship is finally set for orbit. A lot is riding on its success.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-starship-is-finally-set-for-orbit-a-lot-is-riding-on-its-success-764219b3?mod=mw_rss_topstories",
-      "published": "2026-09-15T19:23:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Book your Thanksgiving and Christmas travel now \u2014 or risk getting priced out of flying home for the holidays",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "2026-09-15T19:17:00Z",
       "tags": [
         "wire"
       ]
@@ -148,12 +207,12 @@
       ]
     },
     {
-      "title": "The future of retirement? Work until you die.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "published": "2026-09-15T18:52:00Z",
+      "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "published": "2026-09-15T18:58:36Z",
       "tags": [
-        "wire"
+        "commodities"
       ]
     },
     {
@@ -161,6 +220,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html",
       "published": "2026-09-15T18:33:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+      "published": "2026-09-15T18:29:56Z",
       "tags": [
         "wire"
       ]
@@ -175,47 +243,10 @@
       ]
     },
     {
-      "title": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
-      "published": "2026-09-15T17:59:00Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump\u2019s opposition to AI rules undercuts industry's calls for a slowdown",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
-      "published": "2026-09-15T17:38:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump admin. says private sector can solve AI threats as critics balk",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
       "published": "2026-09-15T17:31:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI stocks are rebounding. One analyst says there\u2019s no spending slowdown in sight.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "published": "2026-09-15T17:18:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Why investors need to learn the difference between uncertainty and risk in today\u2019s market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
-      "published": "2026-09-15T17:09:00Z",
       "tags": [
         "wire"
       ]
@@ -335,34 +366,6 @@
       "published": "2026-09-15T12:31:22Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "US ADP weekly employment estimate rises to 16,250 vs 12,000 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-adp-weekly-employment-estimate-rises-to-16-250-vs-12-000-expected/",
-      "published": "2026-09-15T12:28:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "published": "2026-09-15T11:53:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Crypto markets sink ahead of Clarity Act vote",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-crypto-markets-sink-ahead-of-clarity-act-vote/",
-      "published": "2026-09-15T11:35:13Z",
-      "tags": [
-        "fx",
-        "crypto"
       ]
     }
   ]
