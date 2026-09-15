@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-09-15T01:43:01.432225Z",
+  "generated_at": "2026-09-15T07:12:46.864404Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "published": "2026-09-15T07:07:46Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
+      "published": "2026-09-15T07:05:14Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "published": "2026-09-15T06:39:05Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Pentagon reveals $33.4 billion Iran war bill and \u2018strategic\u2019 weapons shortfalls",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "published": "2026-09-15T06:31:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-42/",
+      "published": "2026-09-15T06:20:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UK labour market cools further as payrolls fall and wage growth slows",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-labour-market-cools-further-as-payrolls-fall-and-wage-growth-slows/",
+      "published": "2026-09-15T06:19:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
+      "published": "2026-09-15T05:45:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "published": "2026-09-15T05:41:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil and Treasury yields haven\u2019t moved this closely in seven years. That\u2019s bad news for markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+      "published": "2026-09-15T05:22:57Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "10-year Treasury yields hit 5.02% as bond market sends a warning ahead of the Fed",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/10-year-treasury-yields-hit-5-02-as-bond-market-sends-a-warning-ahead-of-the-fed/",
+      "published": "2026-09-15T05:22:54Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil holds near highs",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-highs-0/",
+      "published": "2026-09-15T03:43:41Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "China's factories outperform as consumption and investment lag behind",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-s-factories-outperform-as-consumption-and-investment-lag-behind/",
+      "published": "2026-09-15T02:54:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China August retail sales +0.4% y/y (expected +0.6%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-august-retail-sales-0-4-y-y-expected-0-6/",
+      "published": "2026-09-15T02:02:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China home prices keep falling in August as property slump drags on",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-home-prices-keep-falling-in-august-as-property-slump-drags-on/",
+      "published": "2026-09-15T01:38:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
       "source": "CNBC Markets",
@@ -55,15 +182,6 @@
       "published": "2026-09-14T23:19:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-      "published": "2026-09-14T23:08:41Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -245,125 +363,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
       "published": "2026-09-14T20:34:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-event-calendar-asia-tuesday-september-15-2026-china-set-to-report-august-activity/",
-      "published": "2026-09-14T20:19:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The stock market could do something strange this week after the Fed decision",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/the-stock-market-could-do-something-strange-this-week-after-the-fed-decision.html",
-      "published": "2026-09-14T19:49:23Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-      "published": "2026-09-14T19:47:42Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-      "published": "2026-09-14T19:05:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-      "published": "2026-09-14T18:55:38Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
-      "published": "2026-09-14T18:01:37Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump: AI will be the greatest economic development engine in history",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-ai-will-be-the-greatest-economic-development-engine-in-history/",
-      "published": "2026-09-14T17:53:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Risk trades steadily rebound on Trump's talk about AI and energy",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/risk-trades-steadily-rebound-on-trump-s-talk-about-ai-and-energy/",
-      "published": "2026-09-14T17:43:38Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
-      "published": "2026-09-14T17:42:05Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-      "published": "2026-09-14T17:30:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
-      "published": "2026-09-14T17:16:23Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "US seeks \u201cstep-by-step\u201d agreement with Iran citing Pakistani sources",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-seeks-step-by-step-agreement-with-iran-citing-pakistani-sources/",
-      "published": "2026-09-14T16:56:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump: Military conflict with Iran \"will not be long\"",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-military-conflict-with-iran-will-not-be-long/",
-      "published": "2026-09-14T16:36:35Z",
       "tags": [
         "wire"
       ]
