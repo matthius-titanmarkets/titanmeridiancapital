@@ -1,13 +1,267 @@
 {
-  "generated_at": "2026-09-15T12:47:03.392713Z",
+  "generated_at": "2026-09-15T17:28:15.971899Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "The \u2018Magnificent Seven\u2019 has its mojo back and is poised to reach fresh highs",
+      "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "published": "2026-09-15T17:24:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Airfares, gas and hotel prices were up this summer\u2014Americans traveled anyway",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
+      "published": "2026-09-15T17:22:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there\u2019s no spending slowdown in sight.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-magnificent-seven-has-its-mojo-back-and-is-poised-to-reach-fresh-highs-ac2c5cdb?mod=mw_rss_topstories",
-      "published": "2026-09-15T12:36:00Z",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "published": "2026-09-15T17:18:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "published": "2026-09-15T17:17:40Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+      "published": "2026-09-15T17:12:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Scott Bessent defends Treasury intervention, Trump economy in contentious House hearing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+      "published": "2026-09-15T17:11:56Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why investors need to learn the difference between uncertainty and risk in today\u2019s market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
+      "published": "2026-09-15T17:09:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is the two-decade era of low interest rates over? The Fed has to decide.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories",
+      "published": "2026-09-15T17:08:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+      "published": "2026-09-15T17:03:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. crude oil tops $106 as market awaits updates on Saudi pipeline outage",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "published": "2026-09-15T17:01:40Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "published": "2026-09-15T17:01:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "2026-09-15T17:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
+      "published": "2026-09-15T16:53:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What to expect from stocks and bonds if interest rates remain higher for longer, according to investing pros",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/what-higher-for-longer-interest-rates-mean-for-your-investments.html",
+      "published": "2026-09-15T16:48:27Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Institutional investors are dangerously overinvested in stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/institutional-investors-are-dangerously-overinvested-in-stocks-ea889386?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:45:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:30:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Tech stocks haven\u2019t been this cheap since the launch of ChatGPT. Should you buy in?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:26:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Gold is starting to move on something a lot bigger than inflation",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:21:00Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "Wall Street may have gotten the \u2018slower AI\u2019 story all wrong",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+      "published": "2026-09-15T16:14:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cramer says these 2 stocks are still buys, warns against playing Fed rate 'parlor game'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/cramer-says-these-2-stocks-are-still-buys-warns-against-playing-fed-rate-parlor-game.html",
+      "published": "2026-09-15T16:12:59Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "Factory robots long posed a safety threat to human workers. This company says it has solved that problem.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
+      "published": "2026-09-15T16:11:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
+      "published": "2026-09-15T15:37:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mortgage credit scores are evolving. What homebuyers need to know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/mortgage-credit-scores-vantagescore-fico-homebuyers.html",
+      "published": "2026-09-15T15:19:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
+      "published": "2026-09-15T15:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+      "published": "2026-09-15T14:02:53Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Carney: Canada to allow immediate expensing for most new capital investment",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/carney-canada-to-allow-immediate-expensing-for-most-new-capital-investment/",
+      "published": "2026-09-15T13:29:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
+      "published": "2026-09-15T13:19:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. confirms for first time it has weapons deployed in space",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
+      "published": "2026-09-15T13:13:00Z",
       "tags": [
         "wire"
       ]
@@ -31,37 +285,10 @@
       ]
     },
     {
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-      "published": "2026-09-15T12:31:43Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "September US Empire Fed manufacturing +7.6 vs +15.0 expected",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/september-us-empire-fed-manufacturing-7-6-vs-15-0-expected/",
       "published": "2026-09-15T12:31:22Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "2026-09-15T12:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-      "published": "2026-09-15T12:29:01Z",
       "tags": [
         "macro"
       ]
@@ -85,55 +312,10 @@
       ]
     },
     {
-      "title": "Wells Fargo just cut its S&P 500 price target. Will others follow?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
-      "published": "2026-09-15T12:26:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. confirms for first time it has weapons deployed in space",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
-      "published": "2026-09-15T12:15:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "2026-09-15T12:00:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
       "title": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
       "published": "2026-09-15T11:53:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-      "published": "2026-09-15T11:52:33Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "published": "2026-09-15T11:46:00Z",
       "tags": [
         "wire"
       ]
@@ -158,47 +340,22 @@
       ]
     },
     {
-      "title": "It might be time to reconsider this most hated \u2014 and underowned \u2014 asset class, says strategist",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-might-be-time-to-consider-the-most-hated-under-owned-asset-class-says-this-strategist-1b86c059?mod=mw_rss_topstories",
-      "published": "2026-09-15T11:24:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Factory robots long posed a safety threat to human workers. One company says it has solved that problem.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
-      "published": "2026-09-15T11:02:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+      "title": "Treasury yields are hovering above a critical threshold. Here's what it means for stocks",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
-      "published": "2026-09-15T11:00:01Z",
+      "url": "https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html",
+      "published": "2026-09-15T11:19:51Z",
       "tags": [
-        "wire"
+        "macro",
+        "equities"
       ]
     },
     {
-      "title": "Trump\u2019s opposition to AI rules undercuts industry's calls for a slowdown",
+      "title": "Oil and Treasury yields haven\u2019t moved this closely in seven years. That\u2019s bad news for markets",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
-      "published": "2026-09-15T11:00:01Z",
+      "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+      "published": "2026-09-15T10:01:19Z",
       "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jewelry sales are heating up as Gen Z seeks out \u2018little treats\u2019 and the ultra-rich go for chunky gold",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jewelry-sales-are-heating-up-as-gen-z-seeks-out-little-treats-and-the-ultra-rich-go-for-chunky-gold-d4daa34a?mod=mw_rss_topstories",
-      "published": "2026-09-15T11:00:00Z",
-      "tags": [
+        "macro",
         "commodities"
       ]
     },
@@ -207,159 +364,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
       "published": "2026-09-15T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
-      "published": "2026-09-15T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html",
-      "published": "2026-09-15T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wall Street weighs prospect of an AI slowdown on data center buildout",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html",
-      "published": "2026-09-15T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
-      "published": "2026-09-15T10:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "2026-09-15T09:15:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "German investor morale continues to rise in September but less than expected - ZEW survey",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-investor-morale-continues-to-rise-in-september-but-less-than-expected-zew-survey/",
-      "published": "2026-09-15T09:08:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-      "published": "2026-09-15T07:22:29Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
-      "published": "2026-09-15T07:05:14Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-42/",
-      "published": "2026-09-15T06:20:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK labour market cools further as payrolls fall and wage growth slows",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-labour-market-cools-further-as-payrolls-fall-and-wage-growth-slows/",
-      "published": "2026-09-15T06:19:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "10-year Treasury yields hit 5.02% as bond market sends a warning ahead of the Fed",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/10-year-treasury-yields-hit-5-02-as-bond-market-sends-a-warning-ahead-of-the-fed/",
-      "published": "2026-09-15T05:22:54Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Oil holds near highs",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-highs-0/",
-      "published": "2026-09-15T03:43:41Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "China's factories outperform as consumption and investment lag behind",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-s-factories-outperform-as-consumption-and-investment-lag-behind/",
-      "published": "2026-09-15T02:54:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China August retail sales +0.4% y/y (expected +0.6%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-august-retail-sales-0-4-y-y-expected-0-6/",
-      "published": "2026-09-15T02:02:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China home prices keep falling in August as property slump drags on",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-home-prices-keep-falling-in-august-as-property-slump-drags-on/",
-      "published": "2026-09-15T01:38:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
-      "published": "2026-09-15T01:32:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-      "published": "2026-09-15T00:48:36Z",
       "tags": [
         "wire"
       ]
