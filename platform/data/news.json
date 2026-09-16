@@ -1,15 +1,187 @@
 {
-  "generated_at": "2026-09-16T20:21:51.519991Z",
+  "generated_at": "2026-09-16T23:08:19.204423Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
+      "published": "2026-09-16T23:01:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Zealand dollar pops a little on better than expected GDP data",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-dollar-pops-a-little-on-better-than-expected-gdp-data/",
+      "published": "2026-09-16T22:49:14Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Xi-Trump summit set for September 24, but Taiwan arms sale threat looms over it",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/xi-trump-summit-set-for-september-24-but-taiwan-arms-sale-threat-looms-over-it/",
+      "published": "2026-09-16T22:41:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "published": "2026-09-16T22:32:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html",
+      "published": "2026-09-16T22:26:57Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+      "published": "2026-09-16T22:25:22Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "published": "2026-09-16T22:25:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "2026-09-16T22:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "2026-09-16T22:15:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Generac\u2019s stock soars more than 30% after Amazon deal cements company\u2019s status as an AI power player",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+      "published": "2026-09-16T21:56:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+      "published": "2026-09-16T21:50:48Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "published": "2026-09-16T21:40:18Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+      "published": "2026-09-16T21:40:00Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
       "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-      "published": "2026-09-16T20:18:19Z",
+      "published": "2026-09-16T20:54:15Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "2026-09-16T20:53:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why optical stocks Lumentum and Coherent were the day\u2019s biggest S&P 500 gainers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+      "published": "2026-09-16T20:52:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Here\u2019s a sneaky way to play the Fed\u2019s rate increase",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+      "published": "2026-09-16T20:38:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
+      "published": "2026-09-16T20:32:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+      "published": "2026-09-16T20:22:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Zealand Q2 GDP preview as RBNZ weighs timing of its next rate hike",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-q2-gdp-preview-as-rbnz-weighs-timing-of-its-next-rate-hike/",
+      "published": "2026-09-16T20:20:02Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -94,15 +266,6 @@
       ]
     },
     {
-      "title": "Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
-      "published": "2026-09-16T19:31:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Hyperscaler debt signals warning sign, Apollo cautions",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
@@ -139,15 +302,6 @@
       ]
     },
     {
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "2026-09-16T19:10:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
@@ -157,28 +311,10 @@
       ]
     },
     {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "2026-09-16T19:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
       "published": "2026-09-16T18:57:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The smartest money moves to make now that interest rates are going higher",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "2026-09-16T18:38:00Z",
       "tags": [
         "wire"
       ]
@@ -193,21 +329,12 @@
       ]
     },
     {
-      "title": "Micron\u2019s stock could climb 70% higher thanks to a factor that\u2019s been largely absent so far",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
-      "published": "2026-09-16T18:26:00Z",
+      "title": "Here is what changed in the new Fed statement under Warsh",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+      "published": "2026-09-16T18:18:54Z",
       "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "2026-09-16T18:20:00Z",
-      "tags": [
-        "equities"
+        "macro"
       ]
     },
     {
@@ -235,132 +362,6 @@
       "published": "2026-09-16T18:00:00Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "'Science fiction': Transport companies \u2014 the backbone of economy \u2014 are sounding alarm on fuel prices",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "published": "2026-09-16T17:50:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
-      "published": "2026-09-16T17:50:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
-      "published": "2026-09-16T17:32:22Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
-      "published": "2026-09-16T17:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Lagging sector looks poised for a rebound. Here's how Mike Khouw is trading it",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/lagging-sector-looks-poised-for-a-rebound-heres-how-mike-khouw-is-trading-it.html",
-      "published": "2026-09-16T17:21:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "2026-09-16T17:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-      "published": "2026-09-16T16:26:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Classic budgeting rules don\u2019t work anymore \u2014 even if your household makes $100,000. Here\u2019s what does.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
-      "published": "2026-09-16T16:24:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-      "published": "2026-09-16T16:08:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI investors have approached the company about a new funding round",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-      "published": "2026-09-16T15:18:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-      "published": "2026-09-16T14:43:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
-      "published": "2026-09-16T14:31:24Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Costco expands Uber Eats delivery partnership to 47 states",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html",
-      "published": "2026-09-16T14:31:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US July business inventories +0.8% vs +0.3% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-july-business-inventories-0-8-vs-0-3-expected/",
-      "published": "2026-09-16T14:00:54Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
