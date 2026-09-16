@@ -1,8 +1,154 @@
 {
-  "generated_at": "2026-09-16T01:31:25.910448Z",
+  "generated_at": "2026-09-16T07:14:38.160786Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+      "published": "2026-09-16T07:13:34Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+      "published": "2026-09-16T06:53:09Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+      "published": "2026-09-16T06:38:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-43/",
+      "published": "2026-09-16T06:30:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UK headline inflation tops 3% again in August, but core prices remain steady",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-headline-inflation-tops-3-again-in-august-but-core-prices-remain-steady/",
+      "published": "2026-09-16T06:00:12Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Bond yields are spiking, oil is up \u2014 but investors aren\u2019t giving up on stocks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
+      "published": "2026-09-16T05:51:13Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "published": "2026-09-16T05:39:38Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Treasury yields hitting 5% may not break markets now \u2014 but the clock is ticking",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html",
+      "published": "2026-09-16T05:28:01Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+      "published": "2026-09-16T04:47:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
+      "published": "2026-09-16T04:31:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+      "published": "2026-09-16T04:21:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UK CPI preview: Inflation test lands just before the BOE rate decision",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-cpi-preview-inflation-test-lands-just-before-the-boe-rate-decision/",
+      "published": "2026-09-16T04:12:38Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "published": "2026-09-16T04:01:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil steady, crypto weighed",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-crypto-weighed/",
+      "published": "2026-09-16T03:27:16Z",
+      "tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+      "published": "2026-09-16T01:56:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "published": "2026-09-16T01:53:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Australia: Westpac leading index signals softer but improving growth as RBA holds firm",
       "source": "ForexLive",
@@ -13,19 +159,19 @@
       ]
     },
     {
-      "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-      "published": "2026-09-16T00:22:11Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "House to vote on bill to rein in AI data center utility costs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
       "published": "2026-09-16T00:14:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html",
+      "published": "2026-09-16T00:12:29Z",
       "tags": [
         "wire"
       ]
@@ -40,30 +186,12 @@
       ]
     },
     {
-      "title": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
-      "published": "2026-09-15T23:52:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Why de-dollarization discussions are more talk, less action",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
       "published": "2026-09-15T23:28:01Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-      "published": "2026-09-15T23:25:43Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -80,15 +208,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
       "published": "2026-09-15T22:33:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "published": "2026-09-15T22:17:47Z",
       "tags": [
         "wire"
       ]
@@ -247,123 +366,6 @@
       "published": "2026-09-15T20:10:47Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
-      "published": "2026-09-15T19:13:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wells Fargo sees improvement in a key metric \u2014 plus, Lilly gets praise beyond GLP-1s",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/wells-fargo-sees-improvement-in-a-key-metric-plus-lilly-gets-praise-beyond-glp-1s.html",
-      "published": "2026-09-15T19:09:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html",
-      "published": "2026-09-15T19:04:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-      "published": "2026-09-15T18:58:36Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "AI skeptics from Bernie Sanders to Steve Bannon urge action, as Congress, Trump idle",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html",
-      "published": "2026-09-15T18:33:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-      "published": "2026-09-15T18:29:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
-      "published": "2026-09-15T18:08:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump admin. says private sector can solve AI threats as critics balk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
-      "published": "2026-09-15T17:31:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-      "published": "2026-09-15T17:01:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
-      "published": "2026-09-15T16:53:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
-      "published": "2026-09-15T15:37:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
-      "published": "2026-09-15T15:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-      "published": "2026-09-15T14:02:53Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
