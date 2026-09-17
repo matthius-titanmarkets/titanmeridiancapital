@@ -1,13 +1,221 @@
 {
-  "generated_at": "2026-09-17T12:41:20.792926Z",
+  "generated_at": "2026-09-17T17:27:49.618186Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "It\u2019s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "title": "Why growth stocks\u2019 surprising strength may be warning of a market bubble",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "published": "2026-09-17T12:39:00Z",
+      "url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
+      "published": "2026-09-17T17:16:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump says he faces a \u201cbig decision\u201d on whether to launch new attacks on Iran",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-says-he-faces-a-big-decision-on-whether-to-launch-new-attacks-on-iran/",
+      "published": "2026-09-17T17:15:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "published": "2026-09-17T17:14:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stocks stage a comeback after Fed-induced declines \u2014 plus, what's ailing Boeing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html",
+      "published": "2026-09-17T17:12:19Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "published": "2026-09-17T17:02:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "published": "2026-09-17T16:53:14Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "published": "2026-09-17T16:48:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
+      "published": "2026-09-17T16:00:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Book your Thanksgiving and Christmas travel now \u2014 or risk getting priced out of flying home for the holidays",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "2026-09-17T15:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "published": "2026-09-17T15:24:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "2026-09-17T15:22:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "published": "2026-09-17T15:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "2026-09-17T15:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "GM touts new V-8 engines in revived \u2018truck wars\u2019 with Ford, Ram amid lackluster EV sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
+      "published": "2026-09-17T14:39:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "More home builders cut prices as buyers get spooked",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "published": "2026-09-17T14:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "published": "2026-09-17T14:30:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "published": "2026-09-17T14:28:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+      "published": "2026-09-17T14:07:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The smartest money moves to make now that interest rates are going up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "published": "2026-09-17T14:04:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US August pending home sales +0.3% vs -0.6% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-august-pending-home-sales-0-3-vs-0-6-expected/",
+      "published": "2026-09-17T14:01:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What happens if you never buy a house? What renters are gaining \u2014 and giving up.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "published": "2026-09-17T13:48:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "published": "2026-09-17T13:46:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "2026-09-17T13:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
+      "published": "2026-09-17T13:00:28Z",
       "tags": [
         "equities"
       ]
@@ -19,33 +227,6 @@
       "published": "2026-09-17T12:36:54Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-      "published": "2026-09-17T12:36:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. oil falls below $100 as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "published": "2026-09-17T12:34:20Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
-      "published": "2026-09-17T12:32:34Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -94,57 +275,12 @@
       ]
     },
     {
-      "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-17T12:26:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says he told Warsh to vote for hike with the rest of Fed board: 'It's not going to matter'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-      "published": "2026-09-17T12:24:31Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "2026-09-17T12:15:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "2026-09-17T12:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "China privately asks Iran to help rein in Houthis after Saudi appeal, sources say",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-privately-asks-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say/",
       "published": "2026-09-17T12:10:29Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
-      "published": "2026-09-17T12:10:00Z",
-      "tags": [
-        "crypto"
       ]
     },
     {
@@ -168,57 +304,12 @@
       ]
     },
     {
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
-      "published": "2026-09-17T11:54:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Charities say gifts by deceased donors are getting held up at financial firms",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
       "published": "2026-09-17T11:50:08Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "\u2018I just want out\u2019: Why Jeffrey Gundlach is moving his money as far from AI as possible \u2014 and what he\u2019s doing instead",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
-      "published": "2026-09-17T11:41:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How can I get my employees to stop oversharing at work?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
-      "published": "2026-09-17T11:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "2026-09-17T11:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Generac\u2019s stock soars more than 30% after Amazon deal cements company\u2019s status as an AI power player",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-      "published": "2026-09-17T10:55:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -231,31 +322,12 @@
       ]
     },
     {
-      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "2026-09-17T10:15:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "NASCAR CEO Steve O\u2019Donnell talks growth opportunities, possible international expansion",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
       "published": "2026-09-17T10:00:01Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "published": "2026-09-17T09:54:00Z",
-      "tags": [
-        "macro",
-        "equities"
       ]
     },
     {
@@ -269,6 +341,15 @@
       ]
     },
     {
+      "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+      "published": "2026-09-17T08:46:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Long-end Treasury yields stay calm as markets digest the Fed",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/long-end-treasury-yields-stay-calm-as-markets-digest-the-fed/",
@@ -278,91 +359,10 @@
       ]
     },
     {
-      "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
-      "published": "2026-09-17T07:12:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump reaches for tariffs again as EU opens door to Canada 'associate membership'",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-reaches-for-tariffs-again-as-eu-opens-door-to-canada-associate-membership/",
       "published": "2026-09-17T06:42:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-44/",
-      "published": "2026-09-17T06:33:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Putin braces for election stress test as Russians \u2018feel the pain\u2019 of struggling economy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
-      "published": "2026-09-17T05:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Fed hike fallout dominates",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-fallout-dominates/",
-      "published": "2026-09-17T03:36:34Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
-      "published": "2026-09-17T03:35:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan\u2019s corporate leaders sound alarm over weak yen \u2014 even dollar-earners are voicing concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
-      "published": "2026-09-17T03:19:34Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "House advances bill to rein in AI data center utility costs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-      "published": "2026-09-17T00:08:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
-      "published": "2026-09-16T23:40:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
-      "published": "2026-09-16T23:13:45Z",
       "tags": [
         "wire"
       ]
