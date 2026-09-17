@@ -1,24 +1,124 @@
 {
-  "generated_at": "2026-09-17T01:35:36.341712Z",
+  "generated_at": "2026-09-17T07:10:36.590999Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "\u2018You are freed.\u2019 What happened when an OpenAI model began secretly writing notes to itself.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "2026-09-17T07:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump reaches for tariffs again as EU opens door to Canada 'associate membership'",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-reaches-for-tariffs-again-as-eu-opens-door-to-canada-associate-membership/",
+      "published": "2026-09-17T06:42:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-44/",
+      "published": "2026-09-17T06:33:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "published": "2026-09-17T00:55:35Z",
+      "published": "2026-09-17T05:42:46Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "published": "2026-09-17T05:37:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bank of England set to defy Fed\u2019s rate-hike lead, despite rising inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "published": "2026-09-17T05:20:23Z",
+      "tags": [
+        "macro"
       ]
     },
     {
       "title": "Inside India newsletter: The world\u2019s largest real-time payments system will no longer be free for all",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
-      "published": "2026-09-17T00:33:41Z",
+      "published": "2026-09-17T05:10:05Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "A stronger dollar and rising yields: How the Fed\u2019s rate hike could hit global markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+      "published": "2026-09-17T05:03:07Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Putin braces for election stress test as Russians \u2018feel the pain\u2019 of struggling economy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+      "published": "2026-09-17T05:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Fed hike fallout dominates",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-fallout-dominates/",
+      "published": "2026-09-17T03:36:34Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "published": "2026-09-17T03:35:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan\u2019s corporate leaders sound alarm over weak yen \u2014 even dollar-earners are voicing concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
+      "published": "2026-09-17T03:19:34Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "published": "2026-09-17T02:08:02Z",
+      "tags": [
+        "commodities"
       ]
     },
     {
@@ -221,15 +321,6 @@
       ]
     },
     {
-      "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-      "published": "2026-09-16T20:07:55Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
@@ -272,96 +363,6 @@
       "published": "2026-09-16T19:31:11Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
-      "published": "2026-09-16T19:29:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
-      "published": "2026-09-16T19:17:38Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "2026-09-16T19:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hegseth avoids impeachment vote with early House election recess",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
-      "published": "2026-09-16T19:12:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
-      "published": "2026-09-16T19:00:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
-      "published": "2026-09-16T18:57:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-      "published": "2026-09-16T18:33:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here is what changed in the new Fed statement under Warsh",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
-      "published": "2026-09-16T18:18:54Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
-      "published": "2026-09-16T18:18:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published": "2026-09-16T18:00:00Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
