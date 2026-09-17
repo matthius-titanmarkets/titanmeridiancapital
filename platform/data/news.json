@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-09-16T23:08:19.204423Z",
+  "generated_at": "2026-09-17T01:35:36.341712Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Salesforce issues revenue target of over $63 billion for fiscal 2030, beating estimates",
+      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/salesforce-issues-revenue-target-of-63-billion-for-fiscal-2030.html",
-      "published": "2026-09-16T23:01:09Z",
+      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "published": "2026-09-17T00:55:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: The world\u2019s largest real-time payments system will no longer be free for all",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "published": "2026-09-17T00:33:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "House advances bill to rein in AI data center utility costs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "published": "2026-09-17T00:08:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "2026-09-16T23:51:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+      "published": "2026-09-16T23:45:02Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+      "published": "2026-09-16T23:05:48Z",
       "tags": [
         "wire"
       ]
@@ -37,24 +82,6 @@
       "published": "2026-09-16T22:32:18Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html",
-      "published": "2026-09-16T22:26:57Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-      "published": "2026-09-16T22:25:22Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -131,15 +158,6 @@
       ]
     },
     {
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "2026-09-16T20:53:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Why optical stocks Lumentum and Coherent were the day\u2019s biggest S&P 500 gainers",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
@@ -209,15 +227,6 @@
       "published": "2026-09-16T20:07:55Z",
       "tags": [
         "commodities"
-      ]
-    },
-    {
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "published": "2026-09-16T20:00:36Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -350,15 +359,6 @@
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published": "2026-09-16T18:00:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
       "published": "2026-09-16T18:00:00Z",
       "tags": [
         "macro"
