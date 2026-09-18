@@ -1,31 +1,284 @@
 {
-  "generated_at": "2026-09-18T11:36:43.042099Z",
+  "generated_at": "2026-09-18T15:51:21.442538Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+      "published": "2026-09-18T15:41:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What Jim Cramer learned at NYC's flagship Apple Store for the iPhone 18 launch",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/what-cramer-learned-at-nycs-flagship-apple-store-for-iphone-18-launch.html",
+      "published": "2026-09-18T15:40:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A happier retirement contains these 3 elements",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
+      "published": "2026-09-18T15:35:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
+      "published": "2026-09-18T15:33:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+      "published": "2026-09-18T15:18:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sportsbooks remain king this football season, but upstarts are making a run for the money",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/sportsbooks-remain-king-this-football-season-but-upstarts-are-making-a-run-for-the-money.html",
+      "published": "2026-09-18T15:16:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Many young investors can\u2019t afford to invest without their parents\u2019 help",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "published": "2026-09-18T15:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "StubHub shares tick higher for third day in a row after Citi upgrade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/stubhub-shares-tick-higher-for-third-day-in-a-row-after-citi-upgrade.html",
+      "published": "2026-09-18T15:09:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+      "published": "2026-09-18T15:02:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "published": "2026-09-18T15:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "published": "2026-09-18T15:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+      "published": "2026-09-18T14:49:20Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "published": "2026-09-18T14:36:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+      "published": "2026-09-18T14:20:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here\u2019s what a basic index fund would have earned them instead.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
+      "published": "2026-09-18T14:09:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "published": "2026-09-18T14:01:51Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "2026-09-18T13:39:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How can I get my employees to stop oversharing at work?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+      "published": "2026-09-18T13:32:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-      "published": "2026-09-18T11:34:00Z",
+      "published": "2026-09-18T13:30:00Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "2026-09-18T13:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US industrial production 0.0% versus 0.3% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-industrial-production-0-0-versus-0-3-expected/",
+      "published": "2026-09-18T13:15:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
+      "published": "2026-09-18T13:15:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AI stock swings could affect your 401(k). Here\u2019s what retirement savers need to know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
+      "published": "2026-09-18T12:52:14Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why mortgage bonds are set to deteriorate, and possibly hit the whole market, according to this Wall Street expert",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
+      "published": "2026-09-18T12:40:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "2026-09-18T12:34:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "published": "2026-09-18T12:22:00Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
-      "published": "2026-09-18T11:28:45Z",
+      "published": "2026-09-18T12:18:55Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "More Americans are about to get scammed by the coming peptide rush",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
-      "published": "2026-09-18T11:23:00Z",
+      "title": "IRS tax debt agreements have plummeted: 'I've never seen a number that low,' taxpayer advocate says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/irs-offers-in-compromise.html",
+      "published": "2026-09-18T12:15:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-session-wrap-yen-slides-after-boj-hike-as-markets-stay-on-edge/",
+      "published": "2026-09-18T12:07:07Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "published": "2026-09-18T12:04:02Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "published": "2026-09-18T12:03:01Z",
       "tags": [
         "wire"
       ]
@@ -35,69 +288,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/ai-trade-rebound-sparks-flurry-of-unusually-bullish-options-activity.html",
       "published": "2026-09-18T11:20:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "published": "2026-09-18T11:11:26Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
-      "published": "2026-09-18T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Beauty, health and wellness are converging into one retail category",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
-      "published": "2026-09-18T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "published": "2026-09-18T10:55:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Fed\u2019s never been so confident on economic growth. What investors should do now, according to KKR.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
-      "published": "2026-09-18T10:08:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "The Fed hasn\u2019t been this terse since 2007. What a 130-word statement signals for market stability.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
-      "published": "2026-09-18T10:08:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Parents are interfering with teens\u2019 first jobs. Here\u2019s why employers say it can backfire",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/parents-more-involved-in-kids-work-lives.html",
-      "published": "2026-09-18T10:00:01Z",
       "tags": [
         "wire"
       ]
@@ -130,15 +320,6 @@
       ]
     },
     {
-      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term insurance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "2026-09-18T09:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
@@ -148,30 +329,12 @@
       ]
     },
     {
-      "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-      "published": "2026-09-18T08:29:35Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
       "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
       "published": "2026-09-18T08:02:20Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-      "published": "2026-09-18T07:40:29Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -193,174 +356,12 @@
       ]
     },
     {
-      "title": "Pok\u00e9mon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
-      "published": "2026-09-18T04:09:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Asia-Pacific market news: BoJ hike and RBA hawkish tilt",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-boj-hike-and-rba-hawkish-tilt/",
       "published": "2026-09-18T03:37:22Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-      "published": "2026-09-18T03:31:45Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-18T03:09:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "published": "2026-09-17T23:56:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan August inflation: Headline CPI 1.9% y/y (expected 2%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-august-inflation-headline-cpi-y-y-expected-2/",
-      "published": "2026-09-17T23:30:22Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/jim-cramer-fed-rate-hike-investing.html",
-      "published": "2026-09-17T22:58:28Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "New Zealand data, food price inflation in August same as in July",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/new-zealand-data-food-price-inflation-in-august-same-as-in-july/",
-      "published": "2026-09-17T22:56:07Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "House heads home to campaign amid calls for urgent AI action",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "published": "2026-09-17T22:48:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-      "published": "2026-09-17T22:22:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "published": "2026-09-17T21:22:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "2026-09-17T21:22:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "published": "2026-09-17T21:09:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "published": "2026-09-17T21:00:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bill to curb AI data center utility costs hits snag in Senate",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
-      "published": "2026-09-17T20:56:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-      "published": "2026-09-17T20:32:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 17 Sept",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-17-sept/",
-      "published": "2026-09-17T20:31:34Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
-      "published": "2026-09-17T20:27:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "published": "2026-09-17T20:23:00Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
