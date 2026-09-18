@@ -1,13 +1,67 @@
 {
-  "generated_at": "2026-09-18T21:25:11.640248Z",
+  "generated_at": "2026-09-18T23:28:22.379823Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "published": "2026-09-18T23:28:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
-      "published": "2026-09-18T21:20:17Z",
+      "published": "2026-09-18T23:04:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "2026-09-18T23:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "2026-09-18T22:45:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Why investors shouldn\u2019t be spooked by fears of an October stock-market crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "published": "2026-09-18T22:41:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+      "published": "2026-09-18T21:37:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "published": "2026-09-18T21:35:55Z",
       "tags": [
         "wire"
       ]
@@ -113,24 +167,6 @@
       ]
     },
     {
-      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "2026-09-18T19:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "2026-09-18T18:46:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
       "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
@@ -173,15 +209,6 @@
       "published": "2026-09-18T18:28:31Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "2026-09-18T18:26:00Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -311,15 +338,6 @@
       ]
     },
     {
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "published": "2026-09-18T14:36:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
@@ -342,24 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
       "published": "2026-09-18T13:15:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI stock swings could affect your 401(k). Here\u2019s what retirement savers need to know",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
-      "published": "2026-09-18T12:52:14Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
-      "published": "2026-09-18T12:18:55Z",
       "tags": [
         "wire"
       ]
