@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:53:34.978972Z",
+  "generated_at": "2026-09-23T17:42:14.129192Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,91 +7,306 @@
       "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-      "published": "2026-09-23T12:42:03Z",
+      "published": "2026-09-23T17:39:36Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "FDA advisers are reviewing a multicancer-detection test. Medicare coverage could follow.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "2026-09-23T12:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
+      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
-      "published": "2026-09-23T12:35:15Z",
+      "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+      "published": "2026-09-23T17:38:47Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "HSBC addresses the concerns that are gripping the stock market \u2014 and dismisses most of them",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
-      "published": "2026-09-23T12:32:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here\u2019s where he\u2019s investing.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "2026-09-23T12:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury yields little changed as oil price oscillates",
+      "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
-      "published": "2026-09-23T12:20:55Z",
+      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+      "published": "2026-09-23T17:25:26Z",
       "tags": [
-        "macro",
-        "commodities"
+        "macro"
       ]
     },
     {
-      "title": "McDonald's will spend big on restaurant upgrades, training to drive growth",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "2026-09-23T17:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "2026-09-23T17:16:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "2026-09-23T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+      "published": "2026-09-23T17:14:13Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
-      "published": "2026-09-23T12:19:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "2026-09-23T12:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Royal Caribbean agrees to take 50% equity stake in Sandals for $3 billion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-      "published": "2026-09-23T12:09:19Z",
+      "published": "2026-09-23T17:09:22Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
-      "published": "2026-09-23T12:00:00Z",
+      "title": "US treasury sells $70 billion of 5 year notes at a high yield of 5.033%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-5-033/",
+      "published": "2026-09-23T17:07:38Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "US yields move to multi year highs as the wall of worry is growing.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-yields-move-to-multi-year-highs-as-the-wall-of-worry-is-growing/",
+      "published": "2026-09-23T17:01:43Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "2026-09-23T17:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Microsoft has \u2018clearly turned the corner.\u2019 How its stock can chart more gains.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
+      "published": "2026-09-23T16:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "published": "2026-09-23T16:56:57Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "10 places where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "published": "2026-09-23T16:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+      "published": "2026-09-23T16:47:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
+      "published": "2026-09-23T16:34:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I don\u2019t consider him our responsibility,\u2019 but my wife wants to give money to a relative starting college. Please help.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-wants-to-send-money-to-our-grand-nephew-in-college-how-can-i-push-back-without-starting-a-fight-9284311a?mod=mw_rss_topstories",
+      "published": "2026-09-23T16:33:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta is having a ChatGPT moment with Muse. What is it and what makes it so special",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/meta-is-having-a-chatgpt-moment-with-muse-what-is-it-and-what-makes-it-so-special.html",
+      "published": "2026-09-23T16:22:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "3 questions to ask your parents about their estate plan \u2014 other than \u2018How much money do you have?\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
+      "published": "2026-09-23T16:18:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "published": "2026-09-23T16:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security stopped our checks due to a hacked bank account. We\u2019re relying on our church for help. What can we do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "published": "2026-09-23T15:53:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
+      "published": "2026-09-23T15:37:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+      "published": "2026-09-23T15:30:23Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Surging yields and big bond losses may offer sizable tax savings opportunity to investors right now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+      "published": "2026-09-23T15:23:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Affordability concerns loom large for advisors' clients ahead of midterm elections, survey finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/social-security-medicare-affordability-cfp-survey.html",
+      "published": "2026-09-23T15:18:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+      "published": "2026-09-23T15:11:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iranian official says reopening the Strait of Hormuz was discussed in U.S. talks",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iranian-official-says-reopening-the-strait-of-hormuz-was-discussed-in-u-s-talks/",
+      "published": "2026-09-23T14:59:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iranian president says Iran is open to diplomacy but will defend its interests in Hormuz",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iranian-president-says-iran-is-open-to-diplomacy-but-will-defend-its-interests-in-hormuz/",
+      "published": "2026-09-23T14:53:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran says Trump\u2019s threats a sign of \u2018strategic desperation,\u2019 floats conditions for Hormuz reopening",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "published": "2026-09-23T14:47:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Zelenskyy says Ukraine ready for \u2018energy ceasefire,\u2019 calls for trilateral meeting with Putin, Trump",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+      "published": "2026-09-23T14:41:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US September S&P Global flash services PMI 58.7 vs 56.0 expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-september-s-p-global-flash-services-pmi-58-7-vs-56-0-expected/",
+      "published": "2026-09-23T13:51:27Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
+      "published": "2026-09-23T13:29:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "72% of Americans would slow financial progress to enjoy life now, SoFi survey finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/lifemaxxing-financial-goals-spending-saving.html",
+      "published": "2026-09-23T13:19:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Wednesday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "published": "2026-09-23T13:08:43Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -106,39 +321,12 @@
       ]
     },
     {
-      "title": "Iran says Trump\u2019s threats a sign of \u2018strategic desperation,\u2019 floats conditions for Hormuz reopening",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-23T11:56:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
-      "published": "2026-09-23T11:51:23Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury secretary says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
       "published": "2026-09-23T11:49:49Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Zelenskyy says Ukraine ready for \u2018energy ceasefire,\u2019 calls for trilateral meeting with Putin, Trump",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
-      "published": "2026-09-23T11:48:04Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -151,66 +339,12 @@
       ]
     },
     {
-      "title": "Why CoreWeave\u2019s beaten-down stock could be due for a major comeback",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-coreweaves-beaten-down-stock-could-be-due-for-a-major-comeback-46068534?mod=mw_rss_topstories",
-      "published": "2026-09-23T11:18:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "2026-09-23T11:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Financial stocks are falling as rates rise. Why that\u2019s a problem for the broader market.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-falling-as-rates-rise-why-thats-a-problem-for-the-broader-market-70bd9b04?mod=mw_rss_topstories",
-      "published": "2026-09-23T11:14:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "2026-09-23T10:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "2026-09-23T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Texas turning blue may hinge on Democrats harnessing data center opposition",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html",
       "published": "2026-09-23T10:00:01Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-      "published": "2026-09-23T09:50:27Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -227,143 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
       "published": "2026-09-23T09:22:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-      "published": "2026-09-23T08:42:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK September flash services PMI 51.7 vs 52.0 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-september-flash-services-pmi-xx-vs-52-0-expected/",
-      "published": "2026-09-23T08:30:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Eurozone PMI jumps as services surge, price pressures keep ECB October rate hike in play",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eurozone-pmi-jumps-as-services-surge-price-pressures-keep-ecb-october-rate-hike-in-play/",
-      "published": "2026-09-23T08:01:00Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
-      "published": "2026-09-23T07:33:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Germany September flash manufacturing PMI 53.8 vs 54.0 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-september-flash-manufacturing-pmi-xx-vs-54-0-expected/",
-      "published": "2026-09-23T07:30:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "France PMI jumps back into expansion in September but inflation pressures complicate the ECB outlook",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/france-pmi-jumps-back-into-expansion-in-september-but-inflation-pressures-complicate-the-ecb-outlook/",
-      "published": "2026-09-23T07:16:03Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-48/",
-      "published": "2026-09-23T06:36:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Euro area PMIs put inflation pressures and the ECB rate path in focus",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/euro-area-pmis-put-inflation-pressures-and-the-ecb-rate-path-in-focus/",
-      "published": "2026-09-23T06:06:19Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-      "published": "2026-09-23T05:49:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "ADB holds China growth forecast at 4.6%, cuts inflation view as demand softens",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/adb-holds-china-growth-forecast-at-4-6-cuts-inflation-view-as-demand-softens/",
-      "published": "2026-09-23T03:54:52Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-slips-as-us-and-iran-hold-qatar-mediated-talks/",
-      "published": "2026-09-23T03:44:41Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "In photos: Key takeaways from day one of the UN General Assembly",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
-      "published": "2026-09-23T03:13:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australia jobs preview: CBA sees 15,000 gain, unemployment steady at 4.5%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-jobs-preview-cba-sees-15-000-gain-unemployment-steady-at-4-5/",
-      "published": "2026-09-23T03:05:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australia jobs preview: employment seen rebounding in August, jobless rate at 4.5%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-jobs-preview-employment-seen-rebounding-in-august-jobless-rate-at-4-5/",
-      "published": "2026-09-23T02:08:07Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
-      "published": "2026-09-23T00:58:16Z",
       "tags": [
         "wire"
       ]
