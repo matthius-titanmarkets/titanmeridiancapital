@@ -1,13 +1,40 @@
 {
-  "generated_at": "2026-09-22T23:29:19.935548Z",
+  "generated_at": "2026-09-23T01:42:41.340327Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "published": "2026-09-22T23:43:48Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "published": "2026-09-22T23:43:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/australia-flash-pmi-growth-slows-to-q3-low-as-factories-contract-and-firms-cut-jobs/",
       "published": "2026-09-22T23:07:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+      "published": "2026-09-22T23:00:01Z",
       "tags": [
         "wire"
       ]
@@ -184,30 +211,12 @@
       ]
     },
     {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "published": "2026-09-22T20:07:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Americas market news wrap: US and Iran officials meet at UN",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-and-iran-officials-meet-at-un/",
       "published": "2026-09-22T20:07:02Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "published": "2026-09-22T19:59:05Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -351,15 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
       "published": "2026-09-22T14:05:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US September Richmond composite index -2 vs +4 prior",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-september-richmond-composite-index-2-vs-4-prior/",
-      "published": "2026-09-22T14:01:45Z",
       "tags": [
         "wire"
       ]
