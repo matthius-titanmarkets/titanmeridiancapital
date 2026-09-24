@@ -1,8 +1,107 @@
 {
-  "generated_at": "2026-09-23T23:51:07.932530Z",
+  "generated_at": "2026-09-24T03:13:34.778525Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Japan's 10-year bond yield hits 30-year high following sell-off in Treasurys",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+      "published": "2026-09-24T02:53:11Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "published": "2026-09-24T02:50:12Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "published": "2026-09-24T02:12:15Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "published": "2026-09-24T01:56:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AUD little changed: Australia jobless rate hits 4.6%, highest since 2021, participation outpaces jobs beat",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/aud-little-changed-australia-jobless-rate-hits-4-6-highest-since-2021-participation-outpaces-jobs-beat/",
+      "published": "2026-09-24T01:53:44Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "published": "2026-09-24T01:53:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Heads up: China markets shut Friday for Mid-Autumn Festival, with week-long Golden Week break ahead",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/heads-up-china-markets-shut-friday-for-mid-autumn-festival-with-week-long-golden-week-break-ahead/",
+      "published": "2026-09-24T01:35:30Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Australian jobs data for August 2026. Unemployment rate 4.6% (expected 4.5%, prior 4.5%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australian-jobs-data-for-august-2026-unemployment-rate-4-6-expected-4-5-prior-4-5/",
+      "published": "2026-09-24T01:30:10Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+      "published": "2026-09-24T01:16:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan flash PMI: growth slows to four-month low as price pressures stay intense",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-flash-pmi-growth-slows-to-four-month-low-as-price-pressures-stay-intense/",
+      "published": "2026-09-24T00:48:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Apple set to take a bigger bite of the world\u2019s second-largest smartphone market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+      "published": "2026-09-24T00:01:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
       "source": "CNBC Markets",
@@ -13,28 +112,10 @@
       ]
     },
     {
-      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-      "published": "2026-09-23T23:39:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "published": "2026-09-23T23:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
-      "published": "2026-09-23T22:45:50Z",
       "tags": [
         "wire"
       ]
@@ -112,15 +193,6 @@
       ]
     },
     {
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "published": "2026-09-23T21:26:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
@@ -134,15 +206,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
       "published": "2026-09-23T21:13:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "published": "2026-09-23T21:11:28Z",
       "tags": [
         "macro"
       ]
@@ -298,69 +361,6 @@
       "published": "2026-09-23T17:39:36Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-      "published": "2026-09-23T17:38:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
-      "published": "2026-09-23T17:09:22Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "US treasury sells $70 billion of 5 year notes at a high yield of 5.033%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-5-033/",
-      "published": "2026-09-23T17:07:38Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "US yields move to multi year highs as the wall of worry is growing.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-yields-move-to-multi-year-highs-as-the-wall-of-worry-is-growing/",
-      "published": "2026-09-23T17:01:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
-      "published": "2026-09-23T16:34:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
-      "published": "2026-09-23T15:37:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Affordability concerns loom large for advisors' clients ahead of midterm elections, survey finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/social-security-medicare-affordability-cfp-survey.html",
-      "published": "2026-09-23T15:18:45Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
