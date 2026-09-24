@@ -1,31 +1,258 @@
 {
-  "generated_at": "2026-09-24T18:32:23.893647Z",
+  "generated_at": "2026-09-24T21:58:01.869349Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-      "published": "2026-09-24T18:30:00Z",
+      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+      "published": "2026-09-24T21:46:05Z",
       "tags": [
-        "wire"
+        "crypto"
       ]
     },
     {
-      "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "published": "2026-09-24T18:29:00Z",
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "published": "2026-09-24T21:40:19Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "It\u2019s no secret that Social Security and Medicare are on the ropes. Here\u2019s what to do instead of panicking.",
+      "title": "Why investors aren\u2019t buying yet another attempt by the Treasury to calm the rattled bond market",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
-      "published": "2026-09-24T18:24:00Z",
+      "url": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+      "published": "2026-09-24T21:23:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+      "published": "2026-09-24T21:17:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+      "published": "2026-09-24T20:57:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump and Xi buy two more months of trade truce, leaving tariffs and rare earths in limbo",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-and-xi-buy-two-more-months-of-trade-truce-leaving-tariffs-and-rare-earths-in-limbo/",
+      "published": "2026-09-24T20:56:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Costco earnings beat expectations, thanks to tariff refunds",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "published": "2026-09-24T20:54:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Here\u2019s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+      "published": "2026-09-24T20:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-sept-usd-and-treasury-yields-climb-as-iran-headlines-lift-stocks-off-their-lows/",
+      "published": "2026-09-24T20:39:59Z",
+      "tags": [
+        "macro",
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Senate narrowly votes down resolution calling for end to Iran war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
+      "published": "2026-09-24T20:36:15Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+      "published": "2026-09-24T20:25:07Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Stop trying to beat the market: Even the richest Americans can\u2019t do it consistently",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
+      "published": "2026-09-24T20:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle\u2019s stock is falling as investors fear a data-center setback",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "2026-09-24T20:12:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
+      "published": "2026-09-24T20:11:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock drops 3%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "published": "2026-09-24T20:00:31Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "KFC debuts Open House restaurant in Texas to test new customer experiences",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/kfc-open-house-concept-texas.html",
+      "published": "2026-09-24T19:47:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "White House allows blocked reporters in after judge lifts Trump ban",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
+      "published": "2026-09-24T19:46:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
+      "published": "2026-09-24T19:42:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "I\u2019m afraid of \u2018starving to death.\u2019 Social Security stopped our checks due to a hacked bank account. What can we do?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+      "published": "2026-09-24T19:40:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "published": "2026-09-24T19:37:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What must happen for Boeing stock to get unstuck. The company needs, at least, to do its part",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
+      "published": "2026-09-24T19:27:25Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The government canceled her student loans due to a scam \u2014 but $72,000 is still on her credit report",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
+      "published": "2026-09-24T19:19:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Pezeshkian wants a deal with the US before the midterm elections, NBC reports",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-s-pezeshkian-wants-a-deal-with-the-us-before-the-midterm-elections-nbc-reports-4/",
+      "published": "2026-09-24T19:11:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The case against buying and holding stocks for the long term",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
+      "published": "2026-09-24T19:06:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
+      "published": "2026-09-24T18:46:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
+      "published": "2026-09-24T18:38:44Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "I spend my time and money caring for my aging mother \u2014 yet she gave my brother $100,000. Should I pull back?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "published": "2026-09-24T18:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "published": "2026-09-24T18:30:00Z",
       "tags": [
         "wire"
       ]
@@ -49,75 +276,12 @@
       ]
     },
     {
-      "title": "Social Security stopped our checks due to a hacked bank account. We\u2019re relying on our church for help. What can we do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "2026-09-24T18:17:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
-      "published": "2026-09-24T18:07:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-      "published": "2026-09-24T18:05:37Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "White House allows blocked reporters in after judge lifts Trump ban",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
-      "published": "2026-09-24T18:02:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
-      "published": "2026-09-24T17:56:42Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
-      "published": "2026-09-24T17:47:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html",
       "published": "2026-09-24T17:45:53Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
-      "published": "2026-09-24T17:44:32Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -130,30 +294,12 @@
       ]
     },
     {
-      "title": "\u2018We made a bad, bad decision\u2019: I learned the hard way how to manage my aging father\u2019s money",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "2026-09-24T17:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
       "published": "2026-09-24T17:12:04Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Meta nears first new high in a year as Muse success showcases winning AI strategy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html",
-      "published": "2026-09-24T17:07:45Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -170,60 +316,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/24/student-loan-borrowers-sue-credit-reports-forgiven-loans.html",
       "published": "2026-09-24T16:49:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock sinks 4%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-      "published": "2026-09-24T16:48:38Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "2026-09-24T16:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oracle\u2019s stock is falling as investors fear a data-center setback",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "2026-09-24T16:42:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "published": "2026-09-24T16:36:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-      "published": "2026-09-24T16:33:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "2026-09-24T16:30:00Z",
       "tags": [
         "wire"
       ]
@@ -256,15 +348,6 @@
       ]
     },
     {
-      "title": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-      "published": "2026-09-24T16:06:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
@@ -274,92 +357,10 @@
       ]
     },
     {
-      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-      "published": "2026-09-24T15:41:37Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
       "published": "2026-09-24T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump and Xi meet at the White House: What traders should watch",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-and-xi-meet-at-the-white-house-what-traders-should-watch/",
-      "published": "2026-09-24T14:38:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "published": "2026-09-24T14:37:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html",
-      "published": "2026-09-24T14:36:13Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Big business warns Trump against diesel export ban in joint letter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
-      "published": "2026-09-24T14:23:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-      "published": "2026-09-24T14:16:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US new-home sales for the month of August 0.684 million versus 0.615 million estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-new-home-sales-for-the-month-of-august-0-684-million-versus-0-615-million-estimate/",
-      "published": "2026-09-24T14:01:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-      "published": "2026-09-24T13:49:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
-      "published": "2026-09-24T12:40:27Z",
       "tags": [
         "wire"
       ]
