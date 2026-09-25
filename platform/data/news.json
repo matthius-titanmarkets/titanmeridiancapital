@@ -1,15 +1,150 @@
 {
-  "generated_at": "2026-09-25T05:12:11.062831Z",
+  "generated_at": "2026-09-25T10:23:58.186847Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict",
+      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
-      "published": "2026-09-25T05:10:38Z",
+      "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
+      "published": "2026-09-25T10:00:01Z",
       "tags": [
-        "commodities"
+        "wire"
+      ]
+    },
+    {
+      "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
+      "published": "2026-09-25T10:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Pharma stock soars 150% on injectables deal with Wegovy maker Novo",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/wegovy-novo-nordisk-obesity-drugs.html",
+      "published": "2026-09-25T09:58:27Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company\u2019s stock soaring",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+      "published": "2026-09-25T09:11:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "published": "2026-09-25T09:03:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The low-key California property portfolio of \u2018Wednesday\u2019 star Jenna Ortega",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories",
+      "published": "2026-09-25T09:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+      "published": "2026-09-25T08:42:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+      "published": "2026-09-25T08:26:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Treasury yields tick higher as global bond rout slows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
+      "published": "2026-09-25T08:08:03Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
+      "published": "2026-09-25T07:09:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Spain Q2 GDP confirmed at 0.7% as domestic demand keeps growth resilient",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/spain-q2-gdp-confirmed-at-0-7-as-domestic-demand-keeps-growth-resilient/",
+      "published": "2026-09-25T07:00:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's who attended the Trump-Xi state dinner",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "published": "2026-09-25T06:30:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-50/",
+      "published": "2026-09-25T06:28:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "published": "2026-09-25T06:13:35Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "German consumer climate darkens ahead of October as higher energy costs bite",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/german-consumer-climate-darkens-ahead-of-october-as-higher-energy-costs-bite/",
+      "published": "2026-09-25T06:00:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
+      "published": "2026-09-25T05:59:34Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -175,15 +310,6 @@
       ]
     },
     {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "published": "2026-09-24T23:13:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
@@ -220,15 +346,6 @@
       ]
     },
     {
-      "title": "Trump, Xi to attend state dinner after White House meeting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "published": "2026-09-24T22:09:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
@@ -244,125 +361,6 @@
       "published": "2026-09-24T21:46:05Z",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "title": "Why investors aren\u2019t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "published": "2026-09-24T21:23:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-      "published": "2026-09-24T20:57:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump and Xi buy two more months of trade truce, leaving tariffs and rare earths in limbo",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-and-xi-buy-two-more-months-of-trade-truce-leaving-tariffs-and-rare-earths-in-limbo/",
-      "published": "2026-09-24T20:56:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-      "published": "2026-09-24T20:50:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 24 Sept: USD and Treasury yields climb as Iran headlines lift stocks off their lows",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-sept-usd-and-treasury-yields-climb-as-iran-headlines-lift-stocks-off-their-lows/",
-      "published": "2026-09-24T20:39:59Z",
-      "tags": [
-        "macro",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Senate narrowly votes down resolution calling for end to Iran war",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
-      "published": "2026-09-24T20:36:15Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-      "published": "2026-09-24T20:25:07Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Stop trying to beat the market: Even the richest Americans can\u2019t do it consistently",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
-      "published": "2026-09-24T20:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock drops 3%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-      "published": "2026-09-24T20:00:31Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "KFC debuts Open House restaurant in Texas to test new customer experiences",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/kfc-open-house-concept-texas.html",
-      "published": "2026-09-24T19:47:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "White House allows blocked reporters in after judge lifts Trump ban",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
-      "published": "2026-09-24T19:46:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran\u2019s Pezeshkian wants a deal with the US before the midterm elections, NBC reports",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-s-pezeshkian-wants-a-deal-with-the-us-before-the-midterm-elections-nbc-reports-4/",
-      "published": "2026-09-24T19:11:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-      "published": "2026-09-24T18:46:46Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
