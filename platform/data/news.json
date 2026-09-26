@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-09-25T22:39:07.362348Z",
+  "generated_at": "2026-09-26T01:11:20.199777Z",
   "mode": "live",
-  "errors": [],
+  "errors": [
+    "Federal Reserve: HTTP Error 404: Not Found"
+  ],
   "items": [
+    {
+      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "2026-09-26T00:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "2026-09-25T23:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+      "published": "2026-09-25T23:28:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
       "source": "MarketWatch",
@@ -26,15 +55,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "2026-09-25T21:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-      "published": "2026-09-25T21:41:18Z",
       "tags": [
         "wire"
       ]
@@ -121,24 +141,6 @@
       ]
     },
     {
-      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-      "published": "2026-09-25T20:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "published": "2026-09-25T20:19:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "10-year Treasury yield is little changed to end a volatile week",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
@@ -152,15 +154,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
       "published": "2026-09-25T19:59:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump\u2019s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
-      "published": "2026-09-25T19:45:00Z",
       "tags": [
         "wire"
       ]
@@ -359,6 +352,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
       "published": "2026-09-25T12:51:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "USTR's Greer: We have reached agreements with China on a sub-set of goods we can trade",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/ustr-s-greer-we-have-reached-agreements-with-china-on-a-sub-set-of-goods-we-can-trade/",
+      "published": "2026-09-25T12:47:20Z",
       "tags": [
         "wire"
       ]
