@@ -1,33 +1,295 @@
 {
-  "generated_at": "2026-09-28T18:27:18.376431Z",
+  "generated_at": "2026-09-28T23:26:29.796218Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "published": "2026-09-28T23:19:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "published": "2026-09-28T23:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "2026-09-28T23:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+      "published": "2026-09-28T22:49:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "2026-09-28T22:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "2026-09-28T22:35:00Z",
+      "tags": [
+        "fx",
+        "crypto"
+      ]
+    },
+    {
+      "title": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn\u2019t over",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
+      "published": "2026-09-28T22:27:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "published": "2026-09-28T22:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+      "published": "2026-09-28T21:52:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
+      "published": "2026-09-28T21:43:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+      "published": "2026-09-28T21:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "published": "2026-09-28T21:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "MongoDB\u2019s stock is down nearly 20% as CEO decamps to Meta",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "published": "2026-09-28T21:23:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "published": "2026-09-28T21:20:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "This AI startup has only 14 employees \u2014 and a fresh $10 billion valuation",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+      "published": "2026-09-28T21:19:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+      "published": "2026-09-28T21:08:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-09-28T21:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "published": "2026-09-28T20:49:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+      "published": "2026-09-28T20:43:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
+      "published": "2026-09-28T20:43:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "published": "2026-09-28T20:36:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Treasury yields rise as march to multiyear highs continues",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
-      "published": "2026-09-28T18:26:01Z",
+      "published": "2026-09-28T20:31:36Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
-      "published": "2026-09-28T18:15:00Z",
+      "title": "Economic and event calendar in Asia Tuesday, September 29, 2026: RBA rate hike expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-september-29-2026-rba-rate-hike-expected/",
+      "published": "2026-09-28T20:27:19Z",
       "tags": [
-        "wire"
+        "macro"
       ]
     },
     {
       "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-      "published": "2026-09-28T18:10:02Z",
+      "published": "2026-09-28T20:23:01Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+      "published": "2026-09-28T20:16:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Oil prices bounce around on Iran headlines, yields rise",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-prices-bounce-around-on-iran-headlines-yields-rise/",
+      "published": "2026-09-28T20:14:07Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+      "published": "2026-09-28T20:13:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Senate tees up college sports bill aimed at regulating NIL deals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "published": "2026-09-28T20:05:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+      "published": "2026-09-28T20:01:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "IRS hires Joseph Velli to help administer Trump accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
+      "published": "2026-09-28T19:30:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices off highs after reports Saudi pipeline ramping back up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "published": "2026-09-28T19:12:45Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trump: We will win the Iran war very soon and gas prices will come tumbling down",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-we-will-win-the-iran-war-very-soon-and-gas-prices-will-come-tumbling-down/",
+      "published": "2026-09-28T18:51:12Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -67,124 +329,6 @@
       ]
     },
     {
-      "title": "Oil prices off highs after reports Saudi pipeline ramping back up",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "published": "2026-09-28T17:40:23Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Trump to announce plan for $15 billion steel plant, would be largest in U.S. history",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-      "published": "2026-09-28T17:39:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "2026-09-28T17:30:00Z",
-      "tags": [
-        "fx",
-        "crypto"
-      ]
-    },
-    {
-      "title": "IRS hires Joseph Velli to help administer Trump accounts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
-      "published": "2026-09-28T17:26:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX sends its Starship rocket to orbit for the first time \u2014 but not without some hiccups",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-      "published": "2026-09-28T17:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Senate tees up college sports bill aimed at regulating NIL deals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
-      "published": "2026-09-28T17:17:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "2026-09-28T17:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "MongoDB\u2019s stock is down nearly 20% as CEO decamps to Meta",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "published": "2026-09-28T17:10:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Micron has a chance to set the record straight with its earnings report",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
-      "published": "2026-09-28T16:58:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Jim Cramer says Nvidia\u2019s record buyback could \u2018change the trajectory\u2019 of the stock",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/jim-cramer-says-nvidias-record-buyback-could-change-the-trajectory-of-the-stock.html",
-      "published": "2026-09-28T16:44:44Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
-      "published": "2026-09-28T16:37:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia is right: Its stock is a bargain by this measure",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
-      "published": "2026-09-28T16:33:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Whole Foods co-founder shares tips for launching a successful second act: 'I'm relearning some lessons'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/whole-foods-co-founders-3-tips-for-launching-a-successful-second-act.html",
-      "published": "2026-09-28T16:26:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump prepared to ease sanctions and release frozen funds for nuclear progress - report",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-prepared-to-ease-sanctions-and-release-frozen-funds-for-nuclear-progress-report/",
@@ -212,157 +356,12 @@
       ]
     },
     {
-      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they\u2019re building wealth.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
-      "published": "2026-09-28T15:13:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
       "published": "2026-09-28T15:04:31Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Iran foreign minister's stay in NY has not been extended",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-foreign-minister-s-stay-in-ny-has-not-been-extended/",
-      "published": "2026-09-28T15:02:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "2026-09-28T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "published": "2026-09-28T14:57:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Nvidia share buyback plan gets $150 billion boost",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
-      "published": "2026-09-28T14:46:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "September Dallas Fed manufacturing business index 9.8 vs 11.6 prior",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/september-dallas-fed-manufacturing-business-index-9-8-vs-11-6-prior/",
-      "published": "2026-09-28T14:32:19Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
-      "published": "2026-09-28T14:26:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
-      "published": "2026-09-28T14:14:45Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-      "published": "2026-09-28T14:03:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
-      "published": "2026-09-28T13:24:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
-      "published": "2026-09-28T13:09:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil falls on reports of renewed US-Iran talks focused on amended version of Iran's seven-day proposal",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/oil-falls-on-reports-of-renewed-us-iran-talks-focused-on-amended-version-of-iran-s-seven-day-proposal/",
-      "published": "2026-09-28T12:27:27Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Higher yields hit gold as oil rallies and tech futures fall",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-higher-yields-hit-gold-as-oil-rallies-and-tech-futures-fall/",
-      "published": "2026-09-28T11:55:49Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Best Broker or Prop Firm? Vote in the Finance Magnates Awards 2026",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/best-broker-or-prop-firm-vote-in-the-finance-magnates-awards-2026/",
-      "published": "2026-09-28T10:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
-      "published": "2026-09-28T08:31:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japanese yen jumps as top currency diplomat Mimura reiterates strong currency alliance with the US",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japanese-yen-jumps-as-top-currency-diplomat-mimura-reiterates-strong-currency-alliance-with-the-us/",
-      "published": "2026-09-28T08:17:49Z",
-      "tags": [
-        "fx"
       ]
     }
   ]
