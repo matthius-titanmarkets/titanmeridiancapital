@@ -1,42 +1,341 @@
 {
-  "generated_at": "2026-09-28T10:34:48.943701Z",
+  "generated_at": "2026-09-28T18:27:18.376431Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "title": "Treasury yields rise as march to multiyear highs continues",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+      "published": "2026-09-28T18:26:01Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The U.S. and China agree to $60 billion in tariff cuts on products like dolls and fireworks. Rare earths remain a sticking point.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
+      "published": "2026-09-28T18:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+      "published": "2026-09-28T18:10:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+      "published": "2026-09-28T18:00:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "published": "2026-09-28T17:53:31Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump set to speak in the Oval Office",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-set-to-speak-in-the-oval-office/",
+      "published": "2026-09-28T17:51:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
+      "published": "2026-09-28T17:48:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices off highs after reports Saudi pipeline ramping back up",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "published": "2026-09-28T10:29:56Z",
+      "published": "2026-09-28T17:40:23Z",
       "tags": [
         "commodities"
       ]
     },
     {
-      "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
+      "title": "Trump to announce plan for $15 billion steel plant, would be largest in U.S. history",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
-      "published": "2026-09-28T10:22:33Z",
+      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "published": "2026-09-28T17:39:53Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "2026-09-28T17:30:00Z",
+      "tags": [
+        "fx",
+        "crypto"
+      ]
+    },
+    {
+      "title": "IRS hires Joseph Velli to help administer Trump accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/irs-trump-accounts-joseph-velli.html",
+      "published": "2026-09-28T17:26:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX sends its Starship rocket to orbit for the first time \u2014 but not without some hiccups",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+      "published": "2026-09-28T17:21:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Senate tees up college sports bill aimed at regulating NIL deals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "published": "2026-09-28T17:17:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-09-28T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "MongoDB\u2019s stock is down nearly 20% as CEO decamps to Meta",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "published": "2026-09-28T17:10:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Micron has a chance to set the record straight with its earnings report",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+      "published": "2026-09-28T16:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Jim Cramer says Nvidia\u2019s record buyback could \u2018change the trajectory\u2019 of the stock",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/jim-cramer-says-nvidias-record-buyback-could-change-the-trajectory-of-the-stock.html",
+      "published": "2026-09-28T16:44:44Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
+      "published": "2026-09-28T16:37:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia is right: Its stock is a bargain by this measure",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+      "published": "2026-09-28T16:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Whole Foods co-founder shares tips for launching a successful second act: 'I'm relearning some lessons'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/whole-foods-co-founders-3-tips-for-launching-a-successful-second-act.html",
+      "published": "2026-09-28T16:26:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump prepared to ease sanctions and release frozen funds for nuclear progress - report",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-prepared-to-ease-sanctions-and-release-frozen-funds-for-nuclear-progress-report/",
+      "published": "2026-09-28T16:18:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
+      "published": "2026-09-28T16:02:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-      "published": "2026-09-28T10:17:39Z",
+      "published": "2026-09-28T16:01:50Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they\u2019re building wealth.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "2026-09-28T10:15:00Z",
+      "url": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+      "published": "2026-09-28T15:13:00Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+      "published": "2026-09-28T15:04:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Iran foreign minister's stay in NY has not been extended",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-foreign-minister-s-stay-in-ny-has-not-been-extended/",
+      "published": "2026-09-28T15:02:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "2026-09-28T15:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:57:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "published": "2026-09-28T14:46:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "September Dallas Fed manufacturing business index 9.8 vs 11.6 prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/september-dallas-fed-manufacturing-business-index-9-8-vs-11-6-prior/",
+      "published": "2026-09-28T14:32:19Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
+      "published": "2026-09-28T14:26:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+      "published": "2026-09-28T14:14:45Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "published": "2026-09-28T14:03:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "published": "2026-09-28T13:24:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
+      "published": "2026-09-28T13:09:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil falls on reports of renewed US-Iran talks focused on amended version of Iran's seven-day proposal",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oil-falls-on-reports-of-renewed-us-iran-talks-focused-on-amended-version-of-iran-s-seven-day-proposal/",
+      "published": "2026-09-28T12:27:27Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "investingLive European session wrap: Higher yields hit gold as oil rallies and tech futures fall",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-session-wrap-higher-yields-hit-gold-as-oil-rallies-and-tech-futures-fall/",
+      "published": "2026-09-28T11:55:49Z",
+      "tags": [
+        "commodities",
+        "fx"
       ]
     },
     {
@@ -49,82 +348,10 @@
       ]
     },
     {
-      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "published": "2026-09-28T10:11:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
-      "published": "2026-09-28T09:56:44Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
-      "published": "2026-09-28T09:32:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "\u2018I feel like he\u2019s holding me back\u2019: I have $8 million. My husband resents my success. Should I pay for more things?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "2026-09-28T09:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Simone Biles and Jonathan Owens list a $1.2 million Texas home near Houston",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
-      "published": "2026-09-28T09:02:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Sex and the City\u2019 star Chris Noth is selling his \u2018breathtaking\u2019 Greenwich Village apartment for $1.5 million",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
-      "published": "2026-09-28T08:58:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. Treasury yields edge higher amid pressure on global government bonds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
-      "published": "2026-09-28T08:49:06Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
       "published": "2026-09-28T08:31:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
-      "published": "2026-09-28T08:24:19Z",
       "tags": [
         "wire"
       ]
@@ -136,231 +363,6 @@
       "published": "2026-09-28T08:17:49Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "published": "2026-09-28T07:22:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US jobs report could decide how much higher Treasury yields can go",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-jobs-report-could-decide-how-much-higher-treasury-yields-can-go/",
-      "published": "2026-09-28T06:27:41Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-51/",
-      "published": "2026-09-28T06:22:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "published": "2026-09-28T04:04:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Gold hit hard, under $4200 again",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-hard-under-4200-again/",
-      "published": "2026-09-28T03:44:22Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "China industrial profits rise 4.2% in August, weakest monthly gain this year",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-industrial-profits-rise-4-2-in-august-weakest-monthly-gain-this-year/",
-      "published": "2026-09-28T01:59:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China and U.S. to set up Trade Council and extend trade truce to January 2027",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-and-u-s-to-set-up-trade-council-and-extend-trade-truce-to-january-2027/",
-      "published": "2026-09-28T01:30:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
-      "published": "2026-09-27T23:33:21Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "2026-09-27T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-      "published": "2026-09-27T21:38:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-      "published": "2026-09-27T19:21:00Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-      "published": "2026-09-27T19:13:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
-      "published": "2026-09-27T18:45:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "published": "2026-09-27T18:43:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "2026-09-27T16:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "2026-09-27T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "2026-09-27T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "published": "2026-09-27T15:35:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-      "published": "2026-09-27T15:22:03Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-      "published": "2026-09-27T14:33:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
-      "published": "2026-09-27T11:32:35Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-      "published": "2026-09-27T05:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "White House moves to block $810 million in funding through pocket rescission",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
-      "published": "2026-09-26T18:46:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-      "published": "2026-09-26T17:10:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-      "published": "2026-09-26T16:57:57Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
