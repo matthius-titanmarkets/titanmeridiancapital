@@ -1,31 +1,166 @@
 {
-  "generated_at": "2026-09-28T03:44:48.713170Z",
+  "generated_at": "2026-09-28T10:34:48.943701Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "title": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "published": "2026-09-28T03:28:32Z",
+      "published": "2026-09-28T10:29:56Z",
       "tags": [
         "commodities"
       ]
     },
     {
-      "title": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
+      "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S.",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-      "published": "2026-09-28T03:00:53Z",
+      "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+      "published": "2026-09-28T10:22:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "published": "2026-09-28T10:17:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "2026-09-28T10:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Best Broker or Prop Firm? Vote in the Finance Magnates Awards 2026",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/best-broker-or-prop-firm-vote-in-the-finance-magnates-awards-2026/",
+      "published": "2026-09-28T10:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "published": "2026-09-28T10:11:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
+      "published": "2026-09-28T09:56:44Z",
       "tags": [
         "commodities"
+      ]
+    },
+    {
+      "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+      "published": "2026-09-28T09:32:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "\u2018I feel like he\u2019s holding me back\u2019: I have $8 million. My husband resents my success. Should I pay for more things?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-09-28T09:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Simone Biles and Jonathan Owens list a $1.2 million Texas home near Houston",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
+      "published": "2026-09-28T09:02:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Sex and the City\u2019 star Chris Noth is selling his \u2018breathtaking\u2019 Greenwich Village apartment for $1.5 million",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
+      "published": "2026-09-28T08:58:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Treasury yields edge higher amid pressure on global government bonds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+      "published": "2026-09-28T08:49:06Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "published": "2026-09-28T08:31:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
+      "published": "2026-09-28T08:24:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japanese yen jumps as top currency diplomat Mimura reiterates strong currency alliance with the US",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japanese-yen-jumps-as-top-currency-diplomat-mimura-reiterates-strong-currency-alliance-with-the-us/",
+      "published": "2026-09-28T08:17:49Z",
+      "tags": [
+        "fx"
       ]
     },
     {
       "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "published": "2026-09-28T02:49:10Z",
+      "published": "2026-09-28T07:22:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US jobs report could decide how much higher Treasury yields can go",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-jobs-report-could-decide-how-much-higher-treasury-yields-can-go/",
+      "published": "2026-09-28T06:27:41Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-51/",
+      "published": "2026-09-28T06:22:26Z",
       "tags": [
         "wire"
       ]
@@ -34,9 +169,18 @@
       "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "published": "2026-09-28T02:15:15Z",
+      "published": "2026-09-28T04:04:16Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Gold hit hard, under $4200 again",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-hard-under-4200-again/",
+      "published": "2026-09-28T03:44:22Z",
+      "tags": [
+        "commodities"
       ]
     },
     {
@@ -71,15 +215,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "published": "2026-09-27T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "2026-09-27T21:45:00Z",
       "tags": [
         "wire"
       ]
@@ -139,15 +274,6 @@
       ]
     },
     {
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "published": "2026-09-27T16:16:43Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
@@ -184,24 +310,6 @@
       ]
     },
     {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "published": "2026-09-27T15:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "2026-09-27T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
@@ -211,55 +319,19 @@
       ]
     },
     {
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "published": "2026-09-27T14:00:00Z",
+      "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+      "published": "2026-09-27T11:32:35Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Look closer, and Wall Street\u2019s rally is showing cracks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
-      "published": "2026-09-27T13:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-      "published": "2026-09-27T11:33:15Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-      "published": "2026-09-26T21:55:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "published": "2026-09-26T21:21:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-      "published": "2026-09-26T19:23:56Z",
+      "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+      "published": "2026-09-27T05:00:02Z",
       "tags": [
         "wire"
       ]
@@ -287,78 +359,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
       "published": "2026-09-26T16:57:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "published": "2026-09-26T15:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "published": "2026-09-26T13:30:06Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Berkshire adds to nearly doubled stake in slumping homebuilder",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
-      "published": "2026-09-26T13:14:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
-      "published": "2026-09-26T13:09:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China wants in on U.S. AI data center boom. Here's why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
-      "published": "2026-09-26T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-      "published": "2026-09-26T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-      "published": "2026-09-25T21:38:38Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Iran hopes spring eternal",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-hopes-spring-eternal/",
-      "published": "2026-09-25T21:15:22Z",
       "tags": [
         "wire"
       ]
