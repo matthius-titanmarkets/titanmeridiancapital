@@ -1,78 +1,76 @@
 {
-  "generated_at": "2026-09-30T11:56:32.190651Z",
+  "generated_at": "2026-09-30T17:45:05.146509Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Man City guilty of \u2018sham\u2019 sponsorship deals after decade of English soccer dominance",
+      "title": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/manchester-city-guilty-premier-league-financial-rules.html",
-      "published": "2026-09-30T11:55:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-      "published": "2026-09-30T11:47:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
-      "published": "2026-09-30T11:39:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-      "published": "2026-09-30T11:34:45Z",
+      "url": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+      "published": "2026-09-30T17:44:15Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "investingLive European session wrap: Equities retreat as oil rebounds and bond yields stay elevated",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-equities-retreat-as-oil-rebounds-and-bond-yields-stay-elevated/",
-      "published": "2026-09-30T11:30:27Z",
+      "title": "Why the \u2018Halloween Indicator\u2019 isn\u2019t working \u2014 and what smart investors are doing instead",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:40:00Z",
       "tags": [
-        "commodities",
-        "fx",
+        "wire"
+      ]
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:38:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "published": "2026-09-30T17:33:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:31:00Z",
+      "tags": [
         "equities"
       ]
     },
     {
-      "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
+      "title": "Kalshi traders see high odds Anthropic's IPO is announced this year",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-      "published": "2026-09-30T11:30:01Z",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-traders-see-high-odds-anthropics-ipo-is-announced-this-year-.html",
+      "published": "2026-09-30T17:27:49Z",
       "tags": [
-        "macro"
+        "wire"
       ]
     },
     {
-      "title": "\u2018I\u2019m afraid of human stupidity\u2019: Why this top economist prefers U.S. tech and gold over bonds",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
-      "published": "2026-09-30T11:20:00Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Citi tells investors it\u2019s time to sell Moderna after 600%-plus stock gains",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
-      "published": "2026-09-30T11:12:00Z",
+      "title": "The market search for balance sheet cash cow 'quality' stocks is shifting with mega AI spend",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+      "published": "2026-09-30T17:25:44Z",
       "tags": [
         "equities"
       ]
@@ -81,43 +79,152 @@
       "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-      "published": "2026-09-30T10:55:49Z",
+      "published": "2026-09-30T17:21:23Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+      "published": "2026-09-30T17:15:24Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
-      "published": "2026-09-30T10:38:00Z",
+      "url": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+      "published": "2026-09-30T17:09:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The U.S. economy is defying gravity. Here\u2019s all the good news.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
+      "published": "2026-09-30T17:07:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn\u2019t it working that way now?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+      "published": "2026-09-30T16:51:00Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield turns higher as traders look past inflation data, await jobs report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "published": "2026-09-30T16:36:47Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+      "published": "2026-09-30T16:30:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+      "published": "2026-09-30T16:29:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
-      "published": "2026-09-30T10:21:38Z",
+      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+      "published": "2026-09-30T16:20:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-      "published": "2026-09-30T10:15:00Z",
+      "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "published": "2026-09-30T16:19:47Z",
       "tags": [
-        "commodities"
+        "wire"
       ]
     },
     {
-      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
+      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-      "published": "2026-09-30T09:45:54Z",
+      "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+      "published": "2026-09-30T16:14:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Saving your retirement could come down to this simple writing exercise",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "published": "2026-09-30T16:11:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+      "published": "2026-09-30T15:56:15Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "published": "2026-09-30T15:54:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/nvidia-approaches-a-breakout-level-plus-what-we-want-to-see-from-micron.html",
+      "published": "2026-09-30T15:47:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+      "published": "2026-09-30T15:36:20Z",
       "tags": [
         "wire"
       ]
@@ -126,242 +233,133 @@
       "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-      "published": "2026-09-30T09:45:01Z",
+      "published": "2026-09-30T15:19:01Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "He\u2019s been badmouthing Treasury bonds since 2020, but now \u2018the big fat cushion\u2019 of 5.25% yields is turning this strategist bullish",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
-      "published": "2026-09-30T09:32:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-      "published": "2026-09-30T09:20:00Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "There\u2019s a new Wall Street \u2018TACO\u2019 index \u2014 and this one is saying it\u2019s time for Trump to strike a deal",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
-      "published": "2026-09-30T09:16:00Z",
+      "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
+      "published": "2026-09-30T15:16:17Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "2026-09-30T09:15:00Z",
+      "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+      "published": "2026-09-30T14:42:04Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
-      "published": "2026-09-30T09:02:00Z",
+      "title": "Parents who want to help their kids in a tough job market should avoid this 1 move, says career expert",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/parents-avoid-meddling-adult-kids-job-search.html",
+      "published": "2026-09-30T14:40:45Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Italy September preliminary CPI +4.2% vs +3.8% y/y expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/italy-september-preliminary-cpi-4-2-vs-3-8-y-y-expected/",
-      "published": "2026-09-30T09:00:55Z",
+      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+      "published": "2026-09-30T14:32:03Z",
       "tags": [
-        "macro"
+        "wire"
+      ]
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "published": "2026-09-30T14:31:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+      "published": "2026-09-30T13:56:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "published": "2026-09-30T13:19:37Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-      "published": "2026-09-30T09:00:01Z",
+      "published": "2026-09-30T13:15:33Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
+      "title": "Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
-      "published": "2026-09-30T08:51:44Z",
+      "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+      "published": "2026-09-30T13:07:28Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "published": "2026-09-30T13:00:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Russia targets data centers in Kyiv as NATO condemns Moscow\u2019s \u2018irresponsible nuclear rhetoric\u2019",
+      "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
-      "published": "2026-09-30T08:33:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "German state CPI readings point to inflation climbing back above 3% in September",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-state-cpi-readings-point-to-inflation-climbing-back-above-3-in-september/",
-      "published": "2026-09-30T08:08:45Z",
+      "url": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
+      "published": "2026-09-30T12:48:46Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "German labour market softens in September as autumn pickup fails to kick into gear",
+      "title": "US GDP Final for Q2 2.2% vs 1.5% estimate",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-labour-market-softens-in-september-as-autumn-pickup-fails-to-kick-into-gear/",
-      "published": "2026-09-30T07:55:16Z",
+      "url": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
+      "published": "2026-09-30T12:30:42Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "French inflation jumps in September as HICP rises to 3.4%",
+      "title": "US July core PCE 3.0% y/y vs 3.3% expected",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/french-inflation-jumps-in-september-as-hicp-rises-to-3-4/",
-      "published": "2026-09-30T06:46:39Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-53/",
-      "published": "2026-09-30T06:33:44Z",
+      "url": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
+      "published": "2026-09-30T12:30:20Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Germany retail sales rebound 1.3% in August after July slump",
+      "title": "US advance goods trade balance for August -$132.6 billion vs -$115.00 billion expected",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-retail-sales-rebound-1-3-in-august-after-july-slump/",
-      "published": "2026-09-30T06:05:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "German import prices jump 1.0% in August as cost pressures build",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-import-prices-jump-1-0-in-august-as-cost-pressures-build/",
-      "published": "2026-09-30T06:04:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK Q2 GDP revised higher to 0.5% q/q from 0.4%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-q2-gdp-revised-higher-to-0-5-q-q-from-0-4/",
-      "published": "2026-09-30T06:00:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Heads up: Germany September CPI expected to show inflation back above 3%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/heads-up-germany-september-cpi-expected-to-show-inflation-back-above-3/",
-      "published": "2026-09-30T04:38:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Yen, Nikkei firmer",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-nikkei-firmer/",
-      "published": "2026-09-30T03:40:41Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "China factory activity snaps 2-month contractionary streak in September",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
-      "published": "2026-09-30T03:39:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "published": "2026-09-30T03:39:08Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "\u2018Don\u2019t go with a fund, go with a solution\u2019: CEO\u2019s tips from decades of global investing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-      "published": "2026-09-30T02:37:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China official manufacturing PMI returns to growth at 50.1, non-manufacturing 50.2",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-official-manufacturing-pmi-returns-to-growth-at-50-1-non-manufacturing-50-2/",
-      "published": "2026-09-30T02:19:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "RatingDog China manufacturing PMI 52.1 tops forecast, services 51.6 also beats",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/ratingdog-china-manufacturing-pmi-52-1-tops-forecast-services-51-6-also-beats/",
-      "published": "2026-09-30T02:02:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australia August CPI 4.0% as fuel jumps, trimmed mean below forecast at 0.2% m/m",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-august-cpi-4-0-as-fuel-jumps-trimmed-mean-below-forecast-at-0-2-m-m/",
-      "published": "2026-09-30T01:50:56Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "China private survey manufacturing PMI (September) 52.1 (vs. expected 51.6, prior 51.5)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-private-survey-manufacturing-pmi-september-vs-expected-51-6-prior-51-5/",
-      "published": "2026-09-30T01:45:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China official manufacturing PMI (September): 50.1 (expected 50.1, prior 49.8)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-official-manufacturing-pmi-september-expected-prior/",
-      "published": "2026-09-30T01:31:22Z",
+      "url": "https://investinglive.com/news/us-advance-goods-trade-balance-for-august-132-6-billion-vs-115-00-billion-expected/",
+      "published": "2026-09-30T12:30:14Z",
       "tags": [
         "wire"
       ]
