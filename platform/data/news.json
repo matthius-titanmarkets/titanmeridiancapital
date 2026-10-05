@@ -1,105 +1,167 @@
 {
-  "generated_at": "2026-10-03T01:17:51.333640Z",
+  "generated_at": "2026-10-05T04:08:29.948179Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "published": "2026-10-02T22:42:00Z",
+      "title": "investingLive Asia-Pacific market news: Dollar firms, oil edges lower",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-firms-oil-edges-lower/",
+      "published": "2026-10-05T03:44:34Z",
       "tags": [
-        "equities"
+        "commodities",
+        "fx"
       ]
     },
     {
-      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "title": "Surging Treasury yields don\u2019t signal a U.S. 'fiscal apocalypse' \u2014 yet",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
-      "published": "2026-10-02T22:38:49Z",
+      "url": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+      "published": "2026-10-05T02:24:07Z",
       "tags": [
-        "equities"
+        "macro"
       ]
     },
     {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-      "published": "2026-10-02T22:29:00Z",
+      "title": "\u2018Unwelcome and unsafe\u2019: Why Japanese companies are retreating from China at a historic rate",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "published": "2026-10-05T02:15:12Z",
       "tags": [
-        "equities"
+        "macro"
+      ]
+    },
+    {
+      "title": "More: Russia says no lab pathogen found in plague institute death, 189 under observation",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/more-russia-says-no-lab-pathogen-found-in-plague-institute-death-189-under-observation/",
+      "published": "2026-10-05T01:30:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
+      "published": "2026-10-05T01:08:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+      "published": "2026-10-05T00:47:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan services PMI eases to 51.3 as hiring picks up and price pressures stay intense",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-services-pmi-eases-to-51-3-as-hiring-picks-up-and-price-pressures-stay-intense/",
+      "published": "2026-10-05T00:45:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "ANZ commodity index rises 0.6% in September as oil surge lifts milk powder and aluminium",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/anz-commodity-index-rises-0-6-in-september-as-oil-surge-lifts-milk-powder-and-aluminium/",
+      "published": "2026-10-05T00:38:39Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Australia's Chalmers calls Iran war an economic disaster, says rising yields will cost billions",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-s-chalmers-calls-iran-war-an-economic-disaster-says-rising-yields-will-cost-billions/",
+      "published": "2026-10-04T22:57:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia services PMI growth slows to 51.9, job cuts return as price pressures build",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-services-pmi-growth-slows-to-51-9-job-cuts-return-as-price-pressures-build/",
+      "published": "2026-10-04T22:16:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "published": "2026-10-04T22:08:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Uh-oh, \"lab leak\" news again ... Russian plague lab worker, 28, dies of unknown pneumonia",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uh-oh-lab-leak-news-again-russian-plague-lab-worker-28-dies-of-unknown-pneumonia/",
+      "published": "2026-10-04T22:08:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Monday, October 5, 2026 - Australia holiday",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-october-5-2026-australia-holiday/",
+      "published": "2026-10-04T21:53:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "published": "2026-10-04T21:46:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
+      "published": "2026-10-04T20:32:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-10-04T20:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+      "published": "2026-10-04T20:28:47Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "2026-10-02T22:10:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-      "published": "2026-10-02T22:01:17Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "published": "2026-10-02T21:54:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Anthropic to invest $100 million to train AI engineer talent",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-      "published": "2026-10-02T21:03:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 2 Oct: Nasdaq 100 closes at a record after soft US jobs; Treasury yields reverse higher",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-oct-nasdaq-100-closes-at-a-record-after-soft-us-jobs-treasury-yields-reverse-higher/",
-      "published": "2026-10-02T20:57:56Z",
-      "tags": [
-        "macro",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "published": "2026-10-02T20:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why mixing politics with your stock portfolio might be costing you money",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:43:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:40:00Z",
+      "published": "2026-10-04T20:00:00Z",
       "tags": [
         "wire"
       ]
@@ -108,263 +170,196 @@
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:30:00Z",
+      "published": "2026-10-04T19:30:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:26:00Z",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "published": "2026-10-04T19:08:00Z",
       "tags": [
-        "fx",
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+      "title": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+      "published": "2026-10-04T14:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Corporate America has never been this upbeat about future profits",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:26:00Z",
+      "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "published": "2026-10-04T14:00:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Saving your retirement could come down to this simple writing exercise",
+      "title": "Starting a watch collection? What beginners should know before buying",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
+      "published": "2026-10-04T13:44:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+      "published": "2026-10-04T13:24:16Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "published": "2026-10-04T13:22:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "October can be a scary month for stocks. Here\u2019s what investors need to watch this year.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-      "published": "2026-10-02T20:24:00Z",
+      "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "published": "2026-10-04T13:00:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "title": "Sports betting is increasingly the norm for Gen Z. Here\u2019s why some financial and mental health experts are worried",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "published": "2026-10-02T20:04:42Z",
+      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "published": "2026-10-04T12:57:45Z",
       "tags": [
-        "commodities",
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-      "published": "2026-10-02T20:03:56Z",
+      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "published": "2026-10-04T12:53:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+      "published": "2026-10-04T12:08:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+      "published": "2026-10-04T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "published": "2026-10-04T12:00:00Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "published": "2026-10-02T20:00:00Z",
+      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+      "published": "2026-10-04T09:33:19Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "title": "Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-      "published": "2026-10-02T19:25:36Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-      "published": "2026-10-02T19:19:15Z",
+      "url": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
+      "published": "2026-10-04T05:09:49Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "published": "2026-10-02T18:49:03Z",
+      "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "published": "2026-10-04T05:00:01Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-      "published": "2026-10-02T18:31:49Z",
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "published": "2026-10-04T00:02:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-      "published": "2026-10-02T17:55:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Week ahead: ISM services, Fed minutes and Canadian jobs lead the economic calendar. Be aware.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/week-ahead-ism-services-fed-minutes-and-canadian-jobs-lead-the-economic-calendar-be-aware/",
-      "published": "2026-10-02T17:51:51Z",
+      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "published": "2026-10-03T23:58:00Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "Men are losing ground in the labor market. Here's why",
+      "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-      "published": "2026-10-02T17:38:59Z",
+      "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "published": "2026-10-03T20:29:07Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-      "published": "2026-10-02T17:20:33Z",
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "published": "2026-10-03T18:49:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "American starts letting customers mix cash and miles for tickets",
+      "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
-      "published": "2026-10-02T16:49:55Z",
+      "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "published": "2026-10-03T17:57:40Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Your health insurance premiums may take a big jump in 2027 \u2014 here's why",
+      "title": "Novig credits Sydney Sweeney-backed campaign for platform\u2019s surge in growth",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
-      "published": "2026-10-02T16:26:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "1.7 million skilled trade jobs will open annually through 2035, report says\u2014experts don't know who will fill them",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/1point7-million-skilled-trade-jobs-to-open-annually-through-2035-report-says.html",
-      "published": "2026-10-02T16:15:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The sector in the cross hairs of the bond sell-off looks poised for a bounce, says Mike Khouw",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/the-sector-in-the-cross-hairs-of-the-bond-sell-off-looks-poised-for-a-bounce-says-mike-khouw.html",
-      "published": "2026-10-02T15:34:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "published": "2026-10-02T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US factory orders for the month of August 0.1% versus 0.1% estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-factory-orders-for-the-month-of-august-0-1-versus-0-1-estimate/",
-      "published": "2026-10-02T14:00:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "NEC Director Kevin Hassett: US jobs report says the US consumer is very strong",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/nec-director-kevin-hassett-us-jobs-report-says-the-us-consumer-is-very-strong/",
-      "published": "2026-10-02T13:59:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
-      "published": "2026-10-02T13:48:40Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-      "published": "2026-10-02T13:45:58Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Nike shares tumble after weak revenue outlook and layoff plans underway",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
-      "published": "2026-10-02T13:43:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "published": "2026-10-02T13:29:27Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html",
-      "published": "2026-10-02T12:49:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Big Pharma\u2019s China deal spree grows with latest tie-up worth up to $7.8 billion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html",
-      "published": "2026-10-02T12:31:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-      "published": "2026-10-02T12:30:17Z",
+      "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+      "published": "2026-10-03T13:30:48Z",
       "tags": [
         "wire"
       ]
