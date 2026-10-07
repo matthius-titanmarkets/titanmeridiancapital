@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-06T23:42:29.332636Z",
+  "generated_at": "2026-10-07T04:24:08.061028Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+      "published": "2026-10-07T04:12:27Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Saudi-Houthi attacks and Gulf storm lift oil",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-saudi-houthi-attacks-and-gulf-storm-lift-oil/",
+      "published": "2026-10-07T03:40:25Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Households weather RBA hikes as debt-to-asset ratio hits 1997 low, Deutsche Bank says",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/households-weather-rba-hikes-as-debt-to-asset-ratio-hits-1997-low-deutsche-bank-says/",
+      "published": "2026-10-07T03:02:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump isn't \u2018completely wrong\u2019: Hormuz disruption is Asia\u2019s problem, says Singapore's foreign minister",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/hormuz-iran-war-singapore-vivian-balakrishnan.html",
+      "published": "2026-10-07T02:10:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+      "published": "2026-10-07T02:09:50Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "published": "2026-10-07T00:49:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan real wages rise for eighth straight month, backing case for BOJ hikes",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-real-wages-rise-for-eighth-straight-month-backing-case-for-boj-hikes/",
+      "published": "2026-10-06T23:44:03Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "Japan factory mood hits near five-year high as services sentiment drops six points",
       "source": "ForexLive",
@@ -26,6 +89,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
       "published": "2026-10-06T22:23:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+      "published": "2026-10-06T22:13:04Z",
       "tags": [
         "equities"
       ]
@@ -138,15 +210,6 @@
       "published": "2026-10-06T20:05:53Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Treasury yields slide as surge to multiyear highs cools",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-      "published": "2026-10-06T20:04:22Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -300,69 +363,6 @@
       "published": "2026-10-06T17:03:44Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-      "published": "2026-10-06T16:19:10Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
-      "published": "2026-10-06T15:26:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Russian lab worker's suspected plague death leaves experts puzzled",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-      "published": "2026-10-06T15:23:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UBS CEO warns \u2018hard measures\u2019 are needed to tackle French debt crisis, as turmoil worsens",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
-      "published": "2026-10-06T15:13:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-      "published": "2026-10-06T15:06:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
-      "published": "2026-10-06T14:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-      "published": "2026-10-06T13:26:52Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
