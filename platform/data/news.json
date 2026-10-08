@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-10-07T22:43:50.858011Z",
+  "generated_at": "2026-10-08T02:31:10.353351Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "2026-10-08T02:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China bucks global bond rout as 10-year yield touches 1.7%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-bucks-global-bond-rout-as-10-year-yield-touches-1-7/",
+      "published": "2026-10-08T01:51:07Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Oil gains as Middle East hostilities stoke supply worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "published": "2026-10-08T01:46:56Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "2026-10-08T01:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "published": "2026-10-08T00:51:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Ni\u00f1o",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html",
+      "published": "2026-10-08T00:14:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
+      "published": "2026-10-07T23:10:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Reuters poll: 37% of Japan firms see oil volatility as biggest risk to earnings",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/reuters-poll-37-of-japan-firms-see-oil-volatility-as-biggest-risk-to-earnings/",
+      "published": "2026-10-07T23:06:37Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
     {
       "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
       "source": "CNBC Markets",
@@ -28,6 +101,15 @@
       "published": "2026-10-07T22:29:41Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Cramer says higher rates are splitting the market in two \u2014 and AI stocks have a big advantage",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
+      "published": "2026-10-07T22:22:32Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -257,48 +339,12 @@
       ]
     },
     {
-      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "2026-10-07T17:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Washington and Wall Street chose to delay paying their bills \u2014 and to put them on your tab",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
       "published": "2026-10-07T17:36:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "The \u2018Magnificent Seven\u2019 are now big enough to move the economy. Why that could be a problem.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
-      "published": "2026-10-07T17:32:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
-      "published": "2026-10-07T17:20:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Google ordered to halt work on two data centers in \u2018Texas of Europe\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-      "published": "2026-10-07T17:16:28Z",
-      "tags": [
-        "fx"
       ]
     },
     {
@@ -317,51 +363,6 @@
       "published": "2026-10-07T16:36:26Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
-      "published": "2026-10-07T16:25:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "New York Fed inflation expectations: One year inflation expectations hit the highest since 2023",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/new-york-fed-inflation-expectations-one-year-inflation-expectations-hit-the-highest-since-2023/",
-      "published": "2026-10-07T15:02:08Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-      "published": "2026-10-07T14:17:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stocks made a record high. Two big bearish trades point to skepticism",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
-      "published": "2026-10-07T13:59:16Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-      "published": "2026-10-07T13:46:28Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
