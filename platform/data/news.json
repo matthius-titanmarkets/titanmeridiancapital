@@ -1,13 +1,248 @@
 {
-  "generated_at": "2026-10-08T17:29:10.482242Z",
+  "generated_at": "2026-10-08T22:21:23.735033Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI\u2019s revenue causes \u2018undue concern\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "published": "2026-10-08T22:08:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "2026-10-08T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why a longtime skeptic of Palantir\u2019s stock is finally saying it\u2019s time to buy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:56:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "PepsiCo CEO\u2019s message to employees: If you\u2019re not producing growth, you\u2019re out",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "published": "2026-10-08T21:35:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published": "2026-10-08T21:19:14Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:07:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+      "published": "2026-10-08T20:55:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "published": "2026-10-08T20:55:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Trump says no attacks on Iran before the midterms",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-says-no-attacks-on-iran-before-the-midterms/",
+      "published": "2026-10-08T20:44:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A big AI super PAC tried to follow crypto\u2019s playbook to influence the midterms. Critics say it\u2019s not working out.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+      "published": "2026-10-08T20:44:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "2026-10-08T20:32:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/it-s-a-very-sparse-economic-and-event-calendar-in-asia-friday-october-9-2026/",
+      "published": "2026-10-08T20:31:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm\u2019s failure to sufficiently detect and report certain suspicious activity related to money launde",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "published": "2026-10-08T20:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
+      "published": "2026-10-08T20:21:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+      "published": "2026-10-08T20:16:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+      "published": "2026-10-08T20:12:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-      "published": "2026-10-08T17:28:01Z",
+      "published": "2026-10-08T20:06:52Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+      "published": "2026-10-08T20:06:31Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "Costco's sales resilience is giving Cramer a reason to feel better about the stock",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/costco-sales-resilience-is-giving-cramer-a-reason-to-feel-better-about-the-stock.html",
+      "published": "2026-10-08T19:51:47Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "published": "2026-10-08T19:00:49Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
+      "published": "2026-10-08T18:26:43Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+      "published": "2026-10-08T17:51:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says U.S. will not attack Iran before midterm election",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+      "published": "2026-10-08T17:41:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "published": "2026-10-08T17:31:03Z",
       "tags": [
         "macro"
       ]
@@ -31,21 +266,12 @@
       ]
     },
     {
-      "title": "U.S. suspends Microsoft, Adobe from green-card labor program in foreign worker crackdown",
+      "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-      "published": "2026-10-08T17:23:07Z",
+      "url": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
+      "published": "2026-10-08T17:13:32Z",
       "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says U.S. will not attack Iran before midterm election",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-      "published": "2026-10-08T17:07:54Z",
-      "tags": [
-        "wire"
+        "macro"
       ]
     },
     {
@@ -67,42 +293,6 @@
       ]
     },
     {
-      "title": "How to provide guaranteed retirement income while paying no commissions",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:57:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-      "published": "2026-10-08T16:50:30Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Why a longtime skeptic of Palantir\u2019s stock is finally saying it\u2019s time to buy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:32:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Trump Accounts top 70 million as new stock-donation rules open door to 'mega donors,' official says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/trump-accounts-70-million-enrolled.html",
@@ -112,100 +302,10 @@
       ]
     },
     {
-      "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-      "published": "2026-10-08T16:28:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
       "published": "2026-10-08T16:25:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "America\u2019s renters are emerging as a political movement",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:11:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We're putting some of our large cash pile to work in a beaten-down consumer name",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/08/were-putting-some-of-our-large-cash-pile-to-work-in-a-beaten-down-consumer-name.html",
-      "published": "2026-10-08T16:09:16Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The good, the bad and the ugly of rising interest rates",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "published": "2026-10-08T15:59:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
-      "published": "2026-10-08T15:56:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-      "published": "2026-10-08T15:49:36Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "published": "2026-10-08T15:46:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Treasury market is facing a crucial vote of investor confidence",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-      "published": "2026-10-08T15:37:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "2026-10-08T15:30:00Z",
       "tags": [
         "wire"
       ]
@@ -256,111 +356,10 @@
       ]
     },
     {
-      "title": "Layoffs haven\u2019t been this low since the 1960s. It\u2019s great if you have a job \u2014 but not if you don\u2019t.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
-      "published": "2026-10-08T14:35:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump's former defense secretary sees no end in sight for Iran war \u2014 to the benefit of America's 'greatest adversary'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
       "published": "2026-10-08T14:12:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US August wholesale inventories +0.5% vs +0.7% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-august-wholesale-inventories-0-5-vs-0-7-expected/",
-      "published": "2026-10-08T14:00:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-      "published": "2026-10-08T13:40:12Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
-      "published": "2026-10-08T13:29:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US weekly initial jobless claims 197K vs 200K expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-weekly-initial-jobless-claims-197k-vs-200k-expected-0/",
-      "published": "2026-10-08T12:31:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-for-the-week-is-modestly-stronger-at-197k-vs-200k-est/",
-      "published": "2026-10-08T12:30:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Yields continue to soar as oil surges and stocks tumble",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-yields-continue-to-soar-as-oil-surges-and-stocks-tumble/",
-      "published": "2026-10-08T11:49:48Z",
-      "tags": [
-        "commodities",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "published": "2026-10-08T11:49:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why REITs aren't getting killed by rising interest rates this time around",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
-      "published": "2026-10-08T11:28:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
-      "published": "2026-10-08T11:04:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The big picture: The era of cheap money is over and investors must adapt",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-big-picture-the-era-of-cheap-money-is-over-and-investors-must-adapt/",
-      "published": "2026-10-08T09:30:01Z",
       "tags": [
         "wire"
       ]
