@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-10-08T22:21:23.735033Z",
+  "generated_at": "2026-10-09T02:23:45.834456Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "published": "2026-10-09T01:37:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan reboots DOGE-style spending review to fund Takaichi pledges as JGB yields climb",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-reboots-doge-style-spending-review-to-fund-takaichi-pledges-as-jgb-yields-climb/",
+      "published": "2026-10-09T01:16:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "published": "2026-10-09T01:02:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "published": "2026-10-09T00:52:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oracle-trucks-in-natural-gas-to-keep-ai-data-centres-on-schedule-as-pipelines-lag/",
+      "published": "2026-10-09T00:29:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan household spending falls for ninth straight month, but drop smaller than expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-household-spending-falls-for-ninth-straight-month-but-drop-smaller-than-expected/",
+      "published": "2026-10-09T00:11:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "published": "2026-10-09T00:03:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "published": "2026-10-08T23:57:23Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Is AI giving the US economy a case of Dutch disease? From Dutch gas to American chips.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/is-ai-giving-the-us-economy-a-case-of-dutch-disease-from-dutch-gas-to-american-chips/",
+      "published": "2026-10-08T23:26:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "published": "2026-10-08T23:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "published": "2026-10-08T22:55:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Capitalist conditions have weakened worldwide since 2009, University of Virginia index shows",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/capitalist-conditions-have-weakened-worldwide-since-2009-university-of-virginia-index-shows/",
+      "published": "2026-10-08T22:26:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI\u2019s revenue causes \u2018undue concern\u2019",
       "source": "MarketWatch",
@@ -49,15 +158,6 @@
       ]
     },
     {
-      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-      "published": "2026-10-08T21:35:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
@@ -71,15 +171,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "published": "2026-10-08T21:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "published": "2026-10-08T21:07:00Z",
       "tags": [
         "wire"
       ]
@@ -109,24 +200,6 @@
       "published": "2026-10-08T20:44:10Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "A big AI super PAC tried to follow crypto\u2019s playbook to influence the midterms. Critics say it\u2019s not working out.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
-      "published": "2026-10-08T20:44:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "published": "2026-10-08T20:32:00Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -288,78 +361,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/arab-sources-several-severe-explosions-have-occurred-in-the-strait-of-hormuz/",
       "published": "2026-10-08T16:58:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump Accounts top 70 million as new stock-donation rules open door to 'mega donors,' official says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/trump-accounts-70-million-enrolled.html",
-      "published": "2026-10-08T16:31:50Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-      "published": "2026-10-08T16:25:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Atlanta Fed GDPNow Q3 tracker 3.6% vs 3.7% prior",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/atlanta-fed-gdpnow-q3-tracker-3-6-vs-3-7-prior/",
-      "published": "2026-10-08T15:19:49Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-      "published": "2026-10-08T14:51:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
-      "published": "2026-10-08T14:48:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html",
-      "published": "2026-10-08T14:44:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-      "published": "2026-10-08T14:43:05Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Trump's former defense secretary sees no end in sight for Iran war \u2014 to the benefit of America's 'greatest adversary'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
-      "published": "2026-10-08T14:12:10Z",
       "tags": [
         "wire"
       ]
