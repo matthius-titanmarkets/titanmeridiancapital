@@ -1,13 +1,131 @@
 {
-  "generated_at": "2026-10-09T02:23:45.834456Z",
+  "generated_at": "2026-10-09T09:25:57.272708Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+      "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+      "published": "2026-10-09T09:21:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I feel like a loser\u2019: My ETFs go up one day and crash the next. Is this a bad sign?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "2026-10-09T09:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the price of this one exchange-traded fund has suddenly gone exponential",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+      "published": "2026-10-09T09:12:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
+      "published": "2026-10-09T08:58:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
+      "published": "2026-10-09T08:49:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+      "published": "2026-10-09T08:33:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+      "published": "2026-10-09T08:24:50Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-60/",
+      "published": "2026-10-09T06:37:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "published": "2026-10-09T06:30:01Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Economic data spotlight: US inflation expectations in focus in today's Michigan consumer survey",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-data-spotlight-us-inflation-expectations-in-focus-in-today-s-michigan-consumer-survey/",
+      "published": "2026-10-09T06:06:04Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+      "published": "2026-10-09T04:11:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "published": "2026-10-09T03:51:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil eases on Trump\u2019s Iran pledge",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-trump-s-iran-pledge/",
+      "published": "2026-10-09T03:22:40Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-      "published": "2026-10-09T01:37:01Z",
+      "published": "2026-10-09T02:52:15Z",
       "tags": [
         "wire"
       ]
@@ -17,15 +135,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/japan-reboots-doge-style-spending-review-to-fund-takaichi-pledges-as-jgb-yields-climb/",
       "published": "2026-10-09T01:16:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-      "published": "2026-10-09T01:02:38Z",
       "tags": [
         "wire"
       ]
@@ -63,16 +172,6 @@
       "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
       "published": "2026-10-09T00:03:00Z",
       "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "published": "2026-10-08T23:57:23Z",
-      "tags": [
-        "fx",
         "equities"
       ]
     },
@@ -140,55 +239,10 @@
       ]
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "2026-10-08T21:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "PepsiCo CEO\u2019s message to employees: If you\u2019re not producing growth, you\u2019re out",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
-      "published": "2026-10-08T21:43:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "published": "2026-10-08T21:19:14Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "2026-10-08T21:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
       "published": "2026-10-08T20:55:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "published": "2026-10-08T20:55:00Z",
       "tags": [
         "wire"
       ]
@@ -221,15 +275,6 @@
       ]
     },
     {
-      "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
-      "published": "2026-10-08T20:21:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
@@ -245,15 +290,6 @@
       "published": "2026-10-08T20:12:33Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-      "published": "2026-10-08T20:06:52Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -325,42 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
       "published": "2026-10-08T17:27:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
-      "published": "2026-10-08T17:26:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-      "published": "2026-10-08T17:13:32Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/",
-      "published": "2026-10-08T17:06:02Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Arab sources: Several severe explosions have occurred in the Strait of Hormuz",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/arab-sources-several-severe-explosions-have-occurred-in-the-strait-of-hormuz/",
-      "published": "2026-10-08T16:58:11Z",
       "tags": [
         "wire"
       ]
