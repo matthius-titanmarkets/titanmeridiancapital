@@ -1,58 +1,134 @@
 {
-  "generated_at": "2026-10-13T17:42:26.632976Z",
+  "generated_at": "2026-10-13T22:17:59.108689Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "published": "2026-10-13T21:44:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 13 Oct: Dollar retreats as traders await CPI; oil rises and stocks slip",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-13-oct-dollar-retreats-as-traders-await-cpi-oil-rises-and-stocks-slip/",
+      "published": "2026-10-13T21:19:22Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Six Flags shares decline following deadly roller coaster incident",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "published": "2026-10-13T21:18:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+      "published": "2026-10-13T21:15:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "published": "2026-10-13T21:02:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "published": "2026-10-13T21:02:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:30:00Z",
+      "published": "2026-10-13T21:01:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+      "title": "Don't let inflation bite \u2014 how to hedge with TIPS, commodities and infrastructure funds",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "published": "2026-10-13T17:29:59Z",
+      "url": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+      "published": "2026-10-13T20:52:22Z",
+      "tags": [
+        "macro",
+        "commodities"
+      ]
+    },
+    {
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "published": "2026-10-13T20:48:37Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "How to read your body\u2019s warning signs years before you get sick",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:22:00Z",
+      "title": "Bank of America fined $1.2 billion over money-laundering violations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+      "published": "2026-10-13T20:45:01Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:42:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:41:00Z",
+      "tags": [
+        "equities"
       ]
     },
     {
       "title": "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:18:00Z",
+      "published": "2026-10-13T20:32:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Who should pay for my birthday dinner \u2014 me, or my guests?",
+      "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:14:00Z",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:30:00Z",
       "tags": [
         "wire"
       ]
@@ -61,45 +137,180 @@
       "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-      "published": "2026-10-13T17:07:19Z",
+      "published": "2026-10-13T20:29:06Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
+      "title": "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-      "published": "2026-10-13T17:05:00Z",
+      "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:29:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-      "published": "2026-10-13T16:53:43Z",
+      "title": "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:27:00Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Micron\u2019s stock extends declines as China competition heats up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:25:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
+      "published": "2026-10-13T20:22:38Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "2026-10-13T20:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Micron sinks, other memory-linked names dip for a second day",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "published": "2026-10-13T20:12:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why this little known Chinese chipmaker has caused a global stock rout",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+      "published": "2026-10-13T20:05:58Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "US CPI: Energy prices expected to lift headline inflation. Will core stay contained?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-cpi-energy-prices-expected-to-lift-headline-inflation-will-core-stay-contained/",
+      "published": "2026-10-13T19:57:55Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
+      "published": "2026-10-13T19:51:06Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "published": "2026-10-13T19:46:12Z",
+      "tags": [
+        "macro"
       ]
     },
     {
       "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-      "published": "2026-10-13T16:52:27Z",
+      "published": "2026-10-13T19:23:39Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-      "published": "2026-10-13T16:52:00Z",
+      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "published": "2026-10-13T19:21:27Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+      "published": "2026-10-13T19:08:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
+      "published": "2026-10-13T18:51:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+      "published": "2026-10-13T18:33:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "More Republicans come out against Trump's diesel deal with Putin",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+      "published": "2026-10-13T18:19:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "published": "2026-10-13T18:07:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The latest inflation data is expected to show price increases are accelerating",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "published": "2026-10-13T18:05:57Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "published": "2026-10-13T18:00:00Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -112,48 +323,12 @@
       ]
     },
     {
-      "title": "Why this little known Chinese chipmaker has caused a global stock rout",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-      "published": "2026-10-13T16:28:25Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018Superintelligence\u2019 may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
-      "published": "2026-10-13T16:21:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html",
-      "published": "2026-10-13T16:07:20Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
       "published": "2026-10-13T15:57:46Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-      "published": "2026-10-13T15:52:44Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -184,184 +359,12 @@
       ]
     },
     {
-      "title": "\u2018Pharma Bro\u2019 Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
-      "published": "2026-10-13T15:37:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "published": "2026-10-13T15:22:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
       "published": "2026-10-13T15:04:35Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-      "published": "2026-10-13T14:55:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Six Flags shares decline following deadly roller coaster incident",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-      "published": "2026-10-13T14:49:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US existing home sales for September 3.99 million versus 3.95 million estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-existing-home-sales-for-september-3-99-million-versus-3-95-million-estimate/",
-      "published": "2026-10-13T14:02:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "published": "2026-10-13T13:51:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Thousands of homeowners face adjustable-rate mortgage resets \u2014 and much higher payments",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrowers-rate-adjustment.html",
-      "published": "2026-10-13T13:35:01Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "French supermarket fridges get hacked, heating to 122\u00b0F and sparking fires",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-      "published": "2026-10-13T12:22:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as \u2018mother of democracy\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-      "published": "2026-10-13T12:19:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
-      "published": "2026-10-13T12:18:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Risk sentiment improves as oil prices ease",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-improves-as-oil-prices-ease/",
-      "published": "2026-10-13T11:46:22Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "The stock market is at a critical juncture. Wall Street is convinced it will resolve in the bulls' favor",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/santoli-the-stock-market-is-at-a-critical-juncture.html",
-      "published": "2026-10-13T10:59:35Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Long global semiconductors remains the most crowded trade followed by short US Treasuries, according to Bank of America",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/long-global-semiconductors-remains-the-most-crowded-trade-followed-by-short-us-treasuries-according-to-bank-of-america/",
-      "published": "2026-10-13T10:53:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/trump-census-rule-noncitizens.html",
-      "published": "2026-10-13T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-      "published": "2026-10-13T09:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-62/",
-      "published": "2026-10-13T06:38:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "published": "2026-10-13T06:20:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Germany September final CPI +3.3% vs +3.3% y/y prelim",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-september-final-cpi-3-3-vs-3-3-y-y-prelim/",
-      "published": "2026-10-13T06:00:16Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-      "published": "2026-10-13T04:54:07Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
