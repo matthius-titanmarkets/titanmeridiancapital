@@ -1,13 +1,193 @@
 {
-  "generated_at": "2026-10-12T21:21:15.358475Z",
+  "generated_at": "2026-10-13T02:39:45.700224Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her",
+      "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "published": "2026-10-13T02:37:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "published": "2026-10-13T02:29:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "published": "2026-10-13T02:11:41Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Just 32 countries now drive 95% of global growth as AI widens the gap, IMF warns",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/just-32-countries-now-drive-95-of-global-growth-as-ai-widens-the-gap-imf-warns/",
+      "published": "2026-10-13T02:10:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "published": "2026-10-13T02:09:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "published": "2026-10-13T02:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "published": "2026-10-13T01:26:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+      "published": "2026-10-13T00:39:36Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Japan wholesale inflation misses at 6.8% but stays high enough to keep BOJ hike alive",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-wholesale-inflation-misses-at-6-8-but-stays-high-enough-to-keep-boj-hike-alive/",
+      "published": "2026-10-13T00:32:42Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+      "published": "2026-10-13T00:24:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "published": "2026-10-13T00:18:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "IMF\u2019s Georgieva calls AI a slow-moving tsunami (again) for jobs as graduates feel the first hit",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/imf-s-georgieva-calls-ai-a-slow-moving-tsunami-again-for-jobs-as-graduates-feel-the-first-hit/",
+      "published": "2026-10-12T23:50:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "2026-10-12T23:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "2026-10-12T23:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "UK retail sales beat forecasts but fuel bill jump of 17% shows squeeze on shoppers",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/uk-retail-sales-beat-forecasts-but-fuel-bill-jump-of-17-shows-squeeze-on-shoppers/",
+      "published": "2026-10-12T23:10:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "published": "2026-10-12T23:00:01Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "published": "2026-10-12T22:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
-      "published": "2026-10-12T21:20:37Z",
+      "published": "2026-10-12T22:26:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "2026-10-12T22:00:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "published": "2026-10-12T22:00:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "published": "2026-10-12T21:19:00Z",
       "tags": [
         "wire"
       ]
@@ -17,15 +197,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
       "published": "2026-10-12T21:17:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "2026-10-12T21:16:00Z",
       "tags": [
         "wire"
       ]
@@ -60,15 +231,6 @@
       ]
     },
     {
-      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "2026-10-12T20:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Microsoft hits a big milestone that solidifies its revival",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
@@ -96,15 +258,6 @@
       ]
     },
     {
-      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-      "published": "2026-10-12T19:43:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
@@ -118,15 +271,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
       "published": "2026-10-12T18:43:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel supplies",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
-      "published": "2026-10-12T18:36:00Z",
       "tags": [
         "wire"
       ]
@@ -186,37 +330,10 @@
       ]
     },
     {
-      "title": "These stocks could be the future winners \u2014 and losers \u2014 of a massive shift in IT spending",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
-      "published": "2026-10-12T16:47:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "UnitedHealth shares are doing something unusual ahead of earnings",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
       "published": "2026-10-12T16:42:13Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Buy these stocks as plays on Google\u2019s big spending, analyst says",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
-      "published": "2026-10-12T16:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "2026-10-12T16:30:00Z",
       "tags": [
         "equities"
       ]
@@ -231,15 +348,6 @@
       ]
     },
     {
-      "title": "Here\u2019s how much extra money could be in your monthly Social Security check next year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
-      "published": "2026-10-12T15:47:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
@@ -249,119 +357,10 @@
       ]
     },
     {
-      "title": "Parenting in the digital age can be \u2018a very anxiety provoking experience,\u2019 says Emily Oster: How parents can lower that anxiety",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
-      "published": "2026-10-12T15:03:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
       "published": "2026-10-12T14:56:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "published": "2026-10-12T14:27:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-      "published": "2026-10-12T14:22:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-      "published": "2026-10-12T14:09:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
-      "published": "2026-10-12T14:04:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Banks are set to report this week. Here's what the options market expects",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-      "published": "2026-10-12T13:27:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
-      "published": "2026-10-12T13:04:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-      "published": "2026-10-12T13:01:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
-      "published": "2026-10-12T12:15:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Oil rebounds, dollar firms as US bond market holiday keeps traders cautious",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-oil-rebounds-dollar-firms-as-us-bond-market-holiday-keeps-traders-cautious/",
-      "published": "2026-10-12T12:04:08Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-      "published": "2026-10-12T11:04:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI FOMO driving some family offices into tech investments, survey suggests",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
-      "published": "2026-10-12T10:25:28Z",
       "tags": [
         "wire"
       ]
