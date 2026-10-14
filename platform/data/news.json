@@ -1,22 +1,310 @@
 {
-  "generated_at": "2026-10-14T12:16:21.420826Z",
+  "generated_at": "2026-10-14T17:26:54.835951Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Bank of America shares drop more than 4% after third-quarter revenue miss and regulatory penalty",
+      "title": "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi Aramco facilities attacked",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "published": "2026-10-14T12:13:59Z",
+      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+      "published": "2026-10-14T17:12:20Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Iran says it\u2019s \u2018counting the moments\u2019 until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
+      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "published": "2026-10-14T12:13:46Z",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "published": "2026-10-14T17:10:59Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "published": "2026-10-14T17:08:23Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "published": "2026-10-14T17:08:07Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "published": "2026-10-14T17:06:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "'The power of shrink' \u2014 tour the little-known $25B company that chipmakers can't live without",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/14/the-power-of-shrink-tour-the-little-known-25b-company-that-chipmakers-cant-live-without.html",
+      "published": "2026-10-14T17:04:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "3 things that are driving inflation higher",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+      "published": "2026-10-14T16:50:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "published": "2026-10-14T16:49:44Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "published": "2026-10-14T16:49:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "published": "2026-10-14T16:46:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump's diesel dilemma \u2014 by the numbers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+      "published": "2026-10-14T16:45:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "published": "2026-10-14T16:43:56Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+      "published": "2026-10-14T16:34:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "published": "2026-10-14T16:27:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+      "published": "2026-10-14T16:27:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "2026-10-14T16:20:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+      "published": "2026-10-14T16:14:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Rising diesel prices have helped fuel inflation \u2014 and we\u2019re about to see how much worse it could get",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+      "published": "2026-10-14T16:07:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The truth about being a landlord in retirement",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "published": "2026-10-14T16:05:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+      "published": "2026-10-14T15:25:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "2026-10-14T15:18:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Micron wins praise from Elon Musk for not being too greedy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+      "published": "2026-10-14T15:07:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "published": "2026-10-14T15:03:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+      "published": "2026-10-14T14:56:25Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+      "published": "2026-10-14T14:39:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
+      "published": "2026-10-14T14:25:40Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "published": "2026-10-14T14:17:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How Iran\u2019s $2 trillion threat puts your AI stocks at risk",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+      "published": "2026-10-14T14:17:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "published": "2026-10-14T14:08:16Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "published": "2026-10-14T14:08:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "published": "2026-10-14T13:25:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Canada August building permits rise 8.8% vs 2.0% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/canada-august-building-permits-rise-8-8-vs-2-0-expected/",
+      "published": "2026-10-14T12:45:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US September CPI 3.7% vs 3.6% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-september-cpi-vs-3-6-expected-0/",
+      "published": "2026-10-14T12:41:32Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "'Office' is actually having a scarcity problem",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+      "published": "2026-10-14T12:24:05Z",
       "tags": [
         "wire"
       ]
@@ -31,64 +319,10 @@
       ]
     },
     {
-      "title": "'Office' is actually having a scarcity problem",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
-      "published": "2026-10-14T12:08:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-      "published": "2026-10-14T12:03:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
       "published": "2026-10-14T12:01:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How to read your body\u2019s warning signs years before you get sick",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-      "published": "2026-10-14T12:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "published": "2026-10-14T11:58:05Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
-      "published": "2026-10-14T11:36:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "published": "2026-10-14T11:28:00Z",
       "tags": [
         "wire"
       ]
@@ -105,58 +339,12 @@
       ]
     },
     {
-      "title": "Here\u2019s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-      "published": "2026-10-14T11:18:00Z",
-      "tags": [
-        "macro",
-        "commodities"
-      ]
-    },
-    {
-      "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "2026-10-14T11:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-      "published": "2026-10-14T11:01:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
       "published": "2026-10-14T11:00:01Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "BlackRock\u2019s assets equal half the size of the U.S. economy after 15% growth",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "published": "2026-10-14T10:41:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "published": "2026-10-14T10:33:13Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -169,202 +357,12 @@
       ]
     },
     {
-      "title": "My wife says we can\u2019t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "2026-10-14T10:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-      "published": "2026-10-14T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The truth about being a landlord in retirement",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
-      "published": "2026-10-14T10:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Investors have made big bets on tech stocks. Here\u2019s why one strategist just downgraded the sector.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
-      "published": "2026-10-14T10:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "China's September lending surprise masks a much deeper slump in credit demand",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
       "published": "2026-10-14T09:29:26Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-      "published": "2026-10-14T09:18:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
-      "published": "2026-10-14T08:53:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-      "published": "2026-10-14T08:45:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Spain September CPI confirmed at 4.9% as rising core inflation adds to ECB rate hike pressure",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/spain-september-cpi-confirmed-at-4-9-as-rising-core-inflation-adds-to-ecb-rate-hike-pressure/",
-      "published": "2026-10-14T07:15:31Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What is the distribution of forecasts for the US CPI?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-2/",
-      "published": "2026-10-14T07:06:02Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-63/",
-      "published": "2026-10-14T06:34:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "German wholesale prices continue to push higher in September, keeping inflation risks in focus",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-wholesale-prices-continue-to-push-higher-in-september-keeping-inflation-risks-in-focus/",
-      "published": "2026-10-14T06:13:47Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Economic data spotlight: Will the US CPI report change the Fed's rate hike plans?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-data-spotlight-will-the-us-cpi-report-change-the-fed-s-rate-hike-plans/",
-      "published": "2026-10-14T05:25:02Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-      "published": "2026-10-14T05:19:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: dollar softer ahead of US CPI",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-dollar-softer-ahead-of-us-cpi/",
-      "published": "2026-10-14T03:44:48Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "China factory inflation hits 5%, fastest in over four years, as CPI lags at 0.9%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-factory-inflation-hits-5-fastest-in-over-four-years-as-cpi-lags-at-0-9/",
-      "published": "2026-10-14T02:59:44Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-      "published": "2026-10-14T02:09:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-      "published": "2026-10-14T02:04:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
-      "published": "2026-10-14T01:30:24Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "published": "2026-10-14T00:13:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "published": "2026-10-13T23:05:12Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-      "published": "2026-10-13T22:47:07Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
