@@ -1,15 +1,69 @@
 {
-  "generated_at": "2026-10-13T22:17:59.108689Z",
+  "generated_at": "2026-10-14T01:18:52.127461Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "China's exports likely grew by double-digits in September",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "published": "2026-10-14T01:16:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+      "published": "2026-10-14T00:28:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "published": "2026-10-13T21:44:46Z",
+      "published": "2026-10-14T00:13:45Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "published": "2026-10-13T23:05:12Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "published": "2026-10-13T22:54:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+      "published": "2026-10-13T22:47:07Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
+      "published": "2026-10-13T22:45:55Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -197,15 +251,6 @@
       ]
     },
     {
-      "title": "Why this little known Chinese chipmaker has caused a global stock rout",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-      "published": "2026-10-13T20:05:58Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "US CPI: Energy prices expected to lift headline inflation. Will core stay contained?",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-cpi-energy-prices-expected-to-lift-headline-inflation-will-core-stay-contained/",
@@ -318,51 +363,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html",
       "published": "2026-10-13T16:44:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-      "published": "2026-10-13T15:57:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "In charts: How one of the world's biggest economies got trapped by debt",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "published": "2026-10-13T15:52:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-oil-iran.html",
-      "published": "2026-10-13T15:52:09Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-      "published": "2026-10-13T15:42:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
-      "published": "2026-10-13T15:04:35Z",
       "tags": [
         "wire"
       ]
