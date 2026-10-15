@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-15T03:16:22.266690Z",
+  "generated_at": "2026-10-15T08:30:06.389700Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "published": "2026-10-15T08:18:14Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "published": "2026-10-15T07:51:22Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+      "published": "2026-10-15T07:46:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "France inflation rises sharply in September as price pressures add to ECB rate hike dilemma",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/france-inflation-rises-sharply-in-september-as-price-pressures-add-to-ecb-rate-hike-dilemma/",
+      "published": "2026-10-15T07:16:53Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "published": "2026-10-15T07:15:28Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-64/",
+      "published": "2026-10-15T06:36:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality check amid Musk spat",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "published": "2026-10-15T06:22:45Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "India\u2019s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
+      "published": "2026-10-15T06:12:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "From 'Dune' to 'Wicker,' how this \u2018tiny\u2019 European country became a hub for Hollywood",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+      "published": "2026-10-15T06:09:01Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+      "published": "2026-10-15T04:09:18Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "published": "2026-10-15T03:48:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "published": "2026-10-15T03:22:36Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "fx"
+      ]
+    },
     {
       "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
       "source": "CNBC Markets",
@@ -17,15 +127,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
       "published": "2026-10-15T01:19:38Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "published": "2026-10-15T01:07:01Z",
       "tags": [
         "macro"
       ]
@@ -46,15 +147,6 @@
       "published": "2026-10-15T00:30:14Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Inside India newsletter: Billionaire Ambani\u2019s mega-IPO faces a valuation reality check amid Musk spat",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "published": "2026-10-15T00:30:13Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -82,15 +174,6 @@
       "published": "2026-10-14T23:36:00Z",
       "tags": [
         "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-      "published": "2026-10-14T22:48:06Z",
-      "tags": [
         "equities"
       ]
     },
@@ -221,15 +304,6 @@
       ]
     },
     {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "published": "2026-10-14T20:20:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
@@ -252,15 +326,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
       "published": "2026-10-14T20:06:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investment",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-      "published": "2026-10-14T20:01:26Z",
       "tags": [
         "wire"
       ]
@@ -299,69 +364,6 @@
       "published": "2026-10-14T18:41:11Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
-      "published": "2026-10-14T18:02:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-      "published": "2026-10-14T17:54:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI\u2019s Sachin Katti to leave infrastructure role, stay on as advisor",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-      "published": "2026-10-14T17:25:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The steel stock that has the shorts and options traders on edge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
-      "published": "2026-10-14T17:22:55Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "How high inflation became a 'fact of life' in the U.S.",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-      "published": "2026-10-14T17:20:23Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "published": "2026-10-14T17:12:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "published": "2026-10-14T17:08:07Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
