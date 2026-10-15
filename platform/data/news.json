@@ -1,31 +1,211 @@
 {
-  "generated_at": "2026-10-15T13:38:59.694878Z",
+  "generated_at": "2026-10-15T18:00:20.368741Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "title": "U.S. sues California in fight over checking citizenship of mail voters",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "published": "2026-10-15T13:38:05Z",
+      "url": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+      "published": "2026-10-15T17:55:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
+      "published": "2026-10-15T17:54:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
+      "published": "2026-10-15T17:54:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says Nidal Hasan execution won't be livestreamed",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+      "published": "2026-10-15T17:53:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "She made college \u2018good debt\u2019 for herself. Can she do the same for her daughter?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/college-good-debt-cfp-daughter.html",
+      "published": "2026-10-15T17:53:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "published": "2026-10-15T17:52:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:52:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors stacks up so far in 2026.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:07:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The COLA wars are coming for Social Security",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:07:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How to weather the current AI stock storm that we were all dreading",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
+      "published": "2026-10-15T17:06:17Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:06:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The truth about being a landlord in retirement",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:05:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
+      "published": "2026-10-15T16:56:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "published": "2026-10-15T16:56:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:55:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:53:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",
+      "published": "2026-10-15T16:47:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tesla may finally debut a flying car today, after testing fans\u2019 patience for nearly a decade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:43:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
+      "published": "2026-10-15T16:39:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "published": "2026-10-15T16:19:09Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "published": "2026-10-15T13:29:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
-      "published": "2026-10-15T13:24:53Z",
+      "published": "2026-10-15T16:15:44Z",
       "tags": [
         "wire"
       ]
@@ -34,7 +214,79 @@
       "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-      "published": "2026-10-15T13:24:41Z",
+      "published": "2026-10-15T16:14:05Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "JetBlue\u2019s new domestic first class, BlueFirst, is now on sale",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
+      "published": "2026-10-15T16:13:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "published": "2026-10-15T15:37:59Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+      "published": "2026-10-15T14:51:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+      "published": "2026-10-15T14:25:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+      "published": "2026-10-15T14:10:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US August business inventories +0.4% vs +0.4% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-august-business-inventories-0-4-vs-0-4-expected/",
+      "published": "2026-10-15T14:00:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "published": "2026-10-15T13:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+      "published": "2026-10-15T13:42:32Z",
       "tags": [
         "macro"
       ]
@@ -46,87 +298,6 @@
       "published": "2026-10-15T13:24:04Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "2026-10-15T13:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
-      "published": "2026-10-15T13:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the childcare crisis",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
-      "published": "2026-10-15T13:09:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Medicare open enrollment is here. What to know about deadlines, options and more.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-open-enrollment-is-here-what-to-know-about-deadlines-options-and-more-eac92756?mod=mw_rss_topstories",
-      "published": "2026-10-15T13:02:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "published": "2026-10-15T12:54:30Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "College was supposed to be \u2018good debt.\u2019 For many borrowers, it isn\u2019t paying off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
-      "published": "2026-10-15T12:53:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "published": "2026-10-15T12:43:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "published": "2026-10-15T12:40:58Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here\u2019s where he\u2019s investing instead.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
-      "published": "2026-10-15T12:40:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -184,182 +355,10 @@
       ]
     },
     {
-      "title": "The problem with 'good debt': Why borrowers should think twice about the label",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html",
-      "published": "2026-10-15T12:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
       "published": "2026-10-15T12:17:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "published": "2026-10-15T12:15:09Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "published": "2026-10-15T12:11:15Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "There\u2019s a \u2018monstrous bull market\u2019 developing under the surface of the S&P 500. This hedge-fund manager tells you where it\u2019s at.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories",
-      "published": "2026-10-15T12:08:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Cboe to expand options trading hours for major stocks and ETFs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
-      "published": "2026-10-15T12:01:59Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-      "published": "2026-10-15T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What to know about Starshield, SpaceX's military-focused Starlink service",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-      "published": "2026-10-15T11:54:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Markets consolidate after the US CPI shock",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-after-the-us-cpi-shock/",
-      "published": "2026-10-15T11:34:52Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "How lower fuel economy targets could boost pickups and V-8 engines",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html",
-      "published": "2026-10-15T11:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "published": "2026-10-15T11:17:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-      "published": "2026-10-15T10:44:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "2026-10-15T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-      "published": "2026-10-15T10:13:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "France is \u2018putting the house in order\u2019 and can slash deficit to 3% in three years, central bank governor tells CNBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-      "published": "2026-10-15T10:05:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "2026-10-15T09:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK economy grew 0.1% in August, beating expectations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "published": "2026-10-15T08:44:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
-      "published": "2026-10-15T08:44:16Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "published": "2026-10-15T08:09:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-      "published": "2026-10-15T07:51:22Z",
       "tags": [
         "wire"
       ]
