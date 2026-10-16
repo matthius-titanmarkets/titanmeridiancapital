@@ -1,13 +1,76 @@
 {
-  "generated_at": "2026-10-15T21:36:32.222247Z",
+  "generated_at": "2026-10-16T00:04:43.219984Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "published": "2026-10-15T23:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A lot changed in stock market in just a few months. The single biggest risk did not",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "published": "2026-10-15T21:33:24Z",
+      "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
+      "published": "2026-10-15T23:12:24Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+      "published": "2026-10-15T23:08:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "published": "2026-10-15T22:48:12Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "2026-10-15T22:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Zealand card spending falls for second month as food prices hold flat in September",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
+      "published": "2026-10-15T22:25:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "2026-10-15T22:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "published": "2026-10-15T21:56:00Z",
       "tags": [
         "wire"
       ]
@@ -16,7 +79,25 @@
       "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "published": "2026-10-15T21:28:51Z",
+      "published": "2026-10-15T21:42:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
+      "published": "2026-10-15T21:39:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "published": "2026-10-15T21:33:24Z",
       "tags": [
         "wire"
       ]
@@ -76,15 +157,6 @@
       ]
     },
     {
-      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-      "published": "2026-10-15T20:44:46Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
       "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
@@ -98,6 +170,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
       "published": "2026-10-15T20:35:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "published": "2026-10-15T20:33:24Z",
       "tags": [
         "wire"
       ]
@@ -193,24 +274,6 @@
       ]
     },
     {
-      "title": "Equal-weight failed. Now tech stocks look shaky again. So what should you do about S&P 500 risk?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-      "published": "2026-10-15T18:02:23Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "2026-10-15T18:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
@@ -224,15 +287,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
       "published": "2026-10-15T17:54:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says Nidal Hasan execution won't be livestreamed",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-      "published": "2026-10-15T17:53:46Z",
       "tags": [
         "wire"
       ]
@@ -260,33 +314,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
       "published": "2026-10-15T17:52:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "published": "2026-10-15T17:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "2026-10-15T17:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "2026-10-15T17:15:00Z",
       "tags": [
         "wire"
       ]
@@ -334,33 +361,6 @@
       "published": "2026-10-15T15:37:59Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-      "published": "2026-10-15T14:51:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
-      "published": "2026-10-15T14:25:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US August business inventories +0.4% vs +0.4% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-august-business-inventories-0-4-vs-0-4-expected/",
-      "published": "2026-10-15T14:00:03Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
