@@ -1,13 +1,212 @@
 {
-  "generated_at": "2026-10-16T18:15:39.333882Z",
+  "generated_at": "2026-10-16T21:30:04.676893Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "published": "2026-10-16T21:26:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:21:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Don\u2019t buy this dip: Several signs suggest there\u2019s more pain ahead for tech stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "published": "2026-10-16T20:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "published": "2026-10-16T20:33:55Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "published": "2026-10-16T20:28:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nasdaq-sinks-and-oil-jumps/",
+      "published": "2026-10-16T20:08:17Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "published": "2026-10-16T20:05:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "published": "2026-10-16T20:02:21Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
       "title": "Debt is eating up a bigger chunk of your raise, research shows",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-      "published": "2026-10-16T18:08:00Z",
+      "published": "2026-10-16T19:47:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:45:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors stacks up so far in 2026.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:45:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "The COLA wars are coming for Social Security",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's who Netflix just brought in to run content \u2014 and what it means for the streamer",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+      "published": "2026-10-16T19:40:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:35:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+      "published": "2026-10-16T19:30:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+      "published": "2026-10-16T19:28:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The affordability crisis isn't hitting all voters equally. Here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+      "published": "2026-10-16T19:22:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "2026-10-16T19:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "published": "2026-10-16T18:55:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
+      "published": "2026-10-16T18:24:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US fiscal 2026 budget deficit was the largest in five years",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-fiscal-2026-budget-deficit-was-the-largest-in-five-years/",
+      "published": "2026-10-16T18:06:27Z",
       "tags": [
         "wire"
       ]
@@ -22,42 +221,6 @@
       ]
     },
     {
-      "title": "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "2026-10-16T18:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Welcome to the \u2018AI burnout trade\u2019 \u2014 as investors grow tired of debating tech\u2019s promises",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
-      "published": "2026-10-16T18:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "published": "2026-10-16T18:00:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The U.S. budget deficit just hit almost $2 trillion \u2014 and Washington isn\u2019t doing much about it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories",
-      "published": "2026-10-16T18:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
@@ -67,46 +230,10 @@
       ]
     },
     {
-      "title": "Katie Zacharia out as Trump's White House press secretary: Reports",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "published": "2026-10-16T17:54:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
       "published": "2026-10-16T17:50:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "2026-10-16T17:35:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s how the Fed should reveal its outlook for the economy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
-      "published": "2026-10-16T17:07:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Here's who Netflix just brought in to run content \u2014 and what it means for the streamer",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-      "published": "2026-10-16T17:02:50Z",
       "tags": [
         "wire"
       ]
@@ -130,24 +257,6 @@
       ]
     },
     {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "published": "2026-10-16T16:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-      "published": "2026-10-16T16:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
@@ -166,42 +275,6 @@
       ]
     },
     {
-      "title": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-      "published": "2026-10-16T16:12:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Many of 2026\u2019s hottest stocks have seen dramatic comedowns this week",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "published": "2026-10-16T16:09:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "What we want to see when Capital One and Meta report earnings next week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
-      "published": "2026-10-16T16:06:29Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "published": "2026-10-16T16:05:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
@@ -215,33 +288,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
       "published": "2026-10-16T15:50:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-      "published": "2026-10-16T15:45:35Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-      "published": "2026-10-16T15:44:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-      "published": "2026-10-16T15:00:00Z",
       "tags": [
         "wire"
       ]
@@ -292,24 +338,6 @@
       ]
     },
     {
-      "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/10/16/michelle-singletary-debt-money-advice.html",
-      "published": "2026-10-16T13:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/stock-fixing-turkey-msci-indonesia.html",
-      "published": "2026-10-16T12:58:15Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
@@ -332,34 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
       "published": "2026-10-16T12:17:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
-      "published": "2026-10-16T11:51:59Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks \u2014 and a blunt message",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-      "published": "2026-10-16T11:33:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published": "2026-10-16T11:02:24Z",
       "tags": [
         "wire"
       ]
