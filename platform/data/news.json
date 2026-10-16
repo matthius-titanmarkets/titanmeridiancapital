@@ -1,49 +1,257 @@
 {
-  "generated_at": "2026-10-16T09:29:39.743015Z",
+  "generated_at": "2026-10-16T14:10:07.462931Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Here are the key things Fed Chairman Kevin Warsh said \u2014 and didn\u2019t say \u2014 while Americans were sleeping Thursday night",
+      "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "published": "2026-10-16T14:04:19Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "published": "2026-10-16T14:02:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-      "published": "2026-10-16T09:16:00Z",
+      "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
+      "published": "2026-10-16T14:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "published": "2026-10-16T13:44:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+      "published": "2026-10-16T13:43:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Friday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "published": "2026-10-16T13:19:30Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "US September industrial production +0.7% vs +0.4% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-september-industrial-production-0-7-vs-0-4-expected/",
+      "published": "2026-10-16T13:17:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/stock-fixing-turkey-msci-indonesia.html",
+      "published": "2026-10-16T12:58:15Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "published": "2026-10-16T12:36:00Z",
       "tags": [
         "macro"
+      ]
+    },
+    {
+      "title": "US September import price index +1.1% vs +0.8% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-september-import-price-index-1-1-vs-0-8-expected/",
+      "published": "2026-10-16T12:30:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series \u2014 and the NBA season hasn't even started",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/owner-mat-ishbia-says-phoenix-suns-will-win-first-round-playoff-series.html",
+      "published": "2026-10-16T12:24:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+      "published": "2026-10-16T12:17:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "published": "2026-10-16T12:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
+      "published": "2026-10-16T11:51:59Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks \u2014 and a blunt message",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
+      "published": "2026-10-16T11:33:44Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "2026-10-16T09:15:00Z",
+      "published": "2026-10-16T11:30:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+      "title": "Banking tax raid fears hit London lenders' shares ahead of crucial budget",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/banking-tax-london-uk-lenders.html",
+      "published": "2026-10-16T11:19:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
-      "published": "2026-10-16T09:05:00Z",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "2026-10-16T11:15:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
+      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "published": "2026-10-16T11:02:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nike's India campus is a long-term growth bet amid turnaround",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
+      "published": "2026-10-16T11:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "published": "2026-10-16T11:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
+      "published": "2026-10-16T10:56:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
+      "published": "2026-10-16T10:56:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "published": "2026-10-16T10:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
+      "published": "2026-10-16T10:38:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-      "published": "2026-10-16T08:52:54Z",
+      "published": "2026-10-16T10:25:46Z",
       "tags": [
-        "fx"
+        "wire"
       ]
     },
     {
-      "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-      "published": "2026-10-16T08:00:01Z",
+      "title": "The best of the AI trade could be behind us. Here\u2019s how to prepare, according to Barclays.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
+      "published": "2026-10-16T10:21:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "2026-10-16T10:16:00Z",
       "tags": [
         "wire"
       ]
@@ -52,25 +260,26 @@
       "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-      "published": "2026-10-16T07:56:55Z",
+      "published": "2026-10-16T09:46:54Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "published": "2026-10-16T07:11:22Z",
+      "title": "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/eurozone-september-final-cpi-vs-3-8-y-y-prelim/",
+      "published": "2026-10-16T09:00:49Z",
       "tags": [
-        "macro"
+        "macro",
+        "fx"
       ]
     },
     {
-      "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+      "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
-      "published": "2026-10-16T06:45:02Z",
+      "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+      "published": "2026-10-16T08:00:01Z",
       "tags": [
         "wire"
       ]
@@ -139,24 +348,6 @@
       ]
     },
     {
-      "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "published": "2026-10-16T03:47:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Tesla finally delivers on its promise to create a flying car",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-      "published": "2026-10-16T02:42:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
@@ -170,195 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
       "published": "2026-10-16T00:06:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Elon Musk helps GOP Senate super PAC raise record $273 million",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
-      "published": "2026-10-15T23:53:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-      "published": "2026-10-15T23:29:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-      "published": "2026-10-15T23:08:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "published": "2026-10-15T23:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-      "published": "2026-10-15T22:48:12Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "2026-10-15T22:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "New Zealand card spending falls for second month as food prices hold flat in September",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
-      "published": "2026-10-15T22:25:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "2026-10-15T22:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "published": "2026-10-15T21:56:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "published": "2026-10-15T21:42:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
-      "published": "2026-10-15T21:39:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "published": "2026-10-15T21:33:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. sues California in fight over checking citizenship of mail voters",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-      "published": "2026-10-15T21:24:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "published": "2026-10-15T21:23:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Don\u2019t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "published": "2026-10-15T21:21:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published": "2026-10-15T21:03:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-      "published": "2026-10-15T20:35:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Porsche reveals Mission S concept car that previews new design identity",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
-      "published": "2026-10-15T20:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-      "published": "2026-10-15T19:53:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-      "published": "2026-10-15T19:53:29Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
-      "published": "2026-10-15T19:50:41Z",
       "tags": [
         "wire"
       ]
