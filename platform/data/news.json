@@ -1,15 +1,116 @@
 {
-  "generated_at": "2026-10-19T03:19:22.068731Z",
+  "generated_at": "2026-10-19T09:11:23.698965Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+      "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "published": "2026-10-19T03:18:51Z",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+      "published": "2026-10-19T09:07:09Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war \u2014 without Zelenskyy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "published": "2026-10-19T09:05:41Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Kelly Clarkson\u2019s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+      "published": "2026-10-19T09:03:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "The Beach Boys\u2019 Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
+      "published": "2026-10-19T09:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "published": "2026-10-19T08:23:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+      "published": "2026-10-19T08:10:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "published": "2026-10-19T07:48:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-66/",
+      "published": "2026-10-19T06:35:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "published": "2026-10-19T06:06:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+      "published": "2026-10-19T05:29:51Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "published": "2026-10-19T04:36:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
+      "published": "2026-10-19T03:57:13Z",
+      "tags": [
+        "commodities",
+        "fx"
       ]
     },
     {
@@ -26,15 +127,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
       "published": "2026-10-19T02:33:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-      "published": "2026-10-19T02:29:11Z",
       "tags": [
         "wire"
       ]
@@ -58,15 +150,6 @@
       ]
     },
     {
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "published": "2026-10-19T01:56:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-home-price-declines-ease-in-september-ahead-of-q3-gdp-seen-at-4-4/",
@@ -82,15 +165,6 @@
       "published": "2026-10-18T23:24:42Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "India\u2019s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-      "published": "2026-10-18T23:00:01Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -287,78 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
       "published": "2026-10-18T11:10:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "published": "2026-10-18T07:22:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why hedge funds could be making a bond market shock more likely",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-      "published": "2026-10-18T06:13:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "published": "2026-10-17T20:53:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "published": "2026-10-17T18:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-      "published": "2026-10-17T16:31:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "published": "2026-10-17T15:11:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "published": "2026-10-17T15:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-      "published": "2026-10-17T13:30:01Z",
       "tags": [
         "wire"
       ]
