@@ -1,15 +1,161 @@
 {
-  "generated_at": "2026-10-20T19:49:23.368614Z",
+  "generated_at": "2026-10-20T22:55:25.750411Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published": "2026-10-20T19:41:23Z",
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:45:00Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joining the rally",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:37:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tesla\u2019s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:30:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "published": "2026-10-20T22:29:45Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "2026-10-20T22:27:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "published": "2026-10-20T22:01:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Walmart takes aim at Amazon and Costco with new membership program \u2014 but is it a good deal?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "published": "2026-10-20T21:47:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "published": "2026-10-20T20:57:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bull markets tend to peak with a whimper, not a bang \u2014 but a 15% correction for the S&P 500 may be next",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "published": "2026-10-20T20:45:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The Social Security Administration corrected millions of records, and says there\u2019s more to fix",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
+      "published": "2026-10-20T20:26:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+      "published": "2026-10-20T20:23:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 20 Oct: USD falls as deal headlines swing oil; Dow and small caps outperform",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/",
+      "published": "2026-10-20T20:19:50Z",
+      "tags": [
+        "commodities",
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "published": "2026-10-20T20:10:30Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "published": "2026-10-20T20:08:44Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+      "published": "2026-10-20T20:00:22Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -22,15 +168,6 @@
       ]
     },
     {
-      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
-      "published": "2026-10-20T19:35:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -40,21 +177,12 @@
       ]
     },
     {
-      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "published": "2026-10-20T19:07:15Z",
+      "title": "Trump: Ukraine has to want to settle this war, if not it's going to be a very bad thing",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-ukraine-has-to-want-to-settle-this-war-if-not-it-s-going-to-be-a-very-bad-thing/",
+      "published": "2026-10-20T19:24:27Z",
       "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
-      "published": "2026-10-20T19:00:39Z",
-      "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
@@ -64,15 +192,6 @@
       "published": "2026-10-20T18:30:53Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s what matters most to Tesla investors heading into earnings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
-      "published": "2026-10-20T18:15:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -103,82 +222,10 @@
       ]
     },
     {
-      "title": "Investors\u2019 search for safety has made toothpaste stocks more expensive than tech",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-      "published": "2026-10-20T17:38:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "published": "2026-10-20T17:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "2026-10-20T17:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "published": "2026-10-20T16:55:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "published": "2026-10-20T16:25:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
       "published": "2026-10-20T16:11:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here's what to expect when Netflix reports earnings after the bell",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "published": "2026-10-20T16:00:01Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:58:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:54:00Z",
       "tags": [
         "wire"
       ]
@@ -190,15 +237,6 @@
       "published": "2026-10-20T15:45:47Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:35:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -244,15 +282,6 @@
       "published": "2026-10-20T14:12:38Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-      "published": "2026-10-20T14:09:16Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -332,34 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
       "published": "2026-10-20T12:29:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-      "published": "2026-10-20T12:00:02Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-rising-oil-prices-keep-weighing-on-risk-sentiment/",
-      "published": "2026-10-20T11:40:52Z",
-      "tags": [
-        "commodities",
-        "fx"
-      ]
-    },
-    {
-      "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
-      "published": "2026-10-20T10:30:49Z",
       "tags": [
         "wire"
       ]
