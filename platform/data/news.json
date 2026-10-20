@@ -1,40 +1,202 @@
 {
-  "generated_at": "2026-10-20T15:34:37.637800Z",
+  "generated_at": "2026-10-20T19:49:23.368614Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "published": "2026-10-20T19:41:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "published": "2026-10-20T15:32:49Z",
+      "published": "2026-10-20T19:40:51Z",
       "tags": [
         "commodities"
       ]
     },
     {
-      "title": "Salesforce\u2019s stock falls as investors chafe at the cost of latest AI purchase",
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:27:00Z",
+      "url": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "published": "2026-10-20T19:35:00Z",
       "tags": [
-        "equities"
+        "wire"
+      ]
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "published": "2026-10-20T19:28:43Z",
+      "tags": [
+        "macro"
       ]
     },
     {
       "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "published": "2026-10-20T15:23:57Z",
+      "published": "2026-10-20T19:07:15Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "title": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+      "published": "2026-10-20T19:00:39Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
+      "published": "2026-10-20T18:30:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s what matters most to Tesla investors heading into earnings",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:17:00Z",
+      "url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+      "published": "2026-10-20T18:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Traders are betting Netflix's stock drama may be coming to an end",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+      "published": "2026-10-20T18:10:13Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "published": "2026-10-20T18:06:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Finland President Stubb offers some optimism for Russia-Ukraine peace",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/finland-president-stubb-offers-some-optimism-for-russia-ukraine-peace/",
+      "published": "2026-10-20T17:57:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors\u2019 search for safety has made toothpaste stocks more expensive than tech",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "published": "2026-10-20T17:38:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "2026-10-20T17:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "2026-10-20T17:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "published": "2026-10-20T16:55:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "published": "2026-10-20T16:25:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "published": "2026-10-20T16:11:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here's what to expect when Netflix reports earnings after the bell",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "published": "2026-10-20T16:00:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "published": "2026-10-20T15:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "published": "2026-10-20T15:54:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "published": "2026-10-20T15:45:47Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "published": "2026-10-20T15:35:00Z",
       "tags": [
         "wire"
       ]
@@ -49,6 +211,15 @@
       ]
     },
     {
+      "title": "To get a reply when reaching out to people, make 1 simple change, says LinkedIn career expert",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/10/20/networking-specific-ask-linkedin-career-expert.html",
+      "published": "2026-10-20T15:09:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "France to deploy military as it braces for fresh unrest this weekend",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
@@ -58,55 +229,10 @@
       ]
     },
     {
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "published": "2026-10-20T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Is your annuity really guaranteed? Read this before you buy one.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
-      "published": "2026-10-20T14:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s why GM\u2019s stock is having its worst day in over a year",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
-      "published": "2026-10-20T14:35:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "September data shows housing market in a deep freeze",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
       "published": "2026-10-20T14:18:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Should you dump your target-date funds when you retire?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-      "published": "2026-10-20T14:16:00Z",
       "tags": [
         "wire"
       ]
@@ -130,55 +256,10 @@
       ]
     },
     {
-      "title": "What options traders expect from SpaceX earnings after the bell",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-      "published": "2026-10-20T14:01:49Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "US September pending home sales -7.3% vs -0.5% expected",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-september-pending-home-sales-7-3-vs-0-5-expected/",
       "published": "2026-10-20T14:00:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "2026-10-20T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Money-saving habits to cope with higher prices \u2014 from our readers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-      "published": "2026-10-20T13:52:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "published": "2026-10-20T13:50:24Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "published": "2026-10-20T13:45:00Z",
       "tags": [
         "wire"
       ]
@@ -199,15 +280,6 @@
       "published": "2026-10-20T13:09:07Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-10-20T13:05:15Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -235,15 +307,6 @@
       "published": "2026-10-20T12:52:29Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "published": "2026-10-20T12:50:24Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -293,75 +356,12 @@
       ]
     },
     {
-      "title": "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-      "published": "2026-10-20T10:39:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
       "published": "2026-10-20T10:30:49Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-      "published": "2026-10-20T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/germany-october-zew-survey-current-conditions-vs-45-0-expected/",
-      "published": "2026-10-20T09:00:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What\u2019s making Europe so angry? The frustration behind the protests",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-      "published": "2026-10-20T07:19:16Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-67/",
-      "published": "2026-10-20T06:39:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK unemployment rate falls to 4.7% as jobs rebound, keeping BOE rate hike bets intact",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-unemployment-rate-falls-to-4-7-as-jobs-rebound-keeping-boe-rate-hike-bets-intact/",
-      "published": "2026-10-20T06:00:14Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "German producer prices hit highest since March 2023 as energy costs soar, fueling inflation worries",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-producer-prices-hit-highest-since-march-2023-as-energy-costs-soar-fueling-inflation-worries/",
-      "published": "2026-10-20T06:00:09Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
