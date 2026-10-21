@@ -1,22 +1,239 @@
 {
-  "generated_at": "2026-10-21T12:10:15.535661Z",
+  "generated_at": "2026-10-21T17:31:06.598556Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Why SpaceX\u2019s stock is surging \u2014 and lifting the broader AI universe along with it",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-      "published": "2026-10-21T12:06:00Z",
+      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "published": "2026-10-21T17:27:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second-largest diesel supplier",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "published": "2026-10-21T17:27:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "published": "2026-10-21T17:23:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Intel hits construction milestone at Ohio chip fab that\u2019s at least 5 years behind schedule",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+      "published": "2026-10-21T16:55:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+      "published": "2026-10-21T16:35:48Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "title": "Medicare is a bargain. What America can\u2019t afford is private health insurance.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
+      "published": "2026-10-21T16:34:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
-      "published": "2026-10-21T12:00:02Z",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "published": "2026-10-21T16:08:50Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "published": "2026-10-21T16:01:25Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
+      "published": "2026-10-21T15:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
+      "published": "2026-10-21T15:58:45Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "published": "2026-10-21T15:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "published": "2026-10-21T15:30:50Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "AI stocks are probably in a bubble \u2014 but might be worth holding on to, says Citadel\u2019s Ken Griffin",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+      "published": "2026-10-21T15:27:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+      "published": "2026-10-21T15:17:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A $50 sports bet costs a young investor hundreds later. Here's how",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/sports-betting-young-investors-compounding.html",
+      "published": "2026-10-21T15:16:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "2026-10-21T15:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "published": "2026-10-21T15:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Money-saving habits to cope with higher prices \u2014 from our readers",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+      "published": "2026-10-21T14:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "published": "2026-10-21T14:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "published": "2026-10-21T14:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The political ad wars are still being fought over the airwaves even as digital gains share",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
+      "published": "2026-10-21T14:40:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Time for a Micron mindset shift? Here\u2019s how to navigate the new AI landscape.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/time-for-a-micron-mindset-shift-heres-how-to-navigate-the-new-ai-landscape-09395ac8?mod=mw_rss_topstories",
+      "published": "2026-10-21T14:33:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+      "published": "2026-10-21T13:44:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+      "published": "2026-10-21T13:44:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+      "published": "2026-10-21T13:13:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
+      "published": "2026-10-21T13:00:01Z",
       "tags": [
         "wire"
       ]
@@ -25,18 +242,28 @@
       "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-      "published": "2026-10-21T11:54:28Z",
+      "published": "2026-10-21T12:43:49Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-      "published": "2026-10-21T11:51:56Z",
+      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "published": "2026-10-21T12:33:34Z",
       "tags": [
+        "commodities",
         "equities"
+      ]
+    },
+    {
+      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+      "published": "2026-10-21T12:20:13Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -49,24 +276,6 @@
       ]
     },
     {
-      "title": "Musk says he\u2019s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
-      "published": "2026-10-21T11:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "published": "2026-10-21T11:27:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
@@ -76,55 +285,10 @@
       ]
     },
     {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "2026-10-21T11:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "House committee says Webull messages point to China access to U.S. customer data",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
       "published": "2026-10-21T11:05:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-      "published": "2026-10-21T11:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "published": "2026-10-21T11:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Opposition to data centers will drive up inflation, says BlackRock\u2019s Larry Fink",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
-      "published": "2026-10-21T10:59:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/at-t-shrugs-off-spacex-fears-with-its-own-large-haul-of-new-internet-subscribers-644f66a8?mod=mw_rss_topstories",
-      "published": "2026-10-21T10:58:00Z",
       "tags": [
         "wire"
       ]
@@ -148,42 +312,6 @@
       ]
     },
     {
-      "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-      "published": "2026-10-21T10:32:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "published": "2026-10-21T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "In the battle for AI supremacy, China is only six months behind the U.S \u2014 but that means it\u2019s winning, says former Google CEO",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
-      "published": "2026-10-21T10:12:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "published": "2026-10-21T09:15:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "European markets steady for now but widening bond yield spreads offer a warning",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/european-markets-steady-for-now-but-widening-bond-yield-spreads-offer-a-warning/",
@@ -191,15 +319,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "George Foreman\u2019s lavish Texas estate with 50-car garage is listed for $6 million",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/george-foremans-lavish-texas-estate-with-50-car-garage-is-listed-for-6-million-d464b764?mod=mw_rss_topstories",
-      "published": "2026-10-21T09:04:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -212,37 +331,10 @@
       ]
     },
     {
-      "title": "Oil prices climb as traders assess Middle East developments",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-      "published": "2026-10-21T07:54:59Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "published": "2026-10-21T07:50:10Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
       "title": "OpenAI's most powerful AI models disabled their own safety monitoring \u2014 and one lied about it",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
       "published": "2026-10-21T07:49:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-      "published": "2026-10-21T07:20:37Z",
       "tags": [
         "wire"
       ]
@@ -270,96 +362,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
       "published": "2026-10-21T04:47:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
-      "published": "2026-10-21T04:21:38Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: RBA\u2019s Hauser puts November hike in play",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
-      "published": "2026-10-21T03:36:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
-      "published": "2026-10-21T02:55:38Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
-      "published": "2026-10-21T01:20:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan exports post huge miss in September as growth slows to 16.7%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-      "published": "2026-10-21T00:44:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/",
-      "published": "2026-10-21T00:31:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "This Janus Henderson fund manager owns CoreWeave debt \u2014 here's why he's sticking with it",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
-      "published": "2026-10-21T00:12:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-      "published": "2026-10-20T23:34:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "published": "2026-10-20T22:29:45Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published": "2026-10-20T22:01:11Z",
       "tags": [
         "wire"
       ]
