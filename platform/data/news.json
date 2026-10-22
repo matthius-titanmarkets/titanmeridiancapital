@@ -1,31 +1,285 @@
 {
-  "generated_at": "2026-10-22T15:28:47.756265Z",
+  "generated_at": "2026-10-22T19:22:49.436641Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-      "published": "2026-10-22T15:20:12Z",
+      "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+      "published": "2026-10-22T19:22:27Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Investors\u2019 recent money moves show a preference for quality over momentum within the S&P 500",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "published": "2026-10-22T15:10:00Z",
+      "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "published": "2026-10-22T19:19:41Z",
       "tags": [
-        "equities"
+        "commodities"
+      ]
+    },
+    {
+      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "published": "2026-10-22T19:09:11Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-      "published": "2026-10-22T15:08:47Z",
+      "published": "2026-10-22T18:55:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "published": "2026-10-22T18:51:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "published": "2026-10-22T18:51:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "published": "2026-10-22T18:51:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moderna\u2019s stock tumbles after reported leak of data for cancer vaccine",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "published": "2026-10-22T18:35:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The perfect storm behind the Nasdaq's rout \u2014 plus, some of the bright spots in the market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+      "published": "2026-10-22T18:23:05Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AI debt and French bonds face a stress test \u2014 why it may not be over",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+      "published": "2026-10-22T18:13:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk invests about $1 billion in Skydance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "published": "2026-10-22T18:02:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+      "published": "2026-10-22T17:53:08Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+      "published": "2026-10-22T17:49:53Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+      "published": "2026-10-22T17:37:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "published": "2026-10-22T17:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "published": "2026-10-22T17:24:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+      "published": "2026-10-22T17:21:00Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "\u2018AI is on trial\u2019: Bond yields sink below 5% as investors look for safety",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+      "published": "2026-10-22T17:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/",
+      "published": "2026-10-22T17:07:01Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+      "published": "2026-10-22T17:01:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+      "published": "2026-10-22T16:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Young Americans are giving up their cars. It\u2019s a path to financial freedom, for some.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "published": "2026-10-22T16:48:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Zuckerberg\u2019s California tax move is a win for Meta \u2014 and for him",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+      "published": "2026-10-22T16:48:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+      "published": "2026-10-22T16:46:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "published": "2026-10-22T16:40:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why governments pulled websites offline over the decades-old PHP programming language",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+      "published": "2026-10-22T16:19:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+      "published": "2026-10-22T16:04:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "published": "2026-10-22T15:35:55Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "published": "2026-10-22T15:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+      "published": "2026-10-22T15:16:05Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Investors\u2019 recent money moves show a preference for lowering risks over boosting rewards",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+      "published": "2026-10-22T15:10:00Z",
       "tags": [
         "wire"
       ]
@@ -40,64 +294,10 @@
       ]
     },
     {
-      "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "published": "2026-10-22T15:00:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "published": "2026-10-22T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
       "published": "2026-10-22T14:52:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-      "published": "2026-10-22T14:47:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-      "published": "2026-10-22T14:33:34Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "published": "2026-10-22T14:30:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "published": "2026-10-22T14:28:10Z",
       "tags": [
         "wire"
       ]
@@ -112,24 +312,6 @@
       ]
     },
     {
-      "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-      "published": "2026-10-22T14:19:40Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "published": "2026-10-22T14:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
@@ -139,28 +321,10 @@
       ]
     },
     {
-      "title": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-      "published": "2026-10-22T14:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump\u2019s tariffs loom over Maine Senate race between Collins and Jackson",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
       "published": "2026-10-22T13:53:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The 3 questions every AI investor needs to ask right now",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
-      "published": "2026-10-22T13:21:00Z",
       "tags": [
         "wire"
       ]
@@ -184,33 +348,6 @@
       ]
     },
     {
-      "title": "Spain accuses Trump ally Milei of \u2018disgraceful\u2019 election interference",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html",
-      "published": "2026-10-22T12:52:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Our top 10 things to watch in the stock market Thursday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/10/22/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "published": "2026-10-22T12:51:20Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "published": "2026-10-22T12:46:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
@@ -220,148 +357,12 @@
       ]
     },
     {
-      "title": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
-      "published": "2026-10-22T12:40:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-      "published": "2026-10-22T12:35:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "published": "2026-10-22T12:35:00Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
       "title": "Canada September PPI +2.0% m/m vs +1.3% prior",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/canada-september-ppi-2-0-m-m-vs-1-3-prior/",
       "published": "2026-10-22T12:33:50Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-200k-estimate-better-than-expected/",
-      "published": "2026-10-22T12:30:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/",
-      "published": "2026-10-22T12:12:25Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "IBM\u2019s stock falls as investors struggle to shake off July earnings miss",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
-      "published": "2026-10-22T12:04:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
-      "published": "2026-10-22T12:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-      "published": "2026-10-22T11:38:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
-      "published": "2026-10-22T11:32:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-      "published": "2026-10-22T10:49:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
-      "published": "2026-10-22T10:43:38Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-      "published": "2026-10-22T09:25:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "France business confidence improves in October but cracks remain beneath the surface",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/france-business-confidence-improves-in-october-but-cracks-remain-beneath-the-surface/",
-      "published": "2026-10-22T06:59:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-69/",
-      "published": "2026-10-22T06:30:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-iran-tensions-refuse-to-fade-as-fresh-strait-of-hormuz-attacks-keep-oil-markets-on-edge/",
-      "published": "2026-10-22T05:03:33Z",
-      "tags": [
-        "commodities"
       ]
     }
   ]
