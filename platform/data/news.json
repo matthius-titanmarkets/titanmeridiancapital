@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:15:56.814650Z",
+  "generated_at": "2026-10-22T00:05:42.777743Z",
   "mode": "live",
   "errors": [],
   "items": [
@@ -7,7 +7,34 @@
       "title": "Tesla beats on earnings and sales even as auto revenue declines",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "published": "2026-10-21T21:15:30Z",
+      "published": "2026-10-21T23:32:04Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "published": "2026-10-21T23:29:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/",
+      "published": "2026-10-21T23:23:17Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "published": "2026-10-21T23:07:00Z",
       "tags": [
         "equities"
       ]
@@ -16,25 +43,43 @@
       "title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "published": "2026-10-21T21:12:29Z",
+      "published": "2026-10-21T22:50:35Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+      "published": "2026-10-21T22:03:37Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
-      "published": "2026-10-21T21:08:22Z",
+      "published": "2026-10-21T21:48:02Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-      "published": "2026-10-21T21:07:11Z",
+      "title": "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/",
+      "published": "2026-10-21T21:45:10Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "published": "2026-10-21T21:44:00Z",
       "tags": [
         "wire"
       ]
@@ -43,7 +88,35 @@
       "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-      "published": "2026-10-21T21:02:24Z",
+      "published": "2026-10-21T21:41:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says data centers should generate their own electricity \u2014 but experts say only states can mandate that",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "published": "2026-10-21T21:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "published": "2026-10-21T21:14:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "published": "2026-10-21T21:07:11Z",
       "tags": [
         "wire"
       ]
@@ -76,15 +149,6 @@
       ]
     },
     {
-      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "published": "2026-10-21T20:55:19Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets Gulf oil risks",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/",
@@ -93,15 +157,6 @@
         "commodities",
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "Trump says data centers should generate their own electricity \u2014 but experts say only states can mandate that",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-      "published": "2026-10-21T20:37:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -132,15 +187,6 @@
       ]
     },
     {
-      "title": "SpaceX\u2019s massive AI targets will test the limits of reality",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-      "published": "2026-10-21T20:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "GM aims to develop vehicles in as little as two years with AI, software push",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
@@ -154,15 +200,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "published": "2026-10-21T20:04:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "2026-10-21T20:01:00Z",
       "tags": [
         "wire"
       ]
@@ -192,15 +229,6 @@
       "published": "2026-10-21T19:47:38Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
-      "published": "2026-10-21T19:24:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -264,15 +292,6 @@
       "published": "2026-10-21T16:35:48Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Medicare is a bargain. What America can\u2019t afford is private health insurance.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
-      "published": "2026-10-21T16:34:00Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -346,25 +365,6 @@
       "published": "2026-10-21T12:43:49Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-      "published": "2026-10-21T12:33:34Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "investingLive European news wrap: Markets remain cautiously optimistic",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautiously-optimistic/",
-      "published": "2026-10-21T11:46:44Z",
-      "tags": [
-        "fx"
       ]
     }
   ]
