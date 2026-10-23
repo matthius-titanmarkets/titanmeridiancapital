@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-10-22T22:36:24.982865Z",
+  "generated_at": "2026-10-23T01:12:22.361417Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+      "published": "2026-10-23T00:55:11Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "published": "2026-10-23T00:53:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+      "published": "2026-10-23T00:46:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before BoJ",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-flash-pmi-holds-at-52-3-as-services-gain-offsets-factory-slowdown-before-boj/",
+      "published": "2026-10-23T00:38:32Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "published": "2026-10-22T23:45:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/japan-september-2026-headline-cpi-2-1-y-y-expected-2-1/",
+      "published": "2026-10-22T23:30:44Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "2026-10-22T23:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "2026-10-22T23:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premature",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "published": "2026-10-22T22:54:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Meta\u2019s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
       "source": "CNBC Markets",
@@ -19,6 +100,15 @@
       "published": "2026-10-22T22:17:00Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/",
+      "published": "2026-10-22T22:16:08Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -177,6 +267,24 @@
       ]
     },
     {
+      "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+      "published": "2026-10-22T20:05:13Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "published": "2026-10-22T20:03:03Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "Reported fraud losses among older Americans hit $3 billion in 2025 as big losses surge: FTC report",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/older-americans-fraud-losses-2025.html",
@@ -192,15 +300,6 @@
       "published": "2026-10-22T19:25:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "published": "2026-10-22T19:19:41Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -259,112 +358,12 @@
       ]
     },
     {
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "published": "2026-10-22T17:29:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "2026-10-22T17:24:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-      "published": "2026-10-22T17:21:00Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
       "title": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/",
       "published": "2026-10-22T17:07:01Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
-      "published": "2026-10-22T17:01:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-      "published": "2026-10-22T16:59:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
-      "published": "2026-10-22T16:46:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "published": "2026-10-22T16:40:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-      "published": "2026-10-22T16:19:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
-      "published": "2026-10-22T15:16:05Z",
-      "tags": [
-        "commodities",
-        "equities"
-      ]
-    },
-    {
-      "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "published": "2026-10-22T14:52:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
-      "published": "2026-10-22T14:11:14Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
