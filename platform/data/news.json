@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-23T01:12:22.361417Z",
+  "generated_at": "2026-10-23T06:16:34.667988Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+      "published": "2026-10-23T06:15:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+      "published": "2026-10-23T04:55:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Heads up: UK retail sales to test the case for further BOE rate hikes",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/heads-up-uk-retail-sales-to-test-the-case-for-further-boe-rate-hikes/",
+      "published": "2026-10-23T04:35:36Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/",
+      "published": "2026-10-23T03:37:36Z",
+      "tags": [
+        "equities"
+      ]
+    },
     {
       "title": "Japan core inflation in September surges to its highest this year at 2.1%",
       "source": "CNBC Markets",
@@ -10,15 +46,6 @@
       "published": "2026-10-23T00:55:11Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "published": "2026-10-23T00:53:36Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -294,6 +321,15 @@
       ]
     },
     {
+      "title": "Elon Musk invests about $1 billion in Skydance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "published": "2026-10-22T19:34:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
       "title": "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a local jeweler.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
@@ -321,49 +357,12 @@
       ]
     },
     {
-      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-      "published": "2026-10-22T18:51:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "AI debt and French bonds face a stress test \u2014 why it may not be over",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
       "published": "2026-10-22T18:13:37Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-      "published": "2026-10-22T17:53:08Z",
-      "tags": [
-        "macro",
-        "equities"
-      ]
-    },
-    {
-      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "published": "2026-10-22T17:37:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/",
-      "published": "2026-10-22T17:07:01Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
