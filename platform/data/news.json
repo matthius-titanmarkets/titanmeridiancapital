@@ -1,15 +1,134 @@
 {
-  "generated_at": "2026-10-28T00:57:58.526837Z",
+  "generated_at": "2026-10-28T06:44:47.014676Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Anthropic's IPO is risky business",
+      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "published": "2026-10-28T00:43:59Z",
+      "url": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+      "published": "2026-10-28T06:43:19Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "published": "2026-10-28T05:54:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "published": "2026-10-28T05:52:51Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Meta- and Google-backed Jio Platforms\u2019 shares soar over 21% on trading debut after record IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "published": "2026-10-28T05:16:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "published": "2026-10-28T04:29:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and oil rally stir nerves",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/european-markets-brace-for-fed-decision-as-hot-australia-cpi-rbnz-surprise-and-oil-rally-stir-nerves/",
+      "published": "2026-10-28T04:15:15Z",
+      "tags": [
+        "macro",
+        "commodities",
+        "fx"
+      ]
+    },
+    {
+      "title": "Kylian Mbapp\u00e9 faces China backlash as sponsors cut ties over viral meme",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+      "published": "2026-10-28T03:33:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-hawkish-rba-surprise-rbnz-hold-lift-aud-nzd/",
+      "published": "2026-10-28T03:18:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+      "published": "2026-10-28T03:02:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+      "published": "2026-10-28T02:57:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "published": "2026-10-28T02:15:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "published": "2026-10-28T02:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firms",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
+      "published": "2026-10-28T00:52:42Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/",
+      "published": "2026-10-28T00:31:39Z",
+      "tags": [
+        "macro"
       ]
     },
     {
@@ -19,15 +138,6 @@
       "published": "2026-10-28T00:14:24Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "published": "2026-10-28T00:09:17Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -221,39 +331,12 @@
       ]
     },
     {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "2026-10-27T20:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "JetBlue stock surges as company outlook calms investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "published": "2026-10-27T20:13:21Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "investingLive Americas market news wrap: Tech stocks rally",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-tech-stocks-rally/",
       "published": "2026-10-27T20:10:35Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "published": "2026-10-27T19:51:41Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -279,87 +362,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
       "published": "2026-10-27T18:57:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Margin debt growth slows sharply as stock market warning signs build",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
-      "published": "2026-10-27T18:53:18Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
-      "published": "2026-10-27T17:57:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "published": "2026-10-27T17:53:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-      "published": "2026-10-27T17:39:35Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fl\u00e1vio Bolsonaro reportedly flees Brazil for the US after election loss",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/flavio-bolsonaro-reportedly-flees-brazil-for-the-us-after-election-loss/",
-      "published": "2026-10-27T17:29:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 investors are split",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-      "published": "2026-10-27T17:26:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As holiday shopping approaches, seasonal hiring gives 'mixed signals,' experts say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/10/27/seasonal-hiring-2026-holiday-jobs.html",
-      "published": "2026-10-27T16:40:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "A rising wealth tide lifts all yachts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-      "published": "2026-10-27T14:29:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "published": "2026-10-27T14:19:36Z",
       "tags": [
         "wire"
       ]
