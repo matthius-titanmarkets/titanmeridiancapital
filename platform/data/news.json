@@ -1,13 +1,132 @@
 {
-  "generated_at": "2026-11-02T22:24:19.895274Z",
+  "generated_at": "2026-11-03T03:35:22.549998Z",
   "mode": "live",
-  "errors": [],
+  "errors": [
+    "Federal Reserve: HTTP Error 404: Not Found"
+  ],
   "items": [
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "published": "2026-11-03T03:32:56Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "published": "2026-11-03T03:27:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "published": "2026-11-03T02:51:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "published": "2026-11-03T02:47:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "published": "2026-11-03T02:31:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "published": "2026-11-03T01:32:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "published": "2026-11-03T00:59:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+      "published": "2026-11-03T00:52:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "published": "2026-11-03T00:03:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+      "published": "2026-11-02T23:54:27Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Marvell and Lumentum shareholders unite in panning merger deal: \u2018It\u2019s a trash offer\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "published": "2026-11-02T23:39:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "published": "2026-11-02T23:13:34Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+      "published": "2026-11-02T23:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "published": "2026-11-02T22:22:00Z",
+      "published": "2026-11-02T22:53:20Z",
       "tags": [
         "wire"
       ]
@@ -17,6 +136,15 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
       "published": "2026-11-02T22:03:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+      "published": "2026-11-02T21:59:48Z",
       "tags": [
         "equities"
       ]
@@ -122,15 +250,6 @@
       ]
     },
     {
-      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-02T21:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
@@ -149,15 +268,6 @@
       ]
     },
     {
-      "title": "Chip stocks are suffering from a \u2018crisis of confidence\u2019 \u2014 but things aren\u2019t as gloomy as they seem",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
-      "published": "2026-11-02T20:30:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
@@ -172,25 +282,6 @@
       "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
       "published": "2026-11-02T19:46:47Z",
       "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "published": "2026-11-02T19:38:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How soon gas prices could go down now that oil is tumbling",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-      "published": "2026-11-02T19:27:00Z",
-      "tags": [
-        "commodities",
         "equities"
       ]
     },
@@ -241,24 +332,6 @@
       ]
     },
     {
-      "title": "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street isn\u2019t worried.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
-      "published": "2026-11-02T18:16:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "published": "2026-11-02T17:57:35Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
@@ -277,15 +350,6 @@
       ]
     },
     {
-      "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
-      "published": "2026-11-02T17:04:34Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
@@ -295,73 +359,10 @@
       ]
     },
     {
-      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "published": "2026-11-02T15:28:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US construction spending for the month of September -1.9% versus 0.3% estimate",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-instruction-spending-for-the-month-of-september-1-9-versus-0-3-estimate/",
       "published": "2026-11-02T15:03:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US ISM manufacturing PMI for October 55.5 versus 54.5 estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-ism-manufacturing-pmi-for-october-55-5-versus-54-5-estimate/",
-      "published": "2026-11-02T15:00:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-s-p-global-final-manufacturing-pmi-for-october-54-9-vs-56-0-preliminary/",
-      "published": "2026-11-02T14:45:11Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-s-p-global-manufacturing-pmi-49-6-versus-51-5-last-month/",
-      "published": "2026-11-02T14:34:10Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "published": "2026-11-02T14:14:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US election: The key races that could tip control of Congress",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-election-the-key-races-that-could-tip-control-of-congress/",
-      "published": "2026-11-02T13:58:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Iran\u2019s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-s-pezeshkian-says-supreme-leader-has-granted-government-some-authority-on-dialogue/",
-      "published": "2026-11-02T13:51:23Z",
       "tags": [
         "wire"
       ]
