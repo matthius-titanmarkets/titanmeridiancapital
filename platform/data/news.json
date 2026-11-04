@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-11-04T15:05:49.199182Z",
+  "generated_at": "2026-11-04T21:24:13.648440Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "published": "2026-11-04T15:05:28Z",
+      "title": "Apple cements its status as tech\u2019s biggest heavyweight with the stock\u2019s best day in over a year",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
+      "published": "2026-11-04T21:17:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Property Play: Prologis CEO says warehouse demands are shifting fast. Here's how he's keeping up",
+      "title": "Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on smartphone sales",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/prologis-ceo-says-warehouse-demands-are-shifting-how-hes-keeping-up.html",
-      "published": "2026-11-04T15:05:27Z",
+      "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "published": "2026-11-04T21:16:30Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "published": "2026-11-04T21:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The economy brought Trump back to power. Now it's his downfall",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "published": "2026-11-04T21:10:22Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here\u2019s what the Democratic wave means for healthcare.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "published": "2026-11-04T21:10:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge California\u2019s wealth tax",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
+      "published": "2026-11-04T21:10:00Z",
       "tags": [
         "wire"
       ]
@@ -25,7 +61,259 @@
       "title": "Three things that explain what\u2019s changing with Obamacare in 2027",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-      "published": "2026-11-04T15:03:00Z",
+      "published": "2026-11-04T21:09:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+      "published": "2026-11-04T21:06:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CVS Health plans to split in two. Here\u2019s what is driving the massive healthcare breakup.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+      "published": "2026-11-04T21:06:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+      "published": "2026-11-04T21:04:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "published": "2026-11-04T21:04:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "published": "2026-11-04T21:02:53Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+      "published": "2026-11-04T20:53:19Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Democrats\u2019 big election win revives a difficult Social Security question: Who pays?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:47:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:41:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wall Street veteran says setup in these stock charts among the most unbelievable he\u2019s seen, as Big Tech sways market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:41:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Americas market news wrap: Oil crushed as Republicans blame war for loss",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/",
+      "published": "2026-11-04T20:30:28Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published": "2026-11-04T20:28:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices are in freefall now that the Democratic sweep is \u2018rewriting the Iran playbook\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:28:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "What Republicans' huge loss means for Trump",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "published": "2026-11-04T20:23:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
+      "published": "2026-11-04T20:05:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+      "published": "2026-11-04T19:58:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
+      "published": "2026-11-04T19:53:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+      "published": "2026-11-04T19:51:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "published": "2026-11-04T19:37:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The market is telling the hyperscalers it's happy about a slower data center buildout",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout/",
+      "published": "2026-11-04T19:19:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
+      "published": "2026-11-04T19:08:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+      "published": "2026-11-04T18:37:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says election loss was largely a result of the Iran war",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-says-election-loss-was-largely-a-result-of-the-iran-war/",
+      "published": "2026-11-04T18:15:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/",
+      "published": "2026-11-04T17:49:13Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+      "published": "2026-11-04T17:21:06Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+      "published": "2026-11-04T17:04:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "EIA weekly US crude oil inventories -865K vs +877K expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/",
+      "published": "2026-11-04T15:30:08Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one billionaire",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "published": "2026-11-04T15:29:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Prologis CEO says warehouse demands are shifting fast. Here's how he's keeping up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/04/prologis-ceo-says-warehouse-demands-are-shifting-how-hes-keeping-up.html",
+      "published": "2026-11-04T15:22:59Z",
       "tags": [
         "wire"
       ]
@@ -49,33 +337,6 @@
       ]
     },
     {
-      "title": "Midterm elections deliver a \u2018blue wave.\u2019 The stock market sees green.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:59:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "10-year Treasury yield slips after Democrats win House and Senate majorities",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "published": "2026-11-04T14:53:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "published": "2026-11-04T14:51:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/",
@@ -94,277 +355,12 @@
       ]
     },
     {
-      "title": "Big Tech\u2019s $500 billion spending spree leaves a lot less for shareholders",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CVS Health plans to split in two. Here\u2019s what is driving the massive healthcare breakup.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:33:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Blood banks targeted in latest European fridge cyberattacks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
       "published": "2026-11-04T14:15:32Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "The biggest loser of the US elections was data centers",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-biggest-loser-of-the-us-elections-was-data-centers/",
-      "published": "2026-11-04T14:05:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:05:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Learning from \u2018Love Is Blind\u2019 money drama",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-      "published": "2026-11-04T13:58:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "published": "2026-11-04T13:57:58Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
-      "published": "2026-11-04T13:55:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-      "published": "2026-11-04T13:53:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-      "published": "2026-11-04T13:49:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-      "published": "2026-11-04T13:46:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-      "published": "2026-11-04T13:43:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Tesla and SpaceX shares slide as Musk\u2019s political push falls flat",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-and-spacex-shares-slide-as-musks-political-push-falls-flat-c15d29a3?mod=mw_rss_topstories",
-      "published": "2026-11-04T13:41:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here\u2019s what you need to know.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories",
-      "published": "2026-11-04T13:32:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/canada-trade-balance-c-for-september-5-35b-vs-4-1b-estimate/",
-      "published": "2026-11-04T13:30:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US September international trade balance -105.0B vs -108.0B expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-september-international-trade-balance-105-0b-vs-108-0b-expected/",
-      "published": "2026-11-04T13:30:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US October ADP employment +86K vs +65K expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-adp-employment-86k-vs-65k-expected/",
-      "published": "2026-11-04T13:15:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Datadog\u2019s stock extends steep declines in the wake of earnings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-      "published": "2026-11-04T13:03:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-      "published": "2026-11-04T13:02:32Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "China expands overseas mining stakes, tightening grip on critical minerals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
-      "published": "2026-11-04T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-      "published": "2026-11-04T12:51:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-      "published": "2026-11-04T12:51:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-gold-soars-as-dollar-tumbles-after-blue-sweep-in-us-midterms/",
-      "published": "2026-11-04T12:49:16Z",
-      "tags": [
-        "commodities",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-      "published": "2026-11-04T12:08:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
-      "published": "2026-11-04T10:49:42Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-      "published": "2026-11-04T10:47:30Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-      "published": "2026-11-04T10:40:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Eurozone inflation hits 4% for first time since 2023, piling pressure on ECB",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/",
-      "published": "2026-11-04T10:00:19Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "Italy October services PMI 52.0 vs 51.5 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/",
-      "published": "2026-11-04T08:45:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-78/",
-      "published": "2026-11-04T07:35:47Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
