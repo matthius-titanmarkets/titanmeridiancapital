@@ -1,94 +1,184 @@
 {
-  "generated_at": "2026-11-06T11:18:44.630873Z",
+  "generated_at": "2026-11-06T18:13:04.452519Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-06T11:15:00Z",
+      "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+      "published": "2026-11-06T18:03:13Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
-      "published": "2026-11-06T11:06:58Z",
+      "title": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:03:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:00:00Z",
       "tags": [
         "equities"
+      ]
+    },
+    {
+      "title": "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:51:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+      "published": "2026-11-06T17:48:16Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/microsoft-is-reportedly-winding-down-it-s-oracle-deal-to-wind-down-ai-cloud-capacity/",
+      "published": "2026-11-06T17:47:43Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "What\u2019s next for your portfolio after the decline in Big Tech stocks?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:47:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US presses China to honor Busan trade truce as rare earth shipments fall short.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-presses-china-to-honor-busan-trade-truce-as-rare-earth-shipments-fall-short/",
+      "published": "2026-11-06T17:39:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "published": "2026-11-06T17:24:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:19:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream cheese sales",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:14:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-06T17:09:53Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
+      "published": "2026-11-06T17:01:52Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
-      "published": "2026-11-06T11:00:01Z",
+      "published": "2026-11-06T16:47:50Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+      "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-      "published": "2026-11-06T10:39:51Z",
+      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+      "published": "2026-11-06T16:34:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Wall Street's fear gauge may be flashing a buy sign",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
+      "published": "2026-11-06T16:29:01Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production",
+      "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+      "published": "2026-11-06T16:29:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "published": "2026-11-06T10:37:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Democrat sweep gives markets a reason to rethink path of interest rates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-      "published": "2026-11-06T10:22:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Eurozone retail sales fall 0.7% in September, signalling weakening consumer demand",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/eurozone-retail-sales-fall-0-7-in-september-signalling-weakening-consumer-demand/",
-      "published": "2026-11-06T10:20:45Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
-      "published": "2026-11-06T10:20:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "2026-11-06T10:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The $4 million mansion that author Sarah J. Maas bought after finding fame with \u2018A Court of Thorns and Roses\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-4-million-mansion-that-author-sarah-j-maas-bought-after-finding-fame-with-a-court-of-thorns-and-roses-170bbe1b?mod=mw_rss_topstories",
-      "published": "2026-11-06T10:02:00Z",
+      "published": "2026-11-06T16:17:00Z",
       "tags": [
         "wire"
       ]
@@ -97,187 +187,88 @@
       "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "published": "2026-11-06T10:00:54Z",
+      "published": "2026-11-06T16:07:23Z",
       "tags": [
         "commodities"
       ]
     },
     {
-      "title": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
+      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published": "2026-11-06T16:06:59Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Iran reviewing proposals to curb nuclear program - report",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
-      "published": "2026-11-06T08:05:49Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "The 'World's Best Airline' is updating its business and first-class experience",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-      "published": "2026-11-06T07:32:26Z",
+      "url": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
+      "published": "2026-11-06T16:06:34Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "What are the main events for today?",
+      "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+      "published": "2026-11-06T15:55:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "published": "2026-11-06T15:06:11Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-80/",
-      "published": "2026-11-06T07:26:27Z",
+      "url": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/",
+      "published": "2026-11-06T15:00:03Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
-      "published": "2026-11-06T07:23:02Z",
+      "title": "Iran responds positively to latest mediator proposal - report",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/iran-responds-positively-to-latest-mediator-proposal-report/",
+      "published": "2026-11-06T14:44:04Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+      "title": "Family offices boost startup investments in October, backing women's health and caregivers",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
-      "published": "2026-11-06T06:02:36Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-      "published": "2026-11-06T05:27:24Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "published": "2026-11-06T03:20:43Z",
+      "url": "https://www.cnbc.com/2026/11/06/family-offices-boost-startup-investments-in-october.html",
+      "published": "2026-11-06T14:16:28Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-06T03:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "published": "2026-11-06T03:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+      "title": "Market sell-off hits hard: Advisors say 'stay the course with an eye on buying'",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
-      "published": "2026-11-06T02:58:02Z",
+      "url": "https://www.cnbc.com/2026/11/06/market-sell-off-hits-hard-advisors-say-stay-the-course-with-an-eye-on-buying-.html",
+      "published": "2026-11-06T13:56:39Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "IRS announces new federal income tax brackets for 2027",
+      "title": "A long-term Elon Musk backer is cashing out of Tesla \u2014 and cutting its SpaceX exposure",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-      "published": "2026-11-06T01:21:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "published": "2026-11-06T01:07:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-      "published": "2026-11-06T01:06:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "IRS unveils higher capital gains tax brackets for 2027",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
-      "published": "2026-11-06T01:00:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Costco is taking aim at its May record high \u2014 how it got here and where's it going",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/05/costco-is-taking-aim-at-its-may-record-high-how-it-got-here-and-wheres-going.html",
-      "published": "2026-11-05T23:56:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here are the 2027 capital-gains tax rates for each income level",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-      "published": "2026-11-05T23:48:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
-      "published": "2026-11-05T23:39:32Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
-      "published": "2026-11-05T23:25:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
-      "published": "2026-11-05T23:17:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
-      "published": "2026-11-05T23:02:14Z",
+      "url": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+      "published": "2026-11-06T13:51:32Z",
       "tags": [
         "wire"
       ]
@@ -286,80 +277,88 @@
       "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "published": "2026-11-05T22:31:24Z",
+      "published": "2026-11-06T13:47:43Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
-      "published": "2026-11-05T22:21:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
+      "title": "US October non-farm payrolls +165K vs +65K expected",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
-      "published": "2026-11-05T22:00:36Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "The October jobs report is out Friday. Here's everything to expect",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-      "published": "2026-11-05T21:32:52Z",
+      "url": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
+      "published": "2026-11-06T13:32:15Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "IRS announces bigger estate and gift tax exemption for 2027",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-      "published": "2026-11-05T20:51:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "published": "2026-11-05T20:17:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CNBC's experts on whether the AI trade is ending and what investors should do next",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html",
-      "published": "2026-11-05T19:19:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-      "published": "2026-11-05T19:13:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The market is waiting for signals from Donald Trump",
+      "title": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/the-market-is-waiting-for-signals-from-donald-trump/",
-      "published": "2026-11-05T19:04:30Z",
+      "url": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
+      "published": "2026-11-06T13:30:13Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/midterm-gambling-prediction-markets.html",
+      "published": "2026-11-06T13:20:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+      "published": "2026-11-06T13:19:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
+      "published": "2026-11-06T13:08:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hoax bomb threats repeatedly disrupt flights across Europe this week. Here\u2019s what we know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+      "published": "2026-11-06T12:54:13Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Non-farm payrolls preview: October numbers show a skew",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/non-farm-payrolls-preview-october-numbers-show-a-skew/",
+      "published": "2026-11-06T12:53:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What is the distribution of forecasts for the US NFP?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
+      "published": "2026-11-06T12:44:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+      "published": "2026-11-06T12:43:28Z",
       "tags": [
         "wire"
       ]
