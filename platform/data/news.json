@@ -1,94 +1,49 @@
 {
-  "generated_at": "2026-11-07T03:01:05.696234Z",
+  "generated_at": "2026-11-09T04:43:33.644430Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "published": "2026-11-06T22:25:58Z",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "published": "2026-11-09T02:50:22Z",
       "tags": [
-        "wire"
+        "macro"
       ]
     },
     {
-      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-      "published": "2026-11-06T22:22:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
+      "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
-      "published": "2026-11-06T21:52:39Z",
+      "url": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
+      "published": "2026-11-09T01:32:17Z",
       "tags": [
-        "wire"
+        "macro"
       ]
     },
     {
-      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:45:00Z",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "published": "2026-11-09T01:21:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-      "published": "2026-11-06T21:40:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:37:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:24:00Z",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "2026-11-09T00:40:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "published": "2026-11-06T21:15:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:15:00Z",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "published": "2026-11-09T00:30:00Z",
       "tags": [
         "wire"
       ]
@@ -97,268 +52,313 @@
       "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "2026-11-06T21:15:00Z",
+      "published": "2026-11-09T00:02:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Equity close: Decent rebound or a dead-cat bounce",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
-      "published": "2026-11-06T21:08:42Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-      "published": "2026-11-06T21:07:07Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate",
+      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-      "published": "2026-11-06T20:58:00Z",
+      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "published": "2026-11-09T00:00:00Z",
       "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "published": "2026-11-06T20:42:28Z",
+      "title": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he\u2019d \u2018certainly take\u2019 Huang",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/",
+      "published": "2026-11-08T23:56:26Z",
       "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
-      "published": "2026-11-06T20:36:03Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-06T20:15:00Z",
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "published": "2026-11-08T23:50:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "published": "2026-11-06T20:11:17Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump: We are talking to Iran, we are doing very well with Iran",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-we-are-talking-to-iran-we-are-doing-very-well-with-iran/",
-      "published": "2026-11-06T20:02:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-      "published": "2026-11-06T19:44:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
-      "published": "2026-11-06T19:42:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "published": "2026-11-06T19:36:12Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
-      "published": "2026-11-06T19:09:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-chief-of-staff-susie-wiles-to-be-replaced-by-stephen-miller/",
-      "published": "2026-11-06T19:00:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-      "published": "2026-11-06T18:54:22Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+      "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "published": "2026-11-06T18:54:00Z",
+      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "2026-11-08T23:49:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "published": "2026-11-06T18:53:00Z",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "published": "2026-11-08T23:35:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-      "published": "2026-11-06T18:40:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-      "published": "2026-11-06T18:35:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI crush is powering one stock to sky-high valuations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-      "published": "2026-11-06T18:15:44Z",
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "published": "2026-11-08T23:15:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
+      "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/microsoft-is-reportedly-winding-down-it-s-oracle-deal-to-wind-down-ai-cloud-capacity/",
-      "published": "2026-11-06T17:47:43Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "US presses China to honor Busan trade truce as rare earth shipments fall short.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-presses-china-to-honor-busan-trade-truce-as-rare-earth-shipments-fall-short/",
-      "published": "2026-11-06T17:39:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "published": "2026-11-06T17:09:53Z",
+      "url": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
+      "published": "2026-11-08T23:07:15Z",
       "tags": [
         "macro"
       ]
     },
     {
-      "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
-      "published": "2026-11-06T16:47:50Z",
+      "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "published": "2026-11-08T23:05:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Wall Street's fear gauge may be flashing a buy sign",
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-      "published": "2026-11-06T16:29:01Z",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "published": "2026-11-08T22:53:57Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Iran reviewing proposals to curb nuclear program - report",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
-      "published": "2026-11-06T16:06:34Z",
+      "title": "Trump says renewed Iran strikes \u2018highly unlikely\u2019 if talks progress but warns he could still strike",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "published": "2026-11-08T21:53:02Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
-      "published": "2026-11-06T15:55:32Z",
+      "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "published": "2026-11-08T18:57:56Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-      "published": "2026-11-06T15:06:11Z",
+      "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "published": "2026-11-08T17:40:15Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/",
-      "published": "2026-11-06T15:00:03Z",
+      "title": "How Democrats will try to end Trump's tariffs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "published": "2026-11-08T15:36:39Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Iran responds positively to latest mediator proposal - report",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/iran-responds-positively-to-latest-mediator-proposal-report/",
-      "published": "2026-11-06T14:44:04Z",
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "published": "2026-11-08T14:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+      "published": "2026-11-08T14:14:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "published": "2026-11-08T14:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "published": "2026-11-08T13:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "published": "2026-11-08T13:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Brands are sponsoring IRL communities. Some experts say that could spell their end",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html",
+      "published": "2026-11-08T13:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+      "published": "2026-11-08T11:47:24Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+      "published": "2026-11-08T09:29:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "published": "2026-11-08T06:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump offers UFC chief Dana White press secretary job",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "published": "2026-11-07T23:13:38Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "published": "2026-11-07T22:17:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "published": "2026-11-07T22:01:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new makeup",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "published": "2026-11-07T16:02:33Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "published": "2026-11-07T15:23:46Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+      "published": "2026-11-07T14:33:32Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+      "published": "2026-11-07T14:15:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+      "published": "2026-11-07T14:06:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mark Cuban says he doesn\u2019t \u2018give a f---' about growing his net worth\u2014a healthy mindset for non-billionaires too, a financial therapist says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+      "published": "2026-11-07T14:05:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+      "published": "2026-11-07T14:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "World\u2019s No. 1 restaurant crowned as contest comes under increasing scrutiny",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
+      "published": "2026-11-07T13:38:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "America doesn't like socialism. So why are socialists winning?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+      "published": "2026-11-07T13:01:01Z",
       "tags": [
         "wire"
       ]
