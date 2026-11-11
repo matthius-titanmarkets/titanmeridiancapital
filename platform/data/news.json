@@ -1,8 +1,117 @@
 {
-  "generated_at": "2026-11-11T01:00:09.759732Z",
+  "generated_at": "2026-11-11T08:01:20.904342Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "published": "2026-11-11T07:47:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+      "published": "2026-11-11T07:02:45Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangover",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/",
+      "published": "2026-11-11T06:07:07Z",
+      "tags": [
+        "macro",
+        "equities"
+      ]
+    },
+    {
+      "title": "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+      "published": "2026-11-11T06:00:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "U.S., China should \u2018harbor no illusions\u2019 as they cooperate, compete on AI, Bessent says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "published": "2026-11-11T05:15:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
+      "published": "2026-11-11T04:31:11Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "published": "2026-11-11T04:06:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-11T02:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "published": "2026-11-11T01:54:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "published": "2026-11-11T01:52:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "published": "2026-11-11T01:12:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australian-investor-home-lending-plunges-32-in-q3-as-tax-curbs-and-rba-hikes-bite-harder/",
+      "published": "2026-11-11T00:46:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
       "source": "MarketWatch",
@@ -31,10 +140,10 @@
       ]
     },
     {
-      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-10T23:30:00Z",
+      "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+      "published": "2026-11-10T23:46:35Z",
       "tags": [
         "wire"
       ]
@@ -76,24 +185,6 @@
       ]
     },
     {
-      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-      "published": "2026-11-10T23:03:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "published": "2026-11-10T22:56:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
@@ -118,15 +209,6 @@
       "published": "2026-11-10T22:30:00Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Nvidia sells off for second day in fallout from Jensen Huang\u2019s affair with alleged spy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-      "published": "2026-11-10T22:08:25Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -205,30 +287,12 @@
       ]
     },
     {
-      "title": "How the stock market has performed after Veterans Day over the past decade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
-      "published": "2026-11-10T21:29:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
       "published": "2026-11-10T21:06:07Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "published": "2026-11-10T20:31:20Z",
-      "tags": [
-        "wire"
       ]
     },
     {
@@ -302,69 +366,6 @@
       "tags": [
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "published": "2026-11-10T16:29:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018failed\u2019 survivors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-      "published": "2026-11-10T16:17:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "published": "2026-11-10T15:42:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker marks five years since IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-      "published": "2026-11-10T15:11:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "published": "2026-11-10T15:04:23Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-      "published": "2026-11-10T15:01:21Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "How much you can make in 2027 and still pay 0% capital gains tax",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
-      "published": "2026-11-10T14:12:02Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
