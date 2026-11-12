@@ -1,103 +1,355 @@
 {
-  "generated_at": "2026-11-12T12:11:09.379491Z",
+  "generated_at": "2026-11-12T20:15:37.019907Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate",
+      "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "published": "2026-11-12T20:10:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+      "published": "2026-11-12T20:03:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "published": "2026-11-12T19:58:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of the market afloat.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "published": "2026-11-12T19:52:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Oil prices rise after Iran reports strikes",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
+      "published": "2026-11-12T19:51:36Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "published": "2026-11-12T19:47:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+      "published": "2026-11-12T19:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "published": "2026-11-12T12:05:42Z",
+      "published": "2026-11-12T19:42:56Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
+      "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "published": "2026-11-12T12:03:39Z",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+      "published": "2026-11-12T19:42:41Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-      "published": "2026-11-12T11:57:14Z",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+      "published": "2026-11-12T19:33:50Z",
       "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "Tech stocks may soon enjoy a \u2018violent bounce\u2019 \u2014 but one strategist warns investors not to take the bait",
+      "title": "The bond market now has an even bigger fear than AI fallout",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-      "published": "2026-11-12T11:34:00Z",
+      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "published": "2026-11-12T19:29:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s stock selloff may be just beginning, even after shedding 30% from its peak",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+      "published": "2026-11-12T19:15:00Z",
       "tags": [
         "equities"
       ]
     },
     {
-      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-      "published": "2026-11-12T11:30:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-      "published": "2026-11-12T11:23:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+      "title": "The prostate-cancer screening rules just changed. Here\u2019s when men should get tested.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-      "published": "2026-11-12T10:57:00Z",
+      "url": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+      "published": "2026-11-12T19:12:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/india-october-cpi-inflation-rises-to-6-09-food-inflation-accelerates-to-8-94/",
-      "published": "2026-11-12T10:45:02Z",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "published": "2026-11-12T19:05:25Z",
       "tags": [
         "macro"
+      ]
+    },
+    {
+      "title": "US October federal budget deficit sets a record",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-october-federal-budget-deficit-sets-a-record/",
+      "published": "2026-11-12T19:05:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "published": "2026-11-12T19:04:21Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+      "published": "2026-11-12T19:00:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Unions helped Democrats win big in 2026. Now they want action",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+      "published": "2026-11-12T18:46:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-year dream retirement. I think he\u2019s cheap.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "U.S. inflation is already bad enough. It might get worse.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:39:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "published": "2026-11-12T18:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:19:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US 30-year bond auction tails as demand disappoints for second straight day",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-30-year-bond-auction-tails-as-demand-disappoints-for-second-straight-day/",
+      "published": "2026-11-12T18:18:09Z",
+      "tags": [
+        "wire"
       ]
     },
     {
       "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "published": "2026-11-12T10:15:00Z",
+      "published": "2026-11-12T18:15:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-      "published": "2026-11-12T10:07:00Z",
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "published": "2026-11-12T17:59:00Z",
       "tags": [
-        "equities"
+        "fx"
       ]
     },
     {
-      "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-      "published": "2026-11-12T10:03:00Z",
+      "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "published": "2026-11-12T17:53:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018cocktail of disruption'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+      "published": "2026-11-12T17:50:59Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+      "published": "2026-11-12T17:49:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published": "2026-11-12T17:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published": "2026-11-12T17:39:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "published": "2026-11-12T17:37:36Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+      "published": "2026-11-12T17:23:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+      "published": "2026-11-12T17:23:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+      "published": "2026-11-12T16:59:52Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "published": "2026-11-12T16:36:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "published": "2026-11-12T16:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Yankees President Randy Levine pushes college sports bill, discusses MLB labor negotiations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html",
+      "published": "2026-11-12T15:34:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US October existing home sales 3.75m vs 3.85m expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-october-existing-home-sales-3-75m-vs-3-85m-expected/",
+      "published": "2026-11-12T15:00:07Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Mortgage rates were 7% in 1997, too\u2014here\u2019s why buying a home feels more expensive today",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/12/mortgage-rates-home-affordability-1997.html",
+      "published": "2026-11-12T15:00:01Z",
       "tags": [
         "wire"
       ]
@@ -106,261 +358,7 @@
       "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-      "published": "2026-11-12T10:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-      "published": "2026-11-12T09:05:22Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-      "published": "2026-11-12T07:38:45Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-      "published": "2026-11-12T07:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-84/",
-      "published": "2026-11-12T07:28:20Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-september-gdp-beats-expectations-as-resilient-growth-keeps-boe-december-rate-hike-on-track/",
-      "published": "2026-11-12T07:00:41Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/uk-q3-gdp-meets-estimates-as-resilient-growth-gives-boe-more-room-to-tackle-inflation/",
-      "published": "2026-11-12T07:00:23Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid fears that spy scandal would spur tighter restrictions",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/chinese-tech-firms-reportedly-rushing-to-secure-more-nvidia-chip-capacity-amid-fears-that-spy-scandal-would-spur-tighter-restrictions/",
-      "published": "2026-11-12T05:44:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/heads-up-uk-september-gdp-in-focus-but-will-weak-growth-really-stop-the-boe-from-hiking-again/",
-      "published": "2026-11-12T05:14:16Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "published": "2026-11-12T04:41:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-nvidia-slides-on-huang-ouster-reports/",
-      "published": "2026-11-12T04:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The world's super-rich are piling into alternative investments. Here's why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "published": "2026-11-12T03:36:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-      "published": "2026-11-12T03:25:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-12T03:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "published": "2026-11-12T03:10:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "2026-11-12T02:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-      "published": "2026-11-12T02:43:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
-      "published": "2026-11-12T00:46:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html",
-      "published": "2026-11-11T23:41:46Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-      "published": "2026-11-11T23:31:37Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published": "2026-11-11T22:59:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-      "published": "2026-11-11T22:58:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-      "published": "2026-11-11T22:30:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-      "published": "2026-11-11T22:20:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/nvidia-stock-plunges-after-hours-as-new-york-times-reports-new-jensen-huang-relationship-allegation/",
-      "published": "2026-11-11T22:16:20Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "JetBlue unveils new first-class seats to bring back profits",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "published": "2026-11-11T22:10:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Economic and event calendar in Asia Thursday, November 12, 2026 - low impact",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-november-12-2026-low-impact/",
-      "published": "2026-11-11T21:17:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Americas FX news wrap 11 Nov. It\u2019s a Wrap: Dollar climbs as stocks rise and oil fades",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/",
-      "published": "2026-11-11T20:59:52Z",
-      "tags": [
-        "commodities",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-      "published": "2026-11-11T19:54:27Z",
+      "published": "2026-11-12T14:22:37Z",
       "tags": [
         "wire"
       ]
