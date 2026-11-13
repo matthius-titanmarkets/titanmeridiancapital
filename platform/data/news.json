@@ -1,8 +1,297 @@
 {
-  "generated_at": "2026-11-13T08:29:30.351553Z",
+  "generated_at": "2026-11-13T16:41:32.901325Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-13T16:38:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:26:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:10:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "published": "2026-11-13T16:03:42Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:01:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "published": "2026-11-13T15:49:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "published": "2026-11-13T15:44:16Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+      "published": "2026-11-13T15:44:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "published": "2026-11-13T15:40:10Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "I\u2019m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "published": "2026-11-13T15:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+      "published": "2026-11-13T15:34:48Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "published": "2026-11-13T15:31:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "2026-11-13T15:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "published": "2026-11-13T15:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare for NFL rights increase",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html",
+      "published": "2026-11-13T15:04:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "published": "2026-11-13T15:03:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "We're making 3 trades to adjust our consumer exposure after an analyst downgrade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/13/were-making-3-trades-to-adjust-our-consumer-exposure-after-downgrade.html",
+      "published": "2026-11-13T14:59:57Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "published": "2026-11-13T14:26:04Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+      "published": "2026-11-13T14:24:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "published": "2026-11-13T14:22:07Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Jensen Huang scandal casts doubt on Nvidia\u2019s AI dominance \u2014 how we got here",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+      "published": "2026-11-13T14:01:24Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US October PPI +6.5% vs +6.6% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-october-ppi-6-5-vs-6-6-expected/",
+      "published": "2026-11-13T13:30:15Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+      "published": "2026-11-13T13:15:35Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Trump says he wants to \u2018get Cuba done\u2019 before leaving office, would consider military force",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
+      "published": "2026-11-13T13:04:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
+      "published": "2026-11-13T12:47:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European session wrap: Wall Street eyes a rebound but rising Treasury yields keep traders on edge",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-session-wrap-wall-street-eyes-a-rebound-but-rising-treasury-yields-keep-traders-on-edge/",
+      "published": "2026-11-13T12:46:51Z",
+      "tags": [
+        "macro",
+        "fx"
+      ]
+    },
+    {
+      "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
+      "published": "2026-11-13T12:05:22Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
+      "published": "2026-11-13T12:03:24Z",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "title": "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/eurozone-q3-gdp-unchanged-in-second-estimate-as-uneven-growth-clouds-the-outlook/",
+      "published": "2026-11-13T10:00:16Z",
+      "tags": [
+        "fx"
+      ]
+    },
     {
       "title": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
       "source": "CNBC Markets",
@@ -13,18 +302,9 @@
       ]
     },
     {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-13T08:05:49Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Spain October final CPI +4.9% vs +4.9% y/y prelim",
+      "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
       "source": "ForexLive",
-      "url": "https://investinglive.com/news/spain-october-final-cpi-4-9-vs-4-9-y-y-prelim/",
+      "url": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
       "published": "2026-11-13T08:00:18Z",
       "tags": [
         "macro"
@@ -67,28 +347,10 @@
       ]
     },
     {
-      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-      "published": "2026-11-13T05:51:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
       "published": "2026-11-13T04:52:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-13T04:46:00Z",
       "tags": [
         "wire"
       ]
@@ -100,268 +362,6 @@
       "published": "2026-11-13T04:26:00Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "published": "2026-11-13T04:07:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "published": "2026-11-13T02:43:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The world's super-rich are piling into alternative investments. Here's why",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "published": "2026-11-13T02:25:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
-      "published": "2026-11-13T00:46:36Z",
-      "tags": [
-        "macro",
-        "fx"
-      ]
-    },
-    {
-      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-      "published": "2026-11-12T23:14:56Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published": "2026-11-12T23:08:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-      "published": "2026-11-12T22:57:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "published": "2026-11-12T22:47:28Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "published": "2026-11-12T22:38:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-      "published": "2026-11-12T22:17:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-      "published": "2026-11-12T22:16:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
-      "published": "2026-11-12T22:06:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-year dream retirement. I think he\u2019s cheap.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "published": "2026-11-12T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-      "published": "2026-11-12T21:55:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The 10 best stocks for a year-end momentum trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
-      "published": "2026-11-12T21:50:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
-      "published": "2026-11-12T21:43:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "published": "2026-11-12T21:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-      "published": "2026-11-12T21:20:35Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "published": "2026-11-12T21:17:21Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
-      "published": "2026-11-12T21:16:37Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "published": "2026-11-12T21:08:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-jensen-huang-ousted-from-nvidia/",
-      "published": "2026-11-12T21:03:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "The bond market now has an even bigger fear than AI fallout",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "published": "2026-11-12T20:44:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump: I would consider a week-long campaign against Cuba",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-i-would-consider-a-week-long-campaign-against-cuba/",
-      "published": "2026-11-12T20:35:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-      "published": "2026-11-12T20:34:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-      "published": "2026-11-12T20:32:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
-      "published": "2026-11-12T20:24:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-      "published": "2026-11-12T20:03:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying dips",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-      "published": "2026-11-12T20:01:29Z",
-      "tags": [
-        "equities"
       ]
     }
   ]
