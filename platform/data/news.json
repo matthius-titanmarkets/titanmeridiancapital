@@ -1,8 +1,134 @@
 {
-  "generated_at": "2026-11-13T01:19:31.132320Z",
+  "generated_at": "2026-11-13T08:29:30.351553Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "published": "2026-11-13T08:27:07Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-13T08:05:49Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Spain October final CPI +4.9% vs +4.9% y/y prelim",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/spain-october-final-cpi-4-9-vs-4-9-y-y-prelim/",
+      "published": "2026-11-13T08:00:18Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/france-october-inflation-accelerates-as-energy-prices-surge-keeping-ecb-rate-hike-bets-alive/",
+      "published": "2026-11-13T07:47:27Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-85/",
+      "published": "2026-11-13T07:27:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "published": "2026-11-13T07:15:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/germany-october-wholesale-price-index-0-4-vs-1-9-m-m-prior/",
+      "published": "2026-11-13T07:00:35Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "published": "2026-11-13T05:51:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
+      "published": "2026-11-13T04:52:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-13T04:46:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
+      "published": "2026-11-13T04:26:00Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "published": "2026-11-13T04:07:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "published": "2026-11-13T02:43:26Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The world's super-rich are piling into alternative investments. Here's why",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "published": "2026-11-13T02:25:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Japan\u2019s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
       "source": "ForexLive",
@@ -11,15 +137,6 @@
       "tags": [
         "macro",
         "fx"
-      ]
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "published": "2026-11-13T00:01:19Z",
-      "tags": [
-        "commodities"
       ]
     },
     {
@@ -50,15 +167,6 @@
       ]
     },
     {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "published": "2026-11-12T22:48:26Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
@@ -74,15 +182,6 @@
       "published": "2026-11-12T22:38:00Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-12T22:24:12Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -176,6 +275,15 @@
       ]
     },
     {
+      "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
+      "published": "2026-11-12T21:16:37Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
@@ -239,15 +347,6 @@
       ]
     },
     {
-      "title": "I\u2019m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-      "published": "2026-11-12T20:17:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
@@ -263,105 +362,6 @@
       "published": "2026-11-12T20:01:29Z",
       "tags": [
         "equities"
-      ]
-    },
-    {
-      "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
-      "published": "2026-11-12T20:00:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "published": "2026-11-12T19:58:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Oil prices rise after Iran reports strikes",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
-      "published": "2026-11-12T19:51:36Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-      "published": "2026-11-12T19:47:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-      "published": "2026-11-12T19:42:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-      "published": "2026-11-12T19:33:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "published": "2026-11-12T19:05:25Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "US October federal budget deficit sets a record",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-federal-budget-deficit-sets-a-record/",
-      "published": "2026-11-12T19:05:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-      "published": "2026-11-12T19:00:12Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Unions helped Democrats win big in 2026. Now they want action",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
-      "published": "2026-11-12T18:46:36Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "published": "2026-11-12T18:30:00Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
