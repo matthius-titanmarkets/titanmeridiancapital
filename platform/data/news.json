@@ -1,22 +1,230 @@
 {
-  "generated_at": "2026-11-16T04:48:53.659182Z",
+  "generated_at": "2026-11-16T13:21:05.416512Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-      "published": "2026-11-16T04:34:00Z",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+      "published": "2026-11-16T13:15:24Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+      "published": "2026-11-16T13:01:00Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "published": "2026-11-16T12:57:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How to use options to bet against Big Tech, while keeping risk in check",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "published": "2026-11-16T04:15:00Z",
+      "url": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
+      "published": "2026-11-16T12:53:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive European news wrap: Risk sentiment remains negative",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-remains-negative/",
+      "published": "2026-11-16T12:37:11Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s IPO is forcing investors to assess uninsurable risks they\u2019ve never encountered before",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
+      "published": "2026-11-16T12:33:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash \u2014 and $500 oil",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
+      "published": "2026-11-16T12:32:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "Three questions for anyone considering the Nvidia CEO job",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
+      "published": "2026-11-16T12:17:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
+      "published": "2026-11-16T12:16:29Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "published": "2026-11-16T12:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "published": "2026-11-16T12:14:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+      "published": "2026-11-16T12:13:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "published": "2026-11-16T12:13:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
+      "published": "2026-11-16T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "2026-11-16T11:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
+      "published": "2026-11-16T11:07:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
+      "published": "2026-11-16T10:44:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "published": "2026-11-16T10:33:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Here\u2019s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+      "published": "2026-11-16T10:32:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
+      "published": "2026-11-16T10:20:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+      "published": "2026-11-16T09:35:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "published": "2026-11-16T09:14:46Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "published": "2026-11-16T08:38:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-86/",
+      "published": "2026-11-16T07:34:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia/",
+      "published": "2026-11-16T04:34:28Z",
       "tags": [
         "wire"
       ]
@@ -26,24 +234,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
       "published": "2026-11-16T03:53:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-      "published": "2026-11-16T03:35:09Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "published": "2026-11-16T03:11:00Z",
       "tags": [
         "wire"
       ]
@@ -112,37 +302,10 @@
       ]
     },
     {
-      "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "published": "2026-11-15T23:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/trump-out-of-public-view-since-wednesday-fuelling-speculation-on-hiw-wherabouts/",
       "published": "2026-11-15T23:05:29Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-15T23:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "published": "2026-11-15T22:33:26Z",
       "tags": [
         "wire"
       ]
@@ -157,55 +320,19 @@
       ]
     },
     {
-      "title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "published": "2026-11-15T21:32:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "published": "2026-11-15T21:31:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "published": "2026-11-15T20:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "published": "2026-11-15T20:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "published": "2026-11-15T19:58:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "published": "2026-11-15T18:15:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "published": "2026-11-15T18:10:18Z",
       "tags": [
         "wire"
       ]
@@ -220,42 +347,6 @@
       ]
     },
     {
-      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-      "published": "2026-11-15T16:56:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-15T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "3 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "published": "2026-11-15T15:26:20Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "China\u2019s hottest stocks these days have one thing in common: names that sound like sheep",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-      "published": "2026-11-15T15:22:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
@@ -265,100 +356,10 @@
       ]
     },
     {
-      "title": "I'm a psychologist who studies couples\u20145 signs you've fallen into a common rut: 'It builds through small habits that each look harmless'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/15/couples-coexisting-without-connecting.html",
-      "published": "2026-11-15T13:48:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
       "published": "2026-11-15T13:00:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
-      "published": "2026-11-15T12:49:07Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "published": "2026-11-15T12:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Could Budapest be the next digital nomad hotspot?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "published": "2026-11-15T06:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX catches upper stage of Starship rocket in historic first",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "published": "2026-11-14T23:10:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
-      "published": "2026-11-14T22:54:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "published": "2026-11-14T17:46:06Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "published": "2026-11-14T15:50:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
-      "published": "2026-11-14T15:14:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "published": "2026-11-14T14:54:22Z",
       "tags": [
         "wire"
       ]
