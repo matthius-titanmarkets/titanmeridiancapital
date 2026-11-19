@@ -1,24 +1,196 @@
 {
-  "generated_at": "2026-11-18T21:29:59.991795Z",
+  "generated_at": "2026-11-19T02:45:11.943189Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-      "published": "2026-11-18T21:28:04Z",
+      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "published": "2026-11-19T02:41:36Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "published": "2026-11-18T21:22:04Z",
+      "published": "2026-11-19T01:13:20Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "published": "2026-11-19T01:02:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "2026-11-19T01:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
+      "published": "2026-11-19T00:34:15Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "published": "2026-11-19T00:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-19T00:30:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "published": "2026-11-19T00:08:14Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "published": "2026-11-19T00:07:06Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+      "published": "2026-11-19T00:01:23Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "published": "2026-11-18T23:45:50Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "published": "2026-11-18T23:38:55Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Moody\u2019s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/moody-s-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-2-3-growth-this-year/",
+      "published": "2026-11-18T23:18:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What the \u2018death cross\u2019 in small-cap stocks means for the rest of the market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+      "published": "2026-11-18T23:12:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "How copper\u2019s plunge could hurt the AI buildout",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "published": "2026-11-18T23:02:00Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "published": "2026-11-18T22:53:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "published": "2026-11-18T22:37:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over the stock",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "published": "2026-11-18T22:31:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-18T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Has the stock market\u2019s slump hit bottom yet? Here\u2019s what these contrarian indicators say.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+      "published": "2026-11-18T21:58:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-18-nov-waller-fed-minutes-put-a-bigger-december-hike-in-play/",
+      "published": "2026-11-18T21:33:37Z",
+      "tags": [
+        "macro",
+        "fx"
       ]
     },
     {
@@ -26,6 +198,24 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
       "published": "2026-11-18T21:19:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia Thursday, November 19, 2026: Australian jobs report preview",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-november-19-2026-australian-jobs-report-preview/",
+      "published": "2026-11-18T21:16:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+      "published": "2026-11-18T21:07:14Z",
       "tags": [
         "wire"
       ]
@@ -40,55 +230,10 @@
       ]
     },
     {
-      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-      "published": "2026-11-18T21:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-18T21:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Australia jobs preview. Employment expected to rebound after September\u2019s drop. What technical levels are in play?",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/australia-jobs-preview-employment-expected-to-rebound-after-september-s-drop-what-technical-levels-are-in-play/",
       "published": "2026-11-18T20:58:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed minutes show growing unease about the outlook for inflation",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-      "published": "2026-11-18T20:51:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work to play \u2014 and some companies are making the game\u2019s release a holiday",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "published": "2026-11-18T20:29:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia reverses, metals crash ahead of Anthropic IPO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
-      "published": "2026-11-18T20:10:07Z",
       "tags": [
         "wire"
       ]
@@ -122,33 +267,6 @@
       ]
     },
     {
-      "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-      "published": "2026-11-18T19:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "2026-11-18T19:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "published": "2026-11-18T19:21:59Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
@@ -171,33 +289,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
       "published": "2026-11-18T18:32:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "published": "2026-11-18T18:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "\u2018GTA 6\u2019 is the biggest game of all time. What it means for Take-Two\u2019s stock.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
-      "published": "2026-11-18T18:28:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-      "published": "2026-11-18T18:27:52Z",
       "tags": [
         "wire"
       ]
@@ -248,15 +339,6 @@
       ]
     },
     {
-      "title": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "published": "2026-11-18T18:00:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
@@ -279,87 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
       "published": "2026-11-18T17:02:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
-      "published": "2026-11-18T16:36:21Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "published": "2026-11-18T16:33:14Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "published": "2026-11-18T15:13:39Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Two new housing reports point to bleak winter ahead, with record low sales",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-      "published": "2026-11-18T15:09:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US October pending home sales -4.7% vs -2.0% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-pending-home-sales-4-7-vs-2-0-expected/",
-      "published": "2026-11-18T15:02:02Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
-      "published": "2026-11-18T14:17:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-      "published": "2026-11-18T14:02:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-      "published": "2026-11-18T13:58:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US October housing starts 1.309M vs 1.245M expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-housing-starts-m-vs-1-245m-expected/",
-      "published": "2026-11-18T13:30:07Z",
       "tags": [
         "wire"
       ]
