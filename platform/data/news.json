@@ -1,40 +1,357 @@
 {
-  "generated_at": "2026-11-21T00:05:50.986213Z",
+  "generated_at": "2026-11-23T05:50:49.161786Z",
   "mode": "live",
-  "errors": [],
+  "errors": [
+    "Federal Reserve: HTTP Error 404: Not Found"
+  ],
   "items": [
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "published": "2026-11-23T05:08:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "published": "2026-11-23T05:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: US futures hold 2% bounce",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/",
+      "published": "2026-11-23T04:31:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tata Steel to buy $1.67 billion stake in India\u2019s largest steel pipe maker; shares plunge nearly 5%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+      "published": "2026-11-23T04:26:49Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "published": "2026-11-23T03:52:17Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "published": "2026-11-23T00:42:54Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Let's weigh the cons \u2014 and pros \u2014 of this brutal market to find a way forward",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "published": "2026-11-22T23:49:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
+      "published": "2026-11-22T22:09:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
+      "published": "2026-11-22T21:54:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "published": "2026-11-22T21:51:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Ron Johnson\u2019s Social Security gaffe buried important news",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+      "published": "2026-11-22T21:28:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-23-november-2026-japanese-markets-are-closed-today/",
+      "published": "2026-11-22T21:03:37Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security should be shut down, this Republican senator says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "published": "2026-11-22T20:26:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "published": "2026-11-22T19:24:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "published": "2026-11-22T18:55:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "published": "2026-11-22T18:23:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019ve studied over 200 kids\u2014to avoid raising a people pleaser, ditch 6 parenting habits: It starts in \u2018ordinary, well-intentioned moments\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+      "published": "2026-11-22T17:33:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "published": "2026-11-22T17:22:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "published": "2026-11-22T17:14:03Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks and buy real estate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-22T17:00:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "2026-11-22T16:32:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "published": "2026-11-22T16:18:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
+      "published": "2026-11-22T14:30:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "26-year-old Google worker earns $323,000 a year\u2014but lives on less than minimum wage",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "published": "2026-11-22T14:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "published": "2026-11-22T13:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+      "published": "2026-11-22T12:13:56Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The Nasdaq is in freefall. Here's one stock to look at",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+      "published": "2026-11-22T12:10:39Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "published": "2026-11-22T06:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "published": "2026-11-21T16:57:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "published": "2026-11-21T16:40:05Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I never wanted the American Dream and I felt like something was wrong with me\u2014until I moved abroad",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+      "published": "2026-11-21T15:00:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Retirees face a looming deadline for required withdrawals \u2014 missing it could trigger a tax penalty",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html",
+      "published": "2026-11-21T14:30:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
+      "published": "2026-11-21T14:22:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "An \u2018illusion of glitz and glamour\u2019: Inside California\u2019s modern-day gold rush, where miners can bring in millions",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+      "published": "2026-11-21T14:05:40Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "State and federal battle over prediction markets regulation heats up after midterms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+      "published": "2026-11-21T13:12:41Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+      "published": "2026-11-21T13:01:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "published": "2026-11-21T12:00:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How China is using summits to expand its global influence",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "published": "2026-11-21T06:00:02Z",
+      "tags": [
+        "wire"
+      ]
+    },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
       "published": "2026-11-20T22:59:33Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "published": "2026-11-20T22:46:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "published": "2026-11-20T22:44:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "published": "2026-11-20T22:44:00Z",
       "tags": [
         "equities"
       ]
@@ -47,324 +364,6 @@
       "tags": [
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T22:08:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia\u2019s stock clinches a stretch of weekly losses not seen since 2008",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:58:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:39:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "The hidden catch in Anthropic\u2019s IPO: Billions of locked-up shares are waiting in the wings",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:39:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:36:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "published": "2026-11-20T21:35:24Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:34:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s stock sees dramatic slide but manages to stay above its IPO price",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:25:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "published": "2026-11-20T21:15:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-      "published": "2026-11-20T21:10:48Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "published": "2026-11-20T21:04:48Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-      "published": "2026-11-20T21:01:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump says he still has confidence in Lutnick",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "published": "2026-11-20T20:52:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "published": "2026-11-20T20:47:58Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
-      "published": "2026-11-20T20:42:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
-      "published": "2026-11-20T20:06:12Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "published": "2026-11-20T19:59:03Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
-      "published": "2026-11-20T19:42:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "A massive bearish trade just happened in the chip stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-      "published": "2026-11-20T19:33:31Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
-      "published": "2026-11-20T18:55:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "European stocks end a bruising week. German DAX falls 7.29%.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
-      "published": "2026-11-20T18:12:25Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
-      "published": "2026-11-20T18:07:18Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "Trump: Secured two new trade deals. 10 others coming very soon.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-secured-two-new-trade-deals-10-others-coming-very-soon/",
-      "published": "2026-11-20T17:33:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-      "published": "2026-11-20T17:25:19Z",
-      "tags": [
-        "commodities",
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "title": "Data center construction costs soar 13% in 2026",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-      "published": "2026-11-20T16:52:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Cathie Wood\u2019s Ark Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018quite optimistic\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-      "published": "2026-11-20T16:18:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-      "published": "2026-11-20T15:52:45Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-      "published": "2026-11-20T15:50:27Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/bessent-says-trump-and-xi-saw-robust-discussion-on-trade-policy-ai/",
-      "published": "2026-11-20T15:33:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
-      "published": "2026-11-20T15:12:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/",
-      "published": "2026-11-20T15:04:05Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-      "published": "2026-11-20T15:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overallotment",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-      "published": "2026-11-20T14:59:38Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs \u2014 what happens next?",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-      "published": "2026-11-20T14:34:14Z",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "published": "2026-11-20T14:15:29Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
