@@ -1,13 +1,248 @@
 {
-  "generated_at": "2026-11-25T18:05:20.515897Z",
+  "generated_at": "2026-11-26T01:53:23.703553Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
+      "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "published": "2026-11-26T01:52:20Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "published": "2026-11-26T01:50:21Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "published": "2026-11-26T01:34:58Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
       "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "2026-11-25T18:00:00Z",
+      "published": "2026-11-26T01:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hedge funds are no longer just for the rich. They\u2019re coming for everyday investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "published": "2026-11-26T01:10:58Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
+      "published": "2026-11-26T00:41:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "published": "2026-11-26T00:33:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Inside India newsletter: Roaring economy, foreign investors\u2019 return and now record auto sales",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+      "published": "2026-11-26T00:12:16Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-25T23:30:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "2026-11-25T23:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-25T23:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-25T22:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "published": "2026-11-25T22:26:56Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "published": "2026-11-25T22:16:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s stock has given back a big chunk of Monday\u2019s rally as dip buyers cash in",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "published": "2026-11-25T22:11:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Liesman: Why Greenspan could bet on productivity \u2014 and Warsh needs to hike",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "published": "2026-11-25T21:56:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "published": "2026-11-25T21:50:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Americas FX news wrap 25 Nov: It\u2019s a Wrap. S&P 500 and Nasdaq pare steep losses",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
+      "published": "2026-11-25T21:47:09Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "HP\u2019s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "published": "2026-11-25T21:36:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "published": "2026-11-25T21:26:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "published": "2026-11-25T21:02:05Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "published": "2026-11-25T21:00:08Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "published": "2026-11-25T20:00:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "published": "2026-11-25T20:00:00Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "We're buying more of a stock down big from its July highs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+      "published": "2026-11-25T19:55:18Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25T19:52:47Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "published": "2026-11-25T19:11:53Z",
       "tags": [
         "wire"
       ]
@@ -22,15 +257,6 @@
       ]
     },
     {
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "published": "2026-11-25T17:39:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "Kalshi traders say state data center moratoriums are more likely than not",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
@@ -40,37 +266,10 @@
       ]
     },
     {
-      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "published": "2026-11-25T17:31:00Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "HP\u2019s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "published": "2026-11-25T17:24:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-25T17:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "published": "2026-11-25T17:10:17Z",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "published": "2026-11-25T17:28:24Z",
       "tags": [
         "wire"
       ]
@@ -85,73 +284,10 @@
       ]
     },
     {
-      "title": "How soon Trump\u2019s new tariffs could hit the economy \u2014 and your wallet",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:59:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
       "published": "2026-11-25T16:54:10Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "The latest stock-market drop could lower your tax bill over your lifetime",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:53:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Oracle\u2019s stock sinks toward a 3-year low as the AI trade continues to unravel",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:52:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018My life is in the stock market\u2019: Recent volatility is shaking up holiday spending plans for these shoppers",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:49:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "There are 5,100 newly minted Anthropic millionaires\u2014here\u2019s all the stuff they don\u2019t tell you about when you suddenly get rich",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
-      "published": "2026-11-25T16:32:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "published": "2026-11-25T16:20:57Z",
       "tags": [
         "macro"
       ]
@@ -193,15 +329,6 @@
       ]
     },
     {
-      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "published": "2026-11-25T15:55:40Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "October new home sales 701k vs 650k",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/october-new-home-sales-701k-vs-650k/",
@@ -229,140 +356,12 @@
       ]
     },
     {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "published": "2026-11-25T14:29:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-      "published": "2026-11-25T14:24:04Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "published": "2026-11-25T14:18:45Z",
       "tags": [
         "macro"
-      ]
-    },
-    {
-      "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "published": "2026-11-25T14:17:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US GDP 2nd Estimate for the 3rd quarter 4.3% vs 3.5 estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-gdp-2nd-estimate-for-the-3rd-quarter-3-5-vs-3-5-estimate/",
-      "published": "2026-11-25T13:30:42Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US Initial jobless claims 189K vs 200K estimate. Continuing claim 1.697M vs 1.721M estimate",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-initial-jobless-claims-200k-vs-200k-estimate-continuing-claim-1-721m-vs-1-721m-estimate/",
-      "published": "2026-11-25T13:30:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US October PCE core inflation +0.3% m/m vs +0.3% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-pce-core-inflation-m-m-vs-0-3-expected/",
-      "published": "2026-11-25T13:30:17Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "US October durable goods orders +0.2% vs +0.6% expected",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-october-durable-goods-orders-0-2-vs-0-6-expected/",
-      "published": "2026-11-25T13:30:08Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump\u2019s meddling in Huang scandal reignites voter angst over tech\u2019s outsized political power",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "published": "2026-11-25T13:20:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US tariff details are better than the worst-case scenario implied yesterday",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-tariff-details-are-better-than-the-worst-case-scenario-implied-yesterday/",
-      "published": "2026-11-25T13:19:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-equities-and-tech-selloff-deepens-gold-threatens-3-500/",
-      "published": "2026-11-25T12:43:36Z",
-      "tags": [
-        "commodities",
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "published": "2026-11-25T12:26:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Ukraine tells Putin to \u2018stop complaining\u2019 over oil refinery attacks as Russia promises retaliation",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-      "published": "2026-11-25T09:18:37Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "France November consumer confidence improves slightly but economic worries persist",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/france-november-consumer-confidence-improves-slightly-but-economic-worries-persist/",
-      "published": "2026-11-25T07:47:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-93/",
-      "published": "2026-11-25T07:39:45Z",
-      "tags": [
-        "wire"
       ]
     }
   ]
