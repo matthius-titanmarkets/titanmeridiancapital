@@ -1,13 +1,185 @@
 {
-  "generated_at": "2026-11-26T01:53:23.703553Z",
+  "generated_at": "2026-11-26T10:28:15.575055Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "published": "2026-11-26T10:11:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published": "2026-11-26T10:02:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "published": "2026-11-26T09:51:40Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "published": "2026-11-26T01:52:20Z",
+      "published": "2026-11-26T09:02:30Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+      "published": "2026-11-26T08:59:11Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "China hits back at Trump\u2019s latest tariff threat as trade war tensions resurface",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
+      "published": "2026-11-26T08:01:57Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Taking on Starlink: Europe\u2019s largest satellite factory opens in push to rival Musk",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+      "published": "2026-11-26T07:45:05Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "published": "2026-11-26T07:30:11Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-94/",
+      "published": "2026-11-26T07:29:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here\u2019s where they\u2019re investing",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "published": "2026-11-26T07:23:42Z",
+      "tags": [
+        "fx",
+        "equities"
+      ]
+    },
+    {
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "published": "2026-11-26T07:16:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "German consumer confidence remains in the doldrums heading into December",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/german-consumer-confidence-remains-in-the-doldrums-heading-into-december/",
+      "published": "2026-11-26T07:01:25Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "published": "2026-11-26T06:39:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "published": "2026-11-26T05:50:34Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "published": "2026-11-26T05:36:01Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
+      "published": "2026-11-26T05:11:12Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Heads up: Thanksgiving holiday leaves dip buyers in limbo",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/heads-up-thanksgiving-holiday-leaves-dip-buyers-in-limbo/",
+      "published": "2026-11-26T05:01:31Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Hedge funds are no longer just for the rich. They\u2019re wooing everyday investors",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "published": "2026-11-26T04:20:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "published": "2026-11-26T04:12:18Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "published": "2026-11-26T04:00:15Z",
       "tags": [
         "wire"
       ]
@@ -16,18 +188,45 @@
       "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "published": "2026-11-26T01:50:21Z",
+      "published": "2026-11-26T03:32:53Z",
       "tags": [
         "wire"
       ]
     },
     {
-      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "published": "2026-11-26T01:34:58Z",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "published": "2026-11-26T03:19:44Z",
       "tags": [
-        "macro"
+        "equities"
+      ]
+    },
+    {
+      "title": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "published": "2026-11-26T03:13:43Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "published": "2026-11-26T03:09:47Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-26T02:35:39Z",
+      "tags": [
+        "wire"
       ]
     },
     {
@@ -35,15 +234,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "published": "2026-11-26T01:15:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Hedge funds are no longer just for the rich. They\u2019re coming for everyday investors",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-      "published": "2026-11-26T01:10:58Z",
       "tags": [
         "wire"
       ]
@@ -148,15 +338,6 @@
       ]
     },
     {
-      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-      "published": "2026-11-25T21:50:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Americas FX news wrap 25 Nov: It\u2019s a Wrap. S&P 500 and Nasdaq pare steep losses",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
@@ -164,33 +345,6 @@
       "tags": [
         "fx",
         "equities"
-      ]
-    },
-    {
-      "title": "HP\u2019s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "published": "2026-11-25T21:36:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-      "published": "2026-11-25T21:26:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "published": "2026-11-25T21:02:05Z",
-      "tags": [
-        "macro"
       ]
     },
     {
@@ -209,159 +363,6 @@
       "published": "2026-11-25T20:00:00Z",
       "tags": [
         "fx"
-      ]
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "published": "2026-11-25T20:00:00Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "We're buying more of a stock down big from its July highs",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
-      "published": "2026-11-25T19:55:18Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "published": "2026-11-25T19:52:47Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "published": "2026-11-25T19:11:53Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Trump blames the election for the selloff. Here\u2019s what I\u2019m watching.",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/trump-blames-the-election-for-the-selloff-here-s-what-i-m-watching/",
-      "published": "2026-11-25T17:46:49Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kalshi traders say state data center moratoriums are more likely than not",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-      "published": "2026-11-25T17:36:54Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-      "published": "2026-11-25T17:28:24Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-      "published": "2026-11-25T17:08:03Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
-      "published": "2026-11-25T16:54:10Z",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "published": "2026-11-25T16:17:13Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
-      "published": "2026-11-25T16:05:25Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "published": "2026-11-25T16:02:52Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "published": "2026-11-25T16:00:45Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "October new home sales 701k vs 650k",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/october-new-home-sales-701k-vs-650k/",
-      "published": "2026-11-25T15:07:41Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-      "published": "2026-11-25T15:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "published": "2026-11-25T14:29:50Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "published": "2026-11-25T14:18:45Z",
-      "tags": [
-        "macro"
       ]
     }
   ]
