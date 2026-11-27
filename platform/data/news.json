@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-11-26T19:45:49.173830Z",
+  "generated_at": "2026-11-27T02:38:56.512023Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-26T19:00:00Z",
+      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "published": "2026-11-27T02:04:09Z",
       "tags": [
-        "equities"
+        "wire"
       ]
     },
     {
-      "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "published": "2026-11-26T18:44:15Z",
+      "title": "China's industrial profits growth speeds up to 20.1% y/y in October",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
+      "published": "2026-11-27T01:36:10Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
+      "published": "2026-11-27T01:24:33Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-27T01:15:00Z",
       "tags": [
         "wire"
       ]
@@ -25,9 +43,81 @@
       "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "2026-11-26T18:30:00Z",
+      "published": "2026-11-27T01:00:00Z",
       "tags": [
         "wire"
+      ]
+    },
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "published": "2026-11-27T00:31:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Sovereign wealth funds are acting more like private equity giants \u2014 and inheriting their risks",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "published": "2026-11-27T00:22:29Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
+      "published": "2026-11-26T23:30:53Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "2026-11-26T22:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "2026-11-26T21:45:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
+      "published": "2026-11-26T21:32:46Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-26T21:13:17Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-26T19:00:00Z",
+      "tags": [
+        "equities"
       ]
     },
     {
@@ -49,10 +139,10 @@
       ]
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-26T16:30:00Z",
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "published": "2026-11-26T17:04:54Z",
       "tags": [
         "wire"
       ]
@@ -67,19 +157,19 @@
       ]
     },
     {
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "published": "2026-11-26T16:00:01Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
       "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "published": "2026-11-26T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "2026-11-26T15:30:00Z",
       "tags": [
         "wire"
       ]
@@ -121,28 +211,10 @@
       ]
     },
     {
-      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "published": "2026-11-26T13:41:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "What is \u2018texture-maxxing\u2019? The food trend putting crunch on the menu",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
       "published": "2026-11-26T13:34:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "published": "2026-11-26T13:24:00Z",
       "tags": [
         "wire"
       ]
@@ -173,15 +245,6 @@
       "published": "2026-11-26T12:46:55Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "published": "2026-11-26T12:22:25Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -276,15 +339,6 @@
       ]
     },
     {
-      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "published": "2026-11-26T05:50:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
@@ -307,60 +361,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
       "published": "2026-11-26T04:12:18Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
-      "published": "2026-11-26T04:00:15Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "published": "2026-11-26T03:19:44Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-      "published": "2026-11-26T03:13:43Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
-      "published": "2026-11-26T03:09:47Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
-      "published": "2026-11-26T00:41:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Inside India newsletter: Roaring economy, foreign investors\u2019 return and now record auto sales",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-      "published": "2026-11-26T00:12:16Z",
       "tags": [
         "wire"
       ]
