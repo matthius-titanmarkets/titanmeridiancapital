@@ -1,13 +1,230 @@
 {
-  "generated_at": "2026-11-27T02:38:56.512023Z",
+  "generated_at": "2026-11-27T11:46:05.282709Z",
   "mode": "live",
   "errors": [],
   "items": [
     {
-      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "published": "2026-11-27T11:27:20Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-27T11:15:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "published": "2026-11-27T11:00:01Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Stocks are poised for a Friday jump \u2014 right into a $100 billion wave of automated selling, Goldman Sachs warns",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+      "published": "2026-11-27T10:54:00Z",
+      "tags": [
+        "commodities",
+        "equities"
+      ]
+    },
+    {
+      "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+      "published": "2026-11-27T10:49:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "This investment strategist is 100% in cash \u2014 and warns that buying the Nasdaq dip is like catching a falling knife",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+      "published": "2026-11-27T10:37:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "The AI stock crash is mostly over, JPMorgan says \u2014 but a worse phase could be coming in 2027",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+      "published": "2026-11-27T10:32:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "published": "2026-11-27T10:20:39Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "published": "2026-11-27T10:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+      "published": "2026-11-27T09:59:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Germany unemployment rises more than expected in November as labour market struggles persist",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
+      "published": "2026-11-27T08:55:12Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+      "published": "2026-11-27T08:05:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Spanish inflation comes off the boil in November, offering some respite for the ECB",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/spanish-inflation-comes-off-the-boil-in-november-offering-some-respite-for-the-ecb/",
+      "published": "2026-11-27T08:00:19Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "France inflation undershoots estimates in November as energy and services price pressures ease",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/france-inflation-undershoots-estimates-in-november-as-energy-and-services-price-pressures-ease/",
+      "published": "2026-11-27T07:45:33Z",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "France Q3 GDP revised lower as economic woes deepen",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/france-q3-gdp-revised-lower-as-economic-woes-deepen/",
+      "published": "2026-11-27T07:45:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "What are the main events for today?",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-95/",
+      "published": "2026-11-27T07:34:09Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/us-reportedly-urged-venezuela-iraq-to-consider-quitting-opec-earlier-this-year/",
+      "published": "2026-11-27T07:18:53Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "published": "2026-11-27T07:15:44Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "published": "2026-11-27T06:50:38Z",
+      "tags": [
+        "fx"
+      ]
+    },
+    {
+      "title": "China\u2019s factories are growing profits again, but the AI boom is picking the winners",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "published": "2026-11-27T02:04:09Z",
+      "published": "2026-11-27T06:09:51Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+      "published": "2026-11-27T05:46:04Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Is the stock market open on Black Friday?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+      "published": "2026-11-27T05:01:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
+      "published": "2026-11-27T04:45:15Z",
+      "tags": [
+        "commodities"
+      ]
+    },
+    {
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "published": "2026-11-27T03:30:23Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "China's industrial profits jump 20.1% in October as electronics do the heavy lifting",
+      "source": "ForexLive",
+      "url": "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/",
+      "published": "2026-11-27T02:51:29Z",
       "tags": [
         "wire"
       ]
@@ -26,15 +243,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
       "published": "2026-11-27T01:24:33Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-27T01:15:00Z",
       "tags": [
         "wire"
       ]
@@ -76,24 +284,6 @@
       ]
     },
     {
-      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "2026-11-26T22:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "2026-11-26T21:45:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
       "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
       "source": "ForexLive",
       "url": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
@@ -109,15 +299,6 @@
       "published": "2026-11-26T21:13:17Z",
       "tags": [
         "wire"
-      ]
-    },
-    {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-26T19:00:00Z",
-      "tags": [
-        "equities"
       ]
     },
     {
@@ -166,48 +347,12 @@
       ]
     },
     {
-      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "2026-11-26T16:00:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+      "title": "The great aluminum squeeze: London supply crunch deepens as warehouse stocks slide",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "published": "2026-11-26T15:28:26Z",
+      "url": "https://www.cnbc.com/2026/11/26/lme-aluminum-squeeze-supply.html",
+      "published": "2026-11-26T14:09:10Z",
       "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "published": "2026-11-26T15:13:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "published": "2026-11-26T14:35:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-      "published": "2026-11-26T14:00:00Z",
-      "tags": [
-        "wire"
+        "equities"
       ]
     },
     {
@@ -215,152 +360,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
       "published": "2026-11-26T13:34:51Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html",
-      "published": "2026-11-26T13:00:01Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
-      "published": "2026-11-26T12:51:11Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "published": "2026-11-26T12:46:55Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
-      "published": "2026-11-26T11:17:39Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "published": "2026-11-26T09:02:30Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
-      "published": "2026-11-26T08:59:11Z",
-      "tags": [
-        "commodities"
-      ]
-    },
-    {
-      "title": "China hits back at Trump\u2019s latest tariff threat as trade war tensions resurface",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
-      "published": "2026-11-26T08:01:57Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Taking on Starlink: Europe\u2019s largest satellite factory opens in push to rival Musk",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
-      "published": "2026-11-26T07:45:05Z",
-      "tags": [
-        "fx"
-      ]
-    },
-    {
-      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-      "published": "2026-11-26T07:30:11Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "What are the main events for today?",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/what-are-the-main-events-for-today-94/",
-      "published": "2026-11-26T07:29:44Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here\u2019s where they\u2019re investing",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
-      "published": "2026-11-26T07:23:42Z",
-      "tags": [
-        "fx",
-        "equities"
-      ]
-    },
-    {
-      "title": "German consumer confidence remains in the doldrums heading into December",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/german-consumer-confidence-remains-in-the-doldrums-heading-into-december/",
-      "published": "2026-11-26T07:01:25Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "published": "2026-11-26T06:39:34Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
-      "published": "2026-11-26T05:11:12Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
-      "title": "Heads up: Thanksgiving holiday leaves dip buyers in limbo",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/heads-up-thanksgiving-holiday-leaves-dip-buyers-in-limbo/",
-      "published": "2026-11-26T05:01:31Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-      "published": "2026-11-26T04:12:18Z",
       "tags": [
         "wire"
       ]
