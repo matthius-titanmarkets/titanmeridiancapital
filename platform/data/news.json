@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-27T20:41:34.505264Z",
+  "generated_at": "2026-11-28T03:05:05.717852Z",
   "mode": "live",
   "errors": [],
   "items": [
+    {
+      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "2026-11-28T00:00:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-27T23:30:00Z",
+      "tags": [
+        "wire"
+      ]
+    },
+    {
+      "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "published": "2026-11-27T23:15:00Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "published": "2026-11-27T22:00:57Z",
+      "tags": [
+        "macro"
+      ]
+    },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
       "source": "MarketWatch",
@@ -58,28 +94,10 @@
       ]
     },
     {
-      "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "published": "2026-11-27T17:31:00Z",
-      "tags": [
-        "equities"
-      ]
-    },
-    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
       "published": "2026-11-27T17:04:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
-      "published": "2026-11-27T16:43:14Z",
       "tags": [
         "wire"
       ]
@@ -134,24 +152,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "published": "2026-11-27T15:30:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "My friends play \u2018credit-card roulette\u2019 to see who pays for dinner \u2014 but one \u2018winner\u2019 still Venmoed me afterward. Should I say something?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
-      "published": "2026-11-27T15:04:00Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-      "published": "2026-11-27T15:01:00Z",
       "tags": [
         "wire"
       ]
@@ -235,6 +235,15 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
       "published": "2026-11-27T12:00:22Z",
+      "tags": [
+        "equities"
+      ]
+    },
+    {
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "published": "2026-11-27T10:13:44Z",
       "tags": [
         "equities"
       ]
@@ -352,15 +361,6 @@
       "source": "ForexLive",
       "url": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
       "published": "2026-11-27T01:36:10Z",
-      "tags": [
-        "wire"
-      ]
-    },
-    {
-      "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
-      "source": "ForexLive",
-      "url": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
-      "published": "2026-11-27T01:24:33Z",
       "tags": [
         "wire"
       ]
